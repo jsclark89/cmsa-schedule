@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { href } from '../lib/router.js'
 import { nextGame, fmtDate, fmtTime, relDay, opponentOf, fieldOnly } from '../lib/data.js'
+import Bring from './Bring.jsx'
 
 export default function Home({ season, favs }) {
   const [q, setQ] = useState('')
@@ -103,6 +104,7 @@ function NextLine({ g, teamId, season }) {
         {opp.home ? 'vs' : 'at'} {opp.name} <span className={`pill ${opp.home ? 'home' : 'away'}`}>{opp.home ? 'Home' : 'Away'}</span>
       </div>
       <div className="muted small">{venue?.name}{fieldOnly(g, venue) ? ` · ${fieldOnly(g, venue)}` : ''}</div>
+      <div><Bring venue={venue} field={g.field} /></div>
     </div>
   )
 }

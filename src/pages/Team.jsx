@@ -4,6 +4,7 @@ import { favourites, nextGame, isPast, fmtDate, fmtTime, relDay, opponentOf, fie
 import { buildIcs, gameToEvent } from '../lib/ics.js'
 import GameRow from './GameRow.jsx'
 import VenueNote from './VenueNote.jsx'
+import Bring from './Bring.jsx'
 
 export default function Team({ season, favs, team }) {
   const games = season.byTeam[team.id] || []
@@ -100,6 +101,7 @@ function Hero({ g, team, season }) {
         <div className="hero-venue">
           <div><a href={href('venue', venue.id)}><b>{venue.name}</b></a>{field ? <span> · {field}</span> : null}</div>
           {venue.address ? <div className="muted">{venue.address}</div> : null}
+          <div className="bringrow"><Bring venue={venue} field={g.field} big /></div>
           <VenueNote venue={venue} field={g.field} />
         </div>
       ) : (

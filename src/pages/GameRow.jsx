@@ -1,5 +1,6 @@
 import { href } from '../lib/router.js'
 import { fmtTime, fmtDate, isPast, fieldOnly } from '../lib/data.js'
+import Bring from './Bring.jsx'
 
 /**
  * One compact game line. `perspective` is a team id: the row then reads as
@@ -45,6 +46,7 @@ export default function GameRow({ game: g, season, perspective, showDate, showDi
         <div className="row-where">
           {venue ? <a href={href('venue', venue.id)}>{venue.name}</a> : g.field || 'Venue TBA'}
           {field ? <span className="muted"> · {field}</span> : null}
+          {' '}<Bring venue={venue} field={g.field} />
           {showDivision && season.divisions[g.divisionId] ? (
             <span className="muted"> · <a href={href('division', g.divisionId)}>{season.divisions[g.divisionId].name}</a></span>
           ) : null}

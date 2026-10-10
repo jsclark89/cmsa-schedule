@@ -28,8 +28,7 @@ export function noteFor(venue, field) {
  * Structured reading of a note: what to wear, what the surface is, anything else.
  * footwear is a short label ("Runners" or "Cleats") when the note is unambiguous.
  */
-export function footwearFor(venue, field) {
-  const note = noteFor(venue, field)
+export function parseNote(note, venue) {
   if (!note) return null
   const parts = note.split('|').map((s) => s.trim()).filter(Boolean)
   const name = (venue?.name || '').toLowerCase()
@@ -52,8 +51,24 @@ export function footwearFor(venue, field) {
       out.other.push(p)
     }
   }
+  return out
+}
+
+export function footwearFor(venue, field) {
+  const note = noteFor(venue, field)
+  if (!note) return null
+  const out = parseNote(note, venue)
   if (note.includes(' / ')) out.footwear = null // ambiguous: several areas, none matched
   return out
+}
+
+/** Every area of a venue with what to wear there, for the venue page. */
+export function areasFor(venue) {
+  return (venue?.notes || []).map((n) => {
+    const p = parseNote(n, venue)
+    const area = p.other.find((o) => /:/.test(o))?.split(':')[0] || p.other[0] || null
+    return { ...p, area }
+  })
 }
 
 /** "Runners (flat-sole shoes)" or "Cleats": the label plus any detail that adds something. */

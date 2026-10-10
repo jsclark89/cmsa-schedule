@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { href } from '../lib/router.js'
 import { fmtDate, relDay, isPast, groupBy } from '../lib/data.js'
 import GameRow from './GameRow.jsx'
+import { areasFor } from '../lib/venueNote.js'
 
 export default function Venue({ season, favs, venue }) {
   const games = season.byVenue[venue.id] || []
@@ -16,9 +17,17 @@ export default function Venue({ season, favs, venue }) {
         {venue.address ? <div>{venue.address}</div> : <div className="muted">No address on the league site.</div>}
         {venue.notes?.length ? (
           <ul className="notes">
-            {venue.notes.map((n, i) => <li key={i}>👟 {n}</li>)}
+            {areasFor(venue).map((a, i) => (
+              <li key={i}>
+                {a.footwear ? <span className={`bring ${a.footwear === 'Runners' ? 'runners' : 'cleats'}`}>{a.footwear === 'Runners' ? '👟' : '⚽'} {a.footwear}</span> : null}
+                {a.area ? <b> {a.area}</b> : null}
+                <span className="muted"> {[a.footwear ? null : a.footwearDetail, a.surface, ...a.other.filter((o) => !a.area || !o.startsWith(a.area))].filter(Boolean).join(' · ')}</span>
+              </li>
+            ))}
           </ul>
-        ) : null}
+        ) : (
+          <p className="muted small">The league lists no footwear or surface notes for this venue.</p>
+        )}
         <div className="actions">
           {venue.mapsUrl ? <a className="btn primary" href={venue.mapsUrl} target="_blank" rel="noopener">Directions</a> : null}
         </div>
