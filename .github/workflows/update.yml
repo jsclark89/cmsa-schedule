@@ -31,6 +31,8 @@ jobs:
       - run: npm ci
       - name: Scrape the league site
         run: npm run scrape
+        env:
+          SITE_URL: https://jsclark89.github.io/cmsa-schedule/
       - name: Commit refreshed data
         run: |
           git config user.name "schedule-bot"
