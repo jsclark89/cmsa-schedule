@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chinooks FC Selects 2017 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707393@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T090000
+DTEND;TZID=America/Edmonton:20261018T100000
+SUMMARY:⚽ Chinooks FC Selects 2017 at Foothills Roma 2017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #140\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707396@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T130000
+DTEND;TZID=America/Edmonton:20261025T140000
+SUMMARY:⚽ Chinooks FC Selects 2017 at Spartans Atromitos 17 (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #143\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Indoor Se
+ ason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sh
+ oes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707410@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T170000
+DTEND;TZID=America/Edmonton:20261101T180000
+SUMMARY:⚽ Chinooks FC Selects 2017 vs CNS U10B Phantoms 17 C (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #157\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707415@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T090000
+DTEND;TZID=America/Edmonton:20261115T100000
+SUMMARY:⚽ Chinooks FC Selects 2017 vs OUSC Okotoks United B17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #162\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707424@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T090000
+DTEND;TZID=America/Edmonton:20261122T100000
+SUMMARY:⚽ Chinooks FC Selects 2017 at RANGERS FC17 NAVY (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #171\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707434@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T110000
+DTEND;TZID=America/Edmonton:20261129T120000
+SUMMARY:⚽ Chinooks FC Selects 2017 vs Spartans Ares 17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #181\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707439@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T120000
+DTEND;TZID=America/Edmonton:20261206T130000
+SUMMARY:⚽ Chinooks FC Selects 2017 at SWU Milan 17B (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #186\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707447@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T100000
+DTEND;TZID=America/Edmonton:20261213T110000
+SUMMARY:⚽ Chinooks FC Selects 2017 at Villains Pacers 17 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #194\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707454@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T101500
+DTEND;TZID=America/Edmonton:20270103T111500
+SUMMARY:⚽ Chinooks FC Selects 2017 vs CNEU Skyview 2017 Lions (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #201\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707465@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T091500
+DTEND;TZID=America/Edmonton:20270110T101500
+SUMMARY:⚽ Chinooks FC Selects 2017 vs Foothills Milan 2017 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #212\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707474@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T100000
+DTEND;TZID=America/Edmonton:20270124T110000
+SUMMARY:⚽ Chinooks FC Selects 2017 at Blizzard United 17 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #221\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707481@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T090000
+DTEND;TZID=America/Edmonton:20270131T100000
+SUMMARY:⚽ Chinooks FC Selects 2017 vs Airdrie F.C. Inter 17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #228\nBoys U10 Dev Plus+ BADWAL\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707490@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T110000
+DTEND;TZID=America/Edmonton:20270207T120000
+SUMMARY:⚽ Chinooks FC Selects 2017 at New Frontier SC 2017 Boys (Marra) 
+ (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #237\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707496@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T090000
+DTEND;TZID=America/Edmonton:20270221T100000
+SUMMARY:⚽ Chinooks FC Selects 2017 vs Rockies Albion 17 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #243\nBoys U10 Dev Plus+ BADWAL\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

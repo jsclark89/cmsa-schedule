@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spartans Aphrodite 18/17 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707716@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T150000
+DTEND;TZID=America/Edmonton:20261025T160000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs Villains Strikers 17 (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3991\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707722@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T160000
+DTEND;TZID=America/Edmonton:20261101T170000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs Blizzard United 17 Girls (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #3997\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707727@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T090000
+DTEND;TZID=America/Edmonton:20261108T100000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at MUSC Mavericks 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4002\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707731@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T080000
+DTEND;TZID=America/Edmonton:20261115T090000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs EMFC Spirit 17 (home)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4006\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707737@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T100000
+DTEND;TZID=America/Edmonton:20261129T110000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at CNEU 2017 Sting (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4012\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707742@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T090000
+DTEND;TZID=America/Edmonton:20261206T100000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs Foothills Tides 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4017\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707748@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T110000
+DTEND;TZID=America/Edmonton:20261220T120000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at OUSC United G16 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4023\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707751@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T080000
+DTEND;TZID=America/Edmonton:20270103T090000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at CUFC Queens 2017/18 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4026\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707757@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T140000
+DTEND;TZID=America/Edmonton:20270110T150000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs Foothills Courage 2017 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4032\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707763@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T120000
+DTEND;TZID=America/Edmonton:20270117T130000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at Villains Strikers 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4038\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707770@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T100000
+DTEND;TZID=America/Edmonton:20270124T110000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at Blizzard United 17 Girls (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4045\nGirls U10 Dev Plus+ LARISEY\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707775@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T120000
+DTEND;TZID=America/Edmonton:20270207T130000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs MUSC Mavericks 17 (home)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4050\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707777@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T150000
+DTEND;TZID=America/Edmonton:20270221T160000
+SUMMARY:⚽ Spartans Aphrodite 18/17 at EMFC Spirit 17 (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4052\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707782@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T160000
+DTEND;TZID=America/Edmonton:20270228T170000
+SUMMARY:⚽ Spartans Aphrodite 18/17 vs CNEU 2017 Sting (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4057\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CWFC B2011 Green (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711533@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T103000
+DTEND;TZID=America/Edmonton:20261017T113000
+SUMMARY:⚽ CWFC B2011 Green at Foothills 2011 Boys (away)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #3389\nBoys U16 Tier 2\nVenue notes: Foothills Macron -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711552@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T141500
+DTEND;TZID=America/Edmonton:20261031T151500
+SUMMARY:⚽ CWFC B2011 Green vs Rockies Albion 11 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3398\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711565@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T204500
+DTEND;TZID=America/Edmonton:20261107T214500
+SUMMARY:⚽ CWFC B2011 Green at Spartans Titans 11 (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3401\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711578@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T163000
+DTEND;TZID=America/Edmonton:20261114T173000
+SUMMARY:⚽ CWFC B2011 Green vs Blizzard Alliance 11 Boys (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3409\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711592@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T153000
+DTEND;TZID=America/Edmonton:20261121T163000
+SUMMARY:⚽ CWFC B2011 Green vs SWU Premiers 11B (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3416\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711605@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T204500
+DTEND;TZID=America/Edmonton:20261128T214500
+SUMMARY:⚽ CWFC B2011 Green at RANGERS ATHLETICS 11 (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3423\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711616@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T204500
+DTEND;TZID=America/Edmonton:20261205T214500
+SUMMARY:⚽ CWFC B2011 Green vs CNS U16B Cyclones 11 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3428\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711623@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T131500
+DTEND;TZID=America/Edmonton:20261219T141500
+SUMMARY:⚽ CWFC B2011 Green at Foothills 2011 Prospects Boys (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3432\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711635@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T091500
+DTEND;TZID=America/Edmonton:20270102T101500
+SUMMARY:⚽ CWFC B2011 Green at MUSC White 11 (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #3438\nBoys U16 Tier 2\nVenue notes: Foothills Macron -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711651@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T144500
+DTEND;TZID=America/Edmonton:20270116T154500
+SUMMARY:⚽ CWFC B2011 Green vs Chinooks FC Premiers 2011 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3446\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711664@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270122T183000
+DTEND;TZID=America/Edmonton:20270122T193000
+SUMMARY:⚽ CWFC B2011 Green at Blizzard United 11 Boys (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3452\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711678@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270203T180000
+DTEND;TZID=America/Edmonton:20270203T190000
+SUMMARY:⚽ CWFC B2011 Green vs Foothills 2011 Boys (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3459\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711688@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T123000
+DTEND;TZID=America/Edmonton:20270220T133000
+SUMMARY:⚽ CWFC B2011 Green at Rockies Albion 11 (away)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3464\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711701@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T191500
+DTEND;TZID=America/Edmonton:20270227T201500
+SUMMARY:⚽ CWFC B2011 Green vs Spartans Titans 11 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3472\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EMFC Tornado (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711937@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261015T191500
+DTEND;TZID=America/Edmonton:20261015T201500
+SUMMARY:⚽ EMFC Tornado vs CNEU Flash (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5037\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711938@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T080000
+DTEND;TZID=America/Edmonton:20261101T090000
+SUMMARY:⚽ EMFC Tornado at SSA Sage 13 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #5038\nGirls U15 Tier 4\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711947@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T080000
+DTEND;TZID=America/Edmonton:20261115T090000
+SUMMARY:⚽ EMFC Tornado vs Blizzard Athletic 12/13 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5042\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711957@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T091500
+DTEND;TZID=America/Edmonton:20261122T101500
+SUMMARY:⚽ EMFC Tornado at Foothills Cheetahs 2013 (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5047\nGirls U15 Tier 4\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711970@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T164500
+DTEND;TZID=America/Edmonton:20261129T174500
+SUMMARY:⚽ EMFC Tornado vs SWU Selects White 13/14 G (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5053\nGirls U15 Tier 4\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711976@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T091500
+DTEND;TZID=America/Edmonton:20261206T101500
+SUMMARY:⚽ EMFC Tornado vs Villains Fever 12/13 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5055\nGirls U15 Tier 4\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711994@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T203000
+DTEND;TZID=America/Edmonton:20261220T213000
+SUMMARY:⚽ EMFC Tornado at Rockies Rise 12 (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #5061\nGirls U15 Tier 4\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712001@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270107T191500
+DTEND;TZID=America/Edmonton:20270107T201500
+SUMMARY:⚽ EMFC Tornado at CNEU Flash (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5063\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712008@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270115T180000
+DTEND;TZID=America/Edmonton:20270115T190000
+SUMMARY:⚽ EMFC Tornado vs SSA Sage 13 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5066\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712021@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270121T180000
+DTEND;TZID=America/Edmonton:20270121T190000
+SUMMARY:⚽ EMFC Tornado at Blizzard Athletic 12/13 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5070\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712033@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T081500
+DTEND;TZID=America/Edmonton:20270131T091500
+SUMMARY:⚽ EMFC Tornado vs Foothills Cheetahs 2013 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5074\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712059@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T103000
+DTEND;TZID=America/Edmonton:20270207T113000
+SUMMARY:⚽ EMFC Tornado at SWU Selects White 13/14 G (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5080\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712066@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T083000
+DTEND;TZID=America/Edmonton:20270221T093000
+SUMMARY:⚽ EMFC Tornado at Villains Fever 12/13 (away)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #5082\nGirls U15 Tier 4\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712089@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T081500
+DTEND;TZID=America/Edmonton:20270228T091500
+SUMMARY:⚽ EMFC Tornado vs Rockies Rise 12 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5086\nGirls U15 Tier 4\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+END:VCALENDAR

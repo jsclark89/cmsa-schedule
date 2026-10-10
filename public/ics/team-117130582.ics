@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SWU Nantes 16B (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11701807@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T140000
+DTEND;TZID=America/Edmonton:20261018T150000
+SUMMARY:⚽ SWU Nantes 16B vs Foothills Forest 2016 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #626\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701814@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T160000
+DTEND;TZID=America/Edmonton:20261025T170000
+SUMMARY:⚽ SWU Nantes 16B vs MUSC Forge 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #633\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701817@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T101500
+DTEND;TZID=America/Edmonton:20261108T111500
+SUMMARY:⚽ SWU Nantes 16B at Foothills Norwich 2016 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #636\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701820@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T110000
+DTEND;TZID=America/Edmonton:20261115T120000
+SUMMARY:⚽ SWU Nantes 16B vs MUSC Valor 16 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #639\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701825@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T080000
+DTEND;TZID=America/Edmonton:20261122T090000
+SUMMARY:⚽ SWU Nantes 16B at RWFC Royal West FC Shakhtar 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #644\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701832@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T130000
+DTEND;TZID=America/Edmonton:20261129T140000
+SUMMARY:⚽ SWU Nantes 16B vs SSA Strikers 16/17 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #651\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701839@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T160000
+DTEND;TZID=America/Edmonton:20261206T170000
+SUMMARY:⚽ SWU Nantes 16B at SWU Olympique 16B (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #658\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701845@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T080000
+DTEND;TZID=America/Edmonton:20261220T090000
+SUMMARY:⚽ SWU Nantes 16B vs Villains Storm 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #664\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701851@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T140000
+DTEND;TZID=America/Edmonton:20270103T150000
+SUMMARY:⚽ SWU Nantes 16B at LSCA B Chelsea (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #670\nBoys U11 Dev MILLER\nVenue notes: Indoor Season G
+ enesis — Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701855@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T110000
+DTEND;TZID=America/Edmonton:20270110T120000
+SUMMARY:⚽ SWU Nantes 16B at MUSC Forge 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #674\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701863@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T150000
+DTEND;TZID=America/Edmonton:20270124T160000
+SUMMARY:⚽ SWU Nantes 16B vs Foothills Norwich 2016 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #682\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701866@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T120000
+DTEND;TZID=America/Edmonton:20270131T130000
+SUMMARY:⚽ SWU Nantes 16B vs SWU Reims 16B (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #685\nBoys U11 Dev MILLER\nVenue notes: Villains Dome -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701872@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T100000
+DTEND;TZID=America/Edmonton:20270207T110000
+SUMMARY:⚽ SWU Nantes 16B at MUSC Valor 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #691\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701877@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T140000
+DTEND;TZID=America/Edmonton:20270221T150000
+SUMMARY:⚽ SWU Nantes 16B at Foothills Forest 2016 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #696\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+END:VCALENDAR

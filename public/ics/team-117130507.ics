@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills Benfica 2017 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707274@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T101500
+DTEND;TZID=America/Edmonton:20261017T111500
+SUMMARY:⚽ Foothills Benfica 2017 at RANGERS FC17 YELLOW (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #357\nBoys U10 Dev Plus+ KERR\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707277@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T080000
+DTEND;TZID=America/Edmonton:20261024T090000
+SUMMARY:⚽ Foothills Benfica 2017 vs Rockies AFC 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #360\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707286@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T160000
+DTEND;TZID=America/Edmonton:20261107T170000
+SUMMARY:⚽ Foothills Benfica 2017 at Villains FC 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #369\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707305@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T130000
+DTEND;TZID=America/Edmonton:20261121T140000
+SUMMARY:⚽ Foothills Benfica 2017 vs Airdrie F.C. Atletico 17 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #388\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707310@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T090000
+DTEND;TZID=America/Edmonton:20261128T100000
+SUMMARY:⚽ Foothills Benfica 2017 at EMFC Galaxy 17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #393\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707321@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T100000
+DTEND;TZID=America/Edmonton:20261205T110000
+SUMMARY:⚽ Foothills Benfica 2017 vs MUSC Wolves 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #404\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707325@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T120000
+DTEND;TZID=America/Edmonton:20261219T130000
+SUMMARY:⚽ Foothills Benfica 2017 vs Chinooks FC Premiers 2017 (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #408\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707332@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T140000
+DTEND;TZID=America/Edmonton:20270102T150000
+SUMMARY:⚽ Foothills Benfica 2017 at CNEU 2017 Strikers (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #415\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707342@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T110000
+DTEND;TZID=America/Edmonton:20270109T120000
+SUMMARY:⚽ Foothills Benfica 2017 vs CalGlen Cavalry 17 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #425\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707355@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T120000
+DTEND;TZID=America/Edmonton:20270123T130000
+SUMMARY:⚽ Foothills Benfica 2017 at CUFC Avengers 2017/18 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #438\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707357@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T090000
+DTEND;TZID=America/Edmonton:20270130T100000
+SUMMARY:⚽ Foothills Benfica 2017 vs Villains Raptors 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #440\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707371@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T160000
+DTEND;TZID=America/Edmonton:20270206T170000
+SUMMARY:⚽ Foothills Benfica 2017 at Blizzard Alliance 17 Boys (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #454\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707376@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T120000
+DTEND;TZID=America/Edmonton:20270220T130000
+SUMMARY:⚽ Foothills Benfica 2017 vs SWU Juventus 17B (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #459\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707382@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T100000
+DTEND;TZID=America/Edmonton:20270227T110000
+SUMMARY:⚽ Foothills Benfica 2017 at New Frontier SC 2017 Boys (Good) (aw
+ ay)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #465\nBoys U10 Dev Plus+ KERR\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

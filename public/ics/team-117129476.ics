@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SWU Deportivo 14 B (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709355@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T133000
+DTEND;TZID=America/Edmonton:20261025T143000
+SUMMARY:⚽ SWU Deportivo 14 B vs OUSC United B14 (home)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1794\nBoys U13 Tier 1\nVenue notes: Foothills Macron -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709369@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T114500
+DTEND;TZID=America/Edmonton:20261101T124500
+SUMMARY:⚽ SWU Deportivo 14 B at S4 Athletic City 14 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1808\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709377@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T143000
+DTEND;TZID=America/Edmonton:20261108T153000
+SUMMARY:⚽ SWU Deportivo 14 B vs Chinooks FC United 2014 (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1812\nBoys U13 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709380@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T080000
+DTEND;TZID=America/Edmonton:20261115T090000
+SUMMARY:⚽ SWU Deportivo 14 B at MUSC Blues 14 Boys (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1819\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709387@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T080000
+DTEND;TZID=America/Edmonton:20261122T090000
+SUMMARY:⚽ SWU Deportivo 14 B vs Foothills FC 2014 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1826\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709395@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T091500
+DTEND;TZID=America/Edmonton:20261129T101500
+SUMMARY:⚽ SWU Deportivo 14 B at Foothills 2014 Boys (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1834\nBoys U13 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709409@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T131500
+DTEND;TZID=America/Edmonton:20261213T141500
+SUMMARY:⚽ SWU Deportivo 14 B vs RANGERS FC14 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1846\nBoys U13 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709412@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T090000
+DTEND;TZID=America/Edmonton:20261220T100000
+SUMMARY:⚽ SWU Deportivo 14 B at CNEU 2014 Arrows (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1851\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709421@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T114500
+DTEND;TZID=America/Edmonton:20270103T124500
+SUMMARY:⚽ SWU Deportivo 14 B vs New Frontier SC 2014 Boys (McDonnell) (h
+ ome)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1860\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709433@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T180000
+DTEND;TZID=America/Edmonton:20270110T190000
+SUMMARY:⚽ SWU Deportivo 14 B at Blizzard Olympic 14 Boys (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1872\nBoys U13 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709440@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T134500
+DTEND;TZID=America/Edmonton:20270124T144500
+SUMMARY:⚽ SWU Deportivo 14 B at Rockies AFC 14 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1879\nBoys U13 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709444@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T103000
+DTEND;TZID=America/Edmonton:20270131T113000
+SUMMARY:⚽ SWU Deportivo 14 B vs CWFC B2014 Black (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1883\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709451@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T093000
+DTEND;TZID=America/Edmonton:20270207T103000
+SUMMARY:⚽ SWU Deportivo 14 B at Villains Force 14 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1890\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709461@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T143000
+DTEND;TZID=America/Edmonton:20270228T153000
+SUMMARY:⚽ SWU Deportivo 14 B vs CUFC Knights 14 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1900\nBoys U13 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+END:VCALENDAR

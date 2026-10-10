@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CWFC B2017 Green (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707199@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T090000
+DTEND;TZID=America/Edmonton:20261025T100000
+SUMMARY:⚽ CWFC B2017 Green at Blizzard Wanderers 17 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #65\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707205@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T100000
+DTEND;TZID=America/Edmonton:20261101T110000
+SUMMARY:⚽ CWFC B2017 Green vs Blizzard Sporting 17 Boys (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #71\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707212@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T120000
+DTEND;TZID=America/Edmonton:20261108T130000
+SUMMARY:⚽ CWFC B2017 Green at Blizzard Albion 17 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #78\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707216@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T111500
+DTEND;TZID=America/Edmonton:20261122T121500
+SUMMARY:⚽ CWFC B2017 Green vs CNS U10B Phoenix 17 Dev (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #82\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707222@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T121500
+DTEND;TZID=America/Edmonton:20261129T131500
+SUMMARY:⚽ CWFC B2017 Green at WHU West Hills Ferraris 17 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #88\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707225@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T100000
+DTEND;TZID=America/Edmonton:20261206T110000
+SUMMARY:⚽ CWFC B2017 Green vs Rockies Villareal 17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #91\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707228@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T081500
+DTEND;TZID=America/Edmonton:20261213T091500
+SUMMARY:⚽ CWFC B2017 Green at Rockies Vigo 17 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #94\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707235@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T100000
+DTEND;TZID=America/Edmonton:20261220T110000
+SUMMARY:⚽ CWFC B2017 Green vs RANGERS SPORTIF 17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #101\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707239@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T090000
+DTEND;TZID=America/Edmonton:20270103T100000
+SUMMARY:⚽ CWFC B2017 Green at Blizzard Rovers 17 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #105\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707245@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T101500
+DTEND;TZID=America/Edmonton:20270117T111500
+SUMMARY:⚽ CWFC B2017 Green vs Blizzard Wanderers 17 Boys (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #111\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707252@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T121500
+DTEND;TZID=America/Edmonton:20270124T131500
+SUMMARY:⚽ CWFC B2017 Green at Blizzard Sporting 17 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #118\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707256@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T111500
+DTEND;TZID=America/Edmonton:20270207T121500
+SUMMARY:⚽ CWFC B2017 Green vs Blizzard Albion 17 Boys (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #122\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707262@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T121500
+DTEND;TZID=America/Edmonton:20270221T131500
+SUMMARY:⚽ CWFC B2017 Green at CNS U10B Phoenix 17 Dev (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #128\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707266@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T111500
+DTEND;TZID=America/Edmonton:20270228T121500
+SUMMARY:⚽ CWFC B2017 Green vs WHU West Hills Ferraris 17 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #132\nBoys U10 Dev JEBBISON\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

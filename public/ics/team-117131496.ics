@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills FC 2010 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711005@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261029T180000
+DTEND;TZID=America/Edmonton:20261029T190000
+SUMMARY:⚽ Foothills FC 2010 at CWFC B2010 Black (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3595\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711007@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261105T191500
+DTEND;TZID=America/Edmonton:20261105T201500
+SUMMARY:⚽ Foothills FC 2010 vs Spartans Argonauts (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3597\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711015@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261112T191500
+DTEND;TZID=America/Edmonton:20261112T201500
+SUMMARY:⚽ Foothills FC 2010 at Rockies AFC 10 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3605\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711018@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261119T191500
+DTEND;TZID=America/Edmonton:20261119T201500
+SUMMARY:⚽ Foothills FC 2010 vs MUSC Blues 10 Boys (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3608\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711030@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261202T191500
+DTEND;TZID=America/Edmonton:20261202T201500
+SUMMARY:⚽ Foothills FC 2010 at Villains Real 10/11 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3620\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711035@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261210T191500
+DTEND;TZID=America/Edmonton:20261210T201500
+SUMMARY:⚽ Foothills FC 2010 vs WHU West Hills Tornadoes 10 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3625\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711038@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261217T191500
+DTEND;TZID=America/Edmonton:20261217T201500
+SUMMARY:⚽ Foothills FC 2010 at Blizzard SC 10 Boys (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3628\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711042@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270107T180000
+DTEND;TZID=America/Edmonton:20270107T190000
+SUMMARY:⚽ Foothills FC 2010 vs SWU FC 10 BOYS (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3632\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711048@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270114T180000
+DTEND;TZID=America/Edmonton:20270114T190000
+SUMMARY:⚽ Foothills FC 2010 at WHU West Hills Hurricanes 10 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3638\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711056@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270121T194500
+DTEND;TZID=America/Edmonton:20270121T204500
+SUMMARY:⚽ Foothills FC 2010 at Spartans Argonauts (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3644\nBoys U17 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711059@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T194500
+DTEND;TZID=America/Edmonton:20270131T204500
+SUMMARY:⚽ Foothills FC 2010 vs Rockies AFC 10 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3647\nBoys U17 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711064@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270211T180000
+DTEND;TZID=America/Edmonton:20270211T190000
+SUMMARY:⚽ Foothills FC 2010 vs New Frontier SC 2010 Boys (Clubb) (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3654\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711067@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270218T180000
+DTEND;TZID=America/Edmonton:20270218T190000
+SUMMARY:⚽ Foothills FC 2010 at MUSC Blues 10 Boys (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3657\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711073@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270225T191500
+DTEND;TZID=America/Edmonton:20270225T201500
+SUMMARY:⚽ Foothills FC 2010 vs CWFC B2010 Black (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3663\nBoys U17 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Villains Lions 15 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708540@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T100000
+DTEND;TZID=America/Edmonton:20261018T110000
+SUMMARY:⚽ Villains Lions 15 at Foothills Prospects 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1284\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708559@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T080000
+DTEND;TZID=America/Edmonton:20261025T090000
+SUMMARY:⚽ Villains Lions 15 vs CalGlen Tornado 15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1294\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708581@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T113000
+DTEND;TZID=America/Edmonton:20261108T123000
+SUMMARY:⚽ Villains Lions 15 at NCFC 15 Wanderers (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1305\nBoys U12 City Wide Tier 2\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708596@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T110000
+DTEND;TZID=America/Edmonton:20261115T120000
+SUMMARY:⚽ Villains Lions 15 vs CWFC B2015 Green (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1312\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708617@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T100000
+DTEND;TZID=America/Edmonton:20261129T110000
+SUMMARY:⚽ Villains Lions 15 at SWU Velez 15B (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1322\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708626@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T080000
+DTEND;TZID=America/Edmonton:20261206T090000
+SUMMARY:⚽ Villains Lions 15 vs RANGERS FC15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1327\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708648@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T130000
+DTEND;TZID=America/Edmonton:20261213T140000
+SUMMARY:⚽ Villains Lions 15 at Chinooks FC Selects 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1337\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708671@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T090000
+DTEND;TZID=America/Edmonton:20261220T100000
+SUMMARY:⚽ Villains Lions 15 at Airdrie F.C. City 15 (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1352\nBoys U12 City Wide Tier 2\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708687@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T173000
+DTEND;TZID=America/Edmonton:20270109T183000
+SUMMARY:⚽ Villains Lions 15 vs Spartans Stars 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1360\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708701@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T113000
+DTEND;TZID=America/Edmonton:20270123T123000
+SUMMARY:⚽ Villains Lions 15 vs MUSC Valencia 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1366\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708732@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T144500
+DTEND;TZID=America/Edmonton:20270130T154500
+SUMMARY:⚽ Villains Lions 15 at New Frontier SC 2015 Boys (Valstar) (away
+ )
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1380\nBoys U12 City Wide Tier 2\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708736@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T163000
+DTEND;TZID=America/Edmonton:20270206T173000
+SUMMARY:⚽ Villains Lions 15 vs CUFC Wolfpack 15 (home)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1382\nBoys U12 City Wide Tier 2\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708756@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T090000
+DTEND;TZID=America/Edmonton:20270220T100000
+SUMMARY:⚽ Villains Lions 15 at Blizzard Alliance 15 Boys (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1398\nBoys U12 City Wide Tier 2\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708762@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T160000
+DTEND;TZID=America/Edmonton:20270227T170000
+SUMMARY:⚽ Villains Lions 15 vs Rockies AFC 15 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1404\nBoys U12 City Wide Tier 2\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+END:VCALENDAR

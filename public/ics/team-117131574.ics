@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CNEU 2009 Hurricane (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711192@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261015T180000
+DTEND;TZID=America/Edmonton:20261015T190000
+SUMMARY:⚽ CNEU 2009 Hurricane vs Airdrie F.C. Union 09/10 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3865\nBoys U19 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711225@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261022T201500
+DTEND;TZID=America/Edmonton:20261022T211500
+SUMMARY:⚽ CNEU 2009 Hurricane at RANGERS ATHLETICS 08/09 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3870\nBoys U19 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711249@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261029T201500
+DTEND;TZID=America/Edmonton:20261029T211500
+SUMMARY:⚽ CNEU 2009 Hurricane vs CWFC B2009/2008 Green (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3876\nBoys U19 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711257@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261105T201500
+DTEND;TZID=America/Edmonton:20261105T211500
+SUMMARY:⚽ CNEU 2009 Hurricane at Blizzard United 08/09 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3878\nBoys U19 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711266@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261112T190000
+DTEND;TZID=America/Edmonton:20261112T200000
+SUMMARY:⚽ CNEU 2009 Hurricane vs Foothills FC 2009 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3881\nBoys U19 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711293@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261124T204500
+DTEND;TZID=America/Edmonton:20261124T214500
+SUMMARY:⚽ CNEU 2009 Hurricane vs RANGERS FC09 (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3888\nBoys U19 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711298@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261201T204500
+DTEND;TZID=America/Edmonton:20261201T214500
+SUMMARY:⚽ CNEU 2009 Hurricane at CalGlen Crusaders 09 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3890\nBoys U19 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711308@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261217T204500
+DTEND;TZID=America/Edmonton:20261217T214500
+SUMMARY:⚽ CNEU 2009 Hurricane vs RWFC Royal West United 08 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3898\nBoys U19 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711314@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270108T204500
+DTEND;TZID=America/Edmonton:20270108T214500
+SUMMARY:⚽ CNEU 2009 Hurricane at Airdrie F.C. Union 09/10 (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3904\nBoys U19 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711316@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T120000
+DTEND;TZID=America/Edmonton:20270116T130000
+SUMMARY:⚽ CNEU 2009 Hurricane vs RANGERS ATHLETICS 08/09 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3906\nBoys U19 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711321@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270121T201500
+DTEND;TZID=America/Edmonton:20270121T211500
+SUMMARY:⚽ CNEU 2009 Hurricane at CWFC B2009/2008 Green (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3912\nBoys U19 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711323@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270128T180000
+DTEND;TZID=America/Edmonton:20270128T190000
+SUMMARY:⚽ CNEU 2009 Hurricane vs Blizzard United 08/09 Boys (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3913\nBoys U19 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711327@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270204T194500
+DTEND;TZID=America/Edmonton:20270204T204500
+SUMMARY:⚽ CNEU 2009 Hurricane at Foothills FC 2009 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3917\nBoys U19 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711338@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T080000
+DTEND;TZID=America/Edmonton:20270227T090000
+SUMMARY:⚽ CNEU 2009 Hurricane at RWFC Royal West United 08 (away)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #3925\nBoys U19 Tier 2\nVenue notes: Foothills Macron -
+  | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

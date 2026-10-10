@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MUSC Stars 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708362@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T160000
+DTEND;TZID=America/Edmonton:20261017T170000
+SUMMARY:⚽ MUSC Stars 16 vs NCFC 16 Crew (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4161\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708365@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T160000
+DTEND;TZID=America/Edmonton:20261024T170000
+SUMMARY:⚽ MUSC Stars 16 at Foothills WFC White 2016 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4164\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708370@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T140000
+DTEND;TZID=America/Edmonton:20261107T150000
+SUMMARY:⚽ MUSC Stars 16 vs Villains Courage 16 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4169\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708372@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T130000
+DTEND;TZID=America/Edmonton:20261114T140000
+SUMMARY:⚽ MUSC Stars 16 at Blizzard Alliance 16 Girls (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4171\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708377@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T130000
+DTEND;TZID=America/Edmonton:20261122T140000
+SUMMARY:⚽ MUSC Stars 16 vs CNS U11G Panthers 16 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4176\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708378@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T130000
+DTEND;TZID=America/Edmonton:20261128T140000
+SUMMARY:⚽ MUSC Stars 16 vs Rockies Energie 16 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4177\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708381@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T173000
+DTEND;TZID=America/Edmonton:20261205T183000
+SUMMARY:⚽ MUSC Stars 16 at NCFC 16 Crew (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4180\nGirls U11 Dev Plus+ FLEMING\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708384@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T130000
+DTEND;TZID=America/Edmonton:20261213T140000
+SUMMARY:⚽ MUSC Stars 16 vs Foothills WFC White 2016 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4183\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708397@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T110000
+DTEND;TZID=America/Edmonton:20270109T120000
+SUMMARY:⚽ MUSC Stars 16 at Villains Courage 16 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4190\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708400@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T160000
+DTEND;TZID=America/Edmonton:20270117T170000
+SUMMARY:⚽ MUSC Stars 16 vs Blizzard Alliance 16 Girls (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4192\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708409@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T090000
+DTEND;TZID=America/Edmonton:20270123T100000
+SUMMARY:⚽ MUSC Stars 16 at CNS U11G Panthers 16 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4196\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708417@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T130000
+DTEND;TZID=America/Edmonton:20270130T140000
+SUMMARY:⚽ MUSC Stars 16 at Rockies Energie 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4200\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708420@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T130000
+DTEND;TZID=America/Edmonton:20270206T140000
+SUMMARY:⚽ MUSC Stars 16 vs NCFC 16 Crew (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4202\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708423@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T150000
+DTEND;TZID=America/Edmonton:20270220T160000
+SUMMARY:⚽ MUSC Stars 16 at Foothills WFC White 2016 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4204\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+END:VCALENDAR

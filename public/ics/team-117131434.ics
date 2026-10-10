@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard United 11 Boys (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711545@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T204500
+DTEND;TZID=America/Edmonton:20261017T214500
+SUMMARY:⚽ Blizzard United 11 Boys vs SWU Premiers 11B (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3394\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711550@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T130000
+DTEND;TZID=America/Edmonton:20261031T140000
+SUMMARY:⚽ Blizzard United 11 Boys at RANGERS ATHLETICS 11 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3397\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711563@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T201500
+DTEND;TZID=America/Edmonton:20261107T211500
+SUMMARY:⚽ Blizzard United 11 Boys vs CNS U16B Cyclones 11 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3406\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711575@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T091500
+DTEND;TZID=America/Edmonton:20261114T101500
+SUMMARY:⚽ Blizzard United 11 Boys at Foothills 2011 Prospects Boys (away
+ )
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3408\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711596@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T201500
+DTEND;TZID=America/Edmonton:20261121T211500
+SUMMARY:⚽ Blizzard United 11 Boys vs MUSC White 11 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3418\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711607@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T204500
+DTEND;TZID=America/Edmonton:20261128T214500
+SUMMARY:⚽ Blizzard United 11 Boys at Chinooks FC Premiers 2011 (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3424\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711618@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T193000
+DTEND;TZID=America/Edmonton:20261205T203000
+SUMMARY:⚽ Blizzard United 11 Boys at Blizzard Alliance 11 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3429\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711632@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T203000
+DTEND;TZID=America/Edmonton:20261219T213000
+SUMMARY:⚽ Blizzard United 11 Boys vs Foothills 2011 Boys (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #3436\nBoys U16 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711644@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T080000
+DTEND;TZID=America/Edmonton:20270102T090000
+SUMMARY:⚽ Blizzard United 11 Boys at Rockies Albion 11 (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3442\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711656@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T171500
+DTEND;TZID=America/Edmonton:20270116T181500
+SUMMARY:⚽ Blizzard United 11 Boys vs Spartans Titans 11 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3448\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711664@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270122T183000
+DTEND;TZID=America/Edmonton:20270122T193000
+SUMMARY:⚽ Blizzard United 11 Boys vs CWFC B2011 Green (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3452\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711676@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270203T191500
+DTEND;TZID=America/Edmonton:20270203T201500
+SUMMARY:⚽ Blizzard United 11 Boys at SWU Premiers 11B (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #3458\nBoys U16 Tier 2\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711691@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T150000
+DTEND;TZID=America/Edmonton:20270220T160000
+SUMMARY:⚽ Blizzard United 11 Boys vs RANGERS ATHLETICS 11 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3466\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711696@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T194500
+DTEND;TZID=America/Edmonton:20270227T204500
+SUMMARY:⚽ Blizzard United 11 Boys at CNS U16B Cyclones 11 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #3468\nBoys U16 Tier 2\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

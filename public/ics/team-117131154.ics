@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rockies Albion 13 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709950@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T131500
+DTEND;TZID=America/Edmonton:20261101T141500
+SUMMARY:⚽ Rockies Albion 13 vs MUSC Prospects 13 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2405\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709972@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T130000
+DTEND;TZID=America/Edmonton:20261108T140000
+SUMMARY:⚽ Rockies Albion 13 at LSCA B City 2013 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2411\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709984@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T164500
+DTEND;TZID=America/Edmonton:20261115T174500
+SUMMARY:⚽ Rockies Albion 13 vs SWU SC 13 B (home)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2423\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709989@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T114500
+DTEND;TZID=America/Edmonton:20261122T124500
+SUMMARY:⚽ Rockies Albion 13 at RANGERS FC13 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #2428\nBoys U14 Tier 1\nVenue notes: Foothills Macron -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709999@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T143000
+DTEND;TZID=America/Edmonton:20261129T153000
+SUMMARY:⚽ Rockies Albion 13 vs Villains Blue 13 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2438\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710010@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T193000
+DTEND;TZID=America/Edmonton:20261206T203000
+SUMMARY:⚽ Rockies Albion 13 vs New Frontier SC 2014 Boys (Quinton) (home
+ )
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2449\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710014@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T193000
+DTEND;TZID=America/Edmonton:20261213T203000
+SUMMARY:⚽ Rockies Albion 13 at S4 Athletic City 13 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2453\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710033@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T210000
+DTEND;TZID=America/Edmonton:20270103T220000
+SUMMARY:⚽ Rockies Albion 13 at Blizzard SC 13 Boys (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2466\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710048@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T080000
+DTEND;TZID=America/Edmonton:20270110T090000
+SUMMARY:⚽ Rockies Albion 13 vs Blizzard SC 14 Boys (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2474\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710056@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T114500
+DTEND;TZID=America/Edmonton:20270117T124500
+SUMMARY:⚽ Rockies Albion 13 at Chinooks FC United 2013 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2478\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710075@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T080000
+DTEND;TZID=America/Edmonton:20270124T090000
+SUMMARY:⚽ Rockies Albion 13 at Airdrie F.C. Crew 14 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2487\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710092@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T144500
+DTEND;TZID=America/Edmonton:20270207T154500
+SUMMARY:⚽ Rockies Albion 13 vs Villains Dynamo 14 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2498\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710113@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T144500
+DTEND;TZID=America/Edmonton:20270221T154500
+SUMMARY:⚽ Rockies Albion 13 vs CWFC B2013 Black (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2506\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710115@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T081500
+DTEND;TZID=America/Edmonton:20270228T091500
+SUMMARY:⚽ Rockies Albion 13 at Foothills FC 2013 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2507\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+END:VCALENDAR

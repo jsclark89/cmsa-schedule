@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard Athletic 15 Girls (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709246@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T130000
+DTEND;TZID=America/Edmonton:20261018T140000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs CUFC Storm 2015/16 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4488\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709252@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T074500
+DTEND;TZID=America/Edmonton:20261025T084500
+SUMMARY:⚽ Blizzard Athletic 15 Girls at Foothills Stars 2015 (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4490\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709258@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T140000
+DTEND;TZID=America/Edmonton:20261101T150000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs Villains Lynx 15 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4492\nGirls U12 City Wide Tier 4\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709268@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T123000
+DTEND;TZID=America/Edmonton:20261108T133000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs SWU Rapid 15G (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4495\nGirls U12 City Wide Tier 4\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709279@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T130000
+DTEND;TZID=America/Edmonton:20261122T140000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at CUFC Storm 2015/16 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4498\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709291@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs Foothills Stars 2015 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4501\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709299@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T130000
+DTEND;TZID=America/Edmonton:20261206T140000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at Villains Lynx 15 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4503\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709307@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T150000
+DTEND;TZID=America/Edmonton:20261213T160000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at SWU Rapid 15G (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4505\nGirls U12 City Wide Tier 4\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709319@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T103000
+DTEND;TZID=America/Edmonton:20270102T113000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs CUFC Storm 2015/16 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4508\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709330@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T131500
+DTEND;TZID=America/Edmonton:20270109T141500
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs Foothills Stars 2015 (home)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4511\nGirls U12 City Wide Tier 4\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709338@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T113000
+DTEND;TZID=America/Edmonton:20270116T123000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at Villains Lynx 15 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4513\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709346@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T140000
+DTEND;TZID=America/Edmonton:20270123T150000
+SUMMARY:⚽ Blizzard Athletic 15 Girls vs SWU Rapid 15G (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4515\nGirls U12 City Wide Tier 4\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709349@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T113000
+DTEND;TZID=America/Edmonton:20270206T123000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at CUFC Storm 2015/16 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4518\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709352@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T123000
+DTEND;TZID=America/Edmonton:20270220T133000
+SUMMARY:⚽ Blizzard Athletic 15 Girls at Foothills Stars 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4521\nGirls U12 City Wide Tier 4\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

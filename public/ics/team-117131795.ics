@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Frontier SC 2010 Girls (Deen) (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11712029@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261019T191500
+DTEND;TZID=America/Edmonton:20261019T201500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs Blizzard Alliance 08/09 G
+ irls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5212\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712057@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261026T203000
+DTEND;TZID=America/Edmonton:20261026T213000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at Airdrie F.C. Spirit 09 (a
+ way)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5217\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712088@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261102T180000
+DTEND;TZID=America/Edmonton:20261102T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs Foothills 2011 Girls (hom
+ e)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5223\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712134@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261109T180000
+DTEND;TZID=America/Edmonton:20261109T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at Villains Thorns 10/11 (aw
+ ay)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5231\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712157@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261123T180000
+DTEND;TZID=America/Edmonton:20261123T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at Foothills Ravens (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5235\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712199@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261207T180000
+DTEND;TZID=America/Edmonton:20261207T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs RANGERS WFC 09 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5249\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712214@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261214T191500
+DTEND;TZID=America/Edmonton:20261214T201500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at Blizzard Alliance 10 Girl
+ s (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5254\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712228@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270104T180000
+DTEND;TZID=America/Edmonton:20270104T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs NCFC 09 Mustangs (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5259\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712263@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270118T194500
+DTEND;TZID=America/Edmonton:20270118T204500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at WHU West Hills Wolves 09 
+ (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5273\nGirls U17/U19 Tier 2\nVenue notes: Shouldice- re
+ gular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712269@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270125T194500
+DTEND;TZID=America/Edmonton:20270125T204500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at Blizzard Alliance 08/09 G
+ irls (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5279\nGirls U17/U19 Tier 2\nVenue notes: Shouldice- re
+ gular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712276@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270201T204500
+DTEND;TZID=America/Edmonton:20270201T214500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs Airdrie F.C. Spirit 09 (h
+ ome)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #5286\nGirls U17/U19 Tier 2\nVenue notes: Shouldice- re
+ gular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712281@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270208T180000
+DTEND;TZID=America/Edmonton:20270208T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs Spartans Olympias (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5291\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712283@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270222T191500
+DTEND;TZID=America/Edmonton:20270222T201500
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) at MUSC Selects 10 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5293\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712289@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270301T180000
+DTEND;TZID=America/Edmonton:20270301T190000
+SUMMARY:⚽ New Frontier SC 2010 Girls (Deen) vs RANGERS WFC 10 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5299\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+END:VCALENDAR

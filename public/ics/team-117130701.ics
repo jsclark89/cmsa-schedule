@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rockies AFC 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708146@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T090000
+DTEND;TZID=America/Edmonton:20261017T100000
+SUMMARY:⚽ Rockies AFC 16 vs Foothills FC Green 2016 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1047\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708149@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T080000
+DTEND;TZID=America/Edmonton:20261024T090000
+SUMMARY:⚽ Rockies AFC 16 at New Frontier SC 2016 Boys (Petros) (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1050\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708153@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T164500
+DTEND;TZID=America/Edmonton:20261031T174500
+SUMMARY:⚽ Rockies AFC 16 vs Villains Jaguars 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1054\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708156@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T120000
+DTEND;TZID=America/Edmonton:20261108T130000
+SUMMARY:⚽ Rockies AFC 16 at SWU Monaco 16B (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1057\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708162@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T160000
+DTEND;TZID=America/Edmonton:20261114T170000
+SUMMARY:⚽ Rockies AFC 16 vs Blizzard SC 16 Boys (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1063\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708163@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T164500
+DTEND;TZID=America/Edmonton:20261121T174500
+SUMMARY:⚽ Rockies AFC 16 at Rockies Celtic 16 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1064\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708168@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T170000
+DTEND;TZID=America/Edmonton:20261205T180000
+SUMMARY:⚽ Rockies AFC 16 vs RANGERS FC16 BLUE (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1069\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708172@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T110000
+DTEND;TZID=America/Edmonton:20261219T120000
+SUMMARY:⚽ Rockies AFC 16 at Foothills FC Green 2016 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1073\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708175@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T090000
+DTEND;TZID=America/Edmonton:20270109T100000
+SUMMARY:⚽ Rockies AFC 16 vs New Frontier SC 2016 Boys (Petros) (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #1076\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708182@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T110000
+DTEND;TZID=America/Edmonton:20270116T120000
+SUMMARY:⚽ Rockies AFC 16 at Villains Jaguars 16 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1083\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708185@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T091500
+DTEND;TZID=America/Edmonton:20270124T101500
+SUMMARY:⚽ Rockies AFC 16 vs SWU Monaco 16B (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1086\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708188@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T150000
+DTEND;TZID=America/Edmonton:20270130T160000
+SUMMARY:⚽ Rockies AFC 16 at Blizzard SC 16 Boys (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1089\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708193@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T100000
+DTEND;TZID=America/Edmonton:20270220T110000
+SUMMARY:⚽ Rockies AFC 16 vs Rockies Celtic 16 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1094\nBoys U11 Dev Plus+ SALIBA\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708197@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T090000
+DTEND;TZID=America/Edmonton:20270227T100000
+SUMMARY:⚽ Rockies AFC 16 at RANGERS FC16 BLUE (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1098\nBoys U11 Dev Plus+ SALIBA\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

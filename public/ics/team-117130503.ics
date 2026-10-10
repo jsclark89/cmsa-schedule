@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills Lazio (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707271@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T150000
+DTEND;TZID=America/Edmonton:20261017T160000
+SUMMARY:⚽ Foothills Lazio at CNEU 2017 Strikers (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #354\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707279@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T100000
+DTEND;TZID=America/Edmonton:20261024T110000
+SUMMARY:⚽ Foothills Lazio vs EMFC Galaxy 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #362\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707289@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T090000
+DTEND;TZID=America/Edmonton:20261107T100000
+SUMMARY:⚽ Foothills Lazio at CUFC Avengers 2017/18 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #372\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707293@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T140000
+DTEND;TZID=America/Edmonton:20261114T150000
+SUMMARY:⚽ Foothills Lazio at Villains Raptors 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #376\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707303@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T110000
+DTEND;TZID=America/Edmonton:20261121T120000
+SUMMARY:⚽ Foothills Lazio vs Blizzard Alliance 17 Boys (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #386\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707311@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T100000
+DTEND;TZID=America/Edmonton:20261128T110000
+SUMMARY:⚽ Foothills Lazio vs SWU Juventus 17B (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #394\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707319@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T080000
+DTEND;TZID=America/Edmonton:20261205T090000
+SUMMARY:⚽ Foothills Lazio at Foothills PSG 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #402\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707326@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T130000
+DTEND;TZID=America/Edmonton:20261219T140000
+SUMMARY:⚽ Foothills Lazio vs New Frontier SC 2017 Boys (Good) (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #409\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707339@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T100000
+DTEND;TZID=America/Edmonton:20270102T110000
+SUMMARY:⚽ Foothills Lazio at Chinooks FC Premiers 2017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #422\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707343@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T120000
+DTEND;TZID=America/Edmonton:20270109T130000
+SUMMARY:⚽ Foothills Lazio vs RANGERS FC17 YELLOW (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #426\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707349@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T100000
+DTEND;TZID=America/Edmonton:20270123T110000
+SUMMARY:⚽ Foothills Lazio vs Rockies AFC 17 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #432\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707361@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T130000
+DTEND;TZID=America/Edmonton:20270130T140000
+SUMMARY:⚽ Foothills Lazio at Villains FC 17 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #444\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707372@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T100000
+DTEND;TZID=America/Edmonton:20270220T110000
+SUMMARY:⚽ Foothills Lazio at Airdrie F.C. Atletico 17 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #455\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707386@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T120000
+DTEND;TZID=America/Edmonton:20270227T130000
+SUMMARY:⚽ Foothills Lazio vs MUSC Wolves 17 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #469\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

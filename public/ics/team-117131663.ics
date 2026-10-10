@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills WFC 2012 Girls (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711705@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T114500
+DTEND;TZID=America/Edmonton:20261017T124500
+SUMMARY:⚽ Foothills WFC 2012 Girls vs Rockies Energie 12 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4743\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711708@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T161500
+DTEND;TZID=America/Edmonton:20261024T171500
+SUMMARY:⚽ Foothills WFC 2012 Girls vs Villains Blue 13G (home)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4746\nGirls U15 Tier 1\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711716@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T190000
+DTEND;TZID=America/Edmonton:20261107T200000
+SUMMARY:⚽ Foothills WFC 2012 Girls at New Frontier SC 2012 Girls (Fernan
+ des) (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4754\nGirls U15 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711720@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T081500
+DTEND;TZID=America/Edmonton:20261121T091500
+SUMMARY:⚽ Foothills WFC 2012 Girls vs Foothills WFC 2014 Green Girls (ho
+ me)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4758\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711727@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261203T180000
+DTEND;TZID=America/Edmonton:20261203T190000
+SUMMARY:⚽ Foothills WFC 2012 Girls at Blizzard SC 12/13 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4764\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711744@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T193000
+DTEND;TZID=America/Edmonton:20261212T203000
+SUMMARY:⚽ Foothills WFC 2012 Girls vs CalGlen Wild 12/13 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4770\nGirls U15 Tier 1\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711753@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T180000
+DTEND;TZID=America/Edmonton:20261219T190000
+SUMMARY:⚽ Foothills WFC 2012 Girls at RANGERS WFC 12/13 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4781\nGirls U15 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711760@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T153000
+DTEND;TZID=America/Edmonton:20270102T163000
+SUMMARY:⚽ Foothills WFC 2012 Girls at Villains Royals 12 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4782\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711775@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T081500
+DTEND;TZID=America/Edmonton:20270116T091500
+SUMMARY:⚽ Foothills WFC 2012 Girls vs Chinooks WFC United 2013 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4788\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711804@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270128T180000
+DTEND;TZID=America/Edmonton:20270128T190000
+SUMMARY:⚽ Foothills WFC 2012 Girls at New Frontier SC 2013 Girls (Neil) 
+ (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4798\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711815@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T110000
+DTEND;TZID=America/Edmonton:20270206T120000
+SUMMARY:⚽ Foothills WFC 2012 Girls vs WHU West Hills Sparks 12 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4802\nGirls U15 Tier 1\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711830@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270211T201500
+DTEND;TZID=America/Edmonton:20270211T211500
+SUMMARY:⚽ Foothills WFC 2012 Girls at Rockies Energie 12 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4811\nGirls U15 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711835@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T130000
+DTEND;TZID=America/Edmonton:20270227T140000
+SUMMARY:⚽ Foothills WFC 2012 Girls at Villains Blue 13G (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4812\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711848@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270304T180000
+DTEND;TZID=America/Edmonton:20270304T190000
+SUMMARY:⚽ Foothills WFC 2012 Girls vs New Frontier SC 2012 Girls (Fernan
+ des) (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4819\nGirls U15 Tier 1\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+END:VCALENDAR

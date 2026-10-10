@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MUSC Wolves 17 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707273@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T091500
+DTEND;TZID=America/Edmonton:20261017T101500
+SUMMARY:⚽ MUSC Wolves 17 at Rockies AFC 17 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #356\nBoys U10 Dev Plus+ KERR\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707280@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T110000
+DTEND;TZID=America/Edmonton:20261024T120000
+SUMMARY:⚽ MUSC Wolves 17 vs Villains FC 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #363\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707292@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T100000
+DTEND;TZID=America/Edmonton:20261114T110000
+SUMMARY:⚽ MUSC Wolves 17 at Airdrie F.C. Atletico 17 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #375\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707300@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T080000
+DTEND;TZID=America/Edmonton:20261121T090000
+SUMMARY:⚽ MUSC Wolves 17 vs EMFC Galaxy 17 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #383\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707309@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T080000
+DTEND;TZID=America/Edmonton:20261128T090000
+SUMMARY:⚽ MUSC Wolves 17 vs RANGERS FC17 YELLOW (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #392\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707321@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T100000
+DTEND;TZID=America/Edmonton:20261205T110000
+SUMMARY:⚽ MUSC Wolves 17 at Foothills Benfica 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #404\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707329@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T110000
+DTEND;TZID=America/Edmonton:20261219T120000
+SUMMARY:⚽ MUSC Wolves 17 vs CNEU 2017 Strikers (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #412\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707335@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T140000
+DTEND;TZID=America/Edmonton:20270102T150000
+SUMMARY:⚽ MUSC Wolves 17 at CalGlen Cavalry 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #418\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707347@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T110000
+DTEND;TZID=America/Edmonton:20270109T120000
+SUMMARY:⚽ MUSC Wolves 17 vs CUFC Avengers 2017/18 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #430\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707350@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T110000
+DTEND;TZID=America/Edmonton:20270123T120000
+SUMMARY:⚽ MUSC Wolves 17 at Villains Raptors 17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #433\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707360@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T120000
+DTEND;TZID=America/Edmonton:20270130T130000
+SUMMARY:⚽ MUSC Wolves 17 vs Blizzard Alliance 17 Boys (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #443\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707366@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T130000
+DTEND;TZID=America/Edmonton:20270206T140000
+SUMMARY:⚽ MUSC Wolves 17 at SWU Juventus 17B (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #449\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707379@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T150000
+DTEND;TZID=America/Edmonton:20270220T160000
+SUMMARY:⚽ MUSC Wolves 17 vs Foothills PSG 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #462\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707386@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T120000
+DTEND;TZID=America/Edmonton:20270227T130000
+SUMMARY:⚽ MUSC Wolves 17 at Foothills Lazio (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #469\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

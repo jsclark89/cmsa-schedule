@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CalGlen Lightning 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707974@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T100000
+DTEND;TZID=America/Edmonton:20261017T110000
+SUMMARY:⚽ CalGlen Lightning 16 vs Rockies Albion 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #882\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707977@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T130000
+DTEND;TZID=America/Edmonton:20261024T140000
+SUMMARY:⚽ CalGlen Lightning 16 at Villains Ravens 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #885\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707990@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T160000
+DTEND;TZID=America/Edmonton:20261107T170000
+SUMMARY:⚽ CalGlen Lightning 16 vs Spartans Adamastos 16 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #898\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707994@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T090000
+DTEND;TZID=America/Edmonton:20261114T100000
+SUMMARY:⚽ CalGlen Lightning 16 vs WHU West Hills Mustangs 16 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #902\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708001@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T140000
+DTEND;TZID=America/Edmonton:20261121T150000
+SUMMARY:⚽ CalGlen Lightning 16 at SWU Lyon 16B (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #909\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708011@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T090000
+DTEND;TZID=America/Edmonton:20261128T100000
+SUMMARY:⚽ CalGlen Lightning 16 vs Airdrie F.C. Wanderers 16 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #919\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708023@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T130000
+DTEND;TZID=America/Edmonton:20261213T140000
+SUMMARY:⚽ CalGlen Lightning 16 at Villains Crew 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #931\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708028@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T090000
+DTEND;TZID=America/Edmonton:20261219T100000
+SUMMARY:⚽ CalGlen Lightning 16 vs Chinooks FC Premiers 2016 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #936\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708038@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T150000
+DTEND;TZID=America/Edmonton:20270102T160000
+SUMMARY:⚽ CalGlen Lightning 16 at CCFC Calgary City FC Cavalry 2016 (awa
+ y)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #946\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708047@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T150000
+DTEND;TZID=America/Edmonton:20270116T160000
+SUMMARY:⚽ CalGlen Lightning 16 vs NCFC 16 Sounders (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #955\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708050@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T150000
+DTEND;TZID=America/Edmonton:20270123T160000
+SUMMARY:⚽ CalGlen Lightning 16 at Foothills Union 2016 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #958\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708056@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T080000
+DTEND;TZID=America/Edmonton:20270206T090000
+SUMMARY:⚽ CalGlen Lightning 16 at Blizzard Albion 16 Boys (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #964\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708069@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T130000
+DTEND;TZID=America/Edmonton:20270220T140000
+SUMMARY:⚽ CalGlen Lightning 16 vs EMFC Crew 16 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #977\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708078@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T110000
+DTEND;TZID=America/Edmonton:20270227T120000
+SUMMARY:⚽ CalGlen Lightning 16 at New Frontier SC 2016 Boys (Al-Asad) (a
+ way)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #986\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

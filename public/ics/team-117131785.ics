@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills Ravens (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11712019@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261019T191500
+DTEND;TZID=America/Edmonton:20261019T201500
+SUMMARY:⚽ Foothills Ravens at WHU West Hills Wolves 09 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5210\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712051@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261026T191500
+DTEND;TZID=America/Edmonton:20261026T201500
+SUMMARY:⚽ Foothills Ravens vs Spartans Olympias (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5216\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712102@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261102T191500
+DTEND;TZID=America/Edmonton:20261102T201500
+SUMMARY:⚽ Foothills Ravens vs Villains Thorns 10/11 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5226\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712114@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261109T191500
+DTEND;TZID=America/Edmonton:20261109T201500
+SUMMARY:⚽ Foothills Ravens at Foothills 2011 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5228\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712157@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261123T180000
+DTEND;TZID=America/Edmonton:20261123T190000
+SUMMARY:⚽ Foothills Ravens vs New Frontier SC 2010 Girls (Deen) (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5235\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712176@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261130T180000
+DTEND;TZID=America/Edmonton:20261130T190000
+SUMMARY:⚽ Foothills Ravens at NCFC 09 Mustangs (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5243\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712186@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261207T191500
+DTEND;TZID=America/Edmonton:20261207T201500
+SUMMARY:⚽ Foothills Ravens vs Blizzard Alliance 08/09 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5246\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712223@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270104T180000
+DTEND;TZID=America/Edmonton:20270104T190000
+SUMMARY:⚽ Foothills Ravens vs Airdrie F.C. Spirit 09 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5257\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712254@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270111T191500
+DTEND;TZID=America/Edmonton:20270111T201500
+SUMMARY:⚽ Foothills Ravens at RANGERS WFC 10 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5264\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712259@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270118T180000
+DTEND;TZID=America/Edmonton:20270118T190000
+SUMMARY:⚽ Foothills Ravens at MUSC Selects 10 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5269\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712266@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270125T191500
+DTEND;TZID=America/Edmonton:20270125T201500
+SUMMARY:⚽ Foothills Ravens vs WHU West Hills Wolves 09 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5276\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712271@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270201T180000
+DTEND;TZID=America/Edmonton:20270201T190000
+SUMMARY:⚽ Foothills Ravens at Spartans Olympias (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5281\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712277@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270208T180000
+DTEND;TZID=America/Edmonton:20270208T190000
+SUMMARY:⚽ Foothills Ravens vs Blizzard Alliance 10 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5287\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11712286@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270222T180000
+DTEND;TZID=America/Edmonton:20270222T190000
+SUMMARY:⚽ Foothills Ravens at RANGERS WFC 09 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #5296\nGirls U17/U19 Tier 2\nVenue notes: Maxwell socce
+ r centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Ann
+ ex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runner
+ s) | Carpet
+END:VEVENT
+END:VCALENDAR

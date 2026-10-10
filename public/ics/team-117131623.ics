@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Villains Summit 14 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711443@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T154500
+DTEND;TZID=America/Edmonton:20261018T164500
+SUMMARY:⚽ Villains Summit 14 vs Chinooks WFC Premiers 2014 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4658\nGirls U13 Tier 3\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711445@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T080000
+DTEND;TZID=America/Edmonton:20261025T090000
+SUMMARY:⚽ Villains Summit 14 at CUFC Ninjas 14/15 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4659\nGirls U13 Tier 3\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711459@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T090000
+DTEND;TZID=America/Edmonton:20261108T100000
+SUMMARY:⚽ Villains Summit 14 vs Foothills 2014 United Girls (home)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4666\nGirls U13 Tier 3\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711467@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T081500
+DTEND;TZID=America/Edmonton:20261115T091500
+SUMMARY:⚽ Villains Summit 14 at Airdrie F.C. Dash 14 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4670\nGirls U13 Tier 3\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711471@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T103000
+DTEND;TZID=America/Edmonton:20261122T113000
+SUMMARY:⚽ Villains Summit 14 vs Blizzard United 14 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4672\nGirls U13 Tier 3\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711479@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T141500
+DTEND;TZID=America/Edmonton:20261129T151500
+SUMMARY:⚽ Villains Summit 14 vs MUSC Valkyries 14 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4676\nGirls U13 Tier 3\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711483@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T164500
+DTEND;TZID=America/Edmonton:20261206T174500
+SUMMARY:⚽ Villains Summit 14 at Chinooks WFC Premiers 2014 (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4679\nGirls U13 Tier 3\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711486@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T080000
+DTEND;TZID=America/Edmonton:20261213T090000
+SUMMARY:⚽ Villains Summit 14 vs CUFC Ninjas 14/15 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4680\nGirls U13 Tier 3\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711495@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T074500
+DTEND;TZID=America/Edmonton:20270103T084500
+SUMMARY:⚽ Villains Summit 14 at Foothills 2014 United Girls (away)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4686\nGirls U13 Tier 3\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711506@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T144500
+DTEND;TZID=America/Edmonton:20270110T154500
+SUMMARY:⚽ Villains Summit 14 vs Airdrie F.C. Dash 14 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4691\nGirls U13 Tier 3\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711509@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T161500
+DTEND;TZID=America/Edmonton:20270117T171500
+SUMMARY:⚽ Villains Summit 14 at Blizzard United 14 Girls (away)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4694\nGirls U13 Tier 3\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711510@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T080000
+DTEND;TZID=America/Edmonton:20270131T090000
+SUMMARY:⚽ Villains Summit 14 at MUSC Valkyries 14 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4695\nGirls U13 Tier 3\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711513@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T080000
+DTEND;TZID=America/Edmonton:20270207T090000
+SUMMARY:⚽ Villains Summit 14 vs Chinooks WFC Premiers 2014 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4698\nGirls U13 Tier 3\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711517@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T121500
+DTEND;TZID=America/Edmonton:20270221T131500
+SUMMARY:⚽ Villains Summit 14 at CUFC Ninjas 14/15 (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4702\nGirls U13 Tier 3\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rockies Stuttgart15 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708911@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T120000
+DTEND;TZID=America/Edmonton:20261018T130000
+SUMMARY:⚽ Rockies Stuttgart15 vs CNEU 2015 Twisters (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1716\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708951@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T140000
+DTEND;TZID=America/Edmonton:20261025T150000
+SUMMARY:⚽ Rockies Stuttgart15 vs Foothills Palace 2015 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1725\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708966@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T123000
+DTEND;TZID=America/Edmonton:20261108T133000
+SUMMARY:⚽ Rockies Stuttgart15 at Blizzard Sporting 15 Boys (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1729\nBoys U12 City Wide Tier 6\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708986@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T140000
+DTEND;TZID=America/Edmonton:20261115T150000
+SUMMARY:⚽ Rockies Stuttgart15 vs Foothills Burnley 2015 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1734\nBoys U12 City Wide Tier 6\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709007@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T140000
+DTEND;TZID=America/Edmonton:20261122T150000
+SUMMARY:⚽ Rockies Stuttgart15 at New Frontier SC 2015 Boys (Shimeles) (a
+ way)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1739\nBoys U12 City Wide Tier 6\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709032@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:⚽ Rockies Stuttgart15 vs Villains Jets 15 (home)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1745\nBoys U12 City Wide Tier 6\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709047@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T080000
+DTEND;TZID=America/Edmonton:20261206T090000
+SUMMARY:⚽ Rockies Stuttgart15 at Rockies Wolfsburg15 (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1749\nBoys U12 City Wide Tier 6\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709079@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T153000
+DTEND;TZID=America/Edmonton:20270102T163000
+SUMMARY:⚽ Rockies Stuttgart15 vs RANGERS SPORTIF 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1758\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709093@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T103000
+DTEND;TZID=America/Edmonton:20270109T113000
+SUMMARY:⚽ Rockies Stuttgart15 at Chinooks FC White 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1763\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709103@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T123000
+DTEND;TZID=America/Edmonton:20270116T133000
+SUMMARY:⚽ Rockies Stuttgart15 at Foothills Palace 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1766\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709124@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T113000
+DTEND;TZID=America/Edmonton:20270123T123000
+SUMMARY:⚽ Rockies Stuttgart15 vs Blizzard Sporting 15 Boys (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1774\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709136@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T144500
+DTEND;TZID=America/Edmonton:20270130T154500
+SUMMARY:⚽ Rockies Stuttgart15 vs Rockies Werder Bremen 15 (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1780\nBoys U12 City Wide Tier 6\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709137@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T183000
+DTEND;TZID=America/Edmonton:20270206T193000
+SUMMARY:⚽ Rockies Stuttgart15 at Foothills Burnley 2015 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1781\nBoys U12 City Wide Tier 6\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709148@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:⚽ Rockies Stuttgart15 at CNEU 2015 Twisters (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1790\nBoys U12 City Wide Tier 6\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+END:VCALENDAR

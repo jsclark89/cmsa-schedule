@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RANGERS ATHLETICS 15 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708768@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T123000
+DTEND;TZID=America/Edmonton:20261017T133000
+SUMMARY:⚽ RANGERS ATHLETICS 15 at Cochrane Wolves U12B 1 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1409\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708799@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T160000
+DTEND;TZID=America/Edmonton:20261024T170000
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs SWU Arsenal 15B (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1425\nBoys U12 City Wide Tier 3\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708812@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T133000
+DTEND;TZID=America/Edmonton:20261107T143000
+SUMMARY:⚽ RANGERS ATHLETICS 15 at Blizzard United 15 Boys (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1429\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708824@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T083000
+DTEND;TZID=America/Edmonton:20261114T093000
+SUMMARY:⚽ RANGERS ATHLETICS 15 at S4 Athletic City 15 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1435\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708869@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T161500
+DTEND;TZID=America/Edmonton:20261121T171500
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs CNEU 2015 United (home)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1450\nBoys U12 City Wide Tier 3\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708902@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T160000
+DTEND;TZID=America/Edmonton:20261128T170000
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs Airdrie F.C. Celtic 15 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1461\nBoys U12 City Wide Tier 3\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708924@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T090000
+DTEND;TZID=America/Edmonton:20261212T100000
+SUMMARY:⚽ RANGERS ATHLETICS 15 at CCFC Calgary City FC Millos 2015 (away
+ )
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1468\nBoys U12 City Wide Tier 3\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708948@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T140000
+DTEND;TZID=America/Edmonton:20270103T150000
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs MUSC Rush 15 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1475\nBoys U12 City Wide Tier 3\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708969@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T121500
+DTEND;TZID=America/Edmonton:20270110T131500
+SUMMARY:⚽ RANGERS ATHLETICS 15 at SWU River Plate 15B (away)
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1480\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709018@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T090000
+DTEND;TZID=America/Edmonton:20270117T100000
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs Chinooks FC Red 2015 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1493\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709063@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T134500
+DTEND;TZID=America/Edmonton:20270124T144500
+SUMMARY:⚽ RANGERS ATHLETICS 15 at New Frontier SC 2015 Boys (Brattle) (a
+ way)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1504\nBoys U12 City Wide Tier 3\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709095@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T074500
+DTEND;TZID=America/Edmonton:20270131T084500
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs CWFC B2015 White (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1514\nBoys U12 City Wide Tier 3\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709108@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T080000
+DTEND;TZID=America/Edmonton:20270207T090000
+SUMMARY:⚽ RANGERS ATHLETICS 15 at CNS U12B Infinity 15 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1519\nBoys U12 City Wide Tier 3\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709135@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T120000
+DTEND;TZID=America/Edmonton:20270221T130000
+SUMMARY:⚽ RANGERS ATHLETICS 15 vs CNEU SKYVIEW 2015 RAPTORS (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1531\nBoys U12 City Wide Tier 3\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

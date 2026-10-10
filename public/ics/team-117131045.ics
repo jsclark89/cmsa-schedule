@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Villains Panthers 15 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709194@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T140000
+DTEND;TZID=America/Edmonton:20261018T150000
+SUMMARY:⚽ Villains Panthers 15 at Blizzard Alliance 15 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4363\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709198@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T150000
+DTEND;TZID=America/Edmonton:20261025T160000
+SUMMARY:⚽ Villains Panthers 15 vs New Frontier SC 2015 Girls (Jorquera) 
+ (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4367\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709201@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T130000
+DTEND;TZID=America/Edmonton:20261101T140000
+SUMMARY:⚽ Villains Panthers 15 at Chinooks WFC United 2015 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4370\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709202@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T120000
+DTEND;TZID=America/Edmonton:20261108T130000
+SUMMARY:⚽ Villains Panthers 15 vs RANGERS W ATHLETICS 15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4371\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709207@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T150000
+DTEND;TZID=America/Edmonton:20261122T160000
+SUMMARY:⚽ Villains Panthers 15 at Foothills Prospects 2015 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4376\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709210@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:⚽ Villains Panthers 15 vs Blizzard Alliance 15 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4378\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709215@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T110000
+DTEND;TZID=America/Edmonton:20261206T120000
+SUMMARY:⚽ Villains Panthers 15 at New Frontier SC 2015 Girls (Jorquera) 
+ (away)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4381\nGirls U12 City Wide Tier 2\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709218@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T090000
+DTEND;TZID=America/Edmonton:20261220T100000
+SUMMARY:⚽ Villains Panthers 15 vs Chinooks WFC United 2015 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4383\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709226@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T143000
+DTEND;TZID=America/Edmonton:20270109T153000
+SUMMARY:⚽ Villains Panthers 15 at RANGERS W ATHLETICS 15 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4387\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709230@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T103000
+DTEND;TZID=America/Edmonton:20270116T113000
+SUMMARY:⚽ Villains Panthers 15 vs Foothills Prospects 2015 Girls (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4389\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709240@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T160000
+DTEND;TZID=America/Edmonton:20270123T170000
+SUMMARY:⚽ Villains Panthers 15 at Blizzard Alliance 15 Girls (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4394\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709242@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T113000
+DTEND;TZID=America/Edmonton:20270130T123000
+SUMMARY:⚽ Villains Panthers 15 vs New Frontier SC 2015 Girls (Jorquera) 
+ (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4395\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709251@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T120000
+DTEND;TZID=America/Edmonton:20270206T130000
+SUMMARY:⚽ Villains Panthers 15 at Chinooks WFC United 2015 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4398\nGirls U12 City Wide Tier 2\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709263@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T103000
+DTEND;TZID=America/Edmonton:20270220T113000
+SUMMARY:⚽ Villains Panthers 15 vs RANGERS W ATHLETICS 15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4403\nGirls U12 City Wide Tier 2\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

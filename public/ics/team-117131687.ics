@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard Alliance 13 Girls (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711779@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T193000
+DTEND;TZID=America/Edmonton:20261018T203000
+SUMMARY:⚽ Blizzard Alliance 13 Girls at Chinooks WFC Premiers 2013 (away
+ )
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4828\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711786@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T110000
+DTEND;TZID=America/Edmonton:20261101T120000
+SUMMARY:⚽ Blizzard Alliance 13 Girls at CNEU FLAMES (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4830\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711814@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T074500
+DTEND;TZID=America/Edmonton:20261108T084500
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs Foothills WFC 2013 Girls (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4838\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711821@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T141500
+DTEND;TZID=America/Edmonton:20261115T151500
+SUMMARY:⚽ Blizzard Alliance 13 Girls at MUSC Warriors 12 (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4845\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711834@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T154500
+DTEND;TZID=America/Edmonton:20261122T164500
+SUMMARY:⚽ Blizzard Alliance 13 Girls at OUSC United G12 (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4851\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711850@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T170000
+DTEND;TZID=America/Edmonton:20261129T180000
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs New Frontier SC 2012 Girls (Deen
+ ) (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4857\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711858@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T094500
+DTEND;TZID=America/Edmonton:20261206T104500
+SUMMARY:⚽ Blizzard Alliance 13 Girls at Villains Grey 13G (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4861\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711863@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T130000
+DTEND;TZID=America/Edmonton:20261213T140000
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs Villains Black 13G (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4866\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711872@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T180000
+DTEND;TZID=America/Edmonton:20261220T190000
+SUMMARY:⚽ Blizzard Alliance 13 Girls at WHU West Hills Griffins 13 (away
+ )
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4877\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711880@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270104T204500
+DTEND;TZID=America/Edmonton:20270104T214500
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs Blizzard Alliance 12 Girls (home
+ )
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4883\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711883@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T163000
+DTEND;TZID=America/Edmonton:20270116T173000
+SUMMARY:⚽ Blizzard Alliance 13 Girls at Rockies Summit 12 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4886\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711889@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T103000
+DTEND;TZID=America/Edmonton:20270124T113000
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs Chinooks WFC Premiers 2013 (home
+ )
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4892\nGirls U15 Tier 2\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711898@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T144500
+DTEND;TZID=America/Edmonton:20270131T154500
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs CNEU FLAMES (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4901\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711905@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T114500
+DTEND;TZID=America/Edmonton:20270221T124500
+SUMMARY:⚽ Blizzard Alliance 13 Girls vs RANGERS W ATHLETICS 12/13 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4908\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

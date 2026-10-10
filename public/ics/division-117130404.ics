@@ -1,0 +1,592 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boys U11 Dev Plus+ FISHER (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708264@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T111500
+DTEND;TZID=America/Edmonton:20261017T121500
+SUMMARY:⚽ RANGERS FC16 WHITE vs Chinooks FC Selects 2016
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #703\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708262@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T121500
+DTEND;TZID=America/Edmonton:20261017T131500
+SUMMARY:⚽ CNS U11B Strikers 16 vs Cochrane Wolves U11B A
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #701\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708263@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T131500
+DTEND;TZID=America/Edmonton:20261017T141500
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs CWFC B2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #702\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708265@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T081500
+DTEND;TZID=America/Edmonton:20261024T091500
+SUMMARY:⚽ CWFC B2016 Black vs CNS U11B Strikers 16
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #704\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708266@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T091500
+DTEND;TZID=America/Edmonton:20261024T101500
+SUMMARY:⚽ Chinooks FC Selects 2016 vs Blizzard Rovers 16 Boys
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #705\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708267@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T111500
+DTEND;TZID=America/Edmonton:20261024T121500
+SUMMARY:⚽ Cochrane Wolves U11B A vs New Frontier SC 2016 Boys (Correa)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #706\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708268@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T130000
+DTEND;TZID=America/Edmonton:20261031T140000
+SUMMARY:⚽ Cochrane Wolves U11B A vs CWFC B2016 Black
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #707\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708269@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T140000
+DTEND;TZID=America/Edmonton:20261031T150000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs RANGERS FC16 WHITE
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #708\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708270@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T150000
+DTEND;TZID=America/Edmonton:20261031T160000
+SUMMARY:⚽ CNS U11B Strikers 16 vs Chinooks FC Selects 2016
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #709\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708271@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T130000
+DTEND;TZID=America/Edmonton:20261107T140000
+SUMMARY:⚽ Chinooks FC Selects 2016 vs Cochrane Wolves U11B A
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #710\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708272@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T140000
+DTEND;TZID=America/Edmonton:20261107T150000
+SUMMARY:⚽ CWFC B2016 Black vs New Frontier SC 2016 Boys (Correa)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #711\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708273@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T150000
+DTEND;TZID=America/Edmonton:20261107T160000
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs RANGERS FC16 WHITE
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #712\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708274@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T163000
+DTEND;TZID=America/Edmonton:20261114T173000
+SUMMARY:⚽ Chinooks FC Selects 2016 vs CWFC B2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #713\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708275@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T173000
+DTEND;TZID=America/Edmonton:20261114T183000
+SUMMARY:⚽ RANGERS FC16 WHITE vs CNS U11B Strikers 16
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #714\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708276@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T183000
+DTEND;TZID=America/Edmonton:20261114T193000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs Blizzard Rovers 16 Boys
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #715\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708277@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T164500
+DTEND;TZID=America/Edmonton:20261121T174500
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs CNS U11B Strikers 16
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #716\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708278@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T173000
+DTEND;TZID=America/Edmonton:20261121T183000
+SUMMARY:⚽ Cochrane Wolves U11B A vs RANGERS FC16 WHITE
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #717\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708279@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T183000
+DTEND;TZID=America/Edmonton:20261121T193000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs Chinooks FC Selects 2016
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #718\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708280@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T080000
+DTEND;TZID=America/Edmonton:20261128T090000
+SUMMARY:⚽ CNS U11B Strikers 16 vs New Frontier SC 2016 Boys (Correa)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #719\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708281@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T090000
+DTEND;TZID=America/Edmonton:20261128T100000
+SUMMARY:⚽ RANGERS FC16 WHITE vs CWFC B2016 Black
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #720\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708282@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T100000
+DTEND;TZID=America/Edmonton:20261128T110000
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs Cochrane Wolves U11B A
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #721\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708283@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T100000
+DTEND;TZID=America/Edmonton:20261206T110000
+SUMMARY:⚽ Chinooks FC Selects 2016 vs RANGERS FC16 WHITE
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #722\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708284@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T110000
+DTEND;TZID=America/Edmonton:20261206T120000
+SUMMARY:⚽ Cochrane Wolves U11B A vs CNS U11B Strikers 16
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #723\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708285@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T120000
+DTEND;TZID=America/Edmonton:20261206T130000
+SUMMARY:⚽ CWFC B2016 Black vs Blizzard Rovers 16 Boys
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #724\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708286@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T080000
+DTEND;TZID=America/Edmonton:20261213T090000
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs Chinooks FC Selects 2016
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #725\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708287@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T090000
+DTEND;TZID=America/Edmonton:20261213T100000
+SUMMARY:⚽ CNS U11B Strikers 16 vs CWFC B2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #726\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708288@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T100000
+DTEND;TZID=America/Edmonton:20261213T110000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs Cochrane Wolves U11B A
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #727\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708289@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T081500
+DTEND;TZID=America/Edmonton:20261219T091500
+SUMMARY:⚽ Chinooks FC Selects 2016 vs CNS U11B Strikers 16
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #728\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708290@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T091500
+DTEND;TZID=America/Edmonton:20261219T101500
+SUMMARY:⚽ RANGERS FC16 WHITE vs New Frontier SC 2016 Boys (Correa)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #729\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708291@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T101500
+DTEND;TZID=America/Edmonton:20261219T111500
+SUMMARY:⚽ CWFC B2016 Black vs Cochrane Wolves U11B A
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #730\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708292@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T100000
+DTEND;TZID=America/Edmonton:20270102T110000
+SUMMARY:⚽ RANGERS FC16 WHITE vs Blizzard Rovers 16 Boys
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #731\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708293@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T110000
+DTEND;TZID=America/Edmonton:20270102T120000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs CWFC B2016 Black
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #732\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708294@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T120000
+DTEND;TZID=America/Edmonton:20270102T130000
+SUMMARY:⚽ Cochrane Wolves U11B A vs Chinooks FC Selects 2016
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #733\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708296@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T080000
+DTEND;TZID=America/Edmonton:20270109T090000
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs New Frontier SC 2016 Boys (Correa)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #735\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708297@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T090000
+DTEND;TZID=America/Edmonton:20270109T100000
+SUMMARY:⚽ CWFC B2016 Black vs Chinooks FC Selects 2016
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #736\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708295@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T150000
+DTEND;TZID=America/Edmonton:20270109T160000
+SUMMARY:⚽ CNS U11B Strikers 16 vs RANGERS FC16 WHITE
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #734\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708299@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T090000
+DTEND;TZID=America/Edmonton:20270116T100000
+SUMMARY:⚽ RANGERS FC16 WHITE vs Cochrane Wolves U11B A
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #738\nBoys U11 Dev Plus+ FISHER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708300@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T100000
+DTEND;TZID=America/Edmonton:20270116T110000
+SUMMARY:⚽ CNS U11B Strikers 16 vs Blizzard Rovers 16 Boys
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #739\nBoys U11 Dev Plus+ FISHER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708298@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T120000
+DTEND;TZID=America/Edmonton:20270116T130000
+SUMMARY:⚽ Chinooks FC Selects 2016 vs New Frontier SC 2016 Boys (Correa)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #737\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708301@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T110000
+DTEND;TZID=America/Edmonton:20270123T120000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs CNS U11B Strikers 16
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #740\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708302@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T110000
+DTEND;TZID=America/Edmonton:20270123T120000
+SUMMARY:⚽ Cochrane Wolves U11B A vs Blizzard Rovers 16 Boys
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #741\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708303@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T120000
+DTEND;TZID=America/Edmonton:20270123T130000
+SUMMARY:⚽ CWFC B2016 Black vs RANGERS FC16 WHITE
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #742\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708304@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T100000
+DTEND;TZID=America/Edmonton:20270130T110000
+SUMMARY:⚽ CNS U11B Strikers 16 vs Cochrane Wolves U11B A
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #743\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708305@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T110000
+DTEND;TZID=America/Edmonton:20270130T120000
+SUMMARY:⚽ RANGERS FC16 WHITE vs Chinooks FC Selects 2016
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #744\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708306@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T120000
+DTEND;TZID=America/Edmonton:20270130T130000
+SUMMARY:⚽ Blizzard Rovers 16 Boys vs CWFC B2016 Black
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #745\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708307@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T140000
+DTEND;TZID=America/Edmonton:20270220T150000
+SUMMARY:⚽ Cochrane Wolves U11B A vs New Frontier SC 2016 Boys (Correa)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #746\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708308@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T150000
+DTEND;TZID=America/Edmonton:20270220T160000
+SUMMARY:⚽ CWFC B2016 Black vs CNS U11B Strikers 16
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #747\nBoys U11 Dev Plus+ FISHER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708309@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T160000
+DTEND;TZID=America/Edmonton:20270220T170000
+SUMMARY:⚽ Chinooks FC Selects 2016 vs Blizzard Rovers 16 Boys
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #748\nBoys U11 Dev Plus+ FISHER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708310@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T081500
+DTEND;TZID=America/Edmonton:20270227T091500
+SUMMARY:⚽ New Frontier SC 2016 Boys (Correa) vs RANGERS FC16 WHITE
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #749\nBoys U11 Dev Plus+ FISHER\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

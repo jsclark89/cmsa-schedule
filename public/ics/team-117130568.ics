@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CNEU 2017 HAWKS (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707506@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T110000
+DTEND;TZID=America/Edmonton:20261017T120000
+SUMMARY:⚽ CNEU 2017 HAWKS vs New Frontier SC 2017 Boys (O'Connell) (home
+ )
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #253\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707514@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T130000
+DTEND;TZID=America/Edmonton:20261024T140000
+SUMMARY:⚽ CNEU 2017 HAWKS vs New Frontier SC 2017 Boys (Szautner) (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #261\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707525@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T164500
+DTEND;TZID=America/Edmonton:20261031T174500
+SUMMARY:⚽ CNEU 2017 HAWKS at CalGlen Whitecaps 17 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #272\nBoys U10 Dev Plus+ FRASER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707533@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T130000
+DTEND;TZID=America/Edmonton:20261107T140000
+SUMMARY:⚽ CNEU 2017 HAWKS at CUFC Kings 2017/18 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #280\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707537@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T100000
+DTEND;TZID=America/Edmonton:20261121T110000
+SUMMARY:⚽ CNEU 2017 HAWKS vs Airdrie F.C. Juventus 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #284\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707547@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T120000
+DTEND;TZID=America/Edmonton:20261128T130000
+SUMMARY:⚽ CNEU 2017 HAWKS at CCFC Calgary City FC Leo Messi 2017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #294\nBoys U10 Dev Plus+ FRASER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707554@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T170000
+DTEND;TZID=America/Edmonton:20261205T180000
+SUMMARY:⚽ CNEU 2017 HAWKS at Rockies Sevilla 17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #301\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707555@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T080000
+DTEND;TZID=America/Edmonton:20261219T090000
+SUMMARY:⚽ CNEU 2017 HAWKS vs Blizzard Athletic 17 Boys (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #302\nBoys U10 Dev Plus+ FRASER\nVenue notes: Indoor Se
+ ason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sh
+ oes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707568@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T110000
+DTEND;TZID=America/Edmonton:20270102T120000
+SUMMARY:⚽ CNEU 2017 HAWKS at New Frontier SC 2017 Boys (Szautner) (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #315\nBoys U10 Dev Plus+ FRASER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707575@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T160000
+DTEND;TZID=America/Edmonton:20270116T170000
+SUMMARY:⚽ CNEU 2017 HAWKS at Chinooks FC Red 2017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #322\nBoys U10 Dev Plus+ FRASER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707578@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T130000
+DTEND;TZID=America/Edmonton:20270123T140000
+SUMMARY:⚽ CNEU 2017 HAWKS vs RANGERS FC17 RED (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #325\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707583@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T100000
+DTEND;TZID=America/Edmonton:20270130T110000
+SUMMARY:⚽ CNEU 2017 HAWKS at CFC Crossfield FC Boys U10 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #330\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707594@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:⚽ CNEU 2017 HAWKS vs S4 Lightning 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #341\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707598@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T080000
+DTEND;TZID=America/Edmonton:20270227T090000
+SUMMARY:⚽ CNEU 2017 HAWKS vs EMFC Energy 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #345\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Villains Grey 13G (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11711773@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T131500
+DTEND;TZID=America/Edmonton:20261018T141500
+SUMMARY:⚽ Villains Grey 13G vs Blizzard Alliance 12 Girls (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4826\nGirls U15 Tier 2\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711788@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T121500
+DTEND;TZID=America/Edmonton:20261101T131500
+SUMMARY:⚽ Villains Grey 13G at MUSC Warriors 12 (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4831\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711805@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T091500
+DTEND;TZID=America/Edmonton:20261108T101500
+SUMMARY:⚽ Villains Grey 13G vs Chinooks WFC Premiers 2013 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4837\nGirls U15 Tier 2\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711828@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T153000
+DTEND;TZID=America/Edmonton:20261115T163000
+SUMMARY:⚽ Villains Grey 13G at Villains Black 13G (away)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4842\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711842@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T141500
+DTEND;TZID=America/Edmonton:20261122T151500
+SUMMARY:⚽ Villains Grey 13G at RANGERS W ATHLETICS 12/13 (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4849\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711858@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T094500
+DTEND;TZID=America/Edmonton:20261206T104500
+SUMMARY:⚽ Villains Grey 13G vs Blizzard Alliance 13 Girls (home)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4861\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711867@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T181500
+DTEND;TZID=America/Edmonton:20261213T191500
+SUMMARY:⚽ Villains Grey 13G at Rockies Summit 12 (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4870\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711869@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T151500
+DTEND;TZID=America/Edmonton:20261220T161500
+SUMMARY:⚽ Villains Grey 13G vs CNEU FLAMES (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4872\nGirls U15 Tier 2\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711886@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T173000
+DTEND;TZID=America/Edmonton:20270117T183000
+SUMMARY:⚽ Villains Grey 13G at New Frontier SC 2012 Girls (Deen) (away)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4889\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711891@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T173000
+DTEND;TZID=America/Edmonton:20270124T183000
+SUMMARY:⚽ Villains Grey 13G at Blizzard Alliance 12 Girls (away)
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4894\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711893@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T131500
+DTEND;TZID=America/Edmonton:20270131T141500
+SUMMARY:⚽ Villains Grey 13G vs MUSC Warriors 12 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4896\nGirls U15 Tier 2\nVenue notes: Maxwell soccer ce
+ ntre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) 
+ Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) |
+  Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711899@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T083000
+DTEND;TZID=America/Edmonton:20270207T093000
+SUMMARY:⚽ Villains Grey 13G vs WHU West Hills Griffins 13 (home)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4902\nGirls U15 Tier 2\nVenue notes: Foothills Macron 
+ - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711907@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T153000
+DTEND;TZID=America/Edmonton:20270221T163000
+SUMMARY:⚽ Villains Grey 13G at OUSC United G12 (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4910\nGirls U15 Tier 2\nVenue notes: Shouldice- regula
+ r cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11711910@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T091500
+DTEND;TZID=America/Edmonton:20270228T101500
+SUMMARY:⚽ Villains Grey 13G vs Foothills WFC 2013 Girls (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4913\nGirls U15 Tier 2\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

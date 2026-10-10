@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LSCA B Roma 2015 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708526@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T083000
+DTEND;TZID=America/Edmonton:20261017T093000
+SUMMARY:⚽ LSCA B Roma 2015 at Chinooks FC United 2015 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1168\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708537@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T133000
+DTEND;TZID=America/Edmonton:20261024T143000
+SUMMARY:⚽ LSCA B Roma 2015 at Foothills FC Green 2015 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1177\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708545@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T093000
+DTEND;TZID=America/Edmonton:20261107T103000
+SUMMARY:⚽ LSCA B Roma 2015 vs MUSC Premier 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1182\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708560@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T163000
+DTEND;TZID=America/Edmonton:20261114T173000
+SUMMARY:⚽ LSCA B Roma 2015 vs SWU Newells 15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1189\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708571@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T083000
+DTEND;TZID=America/Edmonton:20261121T093000
+SUMMARY:⚽ LSCA B Roma 2015 at SWU Sporting 15B (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1195\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708588@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T083000
+DTEND;TZID=America/Edmonton:20261128T093000
+SUMMARY:⚽ LSCA B Roma 2015 vs Foothills FC White 2015 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1203\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708616@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T091500
+DTEND;TZID=America/Edmonton:20261205T101500
+SUMMARY:⚽ LSCA B Roma 2015 at CWFC B2015 Black (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #1218\nBoys U12 City Wide Tier 1\nVenue notes: Shouldic
+ e- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708628@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T143000
+DTEND;TZID=America/Edmonton:20261212T153000
+SUMMARY:⚽ LSCA B Roma 2015 at CCFC Calgary City FC CR7 2015 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1224\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708636@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T103000
+DTEND;TZID=America/Edmonton:20261219T113000
+SUMMARY:⚽ LSCA B Roma 2015 vs New Frontier SC 2015 Boys (Fernandes) (hom
+ e)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1229\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708653@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T080000
+DTEND;TZID=America/Edmonton:20270103T090000
+SUMMARY:⚽ LSCA B Roma 2015 vs Chinooks FC Premiers 2015 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1236\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708678@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T130000
+DTEND;TZID=America/Edmonton:20270110T140000
+SUMMARY:⚽ LSCA B Roma 2015 at Blizzard SC 15 Boys (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1246\nBoys U12 City Wide Tier 1\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708689@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T110000
+DTEND;TZID=America/Edmonton:20270124T120000
+SUMMARY:⚽ LSCA B Roma 2015 vs New Frontier SC 2015 Boys (Reyes) (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1252\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708702@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T131500
+DTEND;TZID=America/Edmonton:20270131T141500
+SUMMARY:⚽ LSCA B Roma 2015 at Villains Sting 15 (away)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1259\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708721@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T100000
+DTEND;TZID=America/Edmonton:20270221T110000
+SUMMARY:⚽ LSCA B Roma 2015 vs SWU Boca 15B (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #1269\nBoys U12 City Wide Tier 1\nVenue notes: Foothill
+ s Macron - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

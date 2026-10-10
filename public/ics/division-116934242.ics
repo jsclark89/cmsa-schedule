@@ -1,0 +1,663 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Girls U11 Dev Plus+ PRINCE (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708385@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T081500
+DTEND;TZID=America/Edmonton:20261018T091500
+SUMMARY:⚽ WHU West Hills Panthers 16 vs Foothills 2016 Prospects Girls
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4208\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708387@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T091500
+DTEND;TZID=America/Edmonton:20261018T101500
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs RANGERS WFC 16 YELLOW
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4209\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708390@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T091500
+DTEND;TZID=America/Edmonton:20261018T101500
+SUMMARY:⚽ CWFC G2016 Black vs Airdrie F.C. Roses 16
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4210\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708392@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T101500
+DTEND;TZID=America/Edmonton:20261018T111500
+SUMMARY:⚽ SWU Wild 16G vs CalGlen Rockets 16/17
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4211\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708398@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T090000
+DTEND;TZID=America/Edmonton:20261101T100000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs WHU West Hills Panthers 16
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4214\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708401@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T100000
+DTEND;TZID=America/Edmonton:20261101T110000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs CWFC G2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4215\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708395@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T150000
+DTEND;TZID=America/Edmonton:20261101T160000
+SUMMARY:⚽ SWU Wild 16G vs New Frontier SC 2016 Girls (Harman)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4212\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708396@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T160000
+DTEND;TZID=America/Edmonton:20261101T170000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs Airdrie F.C. Roses 16
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4213\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708405@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T130000
+DTEND;TZID=America/Edmonton:20261108T140000
+SUMMARY:⚽ WHU West Hills Panthers 16 vs SWU Wild 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4217\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708407@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T140000
+DTEND;TZID=America/Edmonton:20261108T150000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs CWFC G2016 Black
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4218\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708408@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T150000
+DTEND;TZID=America/Edmonton:20261108T160000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs RANGERS WFC 16 YELLOW
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4219\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708402@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T170000
+DTEND;TZID=America/Edmonton:20261108T180000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs CalGlen Rockets 16/17
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4216\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708410@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T090000
+DTEND;TZID=America/Edmonton:20261115T100000
+SUMMARY:⚽ CWFC G2016 Black vs WHU West Hills Panthers 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4220\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708412@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T100000
+DTEND;TZID=America/Edmonton:20261115T110000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs Airdrie F.C. Roses 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4221\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708414@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T110000
+DTEND;TZID=America/Edmonton:20261115T120000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs New Frontier SC 2016 Girls (Harman)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4222\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708416@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T120000
+DTEND;TZID=America/Edmonton:20261115T130000
+SUMMARY:⚽ SWU Wild 16G vs Foothills 2016 Prospects Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4223\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708418@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T100000
+DTEND;TZID=America/Edmonton:20261129T110000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs SWU Wild 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4224\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708421@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T110000
+DTEND;TZID=America/Edmonton:20261129T120000
+SUMMARY:⚽ WHU West Hills Panthers 16 vs CalGlen Rockets 16/17
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4225\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708424@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T120000
+DTEND;TZID=America/Edmonton:20261129T130000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs Airdrie F.C. Roses 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4226\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708427@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T160000
+DTEND;TZID=America/Edmonton:20261129T170000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs CWFC G2016 Black
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4227\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708431@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T090000
+DTEND;TZID=America/Edmonton:20261206T100000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs WHU West Hills Panthers
+  16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4230\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708434@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T100000
+DTEND;TZID=America/Edmonton:20261206T110000
+SUMMARY:⚽ CWFC G2016 Black vs RANGERS WFC 16 YELLOW
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4231\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708429@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T120000
+DTEND;TZID=America/Edmonton:20261206T130000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs Foothills 2016 Prospects Girls
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4229\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708428@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T160000
+DTEND;TZID=America/Edmonton:20261206T170000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs SWU Wild 16G
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4228\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708437@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T090000
+DTEND;TZID=America/Edmonton:20261220T100000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs New Frontier SC 2016 Girls (
+ Harman)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4234\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708439@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T100000
+DTEND;TZID=America/Edmonton:20261220T110000
+SUMMARY:⚽ SWU Wild 16G vs CWFC G2016 Black
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4235\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708435@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T110000
+DTEND;TZID=America/Edmonton:20261220T120000
+SUMMARY:⚽ WHU West Hills Panthers 16 vs Airdrie F.C. Roses 16
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4232\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708436@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T120000
+DTEND;TZID=America/Edmonton:20261220T130000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs CalGlen Rockets 16/17
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4233\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708441@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T080000
+DTEND;TZID=America/Edmonton:20270102T090000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs SWU Wild 16G
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4236\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708443@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T090000
+DTEND;TZID=America/Edmonton:20270102T100000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs WHU West Hills Panthers 16
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4237\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708446@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T100000
+DTEND;TZID=America/Edmonton:20270102T110000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs New Frontier SC 2016 Girls (Harman)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4238\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708450@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T110000
+DTEND;TZID=America/Edmonton:20270102T120000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs CWFC G2016 Black
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4239\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708457@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T140000
+DTEND;TZID=America/Edmonton:20270110T150000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs SWU Wild 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4241\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708461@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T150000
+DTEND;TZID=America/Edmonton:20270110T160000
+SUMMARY:⚽ WHU West Hills Panthers 16 vs RANGERS WFC 16 YELLOW
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4242\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708465@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T160000
+DTEND;TZID=America/Edmonton:20270110T170000
+SUMMARY:⚽ CWFC G2016 Black vs CalGlen Rockets 16/17
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4243\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708453@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T170000
+DTEND;TZID=America/Edmonton:20270110T180000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs Foothills 2016 Prospects Girls
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4240\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708468@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T090000
+DTEND;TZID=America/Edmonton:20270117T100000
+SUMMARY:⚽ CWFC G2016 Black vs New Frontier SC 2016 Girls (Harman)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4244\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708472@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T100000
+DTEND;TZID=America/Edmonton:20270117T110000
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs Foothills 2016 Prospects Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4245\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708476@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T120000
+DTEND;TZID=America/Edmonton:20270117T130000
+SUMMARY:⚽ SWU Wild 16G vs WHU West Hills Panthers 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4246\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708480@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T130000
+DTEND;TZID=America/Edmonton:20270117T140000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs Airdrie F.C. Roses 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4247\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708488@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T091500
+DTEND;TZID=America/Edmonton:20270131T101500
+SUMMARY:⚽ WHU West Hills Panthers 16 vs CWFC G2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4249\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708496@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T100000
+DTEND;TZID=America/Edmonton:20270131T110000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs SWU Wild 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4251\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708492@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T101500
+DTEND;TZID=America/Edmonton:20270131T111500
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs CalGlen Rockets 16/17
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4250\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708484@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T150000
+DTEND;TZID=America/Edmonton:20270131T160000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs RANGERS WFC 16 YELLOW
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4248\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708511@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T080000
+DTEND;TZID=America/Edmonton:20270207T090000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs WHU West Hills Panthers 16
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4255\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708503@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T120000
+DTEND;TZID=America/Edmonton:20270207T130000
+SUMMARY:⚽ CWFC G2016 Black vs Foothills 2016 Prospects Girls
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4253\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708507@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T130000
+DTEND;TZID=America/Edmonton:20270207T140000
+SUMMARY:⚽ SWU Wild 16G vs RANGERS WFC 16 YELLOW
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4254\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708499@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T160000
+DTEND;TZID=America/Edmonton:20270207T170000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs New Frontier SC 2016 Girls (Harman)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4252\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708515@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T121500
+DTEND;TZID=America/Edmonton:20270221T131500
+SUMMARY:⚽ RANGERS WFC 16 YELLOW vs CWFC G2016 Black
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4258\nGirls U11 Dev Plus+ PRINCE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708516@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T130000
+DTEND;TZID=America/Edmonton:20270221T140000
+SUMMARY:⚽ SWU Wild 16G vs Airdrie F.C. Roses 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4259\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708513@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T140000
+DTEND;TZID=America/Edmonton:20270221T150000
+SUMMARY:⚽ Foothills 2016 Prospects Girls vs CalGlen Rockets 16/17
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4256\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708514@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T150000
+DTEND;TZID=America/Edmonton:20270221T160000
+SUMMARY:⚽ WHU West Hills Panthers 16 vs New Frontier SC 2016 Girls (Harm
+ an)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4257\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708518@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T140000
+DTEND;TZID=America/Edmonton:20270228T150000
+SUMMARY:⚽ CalGlen Rockets 16/17 vs RANGERS WFC 16 YELLOW
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4261\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708519@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T150000
+DTEND;TZID=America/Edmonton:20270228T160000
+SUMMARY:⚽ CWFC G2016 Black vs SWU Wild 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4262\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708517@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T160000
+DTEND;TZID=America/Edmonton:20270228T170000
+SUMMARY:⚽ Airdrie F.C. Roses 16 vs WHU West Hills Panthers 16
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4260\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Airdrie
+  Genesis — Boarded field (boards not in use for 7v7) | Regular cleats |
+  Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708520@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T160000
+DTEND;TZID=America/Edmonton:20270228T170000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs Foothills 2016 Prospect
+ s Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4263\nGirls U11 Dev Plus+ PRINCE\nVenue notes: Villain
+ s Dome - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

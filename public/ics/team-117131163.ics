@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chinooks FC United 2013 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709936@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T170000
+DTEND;TZID=America/Edmonton:20261018T180000
+SUMMARY:⚽ Chinooks FC United 2013 at Blizzard SC 13 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2401\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709969@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T180000
+DTEND;TZID=America/Edmonton:20261101T190000
+SUMMARY:⚽ Chinooks FC United 2013 vs Blizzard SC 14 Boys (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2410\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709976@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T131500
+DTEND;TZID=America/Edmonton:20261108T141500
+SUMMARY:⚽ Chinooks FC United 2013 at MUSC Prospects 13 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2415\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709983@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T153000
+DTEND;TZID=America/Edmonton:20261115T163000
+SUMMARY:⚽ Chinooks FC United 2013 at Airdrie F.C. Crew 14 (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2422\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709992@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T080000
+DTEND;TZID=America/Edmonton:20261122T090000
+SUMMARY:⚽ Chinooks FC United 2013 vs Villains Dynamo 14 (home)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2429\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710000@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T154500
+DTEND;TZID=America/Edmonton:20261129T164500
+SUMMARY:⚽ Chinooks FC United 2013 at CWFC B2013 Black (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2439\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710008@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T170000
+DTEND;TZID=America/Edmonton:20261206T180000
+SUMMARY:⚽ Chinooks FC United 2013 vs LSCA B Liverpool 2013 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2447\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710013@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T181500
+DTEND;TZID=America/Edmonton:20261213T191500
+SUMMARY:⚽ Chinooks FC United 2013 at SWU Rayo 14B (away)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2452\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710030@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T194500
+DTEND;TZID=America/Edmonton:20270103T204500
+SUMMARY:⚽ Chinooks FC United 2013 vs Foothills FC 2013 (home)
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2465\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710056@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T114500
+DTEND;TZID=America/Edmonton:20270117T124500
+SUMMARY:⚽ Chinooks FC United 2013 vs Rockies Albion 13 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2478\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710076@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T091500
+DTEND;TZID=America/Edmonton:20270124T101500
+SUMMARY:⚽ Chinooks FC United 2013 at LSCA B City 2013 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #2488\nBoys U14 Tier 1\nVenue notes: Maxwell soccer cen
+ tre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex) B
+ oarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | 
+ Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710087@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T110000
+DTEND;TZID=America/Edmonton:20270207T120000
+SUMMARY:⚽ Chinooks FC United 2013 vs SWU SC 13 B (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2495\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710109@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T121500
+DTEND;TZID=America/Edmonton:20270221T131500
+SUMMARY:⚽ Chinooks FC United 2013 at RANGERS FC13 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #2504\nBoys U14 Tier 1\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11710126@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T114500
+DTEND;TZID=America/Edmonton:20270228T124500
+SUMMARY:⚽ Chinooks FC United 2013 vs Villains Blue 13 (home)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #2513\nBoys U14 Tier 1\nVenue notes: Shouldice- regular
+  cleats | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

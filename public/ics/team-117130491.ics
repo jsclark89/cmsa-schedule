@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Airdrie F.C. Atletico 17 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707276@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T100000
+DTEND;TZID=America/Edmonton:20261024T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs Chinooks FC Premiers 2017 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #359\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707287@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T170000
+DTEND;TZID=America/Edmonton:20261107T180000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at EMFC Galaxy 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #370\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707292@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T100000
+DTEND;TZID=America/Edmonton:20261114T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs MUSC Wolves 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #375\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707305@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T130000
+DTEND;TZID=America/Edmonton:20261121T140000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at Foothills Benfica 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #388\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707308@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T100000
+DTEND;TZID=America/Edmonton:20261128T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs CNEU 2017 Strikers (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #391\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707316@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T100000
+DTEND;TZID=America/Edmonton:20261205T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs CalGlen Cavalry 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #399\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707324@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T090000
+DTEND;TZID=America/Edmonton:20261219T100000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at CUFC Avengers 2017/18 (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #407\nBoys U10 Dev Plus+ KERR\nVenue notes: Indoor Seas
+ on Genesis — Boarded field (boards not in use for 7v7) | Flat-sole shoe
+ s (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707338@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T090000
+DTEND;TZID=America/Edmonton:20270102T100000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at Villains Raptors 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #421\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707340@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T100000
+DTEND;TZID=America/Edmonton:20270109T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs Blizzard Alliance 17 Boys (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #423\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707352@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T090000
+DTEND;TZID=America/Edmonton:20270123T100000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at SWU Juventus 17B (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #435\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707356@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T080000
+DTEND;TZID=America/Edmonton:20270130T090000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at Foothills PSG 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #439\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707364@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T110000
+DTEND;TZID=America/Edmonton:20270206T120000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs New Frontier SC 2017 Boys (Good) (
+ home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #447\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707372@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T100000
+DTEND;TZID=America/Edmonton:20270220T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 vs Foothills Lazio (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #455\nBoys U10 Dev Plus+ KERR\nVenue notes: Airdrie Gen
+ esis — Boarded field (boards not in use for 7v7) | Regular cleats | Tur
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707384@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T100000
+DTEND;TZID=America/Edmonton:20270227T110000
+SUMMARY:⚽ Airdrie F.C. Atletico 17 at Villains FC 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #467\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

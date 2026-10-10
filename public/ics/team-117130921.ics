@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard SC 17 Girls (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707606@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T140000
+DTEND;TZID=America/Edmonton:20261017T150000
+SUMMARY:⚽ Blizzard SC 17 Girls at RANGERS WFC 17 BLUE (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4063\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707609@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T120000
+DTEND;TZID=America/Edmonton:20261024T130000
+SUMMARY:⚽ Blizzard SC 17 Girls vs New Frontier SC 2017 Girls (Rodriguez)
+  (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4066\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707612@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T130000
+DTEND;TZID=America/Edmonton:20261031T140000
+SUMMARY:⚽ Blizzard SC 17 Girls at Chinooks WFC United 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4069\nGirls U10 Dev Plus+ WARD\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707615@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T090000
+DTEND;TZID=America/Edmonton:20261107T100000
+SUMMARY:⚽ Blizzard SC 17 Girls vs WHU West Hills Nova 17 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4072\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707617@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T110000
+DTEND;TZID=America/Edmonton:20261114T120000
+SUMMARY:⚽ Blizzard SC 17 Girls vs Foothills Roses 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4074\nGirls U10 Dev Plus+ WARD\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707619@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T140000
+DTEND;TZID=America/Edmonton:20261121T150000
+SUMMARY:⚽ Blizzard SC 17 Girls at Villains Comets 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4076\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707626@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T140000
+DTEND;TZID=America/Edmonton:20261205T150000
+SUMMARY:⚽ Blizzard SC 17 Girls vs RANGERS WFC 17 BLUE (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4083\nGirls U10 Dev Plus+ WARD\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707629@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T110000
+DTEND;TZID=America/Edmonton:20261212T120000
+SUMMARY:⚽ Blizzard SC 17 Girls at New Frontier SC 2017 Girls (Rodriguez)
+  (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4086\nGirls U10 Dev Plus+ WARD\nVenue notes: Indoor Se
+ ason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sh
+ oes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707633@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T101500
+DTEND;TZID=America/Edmonton:20261219T111500
+SUMMARY:⚽ Blizzard SC 17 Girls vs Chinooks WFC United 2017 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4090\nGirls U10 Dev Plus+ WARD\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707636@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T140000
+DTEND;TZID=America/Edmonton:20270102T150000
+SUMMARY:⚽ Blizzard SC 17 Girls at WHU West Hills Nova 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4093\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707638@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T090000
+DTEND;TZID=America/Edmonton:20270109T100000
+SUMMARY:⚽ Blizzard SC 17 Girls at Foothills Roses 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4095\nGirls U10 Dev Plus+ WARD\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707640@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T090000
+DTEND;TZID=America/Edmonton:20270123T100000
+SUMMARY:⚽ Blizzard SC 17 Girls vs Villains Comets 17 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4097\nGirls U10 Dev Plus+ WARD\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707647@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T150000
+DTEND;TZID=America/Edmonton:20270207T160000
+SUMMARY:⚽ Blizzard SC 17 Girls at RANGERS WFC 17 BLUE (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4104\nGirls U10 Dev Plus+ WARD\nVenue notes: Indoor Se
+ ason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sh
+ oes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707651@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T140000
+DTEND;TZID=America/Edmonton:20270220T150000
+SUMMARY:⚽ Blizzard SC 17 Girls vs New Frontier SC 2017 Girls (Rodriguez)
+  (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4108\nGirls U10 Dev Plus+ WARD\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+END:VCALENDAR

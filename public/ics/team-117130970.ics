@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rockies Impact 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708313@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T110000
+DTEND;TZID=America/Edmonton:20261017T120000
+SUMMARY:⚽ Rockies Impact 16 at SWU Tides 16 G (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4112\nGirls U11 Dev HUITEMA\nVenue notes: Villains Dom
+ e - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708315@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T121500
+DTEND;TZID=America/Edmonton:20261024T131500
+SUMMARY:⚽ Rockies Impact 16 vs Blizzard United 16 Girls (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4114\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708317@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T150000
+DTEND;TZID=America/Edmonton:20261031T160000
+SUMMARY:⚽ Rockies Impact 16 at WHU West Hills Eagles 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4116\nGirls U11 Dev HUITEMA\nVenue notes: Maxwell socc
+ er centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/An
+ nex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runne
+ rs) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708321@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T163000
+DTEND;TZID=America/Edmonton:20261107T173000
+SUMMARY:⚽ Rockies Impact 16 vs Foothills Wave 2016 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4120\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708323@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T164500
+DTEND;TZID=America/Edmonton:20261114T174500
+SUMMARY:⚽ Rockies Impact 16 vs Villains Current 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4122\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708326@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T130000
+DTEND;TZID=America/Edmonton:20261121T140000
+SUMMARY:⚽ Rockies Impact 16 at MUSC Phoenix 16 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4125\nGirls U11 Dev HUITEMA\nVenue notes: Maxwell socc
+ er centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/An
+ nex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runne
+ rs) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708332@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T163000
+DTEND;TZID=America/Edmonton:20261205T173000
+SUMMARY:⚽ Rockies Impact 16 vs SWU Tides 16 G (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4131\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708337@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T100000
+DTEND;TZID=America/Edmonton:20261213T110000
+SUMMARY:⚽ Rockies Impact 16 at Blizzard United 16 Girls (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4136\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708340@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T081500
+DTEND;TZID=America/Edmonton:20261219T091500
+SUMMARY:⚽ Rockies Impact 16 vs WHU West Hills Eagles 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4139\nGirls U11 Dev HUITEMA\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708343@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T150000
+DTEND;TZID=America/Edmonton:20270102T160000
+SUMMARY:⚽ Rockies Impact 16 at Foothills Wave 2016 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4142\nGirls U11 Dev HUITEMA\nVenue notes: Maxwell socc
+ er centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/An
+ nex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runne
+ rs) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708344@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T140000
+DTEND;TZID=America/Edmonton:20270109T150000
+SUMMARY:⚽ Rockies Impact 16 at Villains Current 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4143\nGirls U11 Dev HUITEMA\nVenue notes: Villains Dom
+ e - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708348@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T130000
+DTEND;TZID=America/Edmonton:20270116T140000
+SUMMARY:⚽ Rockies Impact 16 vs MUSC Phoenix 16 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4147\nGirls U11 Dev HUITEMA\nVenue notes: Villains Dom
+ e - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708355@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T160000
+DTEND;TZID=America/Edmonton:20270130T170000
+SUMMARY:⚽ Rockies Impact 16 at SWU Tides 16 G (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4154\nGirls U11 Dev HUITEMA\nVenue notes: Villains Dom
+ e - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708358@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T110000
+DTEND;TZID=America/Edmonton:20270206T120000
+SUMMARY:⚽ Rockies Impact 16 vs Blizzard United 16 Girls (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4157\nGirls U11 Dev HUITEMA\nVenue notes: Villains Dom
+ e - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

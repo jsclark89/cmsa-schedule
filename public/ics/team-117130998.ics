@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard Alliance 16 Girls (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708363@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T131500
+DTEND;TZID=America/Edmonton:20261024T141500
+SUMMARY:⚽ Blizzard Alliance 16 Girls at Rockies Energie 16 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4162\nGirls U11 Dev Plus+ FLEMING\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708366@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T140000
+DTEND;TZID=America/Edmonton:20261031T150000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs Villains Courage 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4165\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708369@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T130000
+DTEND;TZID=America/Edmonton:20261107T140000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at NCFC 16 Crew (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4168\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708372@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T130000
+DTEND;TZID=America/Edmonton:20261114T140000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs MUSC Stars 16 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4171\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708376@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T120000
+DTEND;TZID=America/Edmonton:20261122T130000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs Foothills WFC White 2016 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4175\nGirls U11 Dev Plus+ FLEMING\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708380@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T160000
+DTEND;TZID=America/Edmonton:20261128T170000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at CNS U11G Panthers 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4179\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708386@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T110000
+DTEND;TZID=America/Edmonton:20261213T120000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs Rockies Energie 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4184\nGirls U11 Dev Plus+ FLEMING\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708393@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T160000
+DTEND;TZID=America/Edmonton:20261219T170000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at Villains Courage 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4188\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708394@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T100000
+DTEND;TZID=America/Edmonton:20270109T110000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs NCFC 16 Crew (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4189\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708400@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T160000
+DTEND;TZID=America/Edmonton:20270117T170000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at MUSC Stars 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4192\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708406@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T080000
+DTEND;TZID=America/Edmonton:20270123T090000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at Foothills WFC White 2016 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4195\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708413@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T140000
+DTEND;TZID=America/Edmonton:20270130T150000
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs CNS U11G Panthers 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4198\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708426@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:⚽ Blizzard Alliance 16 Girls at Rockies Energie 16 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4205\nGirls U11 Dev Plus+ FLEMING\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708432@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T101500
+DTEND;TZID=America/Edmonton:20270227T111500
+SUMMARY:⚽ Blizzard Alliance 16 Girls vs Villains Courage 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4207\nGirls U11 Dev Plus+ FLEMING\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

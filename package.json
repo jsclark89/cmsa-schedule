@@ -1,0 +1,22 @@
+{
+  "name": "cmsa-schedule",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Unofficial, parent-friendly schedule site for Calgary Minor Soccer Association leagues",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "cheerio": "^1.2.0",
+    "vite": "^8.3.4"
+  }
+}

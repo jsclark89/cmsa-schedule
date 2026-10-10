@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foothills Union 2016 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707971@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T110000
+DTEND;TZID=America/Edmonton:20261017T120000
+SUMMARY:⚽ Foothills Union 2016 vs Villains Crew 16 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #879\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707983@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T100000
+DTEND;TZID=America/Edmonton:20261024T110000
+SUMMARY:⚽ Foothills Union 2016 at New Frontier SC 2016 Boys (Al-Asad) (a
+ way)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #891\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707991@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T120000
+DTEND;TZID=America/Edmonton:20261108T130000
+SUMMARY:⚽ Foothills Union 2016 vs SWU Lyon 16B (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #899\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707995@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T100000
+DTEND;TZID=America/Edmonton:20261114T110000
+SUMMARY:⚽ Foothills Union 2016 at EMFC Crew 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #903\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708006@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T090000
+DTEND;TZID=America/Edmonton:20261121T100000
+SUMMARY:⚽ Foothills Union 2016 at WHU West Hills Mustangs 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #914\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708010@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T080000
+DTEND;TZID=America/Edmonton:20261128T090000
+SUMMARY:⚽ Foothills Union 2016 vs Rockies Dundee 16 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #918\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708022@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T120000
+DTEND;TZID=America/Edmonton:20261213T130000
+SUMMARY:⚽ Foothills Union 2016 vs NCFC 16 Sounders (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #930\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708030@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T110000
+DTEND;TZID=America/Edmonton:20261219T120000
+SUMMARY:⚽ Foothills Union 2016 at Rockies Albion 16 (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #938\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708032@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T080000
+DTEND;TZID=America/Edmonton:20270102T090000
+SUMMARY:⚽ Foothills Union 2016 at Villains Ravens 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #940\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708043@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T140000
+DTEND;TZID=America/Edmonton:20270116T150000
+SUMMARY:⚽ Foothills Union 2016 vs Blizzard Albion 16 Boys (home)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #951\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708050@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T150000
+DTEND;TZID=America/Edmonton:20270123T160000
+SUMMARY:⚽ Foothills Union 2016 vs CalGlen Lightning 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #958\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708063@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T150000
+DTEND;TZID=America/Edmonton:20270206T160000
+SUMMARY:⚽ Foothills Union 2016 at CCFC Calgary City FC Cavalry 2016 (awa
+ y)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #971\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708064@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:⚽ Foothills Union 2016 at Airdrie F.C. Wanderers 16 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #972\nBoys U11 Dev Plus+ JONES\nVenue notes: Airdrie Ge
+ nesis — Boarded field (boards not in use for 7v7) | Regular cleats | Tu
+ rf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708074@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T100000
+DTEND;TZID=America/Edmonton:20270227T110000
+SUMMARY:⚽ Foothills Union 2016 vs Spartans Adamastos 16 (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #982\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+END:VCALENDAR

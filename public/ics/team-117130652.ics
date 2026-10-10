@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Frontier SC 2016 Boys (Al-Asad) (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707968@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T080000
+DTEND;TZID=America/Edmonton:20261017T090000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at EMFC Crew 16 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #876\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707983@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T100000
+DTEND;TZID=America/Edmonton:20261024T110000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Foothills Union 2016 (h
+ ome)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #891\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707984@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T140000
+DTEND;TZID=America/Edmonton:20261107T150000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs NCFC 16 Sounders (home)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #892\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707998@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T130000
+DTEND;TZID=America/Edmonton:20261114T140000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at Rockies Albion 16 (away
+ )
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #906\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708003@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T160000
+DTEND;TZID=America/Edmonton:20261121T170000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Villains Ravens 16 (hom
+ e)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #911\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708015@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T140000
+DTEND;TZID=America/Edmonton:20261128T150000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CCFC Calgary City FC Ca
+ valry 2016 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #923\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708017@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T080000
+DTEND;TZID=America/Edmonton:20261212T090000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at Spartans Adamastos 16 (
+ away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #925\nBoys U11 Dev Plus+ JONES\nVenue notes: Indoor Sea
+ son Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sho
+ es (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708031@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T111500
+DTEND;TZID=America/Edmonton:20261219T121500
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs SWU Lyon 16B (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #939\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708039@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T160000
+DTEND;TZID=America/Edmonton:20270102T170000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at Rockies Dundee 16 (away
+ )
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #947\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708044@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T150000
+DTEND;TZID=America/Edmonton:20270116T160000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at Chinooks FC Premiers 20
+ 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #952\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708049@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T140000
+DTEND;TZID=America/Edmonton:20270123T150000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at WHU West Hills Mustangs
+  16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #957\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708057@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T090000
+DTEND;TZID=America/Edmonton:20270206T100000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Airdrie F.C. Wanderers 
+ 16 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #965\nBoys U11 Dev Plus+ JONES\nVenue notes: Maxwell so
+ ccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/
+ Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (run
+ ners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708066@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T100000
+DTEND;TZID=America/Edmonton:20270220T110000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) at Villains Crew 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #974\nBoys U11 Dev Plus+ JONES\nVenue notes: Villains D
+ ome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708078@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T110000
+DTEND;TZID=America/Edmonton:20270227T120000
+SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CalGlen Lightning 16 (h
+ ome)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #986\nBoys U11 Dev Plus+ JONES\nVenue notes: 
+END:VEVENT
+END:VCALENDAR

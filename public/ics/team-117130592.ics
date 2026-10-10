@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MUSC Forge 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11701805@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T120000
+DTEND;TZID=America/Edmonton:20261018T130000
+SUMMARY:⚽ MUSC Forge 16 vs Villains Storm 16 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #624\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701814@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T160000
+DTEND;TZID=America/Edmonton:20261025T170000
+SUMMARY:⚽ MUSC Forge 16 at SWU Nantes 16B (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #633\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701819@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T121500
+DTEND;TZID=America/Edmonton:20261108T131500
+SUMMARY:⚽ MUSC Forge 16 vs SSA Strikers 16/17 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #638\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701822@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T130000
+DTEND;TZID=America/Edmonton:20261115T140000
+SUMMARY:⚽ MUSC Forge 16 vs SWU Reims 16B (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #641\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701829@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T120000
+DTEND;TZID=America/Edmonton:20261122T130000
+SUMMARY:⚽ MUSC Forge 16 at MUSC Valor 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #648\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701831@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T090000
+DTEND;TZID=America/Edmonton:20261129T100000
+SUMMARY:⚽ MUSC Forge 16 vs Foothills Forest 2016 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #650\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701838@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T150000
+DTEND;TZID=America/Edmonton:20261206T160000
+SUMMARY:⚽ MUSC Forge 16 at LSCA B Chelsea (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #657\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701843@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261213T100000
+DTEND;TZID=America/Edmonton:20261213T110000
+SUMMARY:⚽ MUSC Forge 16 at RWFC Royal West FC Shakhtar 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #662\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701853@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T120000
+DTEND;TZID=America/Edmonton:20270103T130000
+SUMMARY:⚽ MUSC Forge 16 vs SWU Olympique 16B (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #672\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701855@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T110000
+DTEND;TZID=America/Edmonton:20270110T120000
+SUMMARY:⚽ MUSC Forge 16 vs SWU Nantes 16B (home)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #674\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701860@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T120000
+DTEND;TZID=America/Edmonton:20270124T130000
+SUMMARY:⚽ MUSC Forge 16 at SSA Strikers 16/17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #679\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701869@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T150000
+DTEND;TZID=America/Edmonton:20270131T160000
+SUMMARY:⚽ MUSC Forge 16 vs Foothills Norwich 2016 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #688\nBoys U11 Dev MILLER\nVenue notes: Villains Dome -
+  | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701870@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T080000
+DTEND;TZID=America/Edmonton:20270207T090000
+SUMMARY:⚽ MUSC Forge 16 at SWU Reims 16B (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #689\nBoys U11 Dev MILLER\nVenue notes: Maxwell soccer 
+ centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/Annex
+ ) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners)
+  | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11701879@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T140000
+DTEND;TZID=America/Edmonton:20270221T150000
+SUMMARY:⚽ MUSC Forge 16 at Villains Storm 16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #698\nBoys U11 Dev MILLER\nVenue notes: Villains Dome -
+  | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

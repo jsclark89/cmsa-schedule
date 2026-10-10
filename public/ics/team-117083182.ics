@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CNEU Wildcats (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709216@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T153000
+DTEND;TZID=America/Edmonton:20261017T163000
+SUMMARY:⚽ CNEU Wildcats vs Cochrane Wolves U12G (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4407\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709232@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T183000
+DTEND;TZID=America/Edmonton:20261024T193000
+SUMMARY:⚽ CNEU Wildcats at Blizzard United 15 Girls (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4415\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709241@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T093000
+DTEND;TZID=America/Edmonton:20261031T103000
+SUMMARY:⚽ CNEU Wildcats vs Spartans Athena (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4419\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709248@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T130000
+DTEND;TZID=America/Edmonton:20261114T140000
+SUMMARY:⚽ CNEU Wildcats at SWU Rise 15G (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4422\nGirls U12 City Wide Tier 3\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709266@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T083000
+DTEND;TZID=America/Edmonton:20261121T093000
+SUMMARY:⚽ CNEU Wildcats vs WHU West Hills Waves 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4428\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709274@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T133000
+DTEND;TZID=America/Edmonton:20261128T143000
+SUMMARY:⚽ CNEU Wildcats at OUSC United G15 (away)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4434\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709282@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T130000
+DTEND;TZID=America/Edmonton:20261205T140000
+SUMMARY:⚽ CNEU Wildcats at RANGERS W ROYALS 15 (away)
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4440\nGirls U12 City Wide Tier 3\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709292@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T133000
+DTEND;TZID=America/Edmonton:20261212T143000
+SUMMARY:⚽ CNEU Wildcats vs Rockies Impact 15 (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4447\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709298@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T090000
+DTEND;TZID=America/Edmonton:20270103T100000
+SUMMARY:⚽ CNEU Wildcats at Airdrie F.C. Angels 15 (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4452\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709310@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T130000
+DTEND;TZID=America/Edmonton:20270117T140000
+SUMMARY:⚽ CNEU Wildcats vs MUSC Lions 15 (home)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4461\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709316@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T130000
+DTEND;TZID=America/Edmonton:20270124T140000
+SUMMARY:⚽ CNEU Wildcats vs EMFC Rising 16 (home)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4465\nGirls U12 City Wide Tier 3\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709329@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T150000
+DTEND;TZID=America/Edmonton:20270207T160000
+SUMMARY:⚽ CNEU Wildcats at Cochrane Wolves U12G (away)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4475\nGirls U12 City Wide Tier 3\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709332@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T120000
+DTEND;TZID=America/Edmonton:20270221T130000
+SUMMARY:⚽ CNEU Wildcats vs Blizzard United 15 Girls (home)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4477\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709339@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T080000
+DTEND;TZID=America/Edmonton:20270228T090000
+SUMMARY:⚽ CNEU Wildcats at Spartans Athena (away)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4482\nGirls U12 City Wide Tier 3\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

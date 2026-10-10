@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EMFC Cavalry 16 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707912@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T160000
+DTEND;TZID=America/Edmonton:20261025T170000
+SUMMARY:⚽ EMFC Cavalry 16 vs Foothills Prospects 2016 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #820\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707915@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T140000
+DTEND;TZID=America/Edmonton:20261101T150000
+SUMMARY:⚽ EMFC Cavalry 16 at New Frontier SC 2016 Boys (Good) (away)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #823\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707917@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T140000
+DTEND;TZID=America/Edmonton:20261108T150000
+SUMMARY:⚽ EMFC Cavalry 16 vs Blizzard Athletic 16 Boys (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #825\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707922@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T120000
+DTEND;TZID=America/Edmonton:20261115T130000
+SUMMARY:⚽ EMFC Cavalry 16 at CUFC Rangers 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #830\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707926@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T140000
+DTEND;TZID=America/Edmonton:20261122T150000
+SUMMARY:⚽ EMFC Cavalry 16 at Villains Gunners 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #834\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707929@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T150000
+DTEND;TZID=America/Edmonton:20261129T160000
+SUMMARY:⚽ EMFC Cavalry 16 vs OUSC United B16 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #837\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707934@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T130000
+DTEND;TZID=America/Edmonton:20261206T140000
+SUMMARY:⚽ EMFC Cavalry 16 vs RANGERS FC16 NAVY (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #842\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707939@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T120000
+DTEND;TZID=America/Edmonton:20261220T130000
+SUMMARY:⚽ EMFC Cavalry 16 at Foothills United 2016 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #847\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707945@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T120000
+DTEND;TZID=America/Edmonton:20270110T130000
+SUMMARY:⚽ EMFC Cavalry 16 at Foothills Prospects 2016 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #853\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707949@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T130000
+DTEND;TZID=America/Edmonton:20270124T140000
+SUMMARY:⚽ EMFC Cavalry 16 vs New Frontier SC 2016 Boys (Good) (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #857\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707956@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T100000
+DTEND;TZID=America/Edmonton:20270131T110000
+SUMMARY:⚽ EMFC Cavalry 16 at Blizzard Athletic 16 Boys (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #864\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707958@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T130000
+DTEND;TZID=America/Edmonton:20270207T140000
+SUMMARY:⚽ EMFC Cavalry 16 vs CUFC Rangers 16 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #866\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707963@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T160000
+DTEND;TZID=America/Edmonton:20270221T170000
+SUMMARY:⚽ EMFC Cavalry 16 at RANGERS FC16 NAVY (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #871\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707964@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T140000
+DTEND;TZID=America/Edmonton:20270228T150000
+SUMMARY:⚽ EMFC Cavalry 16 vs Foothills United 2016 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #872\nBoys U11 Dev Plus+ GOODMAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+END:VCALENDAR

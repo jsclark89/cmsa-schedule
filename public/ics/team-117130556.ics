@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Airdrie F.C. Juventus 17 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707510@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T110000
+DTEND;TZID=America/Edmonton:20261017T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at RANGERS FC17 RED (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #257\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707513@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T110000
+DTEND;TZID=America/Edmonton:20261024T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs S4 Lightning 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #260\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707522@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T080000
+DTEND;TZID=America/Edmonton:20261031T090000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at New Frontier SC 2017 Boys (Szautne
+ r) (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #269\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707527@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T110000
+DTEND;TZID=America/Edmonton:20261107T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs New Frontier SC 2017 Boys (O'Conne
+ ll) (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #274\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707537@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T100000
+DTEND;TZID=America/Edmonton:20261121T110000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at CNEU 2017 HAWKS (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #284\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707541@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T110000
+DTEND;TZID=America/Edmonton:20261128T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs CFC Crossfield FC Boys U10 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #288\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707552@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T150000
+DTEND;TZID=America/Edmonton:20261205T160000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at CalGlen Whitecaps 17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #299\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707560@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T111500
+DTEND;TZID=America/Edmonton:20261219T121500
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at CCFC Calgary City FC Leo Messi 201
+ 7 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #307\nBoys U10 Dev Plus+ FRASER\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707564@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T160000
+DTEND;TZID=America/Edmonton:20270102T170000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Rockies Sevilla 17 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #311\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707572@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T110000
+DTEND;TZID=America/Edmonton:20270116T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at CUFC Kings 2017/18 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #319\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707576@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T100000
+DTEND;TZID=America/Edmonton:20270123T110000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs EMFC Energy 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #323\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707584@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T110000
+DTEND;TZID=America/Edmonton:20270130T120000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Chinooks FC Red 2017 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #331\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707590@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T090000
+DTEND;TZID=America/Edmonton:20270220T100000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 at CFC Crossfield FC Boys U10 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #337\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707597@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T100000
+DTEND;TZID=America/Edmonton:20270227T110000
+SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Blizzard Athletic 17 Boys (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #344\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+END:VCALENDAR

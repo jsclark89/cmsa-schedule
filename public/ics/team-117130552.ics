@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CFC Crossfield FC Boys U10 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707511@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T120000
+DTEND;TZID=America/Edmonton:20261017T130000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at Blizzard Athletic 17 Boys (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #258\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707519@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T130000
+DTEND;TZID=America/Edmonton:20261024T140000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at CCFC Calgary City FC Leo Messi 2
+ 017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #266\nBoys U10 Dev Plus+ FRASER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707520@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261031T110000
+DTEND;TZID=America/Edmonton:20261031T120000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs Rockies Sevilla 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #267\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707530@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T100000
+DTEND;TZID=America/Edmonton:20261107T110000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at RANGERS FC17 RED (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #277\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707534@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T100000
+DTEND;TZID=America/Edmonton:20261121T110000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs EMFC Energy 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #281\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707541@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T110000
+DTEND;TZID=America/Edmonton:20261128T120000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at Airdrie F.C. Juventus 17 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #288\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707548@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T110000
+DTEND;TZID=America/Edmonton:20261205T120000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs CUFC Kings 2017/18 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #295\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707557@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T110000
+DTEND;TZID=America/Edmonton:20261219T120000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs CalGlen Whitecaps 17 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #304\nBoys U10 Dev Plus+ FRASER\nVenue notes: Indoor Se
+ ason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole sh
+ oes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707563@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T150000
+DTEND;TZID=America/Edmonton:20270102T160000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at S4 Lightning 17 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #310\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707569@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270116T100000
+DTEND;TZID=America/Edmonton:20270116T110000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs New Frontier SC 2017 Boys (Szaut
+ ner) (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #316\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707577@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T120000
+DTEND;TZID=America/Edmonton:20270123T130000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at New Frontier SC 2017 Boys (O'Con
+ nell) (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #324\nBoys U10 Dev Plus+ FRASER\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707583@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T100000
+DTEND;TZID=America/Edmonton:20270130T110000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs CNEU 2017 HAWKS (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #330\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707590@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T090000
+DTEND;TZID=America/Edmonton:20270220T100000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 vs Airdrie F.C. Juventus 17 (home)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #337\nBoys U10 Dev Plus+ FRASER\nVenue notes: Airdrie G
+ enesis — Boarded field (boards not in use for 7v7) | Regular cleats | T
+ urf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707603@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270227T150000
+DTEND;TZID=America/Edmonton:20270227T160000
+SUMMARY:⚽ CFC Crossfield FC Boys U10 at Chinooks FC Red 2017 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #350\nBoys U10 Dev Plus+ FRASER\nVenue notes: Villains 
+ Dome - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

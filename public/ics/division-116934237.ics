@@ -1,0 +1,668 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Girls U11 Dev Plus+ REGAN (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708433@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T081500
+DTEND;TZID=America/Edmonton:20261018T091500
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs Foothills WFC Green 201
+ 6
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4265\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708425@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T101500
+DTEND;TZID=America/Edmonton:20261018T111500
+SUMMARY:⚽ Blizzard SC 16 Girls vs RANGERS WFC 16 BLUE
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4264\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708438@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T150000
+DTEND;TZID=America/Edmonton:20261018T160000
+SUMMARY:⚽ Villains Vipers 16 vs Airdrie F.C. Wild 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4266\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708440@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T160000
+DTEND;TZID=America/Edmonton:20261018T170000
+SUMMARY:⚽ SWU Reign 16G vs WHU West Hills Spirit 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4267\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708444@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T091500
+DTEND;TZID=America/Edmonton:20261025T101500
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs SWU Reign 16G
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4269\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708445@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T101500
+DTEND;TZID=America/Edmonton:20261025T111500
+SUMMARY:⚽ WHU West Hills Spirit 16 vs Airdrie F.C. Wild 16
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4270\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708447@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T111500
+DTEND;TZID=America/Edmonton:20261025T121500
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs Blizzard SC 16 Girls
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4271\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708442@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T150000
+DTEND;TZID=America/Edmonton:20261025T160000
+SUMMARY:⚽ Foothills WFC Green 2016 vs Villains Vipers 16
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4268\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708449@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T111500
+DTEND;TZID=America/Edmonton:20261108T121500
+SUMMARY:⚽ Blizzard SC 16 Girls vs Villains Vipers 16
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4273\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708451@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T121500
+DTEND;TZID=America/Edmonton:20261108T131500
+SUMMARY:⚽ WHU West Hills Spirit 16 vs RANGERS WFC 16 BLUE
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4274\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708448@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T160000
+DTEND;TZID=America/Edmonton:20261108T170000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs Foothills WFC Green 2016
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4272\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708452@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T160000
+DTEND;TZID=America/Edmonton:20261108T170000
+SUMMARY:⚽ SWU Reign 16G vs New Frontier SC 2016 Girls (Correa)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4275\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708454@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T121500
+DTEND;TZID=America/Edmonton:20261115T131500
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs WHU West Hills Spirit 1
+ 6
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4276\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708455@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T130000
+DTEND;TZID=America/Edmonton:20261115T140000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs Airdrie F.C. Wild 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4277\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708456@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T140000
+DTEND;TZID=America/Edmonton:20261115T150000
+SUMMARY:⚽ Villains Vipers 16 vs SWU Reign 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4278\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708458@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T150000
+DTEND;TZID=America/Edmonton:20261115T160000
+SUMMARY:⚽ Foothills WFC Green 2016 vs Blizzard SC 16 Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4279\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708459@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T080000
+DTEND;TZID=America/Edmonton:20261122T090000
+SUMMARY:⚽ WHU West Hills Spirit 16 vs Villains Vipers 16
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4280\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708460@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T090000
+DTEND;TZID=America/Edmonton:20261122T100000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs New Frontier SC 2016 Girls (Correa)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4281\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708462@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T100000
+DTEND;TZID=America/Edmonton:20261122T110000
+SUMMARY:⚽ Blizzard SC 16 Girls vs Airdrie F.C. Wild 16
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4282\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708463@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261122T140000
+DTEND;TZID=America/Edmonton:20261122T150000
+SUMMARY:⚽ SWU Reign 16G vs Foothills WFC Green 2016
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4283\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708466@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T130000
+DTEND;TZID=America/Edmonton:20261129T140000
+SUMMARY:⚽ Villains Vipers 16 vs RANGERS WFC 16 BLUE
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4285\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708467@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:⚽ Foothills WFC Green 2016 vs WHU West Hills Spirit 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4286\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708469@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T150000
+DTEND;TZID=America/Edmonton:20261129T160000
+SUMMARY:⚽ Blizzard SC 16 Girls vs SWU Reign 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4287\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708464@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T170000
+DTEND;TZID=America/Edmonton:20261129T180000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs New Frontier SC 2016 Girls (Correa)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4284\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708470@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T100000
+DTEND;TZID=America/Edmonton:20261220T110000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs Foothills WFC Green 2016
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4288\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708471@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T140000
+DTEND;TZID=America/Edmonton:20261220T150000
+SUMMARY:⚽ SWU Reign 16G vs Airdrie F.C. Wild 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4289\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708473@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T150000
+DTEND;TZID=America/Edmonton:20261220T160000
+SUMMARY:⚽ WHU West Hills Spirit 16 vs Blizzard SC 16 Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4290\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708474@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T160000
+DTEND;TZID=America/Edmonton:20261220T170000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs Villains Vipers 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4291\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708477@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T140000
+DTEND;TZID=America/Edmonton:20270103T150000
+SUMMARY:⚽ Foothills WFC Green 2016 vs New Frontier SC 2016 Girls (Correa
+ )
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4293\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708478@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T150000
+DTEND;TZID=America/Edmonton:20270103T160000
+SUMMARY:⚽ WHU West Hills Spirit 16 vs SWU Reign 16G
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4294\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708475@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T160000
+DTEND;TZID=America/Edmonton:20270103T170000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs Villains Vipers 16
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4292\nGirls U11 Dev Plus+ REGAN\nVenue notes: Indoor S
+ eason Genesis — Boarded field (boards not in use for 7v7) | Flat-sole s
+ hoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708479@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T160000
+DTEND;TZID=America/Edmonton:20270103T170000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs Blizzard SC 16 Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4295\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708481@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T110000
+DTEND;TZID=America/Edmonton:20270109T120000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs WHU West Hills Spirit 16
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4296\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708482@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T140000
+DTEND;TZID=America/Edmonton:20270109T150000
+SUMMARY:⚽ Villains Vipers 16 vs Foothills WFC Green 2016
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4297\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708485@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T140000
+DTEND;TZID=America/Edmonton:20270109T150000
+SUMMARY:⚽ Blizzard SC 16 Girls vs New Frontier SC 2016 Girls (Correa)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4299\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708483@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T150000
+DTEND;TZID=America/Edmonton:20270109T160000
+SUMMARY:⚽ SWU Reign 16G vs RANGERS WFC 16 BLUE
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4298\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708487@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T080000
+DTEND;TZID=America/Edmonton:20270117T090000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs WHU West Hills Spirit 16
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4301\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708489@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T090000
+DTEND;TZID=America/Edmonton:20270117T100000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs SWU Reign 16G
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4302\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708490@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T110000
+DTEND;TZID=America/Edmonton:20270117T120000
+SUMMARY:⚽ Villains Vipers 16 vs Blizzard SC 16 Girls
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4303\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708486@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T130000
+DTEND;TZID=America/Edmonton:20270117T140000
+SUMMARY:⚽ Foothills WFC Green 2016 vs Airdrie F.C. Wild 16
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4300\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708495@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T090000
+DTEND;TZID=America/Edmonton:20270131T100000
+SUMMARY:⚽ SWU Reign 16G vs Villains Vipers 16
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4307\nGirls U11 Dev Plus+ REGAN\nVenue notes: Villains
+  Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708493@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T111500
+DTEND;TZID=America/Edmonton:20270131T121500
+SUMMARY:⚽ WHU West Hills Spirit 16 vs New Frontier SC 2016 Girls (Correa
+ )
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4305\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708494@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T121500
+DTEND;TZID=America/Edmonton:20270131T131500
+SUMMARY:⚽ Blizzard SC 16 Girls vs Foothills WFC Green 2016
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4306\nGirls U11 Dev Plus+ REGAN\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708491@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T140000
+DTEND;TZID=America/Edmonton:20270131T150000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs RANGERS WFC 16 BLUE
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4304\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708498@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T090000
+DTEND;TZID=America/Edmonton:20270207T100000
+SUMMARY:⚽ Villains Vipers 16 vs WHU West Hills Spirit 16
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4309\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708500@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T100000
+DTEND;TZID=America/Edmonton:20270207T110000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs RANGERS WFC 16 BLUE
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4310\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708501@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T110000
+DTEND;TZID=America/Edmonton:20270207T120000
+SUMMARY:⚽ Foothills WFC Green 2016 vs SWU Reign 16G
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4311\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708497@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T150000
+DTEND;TZID=America/Edmonton:20270207T160000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs Blizzard SC 16 Girls
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4308\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708502@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T100000
+DTEND;TZID=America/Edmonton:20270221T110000
+SUMMARY:⚽ New Frontier SC 2016 Girls (Correa) vs Airdrie F.C. Wild 16
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4312\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708504@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T110000
+DTEND;TZID=America/Edmonton:20270221T120000
+SUMMARY:⚽ RANGERS WFC 16 BLUE vs Villains Vipers 16
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4313\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708505@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T120000
+DTEND;TZID=America/Edmonton:20270221T130000
+SUMMARY:⚽ WHU West Hills Spirit 16 vs Foothills WFC Green 2016
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4314\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708506@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T130000
+DTEND;TZID=America/Edmonton:20270221T140000
+SUMMARY:⚽ SWU Reign 16G vs Blizzard SC 16 Girls
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4315\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708509@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T080000
+DTEND;TZID=America/Edmonton:20270228T090000
+SUMMARY:⚽ Blizzard SC 16 Girls vs WHU West Hills Spirit 16
+LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4317\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708510@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T090000
+DTEND;TZID=America/Edmonton:20270228T100000
+SUMMARY:⚽ Foothills WFC Green 2016 vs RANGERS WFC 16 BLUE
+LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4318\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708512@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T100000
+DTEND;TZID=America/Edmonton:20270228T110000
+SUMMARY:⚽ Villains Vipers 16 vs New Frontier SC 2016 Girls (Correa)
+LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4319\nGirls U11 Dev Plus+ REGAN\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708508@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T150000
+DTEND;TZID=America/Edmonton:20270228T160000
+SUMMARY:⚽ Airdrie F.C. Wild 16 vs SWU Reign 16G
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #4316\nGirls U11 Dev Plus+ REGAN\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+END:VCALENDAR

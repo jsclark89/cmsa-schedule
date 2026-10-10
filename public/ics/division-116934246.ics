@@ -1,0 +1,518 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Girls U12 City Wide Tier 1 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709151@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T100000
+DTEND;TZID=America/Edmonton:20261024T110000
+SUMMARY:⚽ MUSC Current 15 vs Foothills WFC White 2015
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4320\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709152@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T130000
+DTEND;TZID=America/Edmonton:20261024T140000
+SUMMARY:⚽ Rockies Energie 15 vs Villains FC Pride 15
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4321\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709153@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T140000
+DTEND;TZID=America/Edmonton:20261024T150000
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs Blizzard SC 15 Girls
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4322\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709156@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T080000
+DTEND;TZID=America/Edmonton:20261107T090000
+SUMMARY:⚽ Blizzard SC 15 Girls vs MUSC Current 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4325\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709154@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T083000
+DTEND;TZID=America/Edmonton:20261107T093000
+SUMMARY:⚽ Villains FC Pride 15 vs New Frontier SC 2015 Girls (Zintel)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4323\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709155@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T113000
+DTEND;TZID=America/Edmonton:20261107T123000
+SUMMARY:⚽ Foothills WFC White 2015 vs Rockies Energie 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4324\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709157@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T080000
+DTEND;TZID=America/Edmonton:20261114T090000
+SUMMARY:⚽ Foothills WFC White 2015 vs Villains FC Pride 15
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4326\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709158@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T090000
+DTEND;TZID=America/Edmonton:20261114T100000
+SUMMARY:⚽ MUSC Current 15 vs New Frontier SC 2015 Girls (Zintel)
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4327\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709159@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T170000
+DTEND;TZID=America/Edmonton:20261114T180000
+SUMMARY:⚽ Blizzard SC 15 Girls vs Rockies Energie 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4328\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709160@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T133000
+DTEND;TZID=America/Edmonton:20261121T143000
+SUMMARY:⚽ Villains FC Pride 15 vs Blizzard SC 15 Girls
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4329\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709161@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T141500
+DTEND;TZID=America/Edmonton:20261121T151500
+SUMMARY:⚽ Rockies Energie 15 vs MUSC Current 15
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4330\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709162@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T151500
+DTEND;TZID=America/Edmonton:20261121T161500
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs Foothills WFC White 201
+ 5
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4331\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709164@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T081500
+DTEND;TZID=America/Edmonton:20261128T091500
+SUMMARY:⚽ Blizzard SC 15 Girls vs Foothills WFC White 2015
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4333\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709165@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T091500
+DTEND;TZID=America/Edmonton:20261128T101500
+SUMMARY:⚽ Rockies Energie 15 vs New Frontier SC 2015 Girls (Zintel)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4334\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709163@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T143000
+DTEND;TZID=America/Edmonton:20261128T153000
+SUMMARY:⚽ MUSC Current 15 vs Villains FC Pride 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4332\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709166@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T080000
+DTEND;TZID=America/Edmonton:20261205T090000
+SUMMARY:⚽ Foothills WFC White 2015 vs MUSC Current 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4335\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709167@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T090000
+DTEND;TZID=America/Edmonton:20261205T100000
+SUMMARY:⚽ Blizzard SC 15 Girls vs New Frontier SC 2015 Girls (Zintel)
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4336\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709168@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T100000
+DTEND;TZID=America/Edmonton:20261205T110000
+SUMMARY:⚽ Villains FC Pride 15 vs Rockies Energie 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4337\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709169@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T113000
+DTEND;TZID=America/Edmonton:20261212T123000
+SUMMARY:⚽ MUSC Current 15 vs Blizzard SC 15 Girls
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4338\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709170@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T130000
+DTEND;TZID=America/Edmonton:20261212T140000
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs Villains FC Pride 15
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4339\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709171@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261212T140000
+DTEND;TZID=America/Edmonton:20261212T150000
+SUMMARY:⚽ Rockies Energie 15 vs Foothills WFC White 2015
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4340\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709172@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T130000
+DTEND;TZID=America/Edmonton:20270103T140000
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs MUSC Current 15
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4341\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709173@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T140000
+DTEND;TZID=America/Edmonton:20270103T150000
+SUMMARY:⚽ Rockies Energie 15 vs Blizzard SC 15 Girls
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4342\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709174@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T150000
+DTEND;TZID=America/Edmonton:20270103T160000
+SUMMARY:⚽ Villains FC Pride 15 vs Foothills WFC White 2015
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4343\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709175@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T130000
+DTEND;TZID=America/Edmonton:20270110T140000
+SUMMARY:⚽ Foothills WFC White 2015 vs New Frontier SC 2015 Girls (Zintel
+ )
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4344\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709176@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T140000
+DTEND;TZID=America/Edmonton:20270110T150000
+SUMMARY:⚽ MUSC Current 15 vs Rockies Energie 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4345\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709177@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T170000
+DTEND;TZID=America/Edmonton:20270110T180000
+SUMMARY:⚽ Blizzard SC 15 Girls vs Villains FC Pride 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4346\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709178@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T080000
+DTEND;TZID=America/Edmonton:20270124T090000
+SUMMARY:⚽ Foothills WFC White 2015 vs Blizzard SC 15 Girls
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4347\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709179@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T090000
+DTEND;TZID=America/Edmonton:20270124T100000
+SUMMARY:⚽ Villains FC Pride 15 vs MUSC Current 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4348\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709180@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T154500
+DTEND;TZID=America/Edmonton:20270124T164500
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs Rockies Energie 15
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4349\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709182@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T094500
+DTEND;TZID=America/Edmonton:20270131T104500
+SUMMARY:⚽ Rockies Energie 15 vs Villains FC Pride 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4351\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709183@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T104500
+DTEND;TZID=America/Edmonton:20270131T114500
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs Blizzard SC 15 Girls
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4352\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709181@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T121500
+DTEND;TZID=America/Edmonton:20270131T131500
+SUMMARY:⚽ MUSC Current 15 vs Foothills WFC White 2015
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4350\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709184@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T150000
+DTEND;TZID=America/Edmonton:20270207T160000
+SUMMARY:⚽ Villains FC Pride 15 vs New Frontier SC 2015 Girls (Zintel)
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4353\nGirls U12 City Wide Tier 1\nVenue notes: Maxwell
+  soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Ma
+ in/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (
+ runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709185@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T160000
+DTEND;TZID=America/Edmonton:20270207T170000
+SUMMARY:⚽ Rockies Energie 15 vs Foothills WFC White 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4354\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709186@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T170000
+DTEND;TZID=America/Edmonton:20270207T180000
+SUMMARY:⚽ Blizzard SC 15 Girls vs MUSC Current 15
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4355\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709187@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T080000
+DTEND;TZID=America/Edmonton:20270221T090000
+SUMMARY:⚽ New Frontier SC 2015 Girls (Zintel) vs MUSC Current 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4356\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709188@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T090000
+DTEND;TZID=America/Edmonton:20270221T100000
+SUMMARY:⚽ Blizzard SC 15 Girls vs Rockies Energie 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4357\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709189@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T100000
+DTEND;TZID=America/Edmonton:20270221T110000
+SUMMARY:⚽ Foothills WFC White 2015 vs Villains FC Pride 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Game #4358\nGirls U12 City Wide Tier 1\nVenue notes: Shouldi
+ ce- regular cleats | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709190@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T110000
+DTEND;TZID=America/Edmonton:20270228T120000
+SUMMARY:⚽ Foothills WFC White 2015 vs New Frontier SC 2015 Girls (Zintel
+ )
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4359\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709191@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T120000
+DTEND;TZID=America/Edmonton:20270228T130000
+SUMMARY:⚽ MUSC Current 15 vs Rockies Energie 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4360\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709192@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T130000
+DTEND;TZID=America/Edmonton:20270228T140000
+SUMMARY:⚽ Villains FC Pride 15 vs Blizzard SC 15 Girls
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Game #4361\nGirls U12 City Wide Tier 1\nVenue notes: Foothil
+ ls Macron - | Regular cleats | Turf
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EMFC Spirit 17 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707720@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T110000
+DTEND;TZID=America/Edmonton:20261025T120000
+SUMMARY:⚽ EMFC Spirit 17 at OUSC United G16 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #3995\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707721@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261101T150000
+DTEND;TZID=America/Edmonton:20261101T160000
+SUMMARY:⚽ EMFC Spirit 17 at CNEU 2017 Sting (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #3996\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707728@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T100000
+DTEND;TZID=America/Edmonton:20261108T110000
+SUMMARY:⚽ EMFC Spirit 17 vs Foothills Tides 2017 (home)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #4003\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Villai
+ ns Dome - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707731@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T080000
+DTEND;TZID=America/Edmonton:20261115T090000
+SUMMARY:⚽ EMFC Spirit 17 at Spartans Aphrodite 18/17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4006\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707738@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T110000
+DTEND;TZID=America/Edmonton:20261129T120000
+SUMMARY:⚽ EMFC Spirit 17 vs CUFC Queens 2017/18 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4013\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707741@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T080000
+DTEND;TZID=America/Edmonton:20261206T090000
+SUMMARY:⚽ EMFC Spirit 17 at Foothills Courage 2017 (away)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4016\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707747@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T160000
+DTEND;TZID=America/Edmonton:20261220T170000
+SUMMARY:⚽ EMFC Spirit 17 vs Villains Strikers 17 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4022\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707755@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T131500
+DTEND;TZID=America/Edmonton:20270103T141500
+SUMMARY:⚽ EMFC Spirit 17 at Blizzard United 17 Girls (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #4030\nGirls U10 Dev Plus+ LARISEY\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707758@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T080000
+DTEND;TZID=America/Edmonton:20270110T090000
+SUMMARY:⚽ EMFC Spirit 17 vs MUSC Mavericks 17 (home)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4033\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707761@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T130000
+DTEND;TZID=America/Edmonton:20270117T140000
+SUMMARY:⚽ EMFC Spirit 17 vs OUSC United G16 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4036\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707768@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270124T140000
+DTEND;TZID=America/Edmonton:20270124T150000
+SUMMARY:⚽ EMFC Spirit 17 vs CNEU 2017 Sting (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4043\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707774@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T110000
+DTEND;TZID=America/Edmonton:20270207T120000
+SUMMARY:⚽ EMFC Spirit 17 at Foothills Tides 2017 (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #4049\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Maxwel
+ l soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (M
+ ain/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes 
+ (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707777@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T150000
+DTEND;TZID=America/Edmonton:20270221T160000
+SUMMARY:⚽ EMFC Spirit 17 vs Spartans Aphrodite 18/17 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4052\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707781@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T150000
+DTEND;TZID=America/Edmonton:20270228T160000
+SUMMARY:⚽ EMFC Spirit 17 at CUFC Queens 2017/18 (away)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #4056\nGirls U10 Dev Plus+ LARISEY\nVenue notes: Indoor
+  Season Genesis — Boarded field (boards not in use for 7v7) | Flat-sole
+  shoes (runners) | Carpet
+END:VEVENT
+END:VCALENDAR

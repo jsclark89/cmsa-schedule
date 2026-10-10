@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CUFC Avengers 2017/18 (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707270@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261017T140000
+DTEND;TZID=America/Edmonton:20261017T150000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Foothills PSG 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #353\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707282@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261024T091500
+DTEND;TZID=America/Edmonton:20261024T101500
+SUMMARY:⚽ CUFC Avengers 2017/18 at New Frontier SC 2017 Boys (Good) (awa
+ y)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #365\nBoys U10 Dev Plus+ KERR\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707289@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261107T090000
+DTEND;TZID=America/Edmonton:20261107T100000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Foothills Lazio (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #372\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707298@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261114T090000
+DTEND;TZID=America/Edmonton:20261114T100000
+SUMMARY:⚽ CUFC Avengers 2017/18 at RANGERS FC17 YELLOW (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #381\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707306@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261121T110000
+DTEND;TZID=America/Edmonton:20261121T120000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Rockies AFC 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #389\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707314@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261128T090000
+DTEND;TZID=America/Edmonton:20261128T100000
+SUMMARY:⚽ CUFC Avengers 2017/18 at Villains FC 17 (away)
+LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
+ 5
+DESCRIPTION:Game #397\nBoys U10 Dev Plus+ KERR\nVenue notes: Villains Do
+ me - | Regular cleats | Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707320@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261205T090000
+DTEND;TZID=America/Edmonton:20261205T100000
+SUMMARY:⚽ CUFC Avengers 2017/18 at Villains Raptors 17 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #403\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707324@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261219T090000
+DTEND;TZID=America/Edmonton:20261219T100000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Airdrie F.C. Atletico 17 (home)
+LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Game #407\nBoys U10 Dev Plus+ KERR\nVenue notes: Indoor Seas
+ on Genesis — Boarded field (boards not in use for 7v7) | Flat-sole shoe
+ s (runners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707333@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270102T150000
+DTEND;TZID=America/Edmonton:20270102T160000
+SUMMARY:⚽ CUFC Avengers 2017/18 at EMFC Galaxy 17 (away)
+LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #416\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707347@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270109T110000
+DTEND;TZID=America/Edmonton:20270109T120000
+SUMMARY:⚽ CUFC Avengers 2017/18 at MUSC Wolves 17 (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #430\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707355@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270123T120000
+DTEND;TZID=America/Edmonton:20270123T130000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Foothills Benfica 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #438\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707358@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270130T100000
+DTEND;TZID=America/Edmonton:20270130T110000
+SUMMARY:⚽ CUFC Avengers 2017/18 at CNEU 2017 Strikers (away)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #441\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707367@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270206T140000
+DTEND;TZID=America/Edmonton:20270206T150000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs CalGlen Cavalry 17 (home)
+LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #450\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707375@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:⚽ CUFC Avengers 2017/18 vs Chinooks FC Premiers 2017 (home)
+LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
+ ast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #458\nBoys U10 Dev Plus+ KERR\nVenue notes: Maxwell soc
+ cer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main/A
+ nnex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runn
+ ers) | Carpet
+END:VEVENT
+END:VCALENDAR

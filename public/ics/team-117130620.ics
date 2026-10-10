@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blizzard Alliance 16 Boys (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11707849@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261018T120000
+DTEND;TZID=America/Edmonton:20261018T130000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs CalGlen Thunder 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #988\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707856@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261025T121500
+DTEND;TZID=America/Edmonton:20261025T131500
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs New Frontier SC 2016 Boys (Fernan
+ des) (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #995\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707858@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261108T130000
+DTEND;TZID=America/Edmonton:20261108T140000
+SUMMARY:⚽ Blizzard Alliance 16 Boys at Foothills FC White 2016 (away)
+LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #997\nBoys U11 Dev Plus+ PIETTE\nVenue notes: Maxwell s
+ occer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Main
+ /Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (ru
+ nners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707862@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261115T110000
+DTEND;TZID=America/Edmonton:20261115T120000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs CNS U11B Raptors 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1001\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707866@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261129T120000
+DTEND;TZID=America/Edmonton:20261129T130000
+SUMMARY:⚽ Blizzard Alliance 16 Boys at MUSC Whitecaps 16 (away)
+LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
+ heast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1005\nBoys U11 Dev Plus+ PIETTE\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707869@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261206T140000
+DTEND;TZID=America/Edmonton:20261206T150000
+SUMMARY:⚽ Blizzard Alliance 16 Boys at Airdrie F.C. Whitecaps 16 (away)
+LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
+  AB T4A 2K9
+DESCRIPTION:Game #1008\nBoys U11 Dev Plus+ PIETTE\nVenue notes: Airdrie 
+ Genesis — Boarded field (boards not in use for 7v7) | Regular cleats | 
+ Turf
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707874@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20261220T080000
+DTEND;TZID=America/Edmonton:20261220T090000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs SWU PSG 16B (home)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1013\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707880@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270103T131500
+DTEND;TZID=America/Edmonton:20270103T141500
+SUMMARY:⚽ Blizzard Alliance 16 Boys at CalGlen Thunder 16 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1019\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707882@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270110T121500
+DTEND;TZID=America/Edmonton:20270110T131500
+SUMMARY:⚽ Blizzard Alliance 16 Boys at New Frontier SC 2016 Boys (Fernan
+ des) (away)
+LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1021\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707886@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270117T130000
+DTEND;TZID=America/Edmonton:20270117T140000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs Foothills FC White 2016 (home)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1025\nBoys U11 Dev Plus+ PIETTE\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707891@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270131T080000
+DTEND;TZID=America/Edmonton:20270131T090000
+SUMMARY:⚽ Blizzard Alliance 16 Boys at CNS U11B Raptors 16 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1030\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707895@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270207T080000
+DTEND;TZID=America/Edmonton:20270207T090000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs MUSC Whitecaps 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1034\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707899@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270221T080000
+DTEND;TZID=America/Edmonton:20270221T090000
+SUMMARY:⚽ Blizzard Alliance 16 Boys vs Airdrie F.C. Whitecaps 16 (home)
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Game #1038\nBoys U11 Dev Plus+ PIETTE\nVenue notes: 
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11707902@cmsa-schedule
+DTSTAMP:20261010T205529Z
+DTSTART;TZID=America/Edmonton:20270228T100000
+DTEND;TZID=America/Edmonton:20270228T110000
+SUMMARY:⚽ Blizzard Alliance 16 Boys at SWU PSG 16B (away)
+LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
+ utheast Calgary\, Alberta T2C 4E1
+DESCRIPTION:Game #1041\nBoys U11 Dev Plus+ PIETTE\nVenue notes: Maxwell 
+ soccer centre Dome- | Regular cleats | Turf\,Maxwell soccer centre (Mai
+ n/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (r
+ unners) | Carpet
+END:VEVENT
+END:VCALENDAR
