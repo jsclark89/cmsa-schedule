@@ -2,6 +2,8 @@
 // Games are stored as local Calgary wall-clock strings, so events carry a
 // VTIMEZONE for America/Edmonton rather than UTC offsets.
 
+import { footwearFor, bringLine, noteLine } from './venueNote.js'
+
 const TZ = 'America/Edmonton'
 
 const VTIMEZONE = [
@@ -107,10 +109,14 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
   else summary = `${home} vs ${away}`
   const field = game.field || venue?.name || ''
   const location = [field, venue?.address].filter(Boolean).join(', ')
+  const wear = footwearFor(venue, game.field)
+  const line = noteLine(venue, game.field)
+  if (wear?.footwear) summary += ` · ${wear.footwear}`
   const description = [
+    wear?.footwear ? `Bring: ${bringLine(venue, game.field)}` : null,
+    line ? `Field: ${line}` : null,
     `Game #${game.code}`,
     division ? division.name : null,
-    venue?.notes ? `Venue notes: ${venue.notes}` : null,
     siteUrl ? `Schedule: ${siteUrl}` : null,
   ].filter(Boolean).join('\n')
   return {
