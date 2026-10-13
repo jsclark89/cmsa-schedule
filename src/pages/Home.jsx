@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { href } from '../lib/router.js'
-import { nextGame, fmtDate, fmtTime, relDay, opponentOf, fieldOnly } from '../lib/data.js'
+import { nextGame, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, trainingFor, nextSession, weekdayName } from '../lib/data.js'
 import Bring from './Bring.jsx'
 
 export default function Home({ season, favs }) {
@@ -88,6 +88,14 @@ function TeamCard({ team, season }) {
       <div className="teamcard-name">{team.name}</div>
       <div className="muted small">{division?.name}</div>
       {g ? <NextLine g={g} teamId={team.id} season={season} /> : <div className="muted">No more games listed this season.</div>}
+      {trainingFor(season, team.id).map((t, i) => {
+        const d = nextSession(t)
+        return d ? (
+          <div key={i} className="muted small trainline">
+            Training {weekdayName(t.weekday).replace(/s$/, '')} {fmtDate(d, 'short').split(', ')[1]} · {fmtTime(t.start)} · {t.venue}{t.field ? ` ${t.field}` : ''}
+          </div>
+        ) : null
+      })}
     </a>
   )
 }

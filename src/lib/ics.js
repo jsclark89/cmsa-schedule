@@ -60,7 +60,7 @@ function addMinutes(date, time, minutes) {
 /**
  * @param {object} opts
  * @param {string} opts.name       calendar display name
- * @param {Array}  opts.events     [{ uid, date:'YYYY-MM-DD', time:'HH:MM'|null, durationMin, summary, location, description, url }]
+ * @param {Array}  opts.events     [{ uid, date:'YYYY-MM-DD', time:'HH:MM'|null, durationMin, summary, location, description, url, rrule?, exdates? }]
  * @param {Date}   [opts.now]
  */
 export function buildIcs({ name, events, now = new Date() }) {
@@ -87,6 +87,8 @@ export function buildIcs({ name, events, now = new Date() }) {
       const d = ev.date.replace(/-/g, '')
       lines.push(`DTSTART;VALUE=DATE:${d}`)
     }
+    if (ev.rrule) lines.push(`RRULE:${ev.rrule}`)
+    for (const d of ev.exdates || []) lines.push(`EXDATE;TZID=${TZ}:${addMinutes(d, ev.time || '00:00', 0)}`)
     lines.push(`SUMMARY:${esc(ev.summary)}`)
     if (ev.location) lines.push(`LOCATION:${esc(ev.location)}`)
     if (ev.description) lines.push(`DESCRIPTION:${esc(ev.description)}`)
@@ -128,5 +130,42 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
     location,
     description,
     url: siteUrl,
+  }
+}
+
+const WEEKDAYS = ['SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA']
+
+function minutesBetween(a, b) {
+  const [ah, am] = a.split(':').map(Number)
+  const [bh, bm] = b.split(':').map(Number)
+  return bh * 60 + bm - (ah * 60 + am)
+}
+
+/** First date on or after `from` that falls on the session's weekday. */
+export function firstSessionDate(t) {
+  const [y, m, d] = t.from.split('-').map(Number)
+  const dt = new Date(Date.UTC(y, m - 1, d))
+  const want = WEEKDAYS.indexOf(t.weekday)
+  const diff = (want - dt.getUTCDay() + 7) % 7
+  dt.setUTCDate(dt.getUTCDate() + diff)
+  return dt.toISOString().slice(0, 10)
+}
+
+/** A weekly training session as one recurring calendar event. */
+export function trainingToEvent(t, team, index, siteUrl) {
+  const until = t.until ? t.until.replace(/-/g, '') + 'T235959Z' : null
+  const rrule = `FREQ=WEEKLY;BYDAY=${t.weekday}` + (until ? `;UNTIL=${until}` : '')
+  const where = [t.venue, t.field].filter(Boolean).join(' ')
+  return {
+    uid: `training-${team.id}-${index}@cmsa-schedule`,
+    date: firstSessionDate(t),
+    time: t.start,
+    durationMin: t.end ? minutesBetween(t.start, t.end) : 60,
+    summary: `⚽ ${team.name} training`,
+    location: [where, t.address].filter(Boolean).join(', '),
+    description: [t.label, t.note, t.source ? `Source: ${t.source}` : null, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
+    url: siteUrl,
+    rrule,
+    exdates: t.skip || [],
   }
 }

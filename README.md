@@ -27,6 +27,14 @@ Turn on Pages for the repo (Settings > Pages > Source: GitHub Actions) and it ru
 on the next push. For Vercel instead, import the repo, build command
 `npm run build`, output `dist`, and run `npm run scrape` on a schedule elsewhere.
 
+## Training sessions
+
+Club training is not on the league site, so it lives in
+`public/data/training.json`, keyed by team id (the number in the team's URL).
+Each entry has a weekday code, start and end time, venue, address, first and
+last date, and optional skip dates. The team page shows it, and the scraper
+folds it into that team's calendar as a weekly recurring event.
+
 ## Data notes
 
 - Source pages: `calgaryminorsoccer.com/schedule/<age>` embeds a Demosphere

@@ -9,12 +9,14 @@ let seasonPromise = null
 
 export function loadSeason() {
   if (!seasonPromise) {
-    seasonPromise = fetch(`${BASE}data/season.json`, { cache: 'no-cache' })
-      .then((r) => {
-        if (!r.ok) throw new Error(`Could not load schedule data (${r.status})`)
-        return r.json()
-      })
-      .then(indexSeason)
+    const season = fetch(`${BASE}data/season.json`, { cache: 'no-cache' }).then((r) => {
+      if (!r.ok) throw new Error(`Could not load schedule data (${r.status})`)
+      return r.json()
+    })
+    const training = fetch(`${BASE}data/training.json`, { cache: 'no-cache' })
+      .then((r) => (r.ok ? r.json() : {}))
+      .catch(() => ({}))
+    seasonPromise = Promise.all([season, training]).then(([s, t]) => indexSeason({ ...s, training: t }))
   }
   return seasonPromise
 }
@@ -166,4 +168,34 @@ export function icsUrl(kind, id) {
 
 export function webcalUrl(kind, id) {
   return icsUrl(kind, id).replace(/^https?:/, 'webcal:')
+}
+
+// ---------- training ----------
+
+const WEEKDAYS = ['SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA']
+const WEEKDAY_NAMES = { SU: 'Sundays', MO: 'Mondays', TU: 'Tuesdays', WE: 'Wednesdays', TH: 'Thursdays', FR: 'Fridays', SA: 'Saturdays' }
+
+export function weekdayName(code) {
+  return WEEKDAY_NAMES[code] || code
+}
+
+export function trainingFor(season, teamId) {
+  const t = season.training?.[teamId]
+  return Array.isArray(t) ? t : []
+}
+
+/** Next date on or after today for a weekly session, honouring from, until and skip. */
+export function nextSession(t) {
+  const today = todayStr()
+  const want = WEEKDAYS.indexOf(t.weekday)
+  if (want < 0) return null
+  let d = dateParts(today > t.from ? today : t.from)
+  for (let i = 0; i < 60; i++) {
+    const str = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+    if (t.until && str > t.until) return null
+    const done = str === today && t.end && nowHm() >= t.end
+    if (d.getDay() === want && !(t.skip || []).includes(str) && !done) return str
+    d = new Date(d.getFullYear(), d.getMonth(), d.getDate() + 1, 12)
+  }
+  return null
 }

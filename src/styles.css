@@ -206,3 +206,7 @@ a.card:hover { text-decoration: none; border-color: var(--accent); }
 }
 :root[data-theme="dark"] .bring.runners { background: #11311f; color: #7fe0a8; border-color: #1f5a37; }
 :root[data-theme="dark"] .bring.cleats { background: #3a2408; color: #f5bf6b; border-color: #6b4412; }
+
+.training { border-left: 4px solid var(--home); }
+.training-when { font-size: 18px; font-weight: 700; margin: 2px 0 6px; }
+.trainline { margin-top: 6px; }

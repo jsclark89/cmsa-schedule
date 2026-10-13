@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { href } from '../lib/router.js'
-import { favourites, nextGame, isPast, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, groupBy, icsUrl, webcalUrl, siteUrl } from '../lib/data.js'
+import { favourites, nextGame, isPast, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, groupBy, icsUrl, webcalUrl, siteUrl, trainingFor, nextSession, weekdayName } from '../lib/data.js'
 import { buildIcs, gameToEvent } from '../lib/ics.js'
 import GameRow from './GameRow.jsx'
 import VenueNote from './VenueNote.jsx'
@@ -46,6 +46,8 @@ export default function Team({ season, favs, team }) {
       {showCal ? <CalendarPanel kind="team" id={team.id} name={team.name} /> : null}
 
       {next ? <Hero g={next} team={team} season={season} /> : <div className="card soft">No upcoming games listed for this team.</div>}
+
+      {trainingFor(season, team.id).map((t, i) => <TrainingCard key={i} t={t} />)}
 
       <h2 className="h">Upcoming ({upcoming.length})</h2>
       <MonthGroups games={upcoming} season={season} teamId={team.id} />
@@ -141,5 +143,26 @@ export function CalendarPanel({ kind, id, name }) {
         {window.location.hostname === 'localhost' ? ' (Subscriptions only work once the site is published, not from localhost.)' : ''}
       </p>
     </div>
+  )
+}
+
+function TrainingCard({ t }) {
+  const nextDate = nextSession(t)
+  const maps = t.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([t.venue, t.address].filter(Boolean).join(', '))}` : null
+  return (
+    <section className="card training">
+      <div className="hero-kicker">Training · {weekdayName(t.weekday)}</div>
+      <div className="training-when">
+        {fmtTime(t.start)}{t.end ? ` to ${fmtTime(t.end)}` : ''}
+        {nextDate ? <span className="muted"> · next {['Today', 'Tomorrow'].includes(relDay(nextDate)) ? relDay(nextDate).toLowerCase() + ', ' : ''}{fmtDate(nextDate, 'short')}</span> : <span className="muted"> · season over</span>}
+      </div>
+      <div><b>{t.venue}</b>{t.field ? ` · ${t.field}` : ''}</div>
+      {t.address ? <div className="muted">{t.address}</div> : null}
+      {t.note ? <div className="note muted small">{t.note}</div> : null}
+      <div className="actions">
+        {maps ? <a className="btn" href={maps} target="_blank" rel="noopener">Directions</a> : null}
+      </div>
+      {t.source ? <div className="muted small">From: {t.source}. Included in the subscribed calendar.</div> : null}
+    </section>
   )
 }

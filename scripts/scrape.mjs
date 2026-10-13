@@ -11,7 +11,7 @@ import { load } from 'cheerio'
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { buildIcs, gameToEvent } from '../src/lib/ics.js'
+import { buildIcs, gameToEvent, trainingToEvent } from '../src/lib/ics.js'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DATA_DIR = path.join(ROOT, 'public', 'data')
@@ -360,11 +360,19 @@ async function main() {
   // One subscribable calendar per team and per division.
   const ctx = { teams, venues, divisions, siteUrl: SITE_URL }
   const now = new Date(generatedAt)
+  let training = {}
+  try {
+    training = JSON.parse(await readFile(path.join(DATA_DIR, 'training.json'), 'utf8'))
+  } catch {
+    log('no training.json; calendars hold games only')
+  }
   let written = 0
   for (const t of Object.values(teams)) {
     const mine = games.filter((g) => g.homeId === t.id || g.awayId === t.id)
     if (!mine.length) continue
-    const ics = buildIcs({ name: `${t.name} (CMSA)`, now, events: mine.map((g) => gameToEvent(g, { ...ctx, teamId: t.id })) })
+    const events = mine.map((g) => gameToEvent(g, { ...ctx, teamId: t.id }))
+    for (const [i, session] of (Array.isArray(training[t.id]) ? training[t.id] : []).entries()) events.push(trainingToEvent(session, t, i, SITE_URL))
+    const ics = buildIcs({ name: `${t.name} (CMSA)`, now, events })
     await writeFile(path.join(ICS_DIR, `team-${t.id}.ics`), ics)
     written++
   }
