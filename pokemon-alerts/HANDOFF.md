@@ -43,6 +43,11 @@ stores near me.
    (paid) server likely won't allow it. This needs a process that stays
    connected all the time, unlike the feed polling.
 
+**Where it runs matters for push.** The feed check has to run on a schedule
+(every ~10 minutes) even when the app isn't open on my phone, so it belongs
+on the server side (a scheduled job, cron or serverless function) that calls
+the app's push sending code.
+
 ## Matching rules (already tested in the reference code)
 
 - Case-insensitive, accents folded, markdown and custom emoji stripped.
@@ -54,16 +59,24 @@ stores near me.
 
 ## Notifications
 
-The reference sends alerts by any of: Discord DM from the bot, **ntfy.sh**
-push (free iOS/Android app; POST to `https://ntfy.sh/<topic>` with `Title`,
-`Click` (link to the post), `Priority: high` headers), or a Discord webhook.
-I was planning on ntfy with a long random topic name. If this app has its own
-notification system (push, in-app feed), suggest using that instead or as well.
-An in-app list of recent matches would be nice too.
+**Use this app's existing push notifications.** This app can already push
+notifications to my phone without a separate app, so restock alerts should go
+through that same system, not ntfy. Find how the app sends pushes today and
+send each match through it:
+- Title like "Calgary: Superstore Shawnessy (pokemon)".
+- Body: the start of the post text.
+- Tapping it opens the original post (the Facebook or Discord link).
+
+Also keep a list of recent matches in the app, so I can see alerts I missed
+or dismissed.
+
+The reference `notify.js` sends to a Discord DM, ntfy.sh or a Discord webhook.
+Replace those with this app's push system. Only keep ntfy as a fallback if the
+app's push can't be triggered from wherever the polling job runs.
 
 ## Secrets
 
-Feed URLs, the ntfy topic and any bot token are private: keep them out of the
+Feed URLs, push credentials and any bot token are private: keep them out of the
 code (env vars or the app's secret storage).
 
 ## Reference config
