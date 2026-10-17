@@ -14,6 +14,8 @@ export function messageText(msg) {
 
 export function normalize(text) {
   return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')     // é -> e, so "Pokémon" matches "pokemon"
     .toLowerCase()
     .replace(/<a?:(\w+):\d+>/g, ' $1 ') // custom emoji <:name:id> -> name
     .replace(/[*_~`|>]/g, ' ')           // markdown
@@ -33,7 +35,7 @@ function termRegex(term) {
   return new RegExp(`(^|[^a-z0-9])${escapeRegex(t)}s?($|[^a-z0-9])`);
 }
 
-function compileTerms(terms = []) {
+export function compileTerms(terms = []) {
   return terms.filter(Boolean).map((term) => ({ term, re: termRegex(term) }));
 }
 
@@ -49,7 +51,7 @@ export function compileConfig(config) {
   };
 }
 
-function hits(terms, text) {
+export function hits(terms, text) {
   return terms.filter(({ re }) => re.test(text)).map(({ term }) => term);
 }
 

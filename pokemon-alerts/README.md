@@ -11,6 +11,9 @@ else stays quiet.
 - Collapses repeat posts about the same store into one alert (10 minute cooldown by default).
 - Sends alerts as a Discord DM, a phone push through [ntfy](https://ntfy.sh), a
   webhook into a private channel, or any combination.
+- Also watches local store Facebook pages (for example a single Superstore
+  location) and alerts only on posts that mention Pokemon. See
+  [Facebook store pages](#facebook-store-pages).
 - `npm run scan` looks back through recent history and shows what would have
   matched, so you can tune your terms before relying on it.
 
@@ -85,6 +88,56 @@ Needs Node 18 or newer.
 Use `scan` to tune: if it shows posts you do not care about, add words to
 `ignoreIf`; if it misses a store you know was posted, add the spelling people
 used to that store's `match` list.
+
+## Facebook store pages
+
+Some stores run their own page (for example "Real Canadian Superstore
+(Southport, Calgary)") and post restocks there with photos and prices. The bot
+can watch those and alert only on Pokemon posts, skipping flyers and promos.
+
+Facebook does not offer feeds itself, so a feed service reads the page for you
+and the bot reads the feed. Your Facebook account is never used.
+
+1. Sign up for [RSS.app](https://rss.app) or [FetchRSS](https://fetchrss.com).
+   Paste the store page URL (for example `https://www.facebook.com/<page>`) to
+   make a feed, and copy the feed's RSS/XML link. Free plans check pages
+   rarely; a paid plan (a few dollars a month) checks more often, which matters
+   because restocks sell fast.
+2. Add each store to `feeds.sources` in `config.json`:
+
+       "feeds": {
+         "pollMinutes": 10,
+         "keywords": ["pokemon", "tcg", "elite trainer box", "booster"],
+         "ignoreIf": ["sold out"],
+         "sources": [
+           { "name": "Superstore Southport", "url": "https://rss.app/feeds/abc123.xml" },
+           { "name": "Superstore Sage Hill", "url": "https://rss.app/feeds/def456.xml" }
+         ],
+         "seenFile": "feeds-seen.json"
+       }
+
+   | Setting | What it does |
+   | --- | --- |
+   | `pollMinutes` | How often to check the feeds (minimum 2). Your feed service's own refresh rate is the real limit. |
+   | `keywords` | A post must mention one of these. "Pokemon" also matches "Pokémon". Leave out to use the defaults shown. |
+   | `ignoreIf` | Skip posts containing any of these. |
+   | `sources` | One entry per store page. `name` appears in the alert. |
+   | `seenFile` | Remembers which posts were already handled, so restarts do not re-alert. |
+
+3. Check it: `npm run feeds -- --check` fetches every feed once and marks which
+   recent posts would have matched. Nothing is sent.
+4. Run it:
+   - `npm start` runs the Discord watcher and the feed watcher together, with
+     alerts by DM, ntfy and/or webhook.
+   - `npm run feeds` runs only the feed watcher, without a Discord bot. Alerts
+     go by ntfy and/or webhook (DMs need the bot).
+
+The first check of a new feed records the posts already on it without alerting,
+so you only hear about posts made after you add a store.
+
+Feed services sometimes break when Facebook changes its pages. If a store goes
+quiet for a long time, run `npm run feeds -- --check` to confirm its feed still
+returns posts.
 
 ## Keeping it running
 

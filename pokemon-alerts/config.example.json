@@ -2,16 +2,54 @@
   "token": "",
   "location": {
     "label": "Calgary",
-    "areas": ["calgary", "yyc", "airdrie", "cochrane", "okotoks", "chestermere", "nw calgary", "se calgary"],
+    "areas": [
+      "calgary",
+      "yyc",
+      "airdrie",
+      "cochrane",
+      "okotoks",
+      "chestermere",
+      "nw calgary",
+      "se calgary"
+    ],
     "stores": [
-      { "name": "Walmart Crossiron Mills", "match": ["crossiron", "cross iron"] },
-      { "name": "Costco Country Hills", "match": ["costco country hills", "country hills costco"] },
-      { "name": "Best Buy Chinook", "match": ["best buy chinook", "chinook best buy"] },
-      { "name": "EB Games Market Mall", "match": ["eb games market mall", "market mall eb"] }
+      {
+        "name": "Walmart Crossiron Mills",
+        "match": [
+          "crossiron",
+          "cross iron"
+        ]
+      },
+      {
+        "name": "Costco Country Hills",
+        "match": [
+          "costco country hills",
+          "country hills costco"
+        ]
+      },
+      {
+        "name": "Best Buy Chinook",
+        "match": [
+          "best buy chinook",
+          "chinook best buy"
+        ]
+      },
+      {
+        "name": "EB Games Market Mall",
+        "match": [
+          "eb games market mall",
+          "market mall eb"
+        ]
+      }
     ]
   },
   "productKeywords": [],
-  "ignoreIf": ["sold out", "oos", "out of stock", "edmonton only"],
+  "ignoreIf": [
+    "sold out",
+    "oos",
+    "out of stock",
+    "edmonton only"
+  ],
   "watchChannels": [],
   "cooldownMinutes": 10,
   "notify": {
@@ -19,5 +57,26 @@
     "ntfyTopic": "",
     "webhookUrl": ""
   },
-  "logFile": "matches.jsonl"
+  "logFile": "matches.jsonl",
+  "feeds": {
+    "pollMinutes": 10,
+    "keywords": [
+      "pokemon",
+      "tcg",
+      "elite trainer box",
+      "booster",
+      "phantasmal flames",
+      "mega evolution"
+    ],
+    "ignoreIf": [
+      "sold out"
+    ],
+    "sources": [
+      {
+        "name": "Superstore Southport",
+        "url": "https://rss.app/feeds/REPLACE_ME.xml"
+      }
+    ],
+    "seenFile": "feeds-seen.json"
+  }
 }

@@ -18,7 +18,7 @@ export async function sendAlert({ client, config, match, text, link, source }) {
   const body = `${excerpt(text)}\n\n${source}\n${link}`;
   const jobs = [];
 
-  if (notify.dmUserId) {
+  if (notify.dmUserId && client) {
     jobs.push(
       client.users.fetch(notify.dmUserId).then((u) =>
         u.send({ content: `**${title}**\n${body}`.slice(0, 2000) }),

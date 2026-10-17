@@ -3,6 +3,7 @@ import { Client, Events, GatewayIntentBits, Partials } from 'discord.js';
 import { loadConfig, isWatched } from './config.js';
 import { compileConfig, matchMessage, messageText, Cooldown } from './filter.js';
 import { sendAlert } from './notify.js';
+import { startFeeds } from './feeds.js';
 
 const config = loadConfig();
 const compiled = compileConfig(config);
@@ -37,6 +38,7 @@ async function handle(msg) {
 client.once(Events.ClientReady, (c) => {
   const guilds = c.guilds.cache.map((g) => g.name).join(', ') || 'none yet';
   console.log(`Logged in as ${c.user.tag}. Watching for "${compiled.label}" in: ${guilds}`);
+  startFeeds({ config, client });
 });
 
 client.on(Events.MessageCreate, (msg) => handle(msg).catch((e) => console.error('handler error:', e)));

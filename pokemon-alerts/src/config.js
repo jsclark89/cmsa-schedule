@@ -4,7 +4,7 @@ import { dirname, join } from 'node:path';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 
-export function loadConfig() {
+export function loadConfig({ requireToken = true } = {}) {
   const path = process.env.ALERTS_CONFIG ?? join(root, 'config.json');
   if (!existsSync(path)) {
     console.error(`No config at ${path}. Copy config.example.json to config.json and fill it in.`);
@@ -12,7 +12,7 @@ export function loadConfig() {
   }
   const config = JSON.parse(readFileSync(path, 'utf8'));
   config.token = process.env.DISCORD_TOKEN ?? config.token;
-  if (!config.token) {
+  if (requireToken && !config.token) {
     console.error('Set DISCORD_TOKEN (or "token" in config.json) to your bot token.');
     process.exit(1);
   }
