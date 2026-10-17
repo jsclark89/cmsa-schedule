@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-alerts",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Discord bot that watches Pokemon TCG stock channels and pings you when a post mentions stores near you",
+  "scripts": {
+    "start": "node src/bot.js",
+    "scan": "node src/scan.js",
+    "feeds": "node src/feeds-cli.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "fast-xml-parser": "^5.11.2"
+  }
+}
