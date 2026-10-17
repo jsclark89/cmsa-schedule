@@ -1,0 +1,23 @@
+{
+  "token": "",
+  "location": {
+    "label": "Calgary",
+    "areas": ["calgary", "yyc", "airdrie", "cochrane", "okotoks", "chestermere", "nw calgary", "se calgary"],
+    "stores": [
+      { "name": "Walmart Crossiron Mills", "match": ["crossiron", "cross iron"] },
+      { "name": "Costco Country Hills", "match": ["costco country hills", "country hills costco"] },
+      { "name": "Best Buy Chinook", "match": ["best buy chinook", "chinook best buy"] },
+      { "name": "EB Games Market Mall", "match": ["eb games market mall", "market mall eb"] }
+    ]
+  },
+  "productKeywords": [],
+  "ignoreIf": ["sold out", "oos", "out of stock", "edmonton only"],
+  "watchChannels": [],
+  "cooldownMinutes": 10,
+  "notify": {
+    "dmUserId": "",
+    "ntfyTopic": "",
+    "webhookUrl": ""
+  },
+  "logFile": "matches.jsonl"
+}
