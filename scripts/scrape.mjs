@@ -300,10 +300,12 @@ function diffGames(prevGames, games, at) {
   const changes = []
   const prev = new Map((prevGames || []).map((g) => [g.key, g]))
   const now = new Map(games.map((g) => [g.key, g]))
+  // A division seen for the first time (a new league or age group) is an import, not a change.
+  const knownDivisions = new Set((prevGames || []).map((g) => g.divisionId))
   for (const g of games) {
     const p = prev.get(g.key)
     if (!p) {
-      if (prevGames?.length) changes.push({ at, type: 'added', key: g.key, code: g.code, divisionId: g.divisionId, after: snapshot(g) })
+      if (knownDivisions.has(g.divisionId)) changes.push({ at, type: 'added', key: g.key, code: g.code, divisionId: g.divisionId, after: snapshot(g) })
       continue
     }
     const changed = FIELDS.filter((f) => (p[f] ?? null) !== (g[f] ?? null))
