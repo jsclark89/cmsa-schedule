@@ -19,7 +19,7 @@ export default function Home({ season, favs }) {
         {myTeams.length === 0 ? (
           <div className="card soft">
             <p><b>Star a team once</b> and its next game, field and address are here every time you open this.</p>
-            <p className="muted">Search by team or coach name below. Division names end in the coach's surname, like "Dev MILLER".</p>
+            <p className="muted">Search below by team name. Youth divisions (CMSA) end in the coach's surname, like "Dev MILLER"; adult leagues (CUSA) are listed by division.</p>
           </div>
         ) : (
           myTeams.map((t) => <TeamCard key={t.id} team={t} season={season} />)
@@ -54,13 +54,22 @@ export default function Home({ season, favs }) {
 
       <section>
         <h2 className="h">Browse</h2>
-        <div className="chips">
-          {season.ageGroups.map((g) => (
-            <button key={g.slug} className={`chip ${age === g.slug ? 'on' : ''}`} onClick={() => setAge(age === g.slug ? null : g.slug)}>
-              {g.label}
-            </button>
-          ))}
-        </div>
+        {[['CMSA', 'Youth (CMSA)'], ['CUSA', 'Adult (CUSA)']].map(([org, title]) => {
+          const groups = season.ageGroups.filter((g) => (g.org || 'CMSA') === org)
+          if (!groups.length) return null
+          return (
+            <div key={org}>
+              <div className="muted small">{title}</div>
+              <div className="chips">
+                {groups.map((g) => (
+                  <button key={g.slug} className={`chip ${age === g.slug ? 'on' : ''}`} onClick={() => setAge(age === g.slug ? null : g.slug)}>
+                    {g.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )
+        })}
         {age ? (
           <div className="list">
             {Object.values(season.divisions)

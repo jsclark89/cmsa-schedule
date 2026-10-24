@@ -113,7 +113,7 @@ function Hero({ g, team, season }) {
         {venue?.mapsUrl ? <a className="btn primary" href={venue.mapsUrl} target="_blank" rel="noopener">Directions</a> : null}
         <button className="btn" onClick={addToCalendar}>Add this game to calendar</button>
       </div>
-      <div className="muted small">League game #{g.code}</div>
+      {g.code ? <div className="muted small">League game #{g.code}</div> : null}
     </section>
   )
 }

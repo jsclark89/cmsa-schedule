@@ -67,7 +67,7 @@ export default function App() {
   }
 
   useEffect(() => {
-    document.title = isHome ? 'CMSA Game Finder' : `${title} · CMSA Game Finder`
+    document.title = isHome ? 'Calgary Soccer Game Finder' : `${title} · Game Finder`
   }, [title, isHome])
 
   return (
@@ -76,7 +76,7 @@ export default function App() {
         {isHome ? (
           <div className="brand">
             <span className="ball" aria-hidden="true">⚽</span>
-            <span>CMSA Game Finder</span>
+            <span>Calgary Soccer Game Finder</span>
           </div>
         ) : (
           <>
@@ -100,7 +100,7 @@ export default function App() {
       </nav>
       {season && isHome ? (
         <footer className="foot">
-          Unofficial. Read from calgaryminorsoccer.com at {fmtStamp(season.generatedAt)}. Confirm anything odd with your coach.
+          Unofficial. Read from calgaryminorsoccer.com and cusa.ab.ca at {fmtStamp(season.generatedAt)}. Confirm anything odd with your coach or manager.
         </footer>
       ) : null}
     </div>

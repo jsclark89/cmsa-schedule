@@ -1,8 +1,25 @@
 {
-  "_readme": "Venues the league site does not list (training grounds) or lists without footwear notes. Keyed by exact venue name. notes use the league's own 'area | footwear | surface' shape so the same parser reads them. A scraped venue with the same name keeps its league address and gains these notes when it has none.",
+  "_readme": "Venues the league site does not list (training grounds) or lists without footwear notes. Keyed by exact venue name. notes use the league's own 'area | footwear | surface' shape so the same parser reads them. A scraped venue with the same name keeps its league address and gains these notes when it has none. arenaAliases rewrites CUSA (RAMP) arena names into the league field wording so the same venue and footwear rules apply.",
+  "arenaAliases": {
+    "Maxwell Soccer Centre Dome Quarter ": "MaxWell Soccer Centre MSC Dome ",
+    "Maxwell Soccer Centre Annex - ": "MaxWell Soccer Centre Annex - ",
+    "Maxwell Soccer Centre - ": "MaxWell Soccer Centre Main - ",
+    "Macron Performance Centre - ": "Foothills Macron Centre - ",
+    "Shouldice Athletic Park - Encana - ": "Shouldice Athletic Park Encana ",
+    "Shane Homes West Soccer Dome - ": "Shane Homes West Soccer Dome Field ",
+    "Villains Dome - ": "Villains Dome ",
+    "Genesis Centre - ": "Genesis Centre "
+  },
   "Foothills Skills Centre": {
     "address": "3916 56 Ave SE, Calgary, AB T2C 2B5",
-    "notes": ["Regular cleats | Turf"],
+    "notes": [
+      "Regular cleats | Turf"
+    ],
     "source": "Calgary Foothills Soccer Club, 2026-10"
+  },
+  "Seven Chiefs Sportsplex": {
+    "address": null,
+    "notes": [],
+    "source": "CUSA arena name; address not published by the league"
   }
 }

@@ -52,7 +52,7 @@ export default function GameRow({ game: g, season, perspective, showDate, showDi
           ) : null}
         </div>
       </div>
-      <div className="row-code" title="League game number">#{g.code}</div>
+      {g.code ? <div className="row-code" title="League game number">#{g.code}</div> : <div className="row-code" />}
     </div>
   )
 }

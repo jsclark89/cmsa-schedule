@@ -20,7 +20,7 @@ export default function Changes({ season, favs }) {
         const away = season.teams[g.awayId]?.name || 'Unknown'
         return (
           <div key={`${c.key}-${i}`} className={`card change ${mine(c) ? 'hot' : ''}`}>
-            <div className="muted small">{fmtStamp(c.at)} · {div ? <a href={href('division', div.id)}>{div.name}</a> : 'Unknown division'} · game #{c.code}</div>
+            <div className="muted small">{fmtStamp(c.at)} · {div ? <a href={href('division', div.id)}>{div.name}</a> : 'Unknown division'}{c.code ? ` · game #${c.code}` : ''}</div>
             <div className="change-title">
               <span className={`pill ${c.type}`}>{c.type}</span> <a href={href('team', g.homeId)}>{home}</a> vs <a href={href('team', g.awayId)}>{away}</a>
             </div>

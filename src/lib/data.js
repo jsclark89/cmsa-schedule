@@ -174,7 +174,7 @@ export function webcalUrl(kind, id) {
 /** Hand-kept venues (see public/data/venues.json): added when the league lacks them, notes filled when blank. */
 export function mergeExtraVenues(venues, extra) {
   for (const [name, v] of Object.entries(extra || {})) {
-    if (name.startsWith('_')) continue
+    if (name.startsWith('_') || name === 'arenaAliases') continue
     const existing = Object.values(venues).find((x) => x.name === name)
     if (existing) {
       if (!existing.notes?.length && v.notes?.length) existing.notes = v.notes

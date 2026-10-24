@@ -117,7 +117,7 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
   const description = [
     wear?.footwear ? `Bring: ${bringLine(venue, game.field)}` : null,
     line ? `Field: ${line}` : null,
-    `Game #${game.code}`,
+    game.code ? `Game #${game.code}` : null,
     division ? division.name : null,
     siteUrl ? `Schedule: ${siteUrl}` : null,
   ].filter(Boolean).join('\n')

@@ -16,7 +16,7 @@ export default function Division({ season, favs, division }) {
 
   return (
     <>
-      <div className="subhead muted">{division.league} · {division.ageSlug.toUpperCase()}</div>
+      <div className="subhead muted">{division.league}{division.org === 'CUSA' ? null : ` · ${division.ageSlug.toUpperCase()}`}</div>
       <div className="chips">
         {teams.map((t) => (
           <a key={t.id} className={`chip ${favs.includes(t.id) ? 'on' : ''}`} href={href('team', t.id)}>{t.name}</a>

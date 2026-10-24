@@ -32,7 +32,7 @@ export default function Day({ season, favs, route }) {
           <a key={d} className={`chip ${d === date ? 'on' : ''}`} href={href('day', d)}>{fmtDate(d, 'short')}</a>
         ))}
       </div>
-      <div className="chips">
+      <div className="chips scroll">
         {favs.length ? <button className={`chip ${mineOnly ? 'on' : ''}`} onClick={() => setMineOnly((v) => !v)}>★ My teams</button> : null}
         {season.ageGroups.map((g) => (
           <button key={g.slug} className={`chip ${age === g.slug ? 'on' : ''}`} onClick={() => setAge(age === g.slug ? null : g.slug)}>{g.label}</button>

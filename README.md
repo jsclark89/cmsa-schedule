@@ -1,7 +1,7 @@
-# CMSA Game Finder
+# Calgary Soccer Game Finder
 
-An unofficial, parent-friendly schedule site for Calgary Minor Soccer Association
-leagues. It scrapes the league's Demosphere schedule pages into one JSON file and
+An unofficial, phone-friendly schedule site for Calgary Minor Soccer Association
+(youth) and Calgary United Soccer Association (adult) leagues. It scrapes the league's Demosphere schedule pages into one JSON file and
 serves a fast, mobile-first viewer on top of it.
 
 What a parent gets that the league site does not:
@@ -34,6 +34,15 @@ Club training is not on the league site, so it lives in
 Each entry has a weekday code, start and end time, venue, address, first and
 last date, and optional skip dates. The team page shows it, and the scraper
 folds it into that team's calendar as a weekly recurring event.
+
+## Sources
+
+- CMSA: `calgaryminorsoccer.com/schedule/<age>` embeds Demosphere pages, one
+  static HTML page per division per month (`scripts/scrape.mjs`).
+- CUSA: `cusa.ab.ca` is a RAMP site; the nav lists every category, division and
+  team, and games come from its own JSON endpoint (`scripts/cusa.mjs`). CUSA
+  arena names are rewritten to the CMSA field wording through `arenaAliases` in
+  `public/data/venues.json`, so one footwear rule covers both.
 
 ## Data notes
 

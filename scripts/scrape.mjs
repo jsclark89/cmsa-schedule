@@ -12,6 +12,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildIcs, gameToEvent, trainingToEvent } from '../src/lib/ics.js'
+import { scrapeCusa } from './cusa.mjs'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DATA_DIR = path.join(ROOT, 'public', 'data')
@@ -267,7 +268,7 @@ async function readJson(file) {
 /** Hand-kept venues: add the ones the league does not list, and fill in notes the league left blank. */
 export function mergeExtraVenues(venues, extra) {
   for (const [name, v] of Object.entries(extra || {})) {
-    if (name.startsWith('_')) continue
+    if (name.startsWith('_') || name === 'arenaAliases') continue
     const existing = Object.values(venues).find((x) => x.name === name)
     if (existing) {
       if (!existing.notes?.length && v.notes?.length) existing.notes = v.notes
@@ -366,9 +367,28 @@ async function main() {
   }
   log(`${Object.keys(divisions).length} divisions, ${Object.keys(teams).length} teams, ${games.length} games, ${venueHrefs.size} venues`)
   const venues = await scrapeVenues(venueHrefs, previous)
-  mergeExtraVenues(venues, await readJson(path.join(DATA_DIR, 'venues.json')))
+  const extraVenues = await readJson(path.join(DATA_DIR, 'venues.json'))
+  mergeExtraVenues(venues, extraVenues)
+  for (const g of ageGroups) g.org = 'CMSA'
+  for (const d of Object.values(divisions)) d.org = 'CMSA'
 
-  games.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')) || a.code.localeCompare(b.code, undefined, { numeric: true }))
+  // Adult leagues from CUSA, folded into the same shape.
+  try {
+    const cusa = await scrapeCusa({ previous, venues, arenaAliases: extraVenues.arenaAliases, pMap })
+    ageGroups.push(...cusa.groups)
+    Object.assign(divisions, cusa.divisions)
+    Object.assign(teams, cusa.teams)
+    games.push(...cusa.games)
+    if (cusa.unknownFields.length) log(`cusa: no known venue for ${cusa.unknownFields.join('; ')}`)
+  } catch (e) {
+    log(`cusa: FAILED ${e.message}; keeping previous CUSA data`)
+    for (const g of previous?.ageGroups?.filter((x) => x.org === 'CUSA') || []) ageGroups.push(g)
+    for (const d of Object.values(previous?.divisions || {}).filter((x) => x.org === 'CUSA')) divisions[d.id] = { ...d, stale: true }
+    for (const t of Object.values(previous?.teams || {}).filter((x) => x.org === 'CUSA')) teams[t.id] = t
+    games.push(...(previous?.games?.filter((x) => x.key.startsWith('c')) || []))
+  }
+
+  games.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')) || String(a.code || a.key).localeCompare(String(b.code || b.key), undefined, { numeric: true }))
 
   const generatedAt = new Date().toISOString()
   const newChanges = diffGames(previous?.games, games, generatedAt)
@@ -378,7 +398,7 @@ async function main() {
   const season = {
     generatedAt,
     trackingSince: previous?.trackingSince || generatedAt,
-    source: `${CMSA}/schedule`,
+    sources: [`${CMSA}/schedule`, 'https://www.cusa.ab.ca'],
     ageGroups,
     divisions,
     teams,
@@ -407,13 +427,13 @@ async function main() {
       const venue = Object.values(venues).find((v) => v.name === session.venue) || null
       events.push(trainingToEvent(session, t, i, SITE_URL, venue))
     }
-    const ics = buildIcs({ name: `${t.name} (CMSA)`, now, events })
+    const ics = buildIcs({ name: `${t.name} (${t.org || 'CMSA'})`, now, events })
     await writeFile(path.join(ICS_DIR, `team-${t.id}.ics`), ics)
     written++
   }
   for (const d of Object.values(divisions)) {
     const mine = games.filter((g) => g.divisionId === d.id)
-    const ics = buildIcs({ name: `${d.name} (CMSA)`, now, events: mine.map((g) => gameToEvent(g, ctx)) })
+    const ics = buildIcs({ name: `${d.name} (${d.org || 'CMSA'})`, now, events: mine.map((g) => gameToEvent(g, ctx)) })
     await writeFile(path.join(ICS_DIR, `division-${d.id}.ics`), ics)
     written++
   }
