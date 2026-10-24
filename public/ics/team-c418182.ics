@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Southside Rangers O35 (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109041@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261102T203000
+DTEND;TZID=America/Edmonton:20261102T213000
+SUMMARY:⚽ Southside Rangers O35 at Neighbourhoods O35 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109161@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261113T203000
+DTEND;TZID=America/Edmonton:20261113T213000
+SUMMARY:⚽ Southside Rangers O35 vs Vipers DC O35 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109247@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261120T214500
+DTEND;TZID=America/Edmonton:20261120T224500
+SUMMARY:⚽ Southside Rangers O35 vs FC United (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109330@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261127T214500
+DTEND;TZID=America/Edmonton:20261127T224500
+SUMMARY:⚽ Southside Rangers O35 vs Redstar FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109374@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261201T214500
+DTEND;TZID=America/Edmonton:20261201T224500
+SUMMARY:⚽ Southside Rangers O35 vs Rogues Masters (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109505@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261212T204500
+DTEND;TZID=America/Edmonton:20261212T214500
+SUMMARY:⚽ Southside Rangers O35 vs SD Serbia (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109547@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261216T213000
+DTEND;TZID=America/Edmonton:20261216T223000
+SUMMARY:⚽ Southside Rangers O35 at Callies Volts (away) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nMast
+ ers 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108211@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270108T201500
+DTEND;TZID=America/Edmonton:20270108T211500
+SUMMARY:⚽ Southside Rangers O35 at Eldorado Kickers (away) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nMast
+ ers 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108312@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270117T210000
+DTEND;TZID=America/Edmonton:20270117T220000
+SUMMARY:⚽ Southside Rangers O35 at Calgary Gunners O35 (away) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nMast
+ ers 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108369@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270122T214500
+DTEND;TZID=America/Edmonton:20270122T224500
+SUMMARY:⚽ Southside Rangers O35 at Inter Furia FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108412@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270126T220000
+DTEND;TZID=America/Edmonton:20270126T230000
+SUMMARY:⚽ Southside Rangers O35 at Lions - Ship and Anchor (away) · Clea
+ ts
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108544@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270206T170000
+DTEND;TZID=America/Edmonton:20270206T180000
+SUMMARY:⚽ Southside Rangers O35 vs CFC Dynamos (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108576@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270209T203000
+DTEND;TZID=America/Edmonton:20270209T213000
+SUMMARY:⚽ Southside Rangers O35 vs El Dorado FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108674@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270220T170000
+DTEND;TZID=America/Edmonton:20270220T180000
+SUMMARY:⚽ Southside Rangers O35 vs Eldorado Kickers (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108719@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270225T221500
+DTEND;TZID=America/Edmonton:20270225T231500
+SUMMARY:⚽ Southside Rangers O35 at Vipers DC O35 (away) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108899@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270314T203000
+DTEND;TZID=America/Edmonton:20270314T213000
+SUMMARY:⚽ Southside Rangers O35 at Redstar FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters 3\nSched
+ ule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

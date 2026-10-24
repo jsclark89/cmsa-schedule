@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bordo Turks FC (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109033@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261102T213000
+DTEND;TZID=America/Edmonton:20261102T223000
+SUMMARY:⚽ Bordo Turks FC vs FC United Juniors (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109078@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261106T203000
+DTEND;TZID=America/Edmonton:20261106T213000
+SUMMARY:⚽ Bordo Turks FC at Avalanche FC1 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109217@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261118T203000
+DTEND;TZID=America/Edmonton:20261118T213000
+SUMMARY:⚽ Bordo Turks FC at Neighbourhoods United (away) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109277@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261123T214500
+DTEND;TZID=America/Edmonton:20261123T224500
+SUMMARY:⚽ Bordo Turks FC vs Kingsmen FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109410@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261204T214500
+DTEND;TZID=America/Edmonton:20261204T224500
+SUMMARY:⚽ Bordo Turks FC at New West Manor F.C Reserves (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109438@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T214500
+DTEND;TZID=America/Edmonton:20261208T224500
+SUMMARY:⚽ Bordo Turks FC vs C-Town FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109590@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261219T193000
+DTEND;TZID=America/Edmonton:20261219T203000
+SUMMARY:⚽ Bordo Turks FC vs Airdrie United 1 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108281@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270115T214500
+DTEND;TZID=America/Edmonton:20270115T224500
+SUMMARY:⚽ Bordo Turks FC at Worldwide FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108344@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270120T214500
+DTEND;TZID=America/Edmonton:20270120T224500
+SUMMARY:⚽ Bordo Turks FC vs Avalanche FC1 (home) · Cleats
+LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108442@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270129T203000
+DTEND;TZID=America/Edmonton:20270129T213000
+SUMMARY:⚽ Bordo Turks FC at FC United Juniors (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108488@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T214500
+DTEND;TZID=America/Edmonton:20270202T224500
+SUMMARY:⚽ Bordo Turks FC vs Neighbourhoods United (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108615@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T214500
+DTEND;TZID=America/Edmonton:20270216T224500
+SUMMARY:⚽ Bordo Turks FC at Kingsmen FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108683@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270222T214500
+DTEND;TZID=America/Edmonton:20270222T224500
+SUMMARY:⚽ Bordo Turks FC vs New West Manor F.C Reserves (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108792@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270303T214500
+DTEND;TZID=America/Edmonton:20270303T224500
+SUMMARY:⚽ Bordo Turks FC at C-Town FC (away) · Cleats
+LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108880@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270312T204500
+DTEND;TZID=America/Edmonton:20270312T214500
+SUMMARY:⚽ Bordo Turks FC at Airdrie United 1 (away) · Cleats
+LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
+ Calgary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109019@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270326T213000
+DTEND;TZID=America/Edmonton:20270326T223000
+SUMMARY:⚽ Bordo Turks FC vs Worldwide FC (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

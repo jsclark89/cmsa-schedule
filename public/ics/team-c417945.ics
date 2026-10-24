@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F.C. Torta Pounders (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107985@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261102T211500
+DTEND;TZID=America/Edmonton:20261102T221500
+SUMMARY:⚽ F.C. Torta Pounders at Tequila FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108001@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T191500
+DTEND;TZID=America/Edmonton:20261110T201500
+SUMMARY:⚽ F.C. Torta Pounders at Zoomies FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108024@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261116T191500
+DTEND;TZID=America/Edmonton:20261116T201500
+SUMMARY:⚽ F.C. Torta Pounders vs Getting Recd (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108046@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261121T150000
+DTEND;TZID=America/Edmonton:20261121T160000
+SUMMARY:⚽ F.C. Torta Pounders at Arse'n'all (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108063@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261125T201500
+DTEND;TZID=America/Edmonton:20261125T211500
+SUMMARY:⚽ F.C. Torta Pounders at S Wanderers FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108087@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261130T191500
+DTEND;TZID=America/Edmonton:20261130T201500
+SUMMARY:⚽ F.C. Torta Pounders vs Axios FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108111@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261207T201500
+DTEND;TZID=America/Edmonton:20261207T211500
+SUMMARY:⚽ F.C. Torta Pounders at Shadow Genesis (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108137@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261214T191500
+DTEND;TZID=America/Edmonton:20261214T201500
+SUMMARY:⚽ F.C. Torta Pounders vs Marky Mark and The Funky Bunch (home) ·
+  Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nIntermediate\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

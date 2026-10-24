@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Neighbourhoods United (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109076@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261106T220000
+DTEND;TZID=America/Edmonton:20261106T230000
+SUMMARY:⚽ Neighbourhoods United vs C-Town FC (home) · Cleats
+LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
+ Calgary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109217@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261118T203000
+DTEND;TZID=America/Edmonton:20261118T213000
+SUMMARY:⚽ Neighbourhoods United vs Bordo Turks FC (home) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109276@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261123T203000
+DTEND;TZID=America/Edmonton:20261123T213000
+SUMMARY:⚽ Neighbourhoods United at New West Manor F.C Reserves (away) · 
+ Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109408@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261204T214500
+DTEND;TZID=America/Edmonton:20261204T224500
+SUMMARY:⚽ Neighbourhoods United vs Worldwide FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109439@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T203000
+DTEND;TZID=America/Edmonton:20261208T213000
+SUMMARY:⚽ Neighbourhoods United at Airdrie United 1 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109588@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261219T170000
+DTEND;TZID=America/Edmonton:20261219T180000
+SUMMARY:⚽ Neighbourhoods United vs Avalanche FC1 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108172@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T214500
+DTEND;TZID=America/Edmonton:20270105T224500
+SUMMARY:⚽ Neighbourhoods United at FC United Juniors (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108301@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270116T204500
+DTEND;TZID=America/Edmonton:20270116T214500
+SUMMARY:⚽ Neighbourhoods United at Kingsmen FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108346@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270120T214500
+DTEND;TZID=America/Edmonton:20270120T224500
+SUMMARY:⚽ Neighbourhoods United at C-Town FC (away) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108488@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T214500
+DTEND;TZID=America/Edmonton:20270202T224500
+SUMMARY:⚽ Neighbourhoods United at Bordo Turks FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108614@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T203000
+DTEND;TZID=America/Edmonton:20270216T213000
+SUMMARY:⚽ Neighbourhoods United vs New West Manor F.C Reserves (home) · 
+ Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 3\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108681@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270222T213000
+DTEND;TZID=America/Edmonton:20270222T223000
+SUMMARY:⚽ Neighbourhoods United at Worldwide FC (away) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108793@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270303T203000
+DTEND;TZID=America/Edmonton:20270303T213000
+SUMMARY:⚽ Neighbourhoods United vs Airdrie United 1 (home) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108878@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270312T204500
+DTEND;TZID=America/Edmonton:20270312T214500
+SUMMARY:⚽ Neighbourhoods United at Avalanche FC1 (away) · Cleats
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108936@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270317T203000
+DTEND;TZID=America/Edmonton:20270317T213000
+SUMMARY:⚽ Neighbourhoods United vs FC United Juniors (home) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 3\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109022@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270326T204500
+DTEND;TZID=America/Edmonton:20270326T214500
+SUMMARY:⚽ Neighbourhoods United vs Kingsmen FC (home) · Cleats
+LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
+ Calgary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

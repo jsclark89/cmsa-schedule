@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maggum fc (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109121@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T214500
+DTEND;TZID=America/Edmonton:20261110T224500
+SUMMARY:⚽ Maggum fc at Villains Alumni 2 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109194@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261117T213000
+DTEND;TZID=America/Edmonton:20261117T223000
+SUMMARY:⚽ Maggum fc at Shambles FC (away)
+LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109338@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261128T204500
+DTEND;TZID=America/Edmonton:20261128T214500
+SUMMARY:⚽ Maggum fc vs Rivals FC Calgary (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109385@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261202T213000
+DTEND;TZID=America/Edmonton:20261202T223000
+SUMMARY:⚽ Maggum fc at Leones F.C (away)
+LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109507@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T220000
+DTEND;TZID=America/Edmonton:20261213T230000
+SUMMARY:⚽ Maggum fc vs Frauds FC (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109580@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261219T204500
+DTEND;TZID=America/Edmonton:20261219T214500
+SUMMARY:⚽ Maggum fc at DULARI FA (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108212@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270109T170000
+DTEND;TZID=America/Edmonton:20270109T180000
+SUMMARY:⚽ Maggum fc at Bolby Cird FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108264@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270113T203000
+DTEND;TZID=America/Edmonton:20270113T213000
+SUMMARY:⚽ Maggum fc at YYC UNITED (away) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 5\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108315@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270118T220000
+DTEND;TZID=America/Edmonton:20270118T230000
+SUMMARY:⚽ Maggum fc vs DULARI FA (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108354@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T221500
+DTEND;TZID=America/Edmonton:20270121T231500
+SUMMARY:⚽ Maggum fc vs Uhuru Centaurs FC 2 (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108391@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270125T220000
+DTEND;TZID=America/Edmonton:20270125T230000
+SUMMARY:⚽ Maggum fc vs Inter Cairo FC (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108600@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T220000
+DTEND;TZID=America/Edmonton:20270211T230000
+SUMMARY:⚽ Maggum fc vs Villains Alumni 2 (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108613@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T220000
+DTEND;TZID=America/Edmonton:20270216T230000
+SUMMARY:⚽ Maggum fc vs Shambles FC (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108724@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270226T214500
+DTEND;TZID=America/Edmonton:20270226T224500
+SUMMARY:⚽ Maggum fc at Rivals FC Calgary (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108886@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270313T211500
+DTEND;TZID=America/Edmonton:20270313T221500
+SUMMARY:⚽ Maggum fc vs Leones F.C (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108979@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270322T203000
+DTEND;TZID=America/Edmonton:20270322T213000
+SUMMARY:⚽ Maggum fc at Frauds FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

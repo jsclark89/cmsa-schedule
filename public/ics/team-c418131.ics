@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swamp Donkeys (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109017@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20260325T194500
+DTEND;TZID=America/Edmonton:20260325T204500
+SUMMARY:⚽ Swamp Donkeys vs Blizzard SC3 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109170@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261114T181500
+DTEND;TZID=America/Edmonton:20261114T191500
+SUMMARY:⚽ Swamp Donkeys at Unathletico FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109254@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261121T170000
+DTEND;TZID=America/Edmonton:20261121T180000
+SUMMARY:⚽ Swamp Donkeys vs Kingsmen FC II (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109267@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261123T221500
+DTEND;TZID=America/Edmonton:20261123T231500
+SUMMARY:⚽ Swamp Donkeys at Leones F.C B (away) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109369@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261201T220000
+DTEND;TZID=America/Edmonton:20261201T230000
+SUMMARY:⚽ Swamp Donkeys vs Villains FC Madrid (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109495@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261212T193000
+DTEND;TZID=America/Edmonton:20261212T203000
+SUMMARY:⚽ Swamp Donkeys at Bondo FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109583@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261219T193000
+DTEND;TZID=America/Edmonton:20261219T203000
+SUMMARY:⚽ Swamp Donkeys vs Worldwide FC Inferno (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108248@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270112T213000
+DTEND;TZID=America/Edmonton:20270112T223000
+SUMMARY:⚽ Swamp Donkeys at Blizzard SC3 (away)
+LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108325@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T220000
+DTEND;TZID=America/Edmonton:20270119T230000
+SUMMARY:⚽ Swamp Donkeys vs Galsen fc (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108380@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270123T204500
+DTEND;TZID=America/Edmonton:20270123T214500
+SUMMARY:⚽ Swamp Donkeys at ES Atletico (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108451@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270130T170000
+DTEND;TZID=America/Edmonton:20270130T180000
+SUMMARY:⚽ Swamp Donkeys at Worldwide FC Inferno (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108485@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T220000
+DTEND;TZID=America/Edmonton:20270202T230000
+SUMMARY:⚽ Swamp Donkeys vs Unathletico FC (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108607@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270212T201500
+DTEND;TZID=America/Edmonton:20270212T211500
+SUMMARY:⚽ Swamp Donkeys at Kingsmen FC II (away) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108813@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270306T214500
+DTEND;TZID=America/Edmonton:20270306T224500
+SUMMARY:⚽ Swamp Donkeys vs Leones F.C B (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108825@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270308T214500
+DTEND;TZID=America/Edmonton:20270308T224500
+SUMMARY:⚽ Swamp Donkeys at Villains FC Madrid (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108904@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270315T214500
+DTEND;TZID=America/Edmonton:20270315T224500
+SUMMARY:⚽ Swamp Donkeys vs Bondo FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 5\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

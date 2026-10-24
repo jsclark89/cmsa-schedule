@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CalGlen Crusaders FC2 (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109074@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261106T214500
+DTEND;TZID=America/Edmonton:20261106T224500
+SUMMARY:⚽ CalGlen Crusaders FC2 at Dragon FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109144@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261112T221500
+DTEND;TZID=America/Edmonton:20261112T231500
+SUMMARY:⚽ CalGlen Crusaders FC2 vs NorthStar FC (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109214@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261118T213000
+DTEND;TZID=America/Edmonton:20261118T223000
+SUMMARY:⚽ CalGlen Crusaders FC2 vs United Nova FC2 (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109405@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261204T201500
+DTEND;TZID=America/Edmonton:20261204T211500
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Nostalgia FC (home) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109500@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261212T193000
+DTEND;TZID=America/Edmonton:20261212T203000
+SUMMARY:⚽ CalGlen Crusaders FC2 at Croatia Torcida (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109565@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261218T204500
+DTEND;TZID=America/Edmonton:20261218T214500
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Lads Club 2 (home) · Cleats
+LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
+ Calgary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108200@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270108T214500
+DTEND;TZID=America/Edmonton:20270108T224500
+SUMMARY:⚽ CalGlen Crusaders FC2 at Foothills FC2 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108275@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T220000
+DTEND;TZID=America/Edmonton:20270114T230000
+SUMMARY:⚽ CalGlen Crusaders FC2 at Rangers Athletics (away) · Cleats
+LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108329@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T214500
+DTEND;TZID=America/Edmonton:20270119T224500
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Dragon FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108469@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270131T220000
+DTEND;TZID=America/Edmonton:20270131T230000
+SUMMARY:⚽ CalGlen Crusaders FC2 at NorthStar FC (away) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108523@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270205T220000
+DTEND;TZID=America/Edmonton:20270205T230000
+SUMMARY:⚽ CalGlen Crusaders FC2 at United Nova FC2 (away) · Cleats
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108666@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270220T193000
+DTEND;TZID=America/Edmonton:20270220T203000
+SUMMARY:⚽ CalGlen Crusaders FC2 at Nostalgia FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108706@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270224T213000
+DTEND;TZID=America/Edmonton:20270224T223000
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Croatia Torcida (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108804@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270305T213000
+DTEND;TZID=America/Edmonton:20270305T223000
+SUMMARY:⚽ CalGlen Crusaders FC2 at Lads Club 2 (away) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108842@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270309T214500
+DTEND;TZID=America/Edmonton:20270309T224500
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Foothills FC2 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 2\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108956@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270319T220000
+DTEND;TZID=America/Edmonton:20270319T230000
+SUMMARY:⚽ CalGlen Crusaders FC2 vs Rangers Athletics (home) · Cleats
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 2\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

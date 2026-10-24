@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolfpack FC (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107789@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261107T171500
+DTEND;TZID=America/Edmonton:20261107T181500
+SUMMARY:⚽ Wolfpack FC vs CFC Raiders (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107793@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261114T181500
+DTEND;TZID=America/Edmonton:20261114T191500
+SUMMARY:⚽ Wolfpack FC vs Ismaili Soccer Club (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107796@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261117T203000
+DTEND;TZID=America/Edmonton:20261117T213000
+SUMMARY:⚽ Wolfpack FC at Magnificos FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107800@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261125T191500
+DTEND;TZID=America/Edmonton:20261125T201500
+SUMMARY:⚽ Wolfpack FC vs EMFC Blue Devils (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107804@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261204T191500
+DTEND;TZID=America/Edmonton:20261204T201500
+SUMMARY:⚽ Wolfpack FC at FC Albania (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107807@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261211T211500
+DTEND;TZID=America/Edmonton:20261211T221500
+SUMMARY:⚽ Wolfpack FC vs BABYLON FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107808@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261215T203000
+DTEND;TZID=America/Edmonton:20261215T213000
+SUMMARY:⚽ Wolfpack FC vs Bosnia (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107659@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270109T170000
+DTEND;TZID=America/Edmonton:20270109T180000
+SUMMARY:⚽ Wolfpack FC at CFC Raiders (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107810@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T191500
+DTEND;TZID=America/Edmonton:20270114T201500
+SUMMARY:⚽ Wolfpack FC at Ismaili Soccer Club (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107812@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T211500
+DTEND;TZID=America/Edmonton:20270121T221500
+SUMMARY:⚽ Wolfpack FC vs Magnificos FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107816@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270129T191500
+DTEND;TZID=America/Edmonton:20270129T201500
+SUMMARY:⚽ Wolfpack FC at EMFC Blue Devils (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107821@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270206T170000
+DTEND;TZID=America/Edmonton:20270206T180000
+SUMMARY:⚽ Wolfpack FC vs FC Albania (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107825@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270220T201500
+DTEND;TZID=America/Edmonton:20270220T211500
+SUMMARY:⚽ Wolfpack FC at BABYLON FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107827@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270226T191500
+DTEND;TZID=America/Edmonton:20270226T201500
+SUMMARY:⚽ Wolfpack FC at Bosnia (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107563@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270306T194500
+DTEND;TZID=America/Edmonton:20270306T204500
+SUMMARY:⚽ Wolfpack FC at CFC Raiders (away) · Runners
+LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
+ Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107830@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270312T201500
+DTEND;TZID=America/Edmonton:20270312T211500
+SUMMARY:⚽ Wolfpack FC vs Ismaili Soccer Club (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calgary Villains FC (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109070@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261106T213000
+DTEND;TZID=America/Edmonton:20261106T223000
+SUMMARY:⚽ Calgary Villains FC at Richmond's Pub FC (away) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109117@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T214500
+DTEND;TZID=America/Edmonton:20261110T224500
+SUMMARY:⚽ Calgary Villains FC vs Eldorado Kickers B (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109192@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261117T214500
+DTEND;TZID=America/Edmonton:20261117T224500
+SUMMARY:⚽ Calgary Villains FC at SC Athletic City U23 (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109316@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261127T220000
+DTEND;TZID=America/Edmonton:20261127T230000
+SUMMARY:⚽ Calgary Villains FC vs Foothills Fire (home) · Cleats
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109365@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261201T213000
+DTEND;TZID=America/Edmonton:20261201T223000
+SUMMARY:⚽ Calgary Villains FC at Blizzard SC5 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109474@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261211T213000
+DTEND;TZID=America/Edmonton:20261211T223000
+SUMMARY:⚽ Calgary Villains FC vs Al Salam FC (home) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109525@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261215T213000
+DTEND;TZID=America/Edmonton:20261215T223000
+SUMMARY:⚽ Calgary Villains FC at FC Wizards (away)
+LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108163@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270104T213000
+DTEND;TZID=America/Edmonton:20270104T223000
+SUMMARY:⚽ Calgary Villains FC vs CWFC Colts (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108358@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270122T203000
+DTEND;TZID=America/Edmonton:20270122T213000
+SUMMARY:⚽ Calgary Villains FC vs Richmond's Pub FC (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108437@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270129T220000
+DTEND;TZID=America/Edmonton:20270129T230000
+SUMMARY:⚽ Calgary Villains FC at Eldorado Kickers B (away) · Cleats
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
+ sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108515@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270205T214500
+DTEND;TZID=America/Edmonton:20270205T224500
+SUMMARY:⚽ Calgary Villains FC vs SC Athletic City U23 (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108570@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270209T213000
+DTEND;TZID=America/Edmonton:20270209T223000
+SUMMARY:⚽ Calgary Villains FC at CWFC Colts (away)
+LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
+ ule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108738@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270227T170000
+DTEND;TZID=America/Edmonton:20270227T180000
+SUMMARY:⚽ Calgary Villains FC at Foothills Fire (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108858@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270310T214500
+DTEND;TZID=America/Edmonton:20270310T224500
+SUMMARY:⚽ Calgary Villains FC vs Blizzard SC5 (home) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 4\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108912@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270316T214500
+DTEND;TZID=America/Edmonton:20270316T224500
+SUMMARY:⚽ Calgary Villains FC at Al Salam FC (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
+ dule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108989@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270323T214500
+DTEND;TZID=America/Edmonton:20270323T224500
+SUMMARY:⚽ Calgary Villains FC vs FC Wizards (home) · Cleats
+LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 4\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

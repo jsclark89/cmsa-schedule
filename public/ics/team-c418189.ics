@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PASS FC GUNNERS (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2109114@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261109T214500
+DTEND;TZID=America/Edmonton:20261109T224500
+SUMMARY:⚽ PASS FC GUNNERS at Lads Club O35 Premier (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109227@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261119T221500
+DTEND;TZID=America/Edmonton:20261119T231500
+SUMMARY:⚽ PASS FC GUNNERS at Super Eagles O35 (away) · Cleats
+LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters Competitive\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109305@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261125T220000
+DTEND;TZID=America/Edmonton:20261125T230000
+SUMMARY:⚽ PASS FC GUNNERS vs Lads Club O35 Elite (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters Competitive\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109350@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T213000
+DTEND;TZID=America/Edmonton:20261129T223000
+SUMMARY:⚽ PASS FC GUNNERS at Calgary Crew (away) · Cleats
+LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nMast
+ ers Competitive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109451@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T220000
+DTEND;TZID=America/Edmonton:20261208T230000
+SUMMARY:⚽ PASS FC GUNNERS vs United Nova Kodiak (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters Competitive\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2109522@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261214T214500
+DTEND;TZID=America/Edmonton:20261214T224500
+SUMMARY:⚽ PASS FC GUNNERS at Bridge Caledonian United A (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108222@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270109T193000
+DTEND;TZID=America/Edmonton:20270109T203000
+SUMMARY:⚽ PASS FC GUNNERS vs Bridge Caledonian United B (home) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108277@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T220000
+DTEND;TZID=America/Edmonton:20270114T230000
+SUMMARY:⚽ PASS FC GUNNERS vs Lads Club O35 Premier (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters Competitive\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108336@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T213000
+DTEND;TZID=America/Edmonton:20270119T223000
+SUMMARY:⚽ PASS FC GUNNERS vs Super Eagles O35 (home)
+LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Masters Competitive\nSchedule: https://jsclark89.github.io/c
+ msa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108444@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270129T201500
+DTEND;TZID=America/Edmonton:20270129T211500
+SUMMARY:⚽ PASS FC GUNNERS vs Lads Club O35 Elite (home) · Cleats
+LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nMast
+ ers Competitive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108496@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T213000
+DTEND;TZID=America/Edmonton:20270202T223000
+SUMMARY:⚽ PASS FC GUNNERS vs Calgary Crew (home)
+LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Masters Competitive\nSchedule: https://jsclark89.github.io/c
+ msa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108563@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270208T203000
+DTEND;TZID=America/Edmonton:20270208T213000
+SUMMARY:⚽ PASS FC GUNNERS at United Nova Kodiak (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108643@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270218T221500
+DTEND;TZID=America/Edmonton:20270218T231500
+SUMMARY:⚽ PASS FC GUNNERS vs Bridge Caledonian United A (home) · Cleats
+LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
+ ry\, AB T3B 0V8
+DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
+ leats\nMasters Competitive\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108698@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270223T214500
+DTEND;TZID=America/Edmonton:20270223T224500
+SUMMARY:⚽ PASS FC GUNNERS at Bridge Caledonian United B (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108828@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270308T203000
+DTEND;TZID=America/Edmonton:20270308T213000
+SUMMARY:⚽ PASS FC GUNNERS at Lads Club O35 Premier (away) · Cleats
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nMasters Competit
+ ive\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108948@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270317T213000
+DTEND;TZID=America/Edmonton:20270317T223000
+SUMMARY:⚽ PASS FC GUNNERS at Super Eagles O35 (away)
+LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
+ Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Masters Competitive\nSchedule: https://jsclark89.github.io/c
+ msa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

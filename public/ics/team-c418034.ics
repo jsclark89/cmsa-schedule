@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:El Salvador Over 45 (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107754@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261103T213000
+DTEND;TZID=America/Edmonton:20261103T223000
+SUMMARY:⚽ El Salvador Over 45 vs AMERICA CHILE (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107756@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261114T201500
+DTEND;TZID=America/Edmonton:20261114T211500
+SUMMARY:⚽ El Salvador Over 45 at White Eagles O45 (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107653@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261123T191500
+DTEND;TZID=America/Edmonton:20261123T201500
+SUMMARY:⚽ El Salvador Over 45 vs Napoli D10S (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107616@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261202T191500
+DTEND;TZID=America/Edmonton:20261202T201500
+SUMMARY:⚽ El Salvador Over 45 vs Cafeteros (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107761@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T213000
+DTEND;TZID=America/Edmonton:20261208T223000
+SUMMARY:⚽ El Salvador Over 45 at Ismaili O45 (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107764@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270107T191500
+DTEND;TZID=America/Edmonton:20270107T201500
+SUMMARY:⚽ El Salvador Over 45 vs Calgary United Old Bhoys (home) · Runne
+ rs
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107618@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270113T201500
+DTEND;TZID=America/Edmonton:20270113T211500
+SUMMARY:⚽ El Salvador Over 45 at Southside Rangers O45B (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107767@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270123T201500
+DTEND;TZID=America/Edmonton:20270123T211500
+SUMMARY:⚽ El Salvador Over 45 vs Eagles O45 (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107561@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270205T211500
+DTEND;TZID=America/Edmonton:20270205T221500
+SUMMARY:⚽ El Salvador Over 45 at Chile O45 (away) · Runners
+LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
+ Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107621@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T191500
+DTEND;TZID=America/Edmonton:20270211T201500
+SUMMARY:⚽ El Salvador Over 45 at AMERICA CHILE (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107643@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270217T201500
+DTEND;TZID=America/Edmonton:20270217T211500
+SUMMARY:⚽ El Salvador Over 45 vs White Eagles O45 (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107775@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270223T193000
+DTEND;TZID=America/Edmonton:20270223T203000
+SUMMARY:⚽ El Salvador Over 45 at Napoli D10S (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107782@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270304T201500
+DTEND;TZID=America/Edmonton:20270304T211500
+SUMMARY:⚽ El Salvador Over 45 vs Ismaili O45 (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107576@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270311T201500
+DTEND;TZID=America/Edmonton:20270311T211500
+SUMMARY:⚽ El Salvador Over 45 at Cafeteros (away) · Runners
+LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
+ Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107786@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270317T201500
+DTEND;TZID=America/Edmonton:20270317T211500
+SUMMARY:⚽ El Salvador Over 45 at Calgary United Old Bhoys (away) · Runne
+ rs
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107832@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270323T193000
+DTEND;TZID=America/Edmonton:20270323T203000
+SUMMARY:⚽ El Salvador Over 45 vs Southside Rangers O45B (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nOver 45B\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

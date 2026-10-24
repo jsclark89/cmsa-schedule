@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:El Salvador O35 (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107553@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261103T211500
+DTEND;TZID=America/Edmonton:20261103T221500
+SUMMARY:⚽ El Salvador O35 at NAIJA-YYC FC (away) · Runners
+LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
+ Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107700@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261113T201500
+DTEND;TZID=America/Edmonton:20261113T211500
+SUMMARY:⚽ El Salvador O35 at YYC Chieftains O35 (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107704@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261120T201500
+DTEND;TZID=America/Edmonton:20261120T211500
+SUMMARY:⚽ El Salvador O35 vs Neighbourhoods (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107709@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261130T211500
+DTEND;TZID=America/Edmonton:20261130T221500
+SUMMARY:⚽ El Salvador O35 vs Romania O35 (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107715@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T193000
+DTEND;TZID=America/Edmonton:20261208T203000
+SUMMARY:⚽ El Salvador O35 at Southside Rangers O45A (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107718@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261214T201500
+DTEND;TZID=America/Edmonton:20261214T211500
+SUMMARY:⚽ El Salvador O35 vs Lads Club (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107723@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T193000
+DTEND;TZID=America/Edmonton:20270105T203000
+SUMMARY:⚽ El Salvador O35 at Atl?tico Cuervos 035 (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107724@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270111T191500
+DTEND;TZID=America/Edmonton:20270111T201500
+SUMMARY:⚽ El Salvador O35 vs Fooz FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107730@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270118T201500
+DTEND;TZID=America/Edmonton:20270118T211500
+SUMMARY:⚽ El Salvador O35 vs NAIJA-YYC FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107734@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270128T191500
+DTEND;TZID=America/Edmonton:20270128T201500
+SUMMARY:⚽ El Salvador O35 vs YYC Chieftains O35 (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107557@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T211500
+DTEND;TZID=America/Edmonton:20270202T221500
+SUMMARY:⚽ El Salvador O35 at Neighbourhoods (away) · Runners
+LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
+ Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107736@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270209T193000
+DTEND;TZID=America/Edmonton:20270209T203000
+SUMMARY:⚽ El Salvador O35 vs CJSC TKB (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107737@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T193000
+DTEND;TZID=America/Edmonton:20270216T203000
+SUMMARY:⚽ El Salvador O35 at Romania O35 (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107612@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270227T201500
+DTEND;TZID=America/Edmonton:20270227T211500
+SUMMARY:⚽ El Salvador O35 vs Southside Rangers O45A (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107744@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270308T211500
+DTEND;TZID=America/Edmonton:20270308T221500
+SUMMARY:⚽ El Salvador O35 at Lads Club (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107751@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270316T193000
+DTEND;TZID=America/Edmonton:20270316T203000
+SUMMARY:⚽ El Salvador O35 at CJSC TKB (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nMasters O35\nSch
+ edule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

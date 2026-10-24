@@ -1,0 +1,1110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mens (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107917@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T190000
+DTEND;TZID=America/Edmonton:20261105T200000
+SUMMARY:⚽ Calgary Rangers FC vs Elevate Soccer Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107918@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T200000
+DTEND;TZID=America/Edmonton:20261105T210000
+SUMMARY:⚽ FC Tryzub vs Callies Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107919@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T210000
+DTEND;TZID=America/Edmonton:20261105T220000
+SUMMARY:⚽ Union Futsal vs Elite Football Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107920@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T220000
+DTEND;TZID=America/Edmonton:20261105T230000
+SUMMARY:⚽ AU Lions vs Impero FC PRIMO
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107921@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261108T170000
+DTEND;TZID=America/Edmonton:20261108T180000
+SUMMARY:⚽ Vanguard FC vs CUFC Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107922@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261108T180000
+DTEND;TZID=America/Edmonton:20261108T190000
+SUMMARY:⚽ 1UP United vs Impero FC Dinamo
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107924@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T200000
+DTEND;TZID=America/Edmonton:20261110T210000
+SUMMARY:⚽ Callies Futsal vs Union Futsal · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107925@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T210000
+DTEND;TZID=America/Edmonton:20261110T220000
+SUMMARY:⚽ Elite Football Academy vs Vanguard FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107928@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261112T210000
+DTEND;TZID=America/Edmonton:20261112T220000
+SUMMARY:⚽ CUFC Futsal vs 1UP United
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107929@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261112T220000
+DTEND;TZID=America/Edmonton:20261112T230000
+SUMMARY:⚽ Impero FC PRIMO vs Calgary Rangers FC
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107930@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261115T190000
+DTEND;TZID=America/Edmonton:20261115T200000
+SUMMARY:⚽ Elevate Soccer Academy vs FC Tryzub · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107931@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261115T200000
+DTEND;TZID=America/Edmonton:20261115T210000
+SUMMARY:⚽ Impero FC Dinamo vs AU Lions · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107935@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261119T203000
+DTEND;TZID=America/Edmonton:20261119T213000
+SUMMARY:⚽ Calgary Rangers FC vs Impero FC Dinamo · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107936@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261119T213000
+DTEND;TZID=America/Edmonton:20261119T223000
+SUMMARY:⚽ 1UP United vs Elite Football Academy · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107937@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261122T190000
+DTEND;TZID=America/Edmonton:20261122T200000
+SUMMARY:⚽ Impero FC PRIMO vs Elevate Soccer Academy · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107938@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261122T200000
+DTEND;TZID=America/Edmonton:20261122T210000
+SUMMARY:⚽ Union Futsal vs FC Tryzub · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107939@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261122T210000
+DTEND;TZID=America/Edmonton:20261122T220000
+SUMMARY:⚽ Vanguard FC vs Callies Futsal · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107940@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261122T220000
+DTEND;TZID=America/Edmonton:20261122T230000
+SUMMARY:⚽ AU Lions vs CUFC Futsal · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107944@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261124T220000
+DTEND;TZID=America/Edmonton:20261124T230000
+SUMMARY:⚽ Union Futsal vs 1UP United · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107945@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261126T203000
+DTEND;TZID=America/Edmonton:20261126T213000
+SUMMARY:⚽ Callies Futsal vs Calgary Rangers FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107946@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261126T213000
+DTEND;TZID=America/Edmonton:20261126T223000
+SUMMARY:⚽ FC Tryzub vs AU Lions · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107947@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T200000
+DTEND;TZID=America/Edmonton:20261129T210000
+SUMMARY:⚽ Elevate Soccer Academy vs Vanguard FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107948@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T210000
+DTEND;TZID=America/Edmonton:20261129T220000
+SUMMARY:⚽ CUFC Futsal vs Impero FC Dinamo · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107949@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T220000
+DTEND;TZID=America/Edmonton:20261129T230000
+SUMMARY:⚽ Elite Football Academy vs Impero FC PRIMO · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107950@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T190000
+DTEND;TZID=America/Edmonton:20261203T200000
+SUMMARY:⚽ AU Lions vs Union Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107951@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T200000
+DTEND;TZID=America/Edmonton:20261203T210000
+SUMMARY:⚽ Impero FC PRIMO vs Callies Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107952@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T210000
+DTEND;TZID=America/Edmonton:20261203T220000
+SUMMARY:⚽ Impero FC Dinamo vs Elite Football Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107953@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T220000
+DTEND;TZID=America/Edmonton:20261203T230000
+SUMMARY:⚽ Calgary Rangers FC vs FC Tryzub
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107954@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261206T150000
+DTEND;TZID=America/Edmonton:20261206T160000
+SUMMARY:⚽ CUFC Futsal vs Elevate Soccer Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107955@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261206T160000
+DTEND;TZID=America/Edmonton:20261206T170000
+SUMMARY:⚽ 1UP United vs Vanguard FC
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107959@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261210T203000
+DTEND;TZID=America/Edmonton:20261210T213000
+SUMMARY:⚽ Elevate Soccer Academy vs AU Lions · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107960@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261210T213000
+DTEND;TZID=America/Edmonton:20261210T223000
+SUMMARY:⚽ 1UP United vs Calgary Rangers FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107961@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T190000
+DTEND;TZID=America/Edmonton:20261213T200000
+SUMMARY:⚽ Callies Futsal vs Elite Football Academy · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107962@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T200000
+DTEND;TZID=America/Edmonton:20261213T210000
+SUMMARY:⚽ FC Tryzub vs CUFC Futsal · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107963@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T210000
+DTEND;TZID=America/Edmonton:20261213T220000
+SUMMARY:⚽ Union Futsal vs Impero FC Dinamo · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107964@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T220000
+DTEND;TZID=America/Edmonton:20261213T230000
+SUMMARY:⚽ Vanguard FC vs Impero FC PRIMO · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107965@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T190000
+DTEND;TZID=America/Edmonton:20261217T200000
+SUMMARY:⚽ Elevate Soccer Academy vs Callies Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107966@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T200000
+DTEND;TZID=America/Edmonton:20261217T210000
+SUMMARY:⚽ Impero FC PRIMO vs 1UP United
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107967@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T210000
+DTEND;TZID=America/Edmonton:20261217T220000
+SUMMARY:⚽ Elite Football Academy vs FC Tryzub
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107968@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T220000
+DTEND;TZID=America/Edmonton:20261217T230000
+SUMMARY:⚽ Calgary Rangers FC vs AU Lions
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107970@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261220T170000
+DTEND;TZID=America/Edmonton:20261220T180000
+SUMMARY:⚽ CUFC Futsal vs Union Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107971@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261220T180000
+DTEND;TZID=America/Edmonton:20261220T190000
+SUMMARY:⚽ Impero FC Dinamo vs Vanguard FC
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107835@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T210000
+DTEND;TZID=America/Edmonton:20270105T220000
+SUMMARY:⚽ Union Futsal vs Elevate Soccer Academy · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107837@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270107T203000
+DTEND;TZID=America/Edmonton:20270107T213000
+SUMMARY:⚽ Elite Football Academy vs AU Lions · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107838@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270107T213000
+DTEND;TZID=America/Edmonton:20270107T223000
+SUMMARY:⚽ Callies Futsal vs 1UP United · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107839@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270110T190000
+DTEND;TZID=America/Edmonton:20270110T200000
+SUMMARY:⚽ FC Tryzub vs Vanguard FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107840@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270110T200000
+DTEND;TZID=America/Edmonton:20270110T210000
+SUMMARY:⚽ Impero FC Dinamo vs Impero FC PRIMO · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107841@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270110T210000
+DTEND;TZID=America/Edmonton:20270110T220000
+SUMMARY:⚽ CUFC Futsal vs Calgary Rangers FC · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107845@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T190000
+DTEND;TZID=America/Edmonton:20270114T200000
+SUMMARY:⚽ Calgary Rangers FC vs Elite Football Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107846@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T200000
+DTEND;TZID=America/Edmonton:20270114T210000
+SUMMARY:⚽ Vanguard FC vs Union Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107847@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T210000
+DTEND;TZID=America/Edmonton:20270114T220000
+SUMMARY:⚽ 1UP United vs FC Tryzub
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107848@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270117T150000
+DTEND;TZID=America/Edmonton:20270117T160000
+SUMMARY:⚽ Impero FC PRIMO vs CUFC Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107849@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270117T160000
+DTEND;TZID=America/Edmonton:20270117T170000
+SUMMARY:⚽ Elevate Soccer Academy vs Impero FC Dinamo
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107850@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270117T170000
+DTEND;TZID=America/Edmonton:20270117T180000
+SUMMARY:⚽ AU Lions vs Callies Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107851@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T200000
+DTEND;TZID=America/Edmonton:20270119T210000
+SUMMARY:⚽ CUFC Futsal vs Callies Futsal · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107852@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T210000
+DTEND;TZID=America/Edmonton:20270119T220000
+SUMMARY:⚽ Elevate Soccer Academy vs Elite Football Academy · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107853@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T190000
+DTEND;TZID=America/Edmonton:20270121T200000
+SUMMARY:⚽ 1UP United vs Elevate Soccer Academy
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107854@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T200000
+DTEND;TZID=America/Edmonton:20270121T210000
+SUMMARY:⚽ Union Futsal vs Calgary Rangers FC
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107855@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T210000
+DTEND;TZID=America/Edmonton:20270121T220000
+SUMMARY:⚽ Vanguard FC vs AU Lions
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107857@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270124T150000
+DTEND;TZID=America/Edmonton:20270124T160000
+SUMMARY:⚽ Callies Futsal vs Impero FC Dinamo
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107858@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270124T160000
+DTEND;TZID=America/Edmonton:20270124T170000
+SUMMARY:⚽ FC Tryzub vs Impero FC PRIMO
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107859@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270124T170000
+DTEND;TZID=America/Edmonton:20270124T180000
+SUMMARY:⚽ Elite Football Academy vs CUFC Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107863@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270128T190000
+DTEND;TZID=America/Edmonton:20270128T200000
+SUMMARY:⚽ AU Lions vs 1UP United
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107864@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270128T200000
+DTEND;TZID=America/Edmonton:20270128T210000
+SUMMARY:⚽ Calgary Rangers FC vs Vanguard FC
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107865@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270128T210000
+DTEND;TZID=America/Edmonton:20270128T220000
+SUMMARY:⚽ Impero FC PRIMO vs Union Futsal
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107866@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270128T220000
+DTEND;TZID=America/Edmonton:20270128T230000
+SUMMARY:⚽ Impero FC Dinamo vs FC Tryzub
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107870@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270204T190000
+DTEND;TZID=America/Edmonton:20270204T200000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107871@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270204T200000
+DTEND;TZID=America/Edmonton:20270204T210000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107872@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270204T210000
+DTEND;TZID=America/Edmonton:20270204T220000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107873@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270204T220000
+DTEND;TZID=America/Edmonton:20270204T230000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107877@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T190000
+DTEND;TZID=America/Edmonton:20270211T200000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107878@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T200000
+DTEND;TZID=America/Edmonton:20270211T210000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107881@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T203000
+DTEND;TZID=America/Edmonton:20270211T213000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107879@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T210000
+DTEND;TZID=America/Edmonton:20270211T220000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107882@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T213000
+DTEND;TZID=America/Edmonton:20270211T223000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107880@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270211T220000
+DTEND;TZID=America/Edmonton:20270211T230000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107886@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270218T190000
+DTEND;TZID=America/Edmonton:20270218T200000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107887@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270218T200000
+DTEND;TZID=America/Edmonton:20270218T210000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107888@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270218T210000
+DTEND;TZID=America/Edmonton:20270218T220000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107889@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270221T190000
+DTEND;TZID=America/Edmonton:20270221T200000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107890@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270221T200000
+DTEND;TZID=America/Edmonton:20270221T210000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107891@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270221T210000
+DTEND;TZID=America/Edmonton:20270221T220000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107895@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270225T190000
+DTEND;TZID=America/Edmonton:20270225T200000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107896@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270225T200000
+DTEND;TZID=America/Edmonton:20270225T210000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107897@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270225T210000
+DTEND;TZID=America/Edmonton:20270225T220000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107898@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270225T220000
+DTEND;TZID=America/Edmonton:20270225T230000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107899@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270228T190000
+DTEND;TZID=America/Edmonton:20270228T200000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107900@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270228T200000
+DTEND;TZID=America/Edmonton:20270228T210000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107901@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270228T210000
+DTEND;TZID=America/Edmonton:20270228T220000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107905@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270307T190000
+DTEND;TZID=America/Edmonton:20270307T200000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107906@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270307T200000
+DTEND;TZID=America/Edmonton:20270307T210000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107907@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270307T210000
+DTEND;TZID=America/Edmonton:20270307T220000
+SUMMARY:⚽ undefined vs undefined · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107911@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270311T190000
+DTEND;TZID=America/Edmonton:20270311T200000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107912@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270311T200000
+DTEND;TZID=America/Edmonton:20270311T210000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107913@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270311T210000
+DTEND;TZID=America/Edmonton:20270311T220000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107914@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270311T220000
+DTEND;TZID=America/Edmonton:20270311T230000
+SUMMARY:⚽ undefined vs undefined
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ryenose (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107987@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261103T201500
+DTEND;TZID=America/Edmonton:20261103T211500
+SUMMARY:⚽ Ryenose vs Ball Sacks FC (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108017@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261114T180000
+DTEND;TZID=America/Edmonton:20261114T190000
+SUMMARY:⚽ Ryenose vs Royals Gold (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108041@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261119T211500
+DTEND;TZID=America/Edmonton:20261119T221500
+SUMMARY:⚽ Ryenose at Crushenbru (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108064@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261125T211500
+DTEND;TZID=America/Edmonton:20261125T221500
+SUMMARY:⚽ Ryenose vs Royals Purple (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108103@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T201500
+DTEND;TZID=America/Edmonton:20261203T211500
+SUMMARY:⚽ Ryenose at Eggplants (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108113@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261207T191500
+DTEND;TZID=America/Edmonton:20261207T201500
+SUMMARY:⚽ Ryenose vs Swift Kick in the Grass (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108133@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T140000
+DTEND;TZID=America/Edmonton:20261213T150000
+SUMMARY:⚽ Ryenose vs Timberhawks (home) · Runners
+LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108149@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261216T201500
+DTEND;TZID=America/Edmonton:20261216T211500
+SUMMARY:⚽ Ryenose at Jimmy Kick-Its (away) · Runners
+LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
+ algary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Main/Annex: Boarded field (boards not in use for 7v7)\nRecreational\nSc
+ hedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

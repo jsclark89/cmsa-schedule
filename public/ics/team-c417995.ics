@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elevate Soccer Academy (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107917@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T190000
+DTEND;TZID=America/Edmonton:20261105T200000
+SUMMARY:⚽ Elevate Soccer Academy at Calgary Rangers FC (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107930@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261115T190000
+DTEND;TZID=America/Edmonton:20261115T200000
+SUMMARY:⚽ Elevate Soccer Academy vs FC Tryzub (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107937@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261122T190000
+DTEND;TZID=America/Edmonton:20261122T200000
+SUMMARY:⚽ Elevate Soccer Academy at Impero FC PRIMO (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107947@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T200000
+DTEND;TZID=America/Edmonton:20261129T210000
+SUMMARY:⚽ Elevate Soccer Academy vs Vanguard FC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107954@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261206T150000
+DTEND;TZID=America/Edmonton:20261206T160000
+SUMMARY:⚽ Elevate Soccer Academy at CUFC Futsal (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107959@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261210T203000
+DTEND;TZID=America/Edmonton:20261210T213000
+SUMMARY:⚽ Elevate Soccer Academy vs AU Lions (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107965@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T190000
+DTEND;TZID=America/Edmonton:20261217T200000
+SUMMARY:⚽ Elevate Soccer Academy vs Callies Futsal (home)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107835@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T210000
+DTEND;TZID=America/Edmonton:20270105T220000
+SUMMARY:⚽ Elevate Soccer Academy at Union Futsal (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107849@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270117T160000
+DTEND;TZID=America/Edmonton:20270117T170000
+SUMMARY:⚽ Elevate Soccer Academy vs Impero FC Dinamo (home)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107852@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T210000
+DTEND;TZID=America/Edmonton:20270119T220000
+SUMMARY:⚽ Elevate Soccer Academy vs Elite Football Academy (home) · Runn
+ ers
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107853@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270121T190000
+DTEND;TZID=America/Edmonton:20270121T200000
+SUMMARY:⚽ Elevate Soccer Academy at 1UP United (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

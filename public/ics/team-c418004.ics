@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CJSC Old Lady Trojans (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107933@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261117T210000
+DTEND;TZID=America/Edmonton:20261117T220000
+SUMMARY:⚽ CJSC Old Lady Trojans vs Reign FC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107941@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261124T190000
+DTEND;TZID=America/Edmonton:20261124T200000
+SUMMARY:⚽ CJSC Old Lady Trojans at Calgary Blizzard WSC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107956@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261208T200000
+DTEND;TZID=America/Edmonton:20261208T210000
+SUMMARY:⚽ CJSC Old Lady Trojans vs EMFC SWAT (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107969@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261220T160000
+DTEND;TZID=America/Edmonton:20261220T170000
+SUMMARY:⚽ CJSC Old Lady Trojans at CJSC (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107836@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T220000
+DTEND;TZID=America/Edmonton:20270105T230000
+SUMMARY:⚽ CJSC Old Lady Trojans vs Impero FC Atletico (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107844@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270112T220000
+DTEND;TZID=America/Edmonton:20270112T230000
+SUMMARY:⚽ CJSC Old Lady Trojans at Impero WFC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107862@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270126T220000
+DTEND;TZID=America/Edmonton:20270126T230000
+SUMMARY:⚽ CJSC Old Lady Trojans at Impero FC Atletico (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107875@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270209T210000
+DTEND;TZID=America/Edmonton:20270209T220000
+SUMMARY:⚽ CJSC Old Lady Trojans at Reign FC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107883@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T200000
+DTEND;TZID=America/Edmonton:20270216T210000
+SUMMARY:⚽ CJSC Old Lady Trojans vs Calgary Blizzard WSC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107892@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270223T200000
+DTEND;TZID=America/Edmonton:20270223T210000
+SUMMARY:⚽ CJSC Old Lady Trojans vs EMFC SWAT (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107903@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270302T210000
+DTEND;TZID=America/Edmonton:20270302T220000
+SUMMARY:⚽ CJSC Old Lady Trojans at CJSC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107910@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270309T220000
+DTEND;TZID=America/Edmonton:20270309T230000
+SUMMARY:⚽ CJSC Old Lady Trojans vs Impero WFC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

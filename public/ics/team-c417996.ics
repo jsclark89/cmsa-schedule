@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elite Football Academy (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107919@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261105T210000
+DTEND;TZID=America/Edmonton:20261105T220000
+SUMMARY:⚽ Elite Football Academy at Union Futsal (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107925@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261110T210000
+DTEND;TZID=America/Edmonton:20261110T220000
+SUMMARY:⚽ Elite Football Academy vs Vanguard FC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107936@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261119T213000
+DTEND;TZID=America/Edmonton:20261119T223000
+SUMMARY:⚽ Elite Football Academy at 1UP United (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107949@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261129T220000
+DTEND;TZID=America/Edmonton:20261129T230000
+SUMMARY:⚽ Elite Football Academy vs Impero FC PRIMO (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107952@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261203T210000
+DTEND;TZID=America/Edmonton:20261203T220000
+SUMMARY:⚽ Elite Football Academy at Impero FC Dinamo (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107961@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261213T190000
+DTEND;TZID=America/Edmonton:20261213T200000
+SUMMARY:⚽ Elite Football Academy at Callies Futsal (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107967@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261217T210000
+DTEND;TZID=America/Edmonton:20261217T220000
+SUMMARY:⚽ Elite Football Academy vs FC Tryzub (home)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107837@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270107T203000
+DTEND;TZID=America/Edmonton:20270107T213000
+SUMMARY:⚽ Elite Football Academy vs AU Lions (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107845@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270114T190000
+DTEND;TZID=America/Edmonton:20270114T200000
+SUMMARY:⚽ Elite Football Academy at Calgary Rangers FC (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107852@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270119T210000
+DTEND;TZID=America/Edmonton:20270119T220000
+SUMMARY:⚽ Elite Football Academy at Elevate Soccer Academy (away) · Runn
+ ers
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nMens
+ \nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107859@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270124T170000
+DTEND;TZID=America/Edmonton:20270124T180000
+SUMMARY:⚽ Elite Football Academy vs CUFC Futsal (home)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR

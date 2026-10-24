@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Impero WFC (CUSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-c2107916@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261103T210000
+DTEND;TZID=America/Edmonton:20261103T220000
+SUMMARY:⚽ Impero WFC vs Calgary Blizzard WSC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107926@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261112T190000
+DTEND;TZID=America/Edmonton:20261112T200000
+SUMMARY:⚽ Impero WFC at Impero FC Atletico (away)
+LOCATION:Seven Chiefs Sportsplex
+DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107932@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261117T200000
+DTEND;TZID=America/Edmonton:20261117T210000
+SUMMARY:⚽ Impero WFC vs CJSC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107942@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20261124T200000
+DTEND;TZID=America/Edmonton:20261124T210000
+SUMMARY:⚽ Impero WFC at Reign FC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107834@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270105T200000
+DTEND;TZID=America/Edmonton:20270105T210000
+SUMMARY:⚽ Impero WFC at EMFC SWAT (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107844@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270112T220000
+DTEND;TZID=America/Edmonton:20270112T230000
+SUMMARY:⚽ Impero WFC vs CJSC Old Lady Trojans (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107861@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270126T210000
+DTEND;TZID=America/Edmonton:20270126T220000
+SUMMARY:⚽ Impero WFC at Calgary Blizzard WSC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107867@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270202T200000
+DTEND;TZID=America/Edmonton:20270202T210000
+SUMMARY:⚽ Impero WFC vs Impero FC Atletico (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107874@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270209T200000
+DTEND;TZID=America/Edmonton:20270209T210000
+SUMMARY:⚽ Impero WFC at CJSC (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107884@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270216T210000
+DTEND;TZID=America/Edmonton:20270216T220000
+SUMMARY:⚽ Impero WFC vs Reign FC (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107904@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270302T220000
+DTEND;TZID=America/Edmonton:20270302T230000
+SUMMARY:⚽ Impero WFC vs EMFC SWAT (home) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2107910@cmsa-schedule
+DTSTAMP:20261024T213247Z
+DTSTART;TZID=America/Edmonton:20270309T220000
+DTEND;TZID=America/Edmonton:20270309T230000
+SUMMARY:⚽ Impero WFC at CJSC Old Lady Trojans (away) · Runners
+LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
+ ary\, AB T3J 0C9
+DESCRIPTION:Bring: Runners (flat-sole shoes)\nField: Runners · Carpet · 
+ Indoor Season Genesis — Boarded field (boards not in use for 7v7)\nWome
+ ns\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+END:VEVENT
+END:VCALENDAR
