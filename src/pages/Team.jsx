@@ -158,6 +158,11 @@ function TrainingCard({ t }) {
       </div>
       <div><b>{t.venue}</b>{t.field ? ` · ${t.field}` : ''}</div>
       {t.address ? <div className="muted">{t.address}</div> : null}
+      {t.footwear ? (
+        <div className="bringrow">
+          <span className={`bring big ${t.footwear === 'Runners' ? 'runners' : 'cleats'}`}>{t.footwear === 'Runners' ? '👟' : '⚽'} Bring {t.footwear.toLowerCase()}</span>
+        </div>
+      ) : null}
       {t.note ? <div className="note muted small">{t.note}</div> : null}
       <div className="actions">
         {maps ? <a className="btn" href={maps} target="_blank" rel="noopener">Directions</a> : null}

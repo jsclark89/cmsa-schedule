@@ -93,6 +93,7 @@ function TeamCard({ team, season }) {
         return d ? (
           <div key={i} className="muted small trainline">
             Training {weekdayName(t.weekday).replace(/s$/, '')} {fmtDate(d, 'short').split(', ')[1]} · {fmtTime(t.start)} · {t.venue}{t.field ? ` ${t.field}` : ''}
+            {t.footwear ? <> <span className={`bring ${t.footwear === 'Runners' ? 'runners' : 'cleats'}`}>Bring {t.footwear.toLowerCase()}</span></> : null}
           </div>
         ) : null
       })}

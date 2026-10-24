@@ -1,5 +1,5 @@
 {
-  "_readme": "Weekly training by team id. weekday uses iCalendar codes (MO TU WE TH FR SA SU). Dates are YYYY-MM-DD. skip lists dates with no session. The scraper folds these into the team calendars; the site reads this file directly.",
+  "_readme": "Weekly training by team id. weekday uses iCalendar codes (MO TU WE TH FR SA SU). Dates are YYYY-MM-DD. skip lists dates with no session. The scraper folds these into the team calendars; the site reads this file directly. footwear is Cleats or Runners and goes into the calendar title.",
   "117130593": [
     {
       "label": "Team session",
@@ -13,7 +13,8 @@
       "until": "2027-02-27",
       "skip": [],
       "note": "Shin pads every session. Bring a water bottle.",
-      "source": "Calgary Foothills Soccer Club email, 2026-10-11"
+      "source": "Calgary Foothills Soccer Club email, 2026-10-11",
+      "footwear": "Cleats"
     }
   ]
 }
