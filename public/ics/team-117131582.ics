@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711337@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261018T130000
 DTEND;TZID=America/Edmonton:20261018T140000
-SUMMARY:⚽ RANGERS WFC15 vs Foothills WFC 2014 White Girls (home)
+SUMMARY:⚽ RANGERS WFC15 vs Foothills WFC 2014 White Girls · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4525\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -38,10 +38,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711345@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261025T170000
 DTEND;TZID=America/Edmonton:20261025T180000
-SUMMARY:⚽ RANGERS WFC15 at Chinooks WFC United 2014 (away)
+SUMMARY:⚽ RANGERS WFC15 at Chinooks WFC United 2014 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4530\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -50,10 +50,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711351@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261101T093000
 DTEND;TZID=America/Edmonton:20261101T103000
-SUMMARY:⚽ RANGERS WFC15 vs Rockies Energie 14 (home)
+SUMMARY:⚽ RANGERS WFC15 vs Rockies Energie 14 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4536\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -62,24 +62,24 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711355@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261108T154500
 DTEND;TZID=America/Edmonton:20261108T164500
-SUMMARY:⚽ RANGERS WFC15 vs Foothills Prospects 2014 Girls (home) · Cleat
- s
+SUMMARY:⚽ RANGERS WFC15 vs Foothills Prospects 2014 Girls · #01/NW · Cle
+ ats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4540\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4540\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711358@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261115T131500
 DTEND;TZID=America/Edmonton:20261115T141500
-SUMMARY:⚽ RANGERS WFC15 at RANGERS WFC 14 (away)
+SUMMARY:⚽ RANGERS WFC15 at RANGERS WFC 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4546\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -88,10 +88,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711367@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261122T154500
 DTEND;TZID=America/Edmonton:20261122T164500
-SUMMARY:⚽ RANGERS WFC15 vs Foothills WFC Green 2015 (home)
+SUMMARY:⚽ RANGERS WFC15 vs Foothills WFC Green 2015 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4552\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -100,10 +100,11 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711372@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261129T154500
 DTEND;TZID=America/Edmonton:20261129T164500
-SUMMARY:⚽ RANGERS WFC15 at New Frontier SC 2014 Girls (Bryan) (away)
+SUMMARY:⚽ RANGERS WFC15 at New Frontier SC 2014 Girls (Bryan) · Field 2 
+ 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4557\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -112,62 +113,62 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711377@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261206T164500
 DTEND;TZID=America/Edmonton:20261206T174500
-SUMMARY:⚽ RANGERS WFC15 at Blizzard SC 14 Girls (away) · Cleats
+SUMMARY:⚽ RANGERS WFC15 at Blizzard SC 14 Girls · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4562\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4562\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711386@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270103T183000
 DTEND;TZID=America/Edmonton:20270103T193000
-SUMMARY:⚽ RANGERS WFC15 vs SWU SC 14G (home) · Cleats
+SUMMARY:⚽ RANGERS WFC15 vs SWU SC 14G · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4571\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4571\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711391@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270110T141500
 DTEND;TZID=America/Edmonton:20270110T151500
-SUMMARY:⚽ RANGERS WFC15 vs Chinooks WFC United 2014 (home) · Cleats
+SUMMARY:⚽ RANGERS WFC15 vs Chinooks WFC United 2014 · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4576\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4576\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711399@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
-SUMMARY:⚽ RANGERS WFC15 at Rockies Energie 14 (away) · Cleats
+SUMMARY:⚽ RANGERS WFC15 at Rockies Energie 14 · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4582\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4582\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711401@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270124T110000
 DTEND;TZID=America/Edmonton:20270124T120000
-SUMMARY:⚽ RANGERS WFC15 vs Villains Inferno 14 (home)
+SUMMARY:⚽ RANGERS WFC15 vs Villains Inferno 14 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4586\nGirls U13 Tier 1\nSchedule: https://jsclark89.gi
@@ -176,30 +177,30 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711411@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270131T110000
 DTEND;TZID=America/Edmonton:20270131T120000
-SUMMARY:⚽ RANGERS WFC15 at Foothills Prospects 2014 Girls (away) · Cleat
- s
+SUMMARY:⚽ RANGERS WFC15 at Foothills Prospects 2014 Girls · Field A · Cl
+ eats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #4588\nGirls U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #4588\nGirls U13 Tier 1\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711425@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270207T114500
 DTEND;TZID=America/Edmonton:20270207T124500
-SUMMARY:⚽ RANGERS WFC15 at Foothills WFC 2014 White Girls (away) · Cleat
- s
+SUMMARY:⚽ RANGERS WFC15 at Foothills WFC 2014 White Girls · #03/SE · Cle
+ ats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4593\nGirls U13 Tier 1\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4593\nGirls U13 Tier 1\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

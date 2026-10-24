@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709838@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261017T141500
 DTEND;TZID=America/Edmonton:20261017T151500
-SUMMARY:⚽ WHU West Hills Cannons 14 vs CNS U13B Hawks 14 (home)
+SUMMARY:⚽ WHU West Hills Cannons 14 vs CNS U13B Hawks 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2170\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -38,10 +38,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709851@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261024T141500
 DTEND;TZID=America/Edmonton:20261024T151500
-SUMMARY:⚽ WHU West Hills Cannons 14 vs LSCA B PSG 2014 (home)
+SUMMARY:⚽ WHU West Hills Cannons 14 vs LSCA B PSG 2014 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2178\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -50,49 +50,53 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709856@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261031T080000
 DTEND;TZID=America/Edmonton:20261031T090000
-SUMMARY:⚽ WHU West Hills Cannons 14 at RANGERS ROYALS 14 (away) · Cleats
+SUMMARY:⚽ WHU West Hills Cannons 14 at RANGERS ROYALS 14 · Field B · Cle
+ ats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #2183\nBoys U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #2183\nBoys U13 Tier 4\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709863@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261107T104500
 DTEND;TZID=America/Edmonton:20261107T114500
-SUMMARY:⚽ WHU West Hills Cannons 14 vs RANGERS UNITED 14 (home) · Cleats
+SUMMARY:⚽ WHU West Hills Cannons 14 vs RANGERS UNITED 14 · #03/SE · Clea
+ ts
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #2190\nBoys U13 Tier 4\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #2190\nBoys U13 Tier 4\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709872@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261114T114500
 DTEND;TZID=America/Edmonton:20261114T124500
-SUMMARY:⚽ WHU West Hills Cannons 14 at Airdrie F.C. Valour 14 (away) · C
- leats
+SUMMARY:⚽ WHU West Hills Cannons 14 at Airdrie F.C. Valour 14 · MSC Dome
+  NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2199\nBoys
-  U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2199\nBoys U13 Tier 4\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709883@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261121T190000
 DTEND;TZID=America/Edmonton:20261121T200000
-SUMMARY:⚽ WHU West Hills Cannons 14 vs Blizzard Albion 14 Boys (home)
+SUMMARY:⚽ WHU West Hills Cannons 14 vs Blizzard Albion 14 Boys · Field 4
+  7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2210\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -101,34 +105,38 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709886@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261128T131500
 DTEND;TZID=America/Edmonton:20261128T141500
-SUMMARY:⚽ WHU West Hills Cannons 14 at OUSC Alliance B14 (away) · Cleats
+SUMMARY:⚽ WHU West Hills Cannons 14 at OUSC Alliance B14 · MSC Dome NE 7
+ v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2213\nBoys
-  U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2213\nBoys U13 Tier 4\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709895@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261205T103000
 DTEND;TZID=America/Edmonton:20261205T113000
-SUMMARY:⚽ WHU West Hills Cannons 14 at SWU Betis 14 B (away) · Cleats
+SUMMARY:⚽ WHU West Hills Cannons 14 at SWU Betis 14 B · MSC Dome NW 7v7 
+ · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2222\nBoys
-  U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2222\nBoys U13 Tier 4\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709907@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261212T190000
 DTEND;TZID=America/Edmonton:20261212T200000
-SUMMARY:⚽ WHU West Hills Cannons 14 vs MUSC Rapids 14 (home)
+SUMMARY:⚽ WHU West Hills Cannons 14 vs MUSC Rapids 14 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2234\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -137,10 +145,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709918@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261219T180000
 DTEND;TZID=America/Edmonton:20261219T190000
-SUMMARY:⚽ WHU West Hills Cannons 14 at CWFC B2014 White (away)
+SUMMARY:⚽ WHU West Hills Cannons 14 at CWFC B2014 White · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2243\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -149,10 +157,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709929@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270109T163000
 DTEND;TZID=America/Edmonton:20270109T173000
-SUMMARY:⚽ WHU West Hills Cannons 14 vs CNEU 2014 Gunners (home)
+SUMMARY:⚽ WHU West Hills Cannons 14 vs CNEU 2014 Gunners · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2251\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -161,24 +169,25 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709942@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270130T141500
 DTEND;TZID=America/Edmonton:20270130T151500
-SUMMARY:⚽ WHU West Hills Cannons 14 at Foothills 2014 United Boys (away)
-  · Cleats
+SUMMARY:⚽ WHU West Hills Cannons 14 at Foothills 2014 United Boys · Fiel
+ d A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #2261\nBoys U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #2261\nBoys U13 Tier 4\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709959@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270206T163000
 DTEND;TZID=America/Edmonton:20270206T173000
-SUMMARY:⚽ WHU West Hills Cannons 14 at Chinooks FC Red 2014 (away)
+SUMMARY:⚽ WHU West Hills Cannons 14 at Chinooks FC Red 2014 · Field 2 7v
+ 7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2273\nBoys U13 Tier 4\nSchedule: https://jsclark89.git
@@ -187,15 +196,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709970@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270227T103000
 DTEND;TZID=America/Edmonton:20270227T113000
-SUMMARY:⚽ WHU West Hills Cannons 14 vs Rockies River Plate 14 (home) · C
- leats
+SUMMARY:⚽ WHU West Hills Cannons 14 vs Rockies River Plate 14 · MSC Dome
+  SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2281\nBoys
-  U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2281\nBoys U13 Tier 4\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11710158@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261018T141500
 DTEND;TZID=America/Edmonton:20261018T151500
-SUMMARY:⚽ CNS U14B Eagles 13 at Blizzard Albion 13 Boys (away)
+SUMMARY:⚽ CNS U14B Eagles 13 at Blizzard Albion 13 Boys · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2647\nBoys U14 Tier 3\nSchedule: https://jsclark89.git
@@ -38,10 +38,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710173@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261025T181500
 DTEND;TZID=America/Edmonton:20261025T191500
-SUMMARY:⚽ CNS U14B Eagles 13 vs Foothills United 2013 (home)
+SUMMARY:⚽ CNS U14B Eagles 13 vs Foothills United 2013 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2655\nBoys U14 Tier 3\nSchedule: https://jsclark89.git
@@ -50,123 +50,133 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710187@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261108T101500
 DTEND;TZID=America/Edmonton:20261108T111500
-SUMMARY:⚽ CNS U14B Eagles 13 at LSCA B Milan 2013 (away) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 at LSCA B Milan 2013 · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #2662\nBoys U14 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #2662\nBoys U14 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710192@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261115T131500
 DTEND;TZID=America/Edmonton:20261115T141500
-SUMMARY:⚽ CNS U14B Eagles 13 vs EMFC Ajax 13 (home) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 vs EMFC Ajax 13 · MSC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2664\nBoys
-  U14 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2664\nBoys U14 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710207@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261122T104500
 DTEND;TZID=America/Edmonton:20261122T114500
-SUMMARY:⚽ CNS U14B Eagles 13 at CNEU 2013 Wolves (away) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 at CNEU 2013 Wolves · MSC Dome NW 7v7 · Cle
+ ats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2672\nBoys
-  U14 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2672\nBoys U14 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710234@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261129T103000
 DTEND;TZID=America/Edmonton:20261129T113000
-SUMMARY:⚽ CNS U14B Eagles 13 vs New Frontier SC 2013 Boys (Lee) (home) ·
-  Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 vs New Frontier SC 2013 Boys (Lee) · #04/NE
+  · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #2686\nBoys U14 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #2686\nBoys U14 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710252@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261213T154500
 DTEND;TZID=America/Edmonton:20261213T164500
-SUMMARY:⚽ CNS U14B Eagles 13 at CalGlen Raiders 13 (away) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 at CalGlen Raiders 13 · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #2693\nBoys U14 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #2693\nBoys U14 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710267@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261220T141500
 DTEND;TZID=America/Edmonton:20261220T151500
-SUMMARY:⚽ CNS U14B Eagles 13 vs Rockies Santos 13 (home) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 vs Rockies Santos 13 · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #2699\nBoys U14 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #2699\nBoys U14 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710278@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270103T114500
 DTEND;TZID=America/Edmonton:20270103T124500
-SUMMARY:⚽ CNS U14B Eagles 13 at SWU Gremio 13B (away) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 at SWU Gremio 13B · MSC Dome SE 7v7 · Cleat
+ s
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2707\nBoys
-  U14 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2707\nBoys U14 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710306@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270110T091500
 DTEND;TZID=America/Edmonton:20270110T101500
-SUMMARY:⚽ CNS U14B Eagles 13 vs Airdrie F.C. Pacific 13 (home) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 vs Airdrie F.C. Pacific 13 · MSC Dome SE 7v
+ 7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2714\nBoys
-  U14 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2714\nBoys U14 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710338@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270117T131500
 DTEND;TZID=America/Edmonton:20270117T141500
-SUMMARY:⚽ CNS U14B Eagles 13 at OUSC United B13 Green (away) · Cleats
+SUMMARY:⚽ CNS U14B Eagles 13 at OUSC United B13 Green · MSC Dome NW 7v7 
+ · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2722\nBoys
-  U14 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2722\nBoys U14 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710362@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270124T110000
 DTEND;TZID=America/Edmonton:20270124T120000
-SUMMARY:⚽ CNS U14B Eagles 13 vs Foothills 2013 Prospects boys (home)
+SUMMARY:⚽ CNS U14B Eagles 13 vs Foothills 2013 Prospects boys · Field 2 
+ 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2730\nBoys U14 Tier 3\nSchedule: https://jsclark89.git
@@ -175,10 +185,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710386@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270207T121500
 DTEND;TZID=America/Edmonton:20270207T131500
-SUMMARY:⚽ CNS U14B Eagles 13 at Blizzard Athletic 13 Boys (away)
+SUMMARY:⚽ CNS U14B Eagles 13 at Blizzard Athletic 13 Boys · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2741\nBoys U14 Tier 3\nSchedule: https://jsclark89.git
@@ -187,10 +197,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710392@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270228T130000
 DTEND;TZID=America/Edmonton:20270228T140000
-SUMMARY:⚽ CNS U14B Eagles 13 vs MUSC Dynamo 13 (home)
+SUMMARY:⚽ CNS U14B Eagles 13 vs MUSC Dynamo 13 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #2747\nBoys U14 Tier 3\nSchedule: https://jsclark89.git

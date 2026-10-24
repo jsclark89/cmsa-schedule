@@ -26,14 +26,16 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709835@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261017T153000
 DTEND;TZID=America/Edmonton:20261017T163000
-SUMMARY:⚽ RANGERS UNITED 14 vs OUSC Alliance B14 (home) · Cleats
+SUMMARY:⚽ RANGERS UNITED 14 vs OUSC Alliance B14 · MSC Dome NE 7v7 · Cle
+ ats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #2169\nBoys
-  U13 Tier 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #2169\nBoys U13 Tier 4\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

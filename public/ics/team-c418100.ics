@@ -26,22 +26,23 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109060@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
-SUMMARY:⚽ FC Wizards at Foothills Fire (away) · Cleats
+SUMMARY:⚽ FC Wizards at Foothills Fire · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nDivi
- sion 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nDivision 4\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109118@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
-SUMMARY:⚽ FC Wizards vs Richmond's Pub FC (home)
+SUMMARY:⚽ FC Wizards vs Richmond's Pub FC · Field 4
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -50,22 +51,23 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109249@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261121T204500
 DTEND;TZID=America/Edmonton:20261121T214500
-SUMMARY:⚽ FC Wizards at Al Salam FC (away) · Cleats
+SUMMARY:⚽ FC Wizards at Al Salam FC · MSC Dome NW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nDivision 4\nSchedule: https://jsclark89.github.i
+ o/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109280@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261124T213000
 DTEND;TZID=America/Edmonton:20261124T223000
-SUMMARY:⚽ FC Wizards vs SC Athletic City U23 (home)
+SUMMARY:⚽ FC Wizards vs SC Athletic City U23 · Field 3
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -74,10 +76,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109366@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261201T213000
 DTEND;TZID=America/Edmonton:20261201T223000
-SUMMARY:⚽ FC Wizards at CWFC Colts (away)
+SUMMARY:⚽ FC Wizards at CWFC Colts · Field 3
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -86,10 +88,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109458@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
-SUMMARY:⚽ FC Wizards vs Blizzard SC5 (home)
+SUMMARY:⚽ FC Wizards vs Blizzard SC5 · Field 3
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -98,10 +100,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109525@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261215T213000
 DTEND;TZID=America/Edmonton:20261215T223000
-SUMMARY:⚽ FC Wizards vs Calgary Villains FC (home)
+SUMMARY:⚽ FC Wizards vs Calgary Villains FC · Field 3
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -110,70 +112,75 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108245@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270112T214500
 DTEND;TZID=America/Edmonton:20270112T224500
-SUMMARY:⚽ FC Wizards at Eldorado Kickers B (away) · Cleats
+SUMMARY:⚽ FC Wizards at Eldorado Kickers B · MSC Dome SW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nDivision 4\nSchedule: https://jsclark89.github.i
+ o/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108353@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270121T221500
 DTEND;TZID=America/Edmonton:20270121T231500
-SUMMARY:⚽ FC Wizards vs Foothills Fire (home) · Cleats
+SUMMARY:⚽ FC Wizards vs Foothills Fire · Encana NW · Cleats
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nDivision 4\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108404@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
-SUMMARY:⚽ FC Wizards at Richmond's Pub FC (away) · Cleats
+SUMMARY:⚽ FC Wizards at Richmond's Pub FC · MSC Dome SE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nDivision 4\nSchedule: https://jsclark89.github.i
+ o/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108511@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270204T221500
 DTEND;TZID=America/Edmonton:20270204T231500
-SUMMARY:⚽ FC Wizards vs Al Salam FC (home) · Cleats
+SUMMARY:⚽ FC Wizards vs Al Salam FC · Encana NW · Cleats
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nDivision 4\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108737@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270227T204500
 DTEND;TZID=America/Edmonton:20270227T214500
-SUMMARY:⚽ FC Wizards at SC Athletic City U23 (away) · Cleats
+SUMMARY:⚽ FC Wizards at SC Athletic City U23 · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nDivision 4\nSchedule: https://jsclark89.github.i
+ o/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108772@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270302T213000
 DTEND;TZID=America/Edmonton:20270302T223000
-SUMMARY:⚽ FC Wizards vs Eldorado Kickers B (home)
+SUMMARY:⚽ FC Wizards vs Eldorado Kickers B · Field 1
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -182,37 +189,40 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108885@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270313T211500
 DTEND;TZID=America/Edmonton:20270313T221500
-SUMMARY:⚽ FC Wizards vs CWFC Colts (home) · Cleats
+SUMMARY:⚽ FC Wizards vs CWFC Colts · Encana SE · Cleats
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nDivision 4\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108913@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ FC Wizards at Blizzard SC5 (away) · Cleats
+SUMMARY:⚽ FC Wizards at Blizzard SC5 · MSC Dome SW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nDivision 4\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nDivision 4\nSchedule: https://jsclark89.github.i
+ o/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108989@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270323T214500
 DTEND;TZID=America/Edmonton:20270323T224500
-SUMMARY:⚽ FC Wizards at Calgary Villains FC (away) · Cleats
+SUMMARY:⚽ FC Wizards at Calgary Villains FC · Field 2 · Cleats
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf\nDivision 4\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-
+ schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

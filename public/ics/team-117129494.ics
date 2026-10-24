@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709358@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
-SUMMARY:⚽ Foothills FC 2014 at RANGERS FC14 (away)
+SUMMARY:⚽ Foothills FC 2014 at RANGERS FC14 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #1797\nBoys U13 Tier 1\nSchedule: https://jsclark89.git
@@ -38,24 +38,24 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709365@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261101T133000
 DTEND;TZID=America/Edmonton:20261101T143000
-SUMMARY:⚽ Foothills FC 2014 vs CNEU 2014 Arrows (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs CNEU 2014 Arrows · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #1804\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #1804\nBoys U13 Tier 1\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709374@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261108T153000
 DTEND;TZID=America/Edmonton:20261108T163000
-SUMMARY:⚽ Foothills FC 2014 at New Frontier SC 2014 Boys (McDonnell) (aw
- ay)
+SUMMARY:⚽ Foothills FC 2014 at New Frontier SC 2014 Boys (McDonnell) · F
+ ield 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #1815\nBoys U13 Tier 1\nSchedule: https://jsclark89.git
@@ -64,139 +64,151 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709378@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261115T121500
 DTEND;TZID=America/Edmonton:20261115T131500
-SUMMARY:⚽ Foothills FC 2014 vs Blizzard Olympic 14 Boys (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs Blizzard Olympic 14 Boys · Field A · Clea
+ ts
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #1817\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #1817\nBoys U13 Tier 1\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709387@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
-SUMMARY:⚽ Foothills FC 2014 at SWU Deportivo 14 B (away) · Cleats
+SUMMARY:⚽ Foothills FC 2014 at SWU Deportivo 14 B · MSC Dome NE 7v7 · Cl
+ eats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1826\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1826\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709394@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
-SUMMARY:⚽ Foothills FC 2014 vs CWFC B2014 Black (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs CWFC B2014 Black · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #1833\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #1833\nBoys U13 Tier 1\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709402@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261213T080000
 DTEND;TZID=America/Edmonton:20261213T090000
-SUMMARY:⚽ Foothills FC 2014 at Villains Force 14 (away) · Cleats
+SUMMARY:⚽ Foothills FC 2014 at Villains Force 14 · Field C · Cleats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #1841\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #1841\nBoys U13 Tier 1\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709410@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261220T120000
 DTEND;TZID=America/Edmonton:20261220T130000
-SUMMARY:⚽ Foothills FC 2014 vs CUFC Knights 14 (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs CUFC Knights 14 · Field D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #1849\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #1849\nBoys U13 Tier 1\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709422@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270103T183000
 DTEND;TZID=America/Edmonton:20270103T193000
-SUMMARY:⚽ Foothills FC 2014 at SWU Bilbao 14 B (away) · Cleats
+SUMMARY:⚽ Foothills FC 2014 at SWU Bilbao 14 B · MSC Dome SW 7v7 · Cleat
+ s
 LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1861\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1861\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709428@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270110T121500
 DTEND;TZID=America/Edmonton:20270110T131500
-SUMMARY:⚽ Foothills FC 2014 vs OUSC United B14 (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs OUSC United B14 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #1867\nBoys U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #1867\nBoys U13 Tier 1\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709435@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270124T093000
 DTEND;TZID=America/Edmonton:20270124T103000
-SUMMARY:⚽ Foothills FC 2014 at S4 Athletic City 14 (away) · Cleats
+SUMMARY:⚽ Foothills FC 2014 at S4 Athletic City 14 · MSC Dome NW 7v7 · C
+ leats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1874\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1874\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709445@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270131T114500
 DTEND;TZID=America/Edmonton:20270131T124500
-SUMMARY:⚽ Foothills FC 2014 vs Chinooks FC United 2014 (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs Chinooks FC United 2014 · MSC Dome SE 7v7
+  · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1884\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1884\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709453@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
-SUMMARY:⚽ Foothills FC 2014 at MUSC Blues 14 Boys (away) · Cleats
+SUMMARY:⚽ Foothills FC 2014 at MUSC Blues 14 Boys · MSC Dome NW 7v7 · Cl
+ eats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1892\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1892\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709458@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270228T093000
 DTEND;TZID=America/Edmonton:20270228T103000
-SUMMARY:⚽ Foothills FC 2014 vs Rockies AFC 14 (home) · Cleats
+SUMMARY:⚽ Foothills FC 2014 vs Rockies AFC 14 · MSC Dome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #1897\nBoys
-  U13 Tier 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #1897\nBoys U13 Tier 1\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

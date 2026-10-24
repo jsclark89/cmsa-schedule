@@ -26,11 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11710491@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261018T204500
 DTEND;TZID=America/Edmonton:20261018T214500
 SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at New Frontier SC 2012 Boys (Brattle
- ) (away)
+ ) · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3017\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -39,10 +39,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710505@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261025T204500
 DTEND;TZID=America/Edmonton:20261025T214500
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CalGlen Fire 12 (home)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CalGlen Fire 12 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3024\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -51,22 +51,25 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710516@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261101T091500
 DTEND;TZID=America/Edmonton:20261101T101500
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at OUSC United B12 (away) · Cleats
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at OUSC United B12 · MSC Dome SE 7v7 
+ · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #3028\nBoys
-  U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #3028\nBoys U15 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710535@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261108T170000
 DTEND;TZID=America/Edmonton:20261108T180000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs Foothills 2012 Prospects (home)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs Foothills 2012 Prospects · Field 4
+  7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3035\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -75,10 +78,11 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710565@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261115T204500
 DTEND;TZID=America/Edmonton:20261115T214500
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at RANGERS ROYALS 12 BLUE (away)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at RANGERS ROYALS 12 BLUE · Field 1 7
+ v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3045\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -87,10 +91,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710576@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261122T193000
 DTEND;TZID=America/Edmonton:20261122T203000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CNEU 2012 REBELS (home)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CNEU 2012 REBELS · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3049\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -99,10 +103,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710604@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261129T193000
 DTEND;TZID=America/Edmonton:20261129T203000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CWFC B2012 Green (home)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs CWFC B2012 Green · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3058\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -111,24 +115,24 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710622@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261206T130000
 DTEND;TZID=America/Edmonton:20261206T140000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Spartans Hercules 12 (away) · Clea
- ts
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Spartans Hercules 12 · #02/SW · Cl
+ eats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #3062\nBoys U15 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #3062\nBoys U15 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710647@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261213T204500
 DTEND;TZID=America/Edmonton:20261213T214500
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs EMFC Reign 12 (home)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs EMFC Reign 12 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3070\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -137,22 +141,24 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710704@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270110T103000
 DTEND;TZID=America/Edmonton:20270110T113000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at CNEU 2012 Force (away) · Cleats
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at CNEU 2012 Force · MSC Dome NE 7v7 
+ · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #3084\nBoys
-  U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #3084\nBoys U15 Tier 3\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710728@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270117T133000
 DTEND;TZID=America/Edmonton:20270117T143000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Villains Juventus 12 (away)
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Villains Juventus 12 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #3093\nBoys U15 Tier 3\nSchedule: https://jsclark89.git
@@ -161,43 +167,44 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710765@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270124T173000
 DTEND;TZID=America/Edmonton:20270124T183000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs SWU Whitecaps 12B (home) · Cleats
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs SWU Whitecaps 12B · #01/NW · Cleat
+ s
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #3099\nBoys U15 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #3099\nBoys U15 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710782@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270221T094500
 DTEND;TZID=America/Edmonton:20270221T104500
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Foothills 2012 United (away) · Cle
- ats
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW at Foothills 2012 United · Field A · 
+ Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #3103\nBoys U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #3103\nBoys U15 Tier 3\nSchedul
+ e: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710813@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270228T173000
 DTEND;TZID=America/Edmonton:20270228T183000
-SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs Blizzard United 12 Boys (home) · C
- leats
+SUMMARY:⚽ RANGERS ROYALS 12 YELLOW vs Blizzard United 12 Boys · #01/NW ·
+  Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #3113\nBoys U15 Tier 3\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #3113\nBoys U15 Tier 3\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR

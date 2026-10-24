@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711917@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
-SUMMARY:⚽ OUSC United G12 Green at MUSC Magic 12 (away)
+SUMMARY:⚽ OUSC United G12 Green at MUSC Magic 12 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4920\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
@@ -38,10 +38,10 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711923@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261024T204500
 DTEND;TZID=America/Edmonton:20261024T214500
-SUMMARY:⚽ OUSC United G12 Green vs MUSC Blues 12 (home)
+SUMMARY:⚽ OUSC United G12 Green vs MUSC Blues 12 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4926\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
@@ -50,88 +50,94 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711936@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261107T154500
 DTEND;TZID=America/Edmonton:20261107T164500
 SUMMARY:⚽ OUSC United G12 Green at New Frontier SC 2013 Girls (Valstar) 
- (away) · Cleats
+ · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4936\nGirls U15 Tier 3\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4936\nGirls U15 Tier 3\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711948@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261114T134500
 DTEND;TZID=America/Edmonton:20261114T144500
-SUMMARY:⚽ OUSC United G12 Green at CalGlen Rise 12/13 (away) · Cleats
+SUMMARY:⚽ OUSC United G12 Green at CalGlen Rise 12/13 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #4942\nGirls U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #4942\nGirls U15 Tier 3\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711967@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261121T120000
 DTEND;TZID=America/Edmonton:20261121T130000
-SUMMARY:⚽ OUSC United G12 Green vs Villains White 13G (home) · Cleats
+SUMMARY:⚽ OUSC United G12 Green vs Villains White 13G · MSC Dome NW 7v7 
+ · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #4950\nGirl
- s U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #4950\nGirls U15 Tier 3\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711985@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261128T103000
 DTEND;TZID=America/Edmonton:20261128T113000
-SUMMARY:⚽ OUSC United G12 Green at CUFC Valkyries 13/14 (away) · Cleats
+SUMMARY:⚽ OUSC United G12 Green at CUFC Valkyries 13/14 · Field B · Clea
+ ts
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #4957\nGirls U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #4957\nGirls U15 Tier 3\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712003@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261205T154500
 DTEND;TZID=America/Edmonton:20261205T164500
-SUMMARY:⚽ OUSC United G12 Green vs RANGERS W ROYALS 12/13 (home) · Cleat
- s
+SUMMARY:⚽ OUSC United G12 Green vs RANGERS W ROYALS 12/13 · MSC Dome NE 
+ 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #4963\nGirl
- s U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #4963\nGirls U15 Tier 3\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712040@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261212T103000
 DTEND;TZID=America/Edmonton:20261212T113000
-SUMMARY:⚽ OUSC United G12 Green at Foothills 2012/13 United (away) · Cle
- ats
+SUMMARY:⚽ OUSC United G12 Green at Foothills 2012/13 United · MSC Dome N
+ W 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Dome\nGame #4973\nGirl
- s U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Dome\nGame #4973\nGirls U15 Tier 3\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712056@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20261219T193000
 DTEND;TZID=America/Edmonton:20261219T203000
-SUMMARY:⚽ OUSC United G12 Green vs Blizzard United 13 Girls (home)
+SUMMARY:⚽ OUSC United G12 Green vs Blizzard United 13 Girls · Field 1 7v
+ 7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Game #4983\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
@@ -140,71 +146,71 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712165@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270116T150000
 DTEND;TZID=America/Edmonton:20270116T160000
-SUMMARY:⚽ OUSC United G12 Green vs SWU Selects Red 13/14G (home) · Cleat
- s
+SUMMARY:⚽ OUSC United G12 Green vs SWU Selects Red 13/14G · #03/SE · Cle
+ ats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #4999\nGirls U15 Tier 3\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #4999\nGirls U15 Tier 3\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712185@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270130T114500
 DTEND;TZID=America/Edmonton:20270130T124500
-SUMMARY:⚽ OUSC United G12 Green at Foothills 2012/13 Girls (away) · Clea
- ts
+SUMMARY:⚽ OUSC United G12 Green at Foothills 2012/13 Girls · Field B · C
+ leats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #5006\nGirls U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #5006\nGirls U15 Tier 3\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712208@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270206T134500
 DTEND;TZID=America/Edmonton:20270206T144500
-SUMMARY:⚽ OUSC United G12 Green vs New Frontier SC 2013 Girls (Harman) (
- home) · Cleats
+SUMMARY:⚽ OUSC United G12 Green vs New Frontier SC 2013 Girls (Harman) ·
+  #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #5015\nGirls U15 Tier 3\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #5015\nGirls U15 Tier 3\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712230@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270220T153000
 DTEND;TZID=America/Edmonton:20270220T163000
-SUMMARY:⚽ OUSC United G12 Green at CNEU 2013 Rush (away) · Cleats
+SUMMARY:⚽ OUSC United G12 Green at CNEU 2013 Rush · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats\nField: Cleats · Turf · Foothills Macron\nGame
-  #5023\nGirls U15 Tier 3\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Foothills Macron\nGame #5023\nGirls U15 Tier 3\nSchedu
+ le: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712241@cmsa-schedule
-DTSTAMP:20261024T213542Z
+DTSTAMP:20261024T220241Z
 DTSTART;TZID=America/Edmonton:20270227T144500
 DTEND;TZID=America/Edmonton:20270227T154500
-SUMMARY:⚽ OUSC United G12 Green vs Airdrie F.C. Courage 13 (home) · Clea
- ts
+SUMMARY:⚽ OUSC United G12 Green vs Airdrie F.C. Courage 13 · #01/NW · Cl
+ eats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (shouldice-)\nField: Cleats · Turf · Regular c
- leats\nGame #5031\nGirls U15 Tier 3\nSchedule: https://jsclark89.github
- .io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
+  Cleats · Turf · Regular cleats\nGame #5031\nGirls U15 Tier 3\nSchedule
+ : https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 END:VEVENT
 END:VCALENDAR
