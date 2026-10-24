@@ -1,0 +1,8 @@
+{
+  "_readme": "Venues the league site does not list (training grounds) or lists without footwear notes. Keyed by exact venue name. notes use the league's own 'area | footwear | surface' shape so the same parser reads them. A scraped venue with the same name keeps its league address and gains these notes when it has none.",
+  "Foothills Skills Centre": {
+    "address": "3916 56 Ave SE, Calgary, AB T2C 2B5",
+    "notes": ["Regular cleats | Turf"],
+    "source": "Calgary Foothills Soccer Club, 2026-10"
+  }
+}

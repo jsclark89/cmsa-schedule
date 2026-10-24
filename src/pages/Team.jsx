@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { href } from '../lib/router.js'
-import { favourites, nextGame, isPast, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, groupBy, icsUrl, webcalUrl, siteUrl, trainingFor, nextSession, weekdayName } from '../lib/data.js'
+import { favourites, nextGame, isPast, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, groupBy, icsUrl, webcalUrl, siteUrl, trainingFor, nextSession, weekdayName, venueByName } from '../lib/data.js'
 import { buildIcs, gameToEvent } from '../lib/ics.js'
 import GameRow from './GameRow.jsx'
 import VenueNote from './VenueNote.jsx'
@@ -47,7 +47,7 @@ export default function Team({ season, favs, team }) {
 
       {next ? <Hero g={next} team={team} season={season} /> : <div className="card soft">No upcoming games listed for this team.</div>}
 
-      {trainingFor(season, team.id).map((t, i) => <TrainingCard key={i} t={t} />)}
+      {trainingFor(season, team.id).map((t, i) => <TrainingCard key={i} t={t} venue={venueByName(season, t.venue)} />)}
 
       <h2 className="h">Upcoming ({upcoming.length})</h2>
       <MonthGroups games={upcoming} season={season} teamId={team.id} />
@@ -146,9 +146,11 @@ export function CalendarPanel({ kind, id, name }) {
   )
 }
 
-function TrainingCard({ t }) {
+function TrainingCard({ t, venue }) {
   const nextDate = nextSession(t)
-  const maps = t.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([t.venue, t.address].filter(Boolean).join(', '))}` : null
+  const address = t.address || venue?.address || null
+  const where = [t.venue, t.field].filter(Boolean).join(' ')
+  const maps = address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([t.venue, address].filter(Boolean).join(', '))}` : null
   return (
     <section className="card training">
       <div className="hero-kicker">Training · {weekdayName(t.weekday)}</div>
@@ -156,13 +158,10 @@ function TrainingCard({ t }) {
         {fmtTime(t.start)}{t.end ? ` to ${fmtTime(t.end)}` : ''}
         {nextDate ? <span className="muted"> · next {['Today', 'Tomorrow'].includes(relDay(nextDate)) ? relDay(nextDate).toLowerCase() + ', ' : ''}{fmtDate(nextDate, 'short')}</span> : <span className="muted"> · season over</span>}
       </div>
-      <div><b>{t.venue}</b>{t.field ? ` · ${t.field}` : ''}</div>
-      {t.address ? <div className="muted">{t.address}</div> : null}
-      {t.footwear ? (
-        <div className="bringrow">
-          <span className={`bring big ${t.footwear === 'Runners' ? 'runners' : 'cleats'}`}>{t.footwear === 'Runners' ? '👟' : '⚽'} Bring {t.footwear.toLowerCase()}</span>
-        </div>
-      ) : null}
+      <div>{venue ? <a href={href('venue', venue.id)}><b>{t.venue}</b></a> : <b>{t.venue}</b>}{t.field ? ` · ${t.field}` : ''}</div>
+      {address ? <div className="muted">{address}</div> : null}
+      {venue ? <div className="bringrow"><Bring venue={venue} field={where} big /></div> : null}
+      {venue ? <VenueNote venue={venue} field={where} /> : null}
       {t.note ? <div className="note muted small">{t.note}</div> : null}
       <div className="actions">
         {maps ? <a className="btn" href={maps} target="_blank" rel="noopener">Directions</a> : null}

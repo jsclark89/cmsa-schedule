@@ -152,18 +152,20 @@ export function firstSessionDate(t) {
 }
 
 /** A weekly training session as one recurring calendar event. */
-export function trainingToEvent(t, team, index, siteUrl) {
+export function trainingToEvent(t, team, index, siteUrl, venue = null) {
   const until = t.until ? t.until.replace(/-/g, '') + 'T235959Z' : null
   const rrule = `FREQ=WEEKLY;BYDAY=${t.weekday}` + (until ? `;UNTIL=${until}` : '')
   const where = [t.venue, t.field].filter(Boolean).join(' ')
+  const address = t.address || venue?.address || null
+  const wear = venue ? footwearFor(venue, where) : null
   return {
     uid: `training-${team.id}-${index}@cmsa-schedule`,
     date: firstSessionDate(t),
     time: t.start,
     durationMin: t.end ? minutesBetween(t.start, t.end) : 60,
-    summary: `⚽ ${team.name} training` + (t.footwear ? ` · ${t.footwear}` : ''),
-    location: [where, t.address].filter(Boolean).join(', '),
-    description: [t.footwear ? `Bring: ${t.footwear}` : null, t.label, t.note, t.source ? `Source: ${t.source}` : null, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
+    summary: `⚽ ${team.name} training` + (wear?.footwear ? ` · ${wear.footwear}` : ''),
+    location: [where, address].filter(Boolean).join(', '),
+    description: [wear?.footwear ? `Bring: ${bringLine(venue, where)}` : null, t.label, t.note, t.source ? `Source: ${t.source}` : null, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
     url: siteUrl,
     rrule,
     exdates: t.skip || [],

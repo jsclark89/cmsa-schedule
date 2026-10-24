@@ -13,10 +13,11 @@ export function loadSeason() {
       if (!r.ok) throw new Error(`Could not load schedule data (${r.status})`)
       return r.json()
     })
-    const training = fetch(`${BASE}data/training.json`, { cache: 'no-cache' })
-      .then((r) => (r.ok ? r.json() : {}))
-      .catch(() => ({}))
-    seasonPromise = Promise.all([season, training]).then(([s, t]) => indexSeason({ ...s, training: t }))
+    const optional = (name) => fetch(`${BASE}data/${name}`, { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
+    seasonPromise = Promise.all([season, optional('training.json'), optional('venues.json')]).then(([s, t, extra]) => {
+      mergeExtraVenues(s.venues, extra)
+      return indexSeason({ ...s, training: t })
+    })
   }
   return seasonPromise
 }
@@ -168,6 +169,33 @@ export function icsUrl(kind, id) {
 
 export function webcalUrl(kind, id) {
   return icsUrl(kind, id).replace(/^https?:/, 'webcal:')
+}
+
+/** Hand-kept venues (see public/data/venues.json): added when the league lacks them, notes filled when blank. */
+export function mergeExtraVenues(venues, extra) {
+  for (const [name, v] of Object.entries(extra || {})) {
+    if (name.startsWith('_')) continue
+    const existing = Object.values(venues).find((x) => x.name === name)
+    if (existing) {
+      if (!existing.notes?.length && v.notes?.length) existing.notes = v.notes
+      if (!existing.address && v.address) existing.address = v.address
+      continue
+    }
+    const id = 'x-' + name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+    venues[id] = {
+      id,
+      name,
+      address: v.address || null,
+      notes: v.notes || [],
+      mapsUrl: v.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ', ' + v.address)}` : null,
+      manual: true,
+    }
+  }
+  return venues
+}
+
+export function venueByName(season, name) {
+  return Object.values(season.venues).find((v) => v.name === name) || null
 }
 
 // ---------- training ----------

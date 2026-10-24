@@ -1,5 +1,5 @@
 {
-  "_readme": "Weekly training by team id. weekday uses iCalendar codes (MO TU WE TH FR SA SU). Dates are YYYY-MM-DD. skip lists dates with no session. The scraper folds these into the team calendars; the site reads this file directly. footwear is Cleats or Runners and goes into the calendar title.",
+  "_readme": "Weekly training by team id. weekday uses iCalendar codes (MO TU WE TH FR SA SU). Dates are YYYY-MM-DD. skip lists dates with no session. venue must match a name in venues.json or the league data, which is where footwear and address come from. The scraper folds these into the team calendars; the site reads this file directly.",
   "117130593": [
     {
       "label": "Team session",
@@ -8,13 +8,11 @@
       "end": "16:15",
       "venue": "Foothills Skills Centre",
       "field": "Field 4",
-      "address": "3916 56 Ave SE, Calgary, AB T2C 2B5",
       "from": "2026-10-17",
       "until": "2027-02-27",
       "skip": [],
       "note": "Shin pads every session. Bring a water bottle.",
-      "source": "Calgary Foothills Soccer Club email, 2026-10-11",
-      "footwear": "Cleats"
+      "source": "Calgary Foothills Soccer Club email, 2026-10-11"
     }
   ]
 }
