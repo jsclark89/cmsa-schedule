@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701806@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T130000
 DTEND;TZID=America/Edmonton:20261018T140000
 SUMMARY:⚽ LSCA B Chelsea at SWU Reims 16B · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #625\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #625\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at SWU Reims 16B · Main - East · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701811@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
 SUMMARY:⚽ LSCA B Chelsea vs SSA Strikers 16/17 · Annex - Alpha · Indoor 
@@ -48,41 +53,58 @@ SUMMARY:⚽ LSCA B Chelsea vs SSA Strikers 16/17 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #630\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #630\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs SSA Strikers 16/17 · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701818@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T111500
 DTEND;TZID=America/Edmonton:20261108T121500
 SUMMARY:⚽ LSCA B Chelsea vs Foothills Forest 2016 · MSC Dome NW 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #637\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #637\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs Foothills Forest 2016 · MSC Dome NW 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701824@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T160000
 DTEND;TZID=America/Edmonton:20261115T170000
 SUMMARY:⚽ LSCA B Chelsea at Villains Storm 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #643\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #643\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at Villains Storm 16 · Field A (7v7) · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701827@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T100000
 DTEND;TZID=America/Edmonton:20261122T110000
 SUMMARY:⚽ LSCA B Chelsea at SWU Olympique 16B · Annex - Charlie · Indoor
@@ -90,42 +112,57 @@ SUMMARY:⚽ LSCA B Chelsea at SWU Olympique 16B · Annex - Charlie · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #646\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #646\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at SWU Olympique 16B · Annex - Charlie · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701830@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
 SUMMARY:⚽ LSCA B Chelsea vs MUSC Valor 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #649\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #649\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs MUSC Valor 16 · Main - East · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701838@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T150000
 DTEND;TZID=America/Edmonton:20261206T160000
 SUMMARY:⚽ LSCA B Chelsea vs MUSC Forge 16 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #657\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #657\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs MUSC Forge 16 · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701841@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T080000
 DTEND;TZID=America/Edmonton:20261213T090000
 SUMMARY:⚽ LSCA B Chelsea at Foothills Norwich 2016 · Annex - Delta · Ind
@@ -133,14 +170,19 @@ SUMMARY:⚽ LSCA B Chelsea at Foothills Norwich 2016 · Annex - Delta · Ind
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #660\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #660\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at Foothills Norwich 2016 · Annex - Delta ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701847@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T100000
 DTEND;TZID=America/Edmonton:20261220T110000
 SUMMARY:⚽ LSCA B Chelsea at RWFC Royal West FC Shakhtar 16 · Annex - Bra
@@ -148,14 +190,19 @@ SUMMARY:⚽ LSCA B Chelsea at RWFC Royal West FC Shakhtar 16 · Annex - Bra
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #666\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #666\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at RWFC Royal West FC Shakhtar 16 · Annex -
+  Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701851@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T140000
 DTEND;TZID=America/Edmonton:20270103T150000
 SUMMARY:⚽ LSCA B Chelsea vs SWU Nantes 16B · Indoor AT 7v7 · Indoor shoe
@@ -163,14 +210,19 @@ SUMMARY:⚽ LSCA B Chelsea vs SWU Nantes 16B · Indoor AT 7v7 · Indoor shoe
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #670\nBoys U11 Dev MILLER\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #670\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs SWU Nantes 16B · Indoor AT 7v7 · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701859@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T170000
 DTEND;TZID=America/Edmonton:20270110T180000
 SUMMARY:⚽ LSCA B Chelsea at SSA Strikers 16/17 · Annex - Alpha · Indoor 
@@ -178,14 +230,19 @@ SUMMARY:⚽ LSCA B Chelsea at SSA Strikers 16/17 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #678\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #678\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at SSA Strikers 16/17 · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701861@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ LSCA B Chelsea at Foothills Forest 2016 · Main - East · Indoor
@@ -193,14 +250,19 @@ SUMMARY:⚽ LSCA B Chelsea at Foothills Forest 2016 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #680\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #680\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea at Foothills Forest 2016 · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701874@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:⚽ LSCA B Chelsea vs Villains Storm 16 · Main - East · Indoor sho
@@ -208,14 +270,19 @@ SUMMARY:⚽ LSCA B Chelsea vs Villains Storm 16 · Main - East · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #693\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #693\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs Villains Storm 16 · Main - East · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701881@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
 SUMMARY:⚽ LSCA B Chelsea vs RWFC Royal West FC Shakhtar 16 · Annex - Cha
@@ -223,9 +290,14 @@ SUMMARY:⚽ LSCA B Chelsea vs RWFC Royal West FC Shakhtar 16 · Annex - Cha
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #700\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #700\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Chelsea vs RWFC Royal West FC Shakhtar 16 · Annex -
+  Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

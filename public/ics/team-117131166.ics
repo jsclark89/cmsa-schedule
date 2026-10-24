@@ -26,183 +26,257 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709916@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T110000
 DTEND;TZID=America/Edmonton:20261018T120000
 SUMMARY:⚽ LSCA B City 2013 at Foothills FC 2013 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2396\nBoys U14 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2396\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at Foothills FC 2013 · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709954@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T143000
 DTEND;TZID=America/Edmonton:20261101T153000
 SUMMARY:⚽ LSCA B City 2013 at CWFC B2013 Black · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2406\nBoys U14 Tier 1\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 1 · Game #2406\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at CWFC B2013 Black · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709972@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:⚽ LSCA B City 2013 vs Rockies Albion 13 · MSC Dome SE 7v7 · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2411\nBoys U14 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2411\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs Rockies Albion 13 · MSC Dome SE 7v7 · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709985@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T153000
 DTEND;TZID=America/Edmonton:20261115T163000
 SUMMARY:⚽ LSCA B City 2013 vs MUSC Prospects 13 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2424\nBoys U14 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2424\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs MUSC Prospects 13 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709991@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T181500
 DTEND;TZID=America/Edmonton:20261122T191500
 SUMMARY:⚽ LSCA B City 2013 at SWU SC 13 B · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2434\nBoys U14 Tier 1\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 1 · Game #2434\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at SWU SC 13 B · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710001@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T170000
 DTEND;TZID=America/Edmonton:20261129T180000
 SUMMARY:⚽ LSCA B City 2013 vs RANGERS FC13 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2440\nBoys U14 Tier 1\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 1 · Game #2440\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs RANGERS FC13 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710005@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T114500
 DTEND;TZID=America/Edmonton:20261206T124500
 SUMMARY:⚽ LSCA B City 2013 at Villains Blue 13 · MSC Dome SE 7v7 · Cleat
  s
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2444\nBoys U14 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2444\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at Villains Blue 13 · MSC Dome SE 7v7 · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710019@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T154500
 DTEND;TZID=America/Edmonton:20261213T164500
 SUMMARY:⚽ LSCA B City 2013 at New Frontier SC 2014 Boys (Quinton) · #04/
  NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2458\nBoys U14 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2458\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at New Frontier SC 2014 Boys (Quinton) · 
+ #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710026@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T171500
 DTEND;TZID=America/Edmonton:20270103T181500
 SUMMARY:⚽ LSCA B City 2013 vs S4 Athletic City 13 · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2463\nBoys U14 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2463\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs S4 Athletic City 13 · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710044@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T193000
 DTEND;TZID=America/Edmonton:20270110T203000
 SUMMARY:⚽ LSCA B City 2013 vs Blizzard SC 13 Boys · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2472\nBoys U14 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2472\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs Blizzard SC 13 Boys · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710065@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T080000
 DTEND;TZID=America/Edmonton:20270117T090000
 SUMMARY:⚽ LSCA B City 2013 at Blizzard SC 14 Boys · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2482\nBoys U14 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2482\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at Blizzard SC 14 Boys · #03/SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710076@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T091500
 DTEND;TZID=America/Edmonton:20270124T101500
 SUMMARY:⚽ LSCA B City 2013 vs Chinooks FC United 2013 · MSC Dome SE 7v7 
  · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2488\nBoys U14 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 1 · Game #2488\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs Chinooks FC United 2013 · MSC Dome SE 
+ 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710091@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T133000
 DTEND;TZID=America/Edmonton:20270207T143000
 SUMMARY:⚽ LSCA B City 2013 at Airdrie F.C. Crew 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2497\nBoys U14 Tier 1\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 1 · Game #2497\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 at Airdrie F.C. Crew 14 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710107@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T110000
 DTEND;TZID=America/Edmonton:20270221T120000
 SUMMARY:⚽ LSCA B City 2013 vs Villains Dynamo 14 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2503\nBoys U14 Tier 1\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 1 · Game #2503\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B City 2013 vs Villains Dynamo 14 · Field 4 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,180 +26,255 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709600@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T170000
 DTEND;TZID=America/Edmonton:20261018T180000
 SUMMARY:⚽ CNEU 2014 Storm vs SWU Real 14B · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2039\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2039\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs SWU Real 14B · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709607@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T141500
 DTEND;TZID=America/Edmonton:20261025T151500
 SUMMARY:⚽ CNEU 2014 Storm vs MUSC Inter 14 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2046\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2046\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs MUSC Inter 14 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709614@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:⚽ CNEU 2014 Storm at Blizzard Athletic 14 Boys · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2056\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2056\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at Blizzard Athletic 14 Boys · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709620@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T104500
 DTEND;TZID=America/Edmonton:20261115T114500
 SUMMARY:⚽ CNEU 2014 Storm vs S4 Phoenix 14 · MSC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2059\nBoys U13 Tier 3\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2059\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs S4 Phoenix 14 · MSC Dome NW 7v7 · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709629@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T114500
 DTEND;TZID=America/Edmonton:20261122T124500
 SUMMARY:⚽ CNEU 2014 Storm vs Chinooks FC Selects 2014 · Field D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2068\nBoys U13 Tier 3\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2068\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs Chinooks FC Selects 2014 · Field D · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709643@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T131500
 DTEND;TZID=America/Edmonton:20261206T141500
 SUMMARY:⚽ CNEU 2014 Storm at Canmore FC U13 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2082\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2082\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at Canmore FC U13 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709650@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T131500
 DTEND;TZID=America/Edmonton:20261213T141500
 SUMMARY:⚽ CNEU 2014 Storm at Airdrie F.C. Earthquakes 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2089\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2089\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at Airdrie F.C. Earthquakes 14 · Field 2 7
+ v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709658@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T151500
 DTEND;TZID=America/Edmonton:20261220T161500
 SUMMARY:⚽ CNEU 2014 Storm vs RWFC Royal West Arsenal 15 · MSC Dome SE 7v
  7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2097\nBoys U13 Tier 3\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2097\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs RWFC Royal West Arsenal 15 · MSC Dome S
+ E 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709663@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T094500
 DTEND;TZID=America/Edmonton:20270103T104500
 SUMMARY:⚽ CNEU 2014 Storm at SWU Celta 14 B · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2102\nBoys U13 Tier 3\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2102\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at SWU Celta 14 B · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709684@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T133000
 DTEND;TZID=America/Edmonton:20270110T143000
 SUMMARY:⚽ CNEU 2014 Storm at Rockies Racing 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2117\nBoys U13 Tier 3\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 3 · Game #2117\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at Rockies Racing 14 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709693@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T133000
 DTEND;TZID=America/Edmonton:20270117T143000
 SUMMARY:⚽ CNEU 2014 Storm vs NCFC 14 Malaga · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2122\nBoys U13 Tier 3\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2122\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs NCFC 14 Malaga · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709730@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T134500
 DTEND;TZID=America/Edmonton:20270124T144500
 SUMMARY:⚽ CNEU 2014 Storm at Villains Riptides 14 · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2132\nBoys U13 Tier 3\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2132\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at Villains Riptides 14 · #03/SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709771@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T171500
 DTEND;TZID=America/Edmonton:20270131T181500
 SUMMARY:⚽ CNEU 2014 Storm at New Frontier SC 2014 Boys (Petros) · #01/NW
   · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2145\nBoys U13 Tier 3\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2145\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm at New Frontier SC 2014 Boys (Petros) · #0
+ 1/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709785@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T091500
 DTEND;TZID=America/Edmonton:20270221T101500
 SUMMARY:⚽ CNEU 2014 Storm vs SWU Girona 14B · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2147\nBoys U13 Tier 3\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2147\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNEU 2014 Storm vs SWU Girona 14B · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

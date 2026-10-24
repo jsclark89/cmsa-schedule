@@ -26,59 +26,75 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109036@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T214500
 DTEND;TZID=America/Edmonton:20261102T224500
 SUMMARY:⚽ Croatia Generals vs Stars FC · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Stars FC · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109134@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261111T213000
 DTEND;TZID=America/Edmonton:20261111T223000
 SUMMARY:⚽ Croatia Generals at Calsea United · Foothills · Cleats
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nOver 45B\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Calsea United · Foothills · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109188@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T203000
 DTEND;TZID=America/Edmonton:20261116T213000
 SUMMARY:⚽ Croatia Generals vs Stoked City FC · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Stoked City FC · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109322@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261127T204500
 DTEND;TZID=America/Edmonton:20261127T214500
 SUMMARY:⚽ Croatia Generals vs Fusion FC O45 · Boardwalk · Cleats
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nOver 45B\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Fusion FC O45 · Boardwalk · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109452@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T213000
 DTEND;TZID=America/Edmonton:20261208T223000
 SUMMARY:⚽ Croatia Generals at Hoods United · Field 1
@@ -87,23 +103,33 @@ LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
  e/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Hoods United · Field 1
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109519@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T213000
 DTEND;TZID=America/Edmonton:20261214T223000
 SUMMARY:⚽ Croatia Generals vs Neighbourhoods O45 · Foothills · Cleats
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nOver 45B\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Neighbourhoods O45 · Foothills · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108179@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270105T213000
 DTEND;TZID=America/Edmonton:20270105T223000
 SUMMARY:⚽ Croatia Generals at Rangers Athletics O45 · Field 1
@@ -112,60 +138,81 @@ LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
  e/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Rangers Athletics O45 · Field 1
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108271@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270113T214500
 DTEND;TZID=America/Edmonton:20270113T224500
 SUMMARY:⚽ Croatia Generals vs Renegade Hoods · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Renegade Hoods · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108338@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270119T203000
 DTEND;TZID=America/Edmonton:20270119T213000
 SUMMARY:⚽ Croatia Generals at SD Serbia · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at SD Serbia · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108398@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270125T203000
 DTEND;TZID=America/Edmonton:20270125T213000
 SUMMARY:⚽ Croatia Generals at Stars FC · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Stars FC · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108541@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T204500
 DTEND;TZID=America/Edmonton:20270206T214500
 SUMMARY:⚽ Croatia Generals vs Calsea United · MSC Dome SE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Calsea United · MSC Dome SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108625@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270216T213000
 DTEND;TZID=America/Edmonton:20270216T223000
 SUMMARY:⚽ Croatia Generals at Stoked City FC · Field 4
@@ -174,10 +221,15 @@ LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
  e/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Stoked City FC · Field 4
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108703@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T213000
 DTEND;TZID=America/Edmonton:20270223T223000
 SUMMARY:⚽ Croatia Generals at Fusion FC O45 · Field 2
@@ -186,44 +238,62 @@ LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
  e/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Fusion FC O45 · Field 2
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108751@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T204500
 DTEND;TZID=America/Edmonton:20270227T214500
 SUMMARY:⚽ Croatia Generals vs Hoods United · MSC Dome SE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Hoods United · MSC Dome SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108874@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270310T214500
 DTEND;TZID=America/Edmonton:20270310T224500
 SUMMARY:⚽ Croatia Generals at Neighbourhoods O45 · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals at Neighbourhoods O45 · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108909@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270315T203000
 DTEND;TZID=America/Edmonton:20270315T213000
 SUMMARY:⚽ Croatia Generals vs Rangers Athletics O45 · MSC Dome NE · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 45B\nSchedule: https://jsclark89.github.io/
- cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Croatia Generals vs Rangers Athletics O45 · MSC Dome NE · 
+ Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

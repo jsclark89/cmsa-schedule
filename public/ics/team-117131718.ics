@@ -26,195 +26,279 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711913@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T173000
 DTEND;TZID=America/Edmonton:20261017T183000
 SUMMARY:⚽ Foothills 2012/13 United vs New Frontier SC 2013 Girls (Harman
  ) · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4916\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4916\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs New Frontier SC 2013 Girls (Ha
+ rman) · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711920@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T153000
 DTEND;TZID=America/Edmonton:20261024T163000
 SUMMARY:⚽ Foothills 2012/13 United at CNEU 2013 Rush · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4923\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4923\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at CNEU 2013 Rush · Field B · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711932@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T080000
 DTEND;TZID=America/Edmonton:20261107T090000
 SUMMARY:⚽ Foothills 2012/13 United at Airdrie F.C. Courage 13 · MSC Dome
   NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4933\nGirls U15 Tier 3\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4933\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at Airdrie F.C. Courage 13 · MSC 
+ Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711945@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T111500
 DTEND;TZID=America/Edmonton:20261114T121500
 SUMMARY:⚽ Foothills 2012/13 United vs WHU West Hills Skylarks 12 · Field
   A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4940\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4940\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs WHU West Hills Skylarks 12 · F
+ ield A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711977@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T104500
 DTEND;TZID=America/Edmonton:20261121T114500
 SUMMARY:⚽ Foothills 2012/13 United at Rockies Energie 13 · #04/NE · Clea
  ts
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4954\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4954\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at Rockies Energie 13 · #04/NE · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711980@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T080000
 DTEND;TZID=America/Edmonton:20261128T090000
 SUMMARY:⚽ Foothills 2012/13 United vs MUSC Magic 12 · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4955\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4955\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs MUSC Magic 12 · Field B · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712014@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T104500
 DTEND;TZID=America/Edmonton:20261205T114500
 SUMMARY:⚽ Foothills 2012/13 United at MUSC Blues 12 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4966\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4966\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at MUSC Blues 12 · #04/NE · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712040@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T103000
 DTEND;TZID=America/Edmonton:20261212T113000
 SUMMARY:⚽ Foothills 2012/13 United vs OUSC United G12 Green · MSC Dome N
  W 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4973\nGirls U15 Tier 3\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4973\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs OUSC United G12 Green · MSC Do
+ me NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712087@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T143000
 DTEND;TZID=America/Edmonton:20261219T153000
 SUMMARY:⚽ Foothills 2012/13 United at CalGlen Rise 12/13 · #04/NE · Clea
  ts
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4982\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4982\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at CalGlen Rise 12/13 · #04/NE · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712115@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T203000
 DTEND;TZID=America/Edmonton:20270102T213000
 SUMMARY:⚽ Foothills 2012/13 United vs Villains White 13G · MSC Dome SE 7
  v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4991\nGirls U15 Tier 3\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4991\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs Villains White 13G · MSC Dome 
+ SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712148@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T130000
 DTEND;TZID=America/Edmonton:20270116T140000
 SUMMARY:⚽ Foothills 2012/13 United at CUFC Valkyries 13/14 · Field A · C
  leats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4995\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4995\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at CUFC Valkyries 13/14 · Field A
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712181@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T091500
 DTEND;TZID=America/Edmonton:20270130T101500
 SUMMARY:⚽ Foothills 2012/13 United vs RANGERS W ROYALS 12/13 · Field B ·
   Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #5004\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5004\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs RANGERS W ROYALS 12/13 · Field
+  B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712215@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:⚽ Foothills 2012/13 United at New Frontier SC 2013 Girls (Valsta
  r) · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #5018\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5018\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United at New Frontier SC 2013 Girls (Va
+ lstar) · #03/SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712231@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T164500
 DTEND;TZID=America/Edmonton:20270220T174500
 SUMMARY:⚽ Foothills 2012/13 United vs Blizzard United 13 Girls · Field B
   · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #5024\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5024\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2012/13 United vs Blizzard United 13 Girls · Fie
+ ld B · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,189 +26,266 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709354@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T121500
 DTEND;TZID=America/Edmonton:20261025T131500
 SUMMARY:⚽ Villains Force 14 vs CUFC Knights 14 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1793\nBoys U13 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1793\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs CUFC Knights 14 · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709364@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T094500
 DTEND;TZID=America/Edmonton:20261101T104500
 SUMMARY:⚽ Villains Force 14 at SWU Bilbao 14 B · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1803\nBoys U13 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1803\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at SWU Bilbao 14 B · Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709376@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T101500
 DTEND;TZID=America/Edmonton:20261108T111500
 SUMMARY:⚽ Villains Force 14 vs OUSC United B14 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1811\nBoys U13 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1811\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs OUSC United B14 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709381@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T091500
 DTEND;TZID=America/Edmonton:20261115T101500
 SUMMARY:⚽ Villains Force 14 at S4 Athletic City 14 · MSC Dome SE 7v7 · C
  leats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1820\nBoys U13 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1820\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at S4 Athletic City 14 · MSC Dome SE 7v7
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709390@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T114500
 DTEND;TZID=America/Edmonton:20261122T124500
 SUMMARY:⚽ Villains Force 14 vs Chinooks FC United 2014 · MSC Dome NE 7v7
   · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1829\nBoys U13 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1829\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs Chinooks FC United 2014 · MSC Dome NE
+  7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709396@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T103000
 DTEND;TZID=America/Edmonton:20261129T113000
 SUMMARY:⚽ Villains Force 14 at MUSC Blues 14 Boys · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1835\nBoys U13 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1835\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at MUSC Blues 14 Boys · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709402@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T080000
 DTEND;TZID=America/Edmonton:20261213T090000
 SUMMARY:⚽ Villains Force 14 vs Foothills FC 2014 · Field C · Cleats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1841\nBoys U13 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1841\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs Foothills FC 2014 · Field C · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709411@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T131500
 DTEND;TZID=America/Edmonton:20261220T141500
 SUMMARY:⚽ Villains Force 14 at Foothills 2014 Boys · Field D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1850\nBoys U13 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1850\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at Foothills 2014 Boys · Field D · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709418@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T080000
 DTEND;TZID=America/Edmonton:20270103T090000
 SUMMARY:⚽ Villains Force 14 vs RANGERS FC14 · MSC Dome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1857\nBoys U13 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1857\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs RANGERS FC14 · MSC Dome NE 7v7 · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709426@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T094500
 DTEND;TZID=America/Edmonton:20270110T104500
 SUMMARY:⚽ Villains Force 14 at CNEU 2014 Arrows · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1865\nBoys U13 Tier 1\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1865\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at CNEU 2014 Arrows · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709438@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T131500
 DTEND;TZID=America/Edmonton:20270124T141500
 SUMMARY:⚽ Villains Force 14 vs New Frontier SC 2014 Boys (McDonnell) · M
  SC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1877\nBoys U13 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1877\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs New Frontier SC 2014 Boys (McDonnell)
+  · MSC Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709449@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T173000
 DTEND;TZID=America/Edmonton:20270131T183000
 SUMMARY:⚽ Villains Force 14 at Blizzard Olympic 14 Boys · #03/SE · Cleat
  s
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1888\nBoys U13 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1888\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at Blizzard Olympic 14 Boys · #03/SE · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709451@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T093000
 DTEND;TZID=America/Edmonton:20270207T103000
 SUMMARY:⚽ Villains Force 14 vs SWU Deportivo 14 B · MSC Dome NW 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1890\nBoys U13 Tier 1\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1890\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 vs SWU Deportivo 14 B · MSC Dome NW 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709462@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T100000
 DTEND;TZID=America/Edmonton:20270228T110000
 SUMMARY:⚽ Villains Force 14 at CWFC B2014 Black · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1901\nBoys U13 Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 1 · Game #1901\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Force 14 at CWFC B2014 Black · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

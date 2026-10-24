@@ -26,45 +26,62 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707110@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T080000
 DTEND;TZID=America/Edmonton:20261025T090000
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Villains Raiders 17 ·
   Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #473\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #473\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Villains Raiders 
+ 17 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707112@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T090000
 DTEND;TZID=America/Edmonton:20261025T100000
 SUMMARY:⚽ Villains Titans 17 vs SWU Inter 17B · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #475\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #475\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs SWU Inter 17B · Field A (7v7) · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707111@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T100000
 DTEND;TZID=America/Edmonton:20261025T110000
 SUMMARY:⚽ Chinooks FC United 2017 vs RANGERS FC17 BLUE · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #474\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #474\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs RANGERS FC17 BLUE · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707107@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T120000
 DTEND;TZID=America/Edmonton:20261025T130000
 SUMMARY:⚽ Foothills Ajax 2017 vs Blizzard SC 17 Boys · Main - East · Ind
@@ -72,14 +89,19 @@ SUMMARY:⚽ Foothills Ajax 2017 vs Blizzard SC 17 Boys · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #470\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #470\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs Blizzard SC 17 Boys · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707108@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
 SUMMARY:⚽ S4 Athletic City 17 vs CNS U10B Ospreys 17 A · Main - East · I
@@ -87,14 +109,19 @@ SUMMARY:⚽ S4 Athletic City 17 vs CNS U10B Ospreys 17 A · Main - East · I
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #471\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #471\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs CNS U10B Ospreys 17 A · Main - East
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707109@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T140000
 DTEND;TZID=America/Edmonton:20261025T150000
 SUMMARY:⚽ Foothills Barcelona 2017 vs CWFC B2017 Black · Main - East · I
@@ -102,38 +129,53 @@ SUMMARY:⚽ Foothills Barcelona 2017 vs CWFC B2017 Black · Main - East · I
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #472\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #472\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs CWFC B2017 Black · Main - East
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707115@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T130000
 DTEND;TZID=America/Edmonton:20261101T140000
 SUMMARY:⚽ RANGERS FC17 BLUE vs CNS U10B Ospreys 17 A · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #478\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #478\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs CNS U10B Ospreys 17 A · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707116@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T140000
 DTEND;TZID=America/Edmonton:20261101T150000
 SUMMARY:⚽ Blizzard SC 17 Boys vs Villains Raiders 17 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #479\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #479\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs Villains Raiders 17 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707113@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T150000
 DTEND;TZID=America/Edmonton:20261101T160000
 SUMMARY:⚽ Villains Titans 17 vs Chinooks FC United 2017 · Main - East · 
@@ -141,26 +183,36 @@ SUMMARY:⚽ Villains Titans 17 vs Chinooks FC United 2017 · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #476\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #476\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs Chinooks FC United 2017 · Main - Eas
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707117@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T150000
 DTEND;TZID=America/Edmonton:20261101T160000
 SUMMARY:⚽ CWFC B2017 Black vs LSCA B Barcelona · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #480\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #480\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs LSCA B Barcelona · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707114@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:⚽ SWU Inter 17B vs Foothills Barcelona 2017 · Main - East · Indo
@@ -168,75 +220,107 @@ SUMMARY:⚽ SWU Inter 17B vs Foothills Barcelona 2017 · Main - East · Indo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #477\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #477\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs Foothills Barcelona 2017 · Main - East · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707118@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:⚽ S4 Athletic City 17 vs New Frontier SC 2017 Boys (Sakaguchi) ·
   Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #481\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #481\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs New Frontier SC 2017 Boys (Sakaguch
+ i) · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707122@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T081500
 DTEND;TZID=America/Edmonton:20261108T091500
 SUMMARY:⚽ Blizzard SC 17 Boys vs SWU Inter 17B · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #485\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #485\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs SWU Inter 17B · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707123@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T091500
 DTEND;TZID=America/Edmonton:20261108T101500
 SUMMARY:⚽ RANGERS FC17 BLUE vs S4 Athletic City 17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #486\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #486\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs S4 Athletic City 17 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707124@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T101500
 DTEND;TZID=America/Edmonton:20261108T111500
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs LSCA B Barcelona · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #487\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #487\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs LSCA B Barcelona · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707121@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
 SUMMARY:⚽ Chinooks FC United 2017 vs Foothills Ajax 2017 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #484\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #484\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs Foothills Ajax 2017 · Field 3 7
+ v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707119@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T140000
 DTEND;TZID=America/Edmonton:20261108T150000
 SUMMARY:⚽ Foothills Barcelona 2017 vs New Frontier SC 2017 Boys (Sakaguc
@@ -244,14 +328,19 @@ SUMMARY:⚽ Foothills Barcelona 2017 vs New Frontier SC 2017 Boys (Sakaguc
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #482\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #482\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs New Frontier SC 2017 Boys (Sak
+ aguchi) · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707120@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T150000
 DTEND;TZID=America/Edmonton:20261108T160000
 SUMMARY:⚽ Villains Raiders 17 vs Villains Titans 17 · Annex - Alpha · In
@@ -259,26 +348,37 @@ SUMMARY:⚽ Villains Raiders 17 vs Villains Titans 17 · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #483\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #483\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs Villains Titans 17 · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707128@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:⚽ S4 Athletic City 17 vs Foothills Barcelona 2017 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #491\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #491\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs Foothills Barcelona 2017 · Field 1 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707126@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T090000
 DTEND;TZID=America/Edmonton:20261115T100000
 SUMMARY:⚽ Villains Titans 17 vs Blizzard SC 17 Boys · Annex - Charlie · 
@@ -286,26 +386,36 @@ SUMMARY:⚽ Villains Titans 17 vs Blizzard SC 17 Boys · Annex - Charlie ·
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #489\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #489\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs Blizzard SC 17 Boys · Annex - Charli
+ e · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707129@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T090000
 DTEND;TZID=America/Edmonton:20261115T100000
 SUMMARY:⚽ CWFC B2017 Black vs Foothills Ajax 2017 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #492\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #492\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs Foothills Ajax 2017 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707127@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ SWU Inter 17B vs Villains Raiders 17 · Main - East · Indoor sh
@@ -313,27 +423,38 @@ SUMMARY:⚽ SWU Inter 17B vs Villains Raiders 17 · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #490\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #490\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs Villains Raiders 17 · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707130@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs RANGERS FC17 BLUE · F
  ield 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #493\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #493\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs RANGERS FC17 BLUE
+  · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707125@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ LSCA B Barcelona vs Chinooks FC United 2017 · Indoor AT 7v7 · 
@@ -341,14 +462,19 @@ SUMMARY:⚽ LSCA B Barcelona vs Chinooks FC United 2017 · Indoor AT 7v7 ·
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #488\nBoys U10 Dev Plus+ UGBO\nSched
- ule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #488\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs Chinooks FC United 2017 · Indoor AT 7v
+ 7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707131@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
 SUMMARY:⚽ LSCA B Barcelona vs Villains Raiders 17 · Annex - Delta · Indo
@@ -356,14 +482,19 @@ SUMMARY:⚽ LSCA B Barcelona vs Villains Raiders 17 · Annex - Delta · Indo
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #494\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #494\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs Villains Raiders 17 · Annex - Delta · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707132@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T090000
 DTEND;TZID=America/Edmonton:20261122T100000
 SUMMARY:⚽ S4 Athletic City 17 vs SWU Inter 17B · Annex - Delta · Indoor 
@@ -371,14 +502,19 @@ SUMMARY:⚽ S4 Athletic City 17 vs SWU Inter 17B · Annex - Delta · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #495\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #495\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs SWU Inter 17B · Annex - Delta · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707133@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T100000
 DTEND;TZID=America/Edmonton:20261122T110000
 SUMMARY:⚽ Foothills Ajax 2017 vs New Frontier SC 2017 Boys (Sakaguchi) ·
@@ -386,14 +522,19 @@ SUMMARY:⚽ Foothills Ajax 2017 vs New Frontier SC 2017 Boys (Sakaguchi) ·
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #496\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #496\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs New Frontier SC 2017 Boys (Sakaguch
+ i) · Annex - Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707134@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T110000
 DTEND;TZID=America/Edmonton:20261122T120000
 SUMMARY:⚽ RANGERS FC17 BLUE vs Foothills Barcelona 2017 · Annex - Delta 
@@ -401,40 +542,56 @@ SUMMARY:⚽ RANGERS FC17 BLUE vs Foothills Barcelona 2017 · Annex - Delta
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #497\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #497\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs Foothills Barcelona 2017 · Annex - De
+ lta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707135@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T120000
 DTEND;TZID=America/Edmonton:20261122T130000
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs CWFC B2017 Black · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #498\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #498\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs CWFC B2017 Black · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707136@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T120000
 DTEND;TZID=America/Edmonton:20261122T130000
 SUMMARY:⚽ Chinooks FC United 2017 vs Blizzard SC 17 Boys · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #499\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #499\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs Blizzard SC 17 Boys · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707137@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T110000
 DTEND;TZID=America/Edmonton:20261129T120000
 SUMMARY:⚽ Foothills Ajax 2017 vs S4 Athletic City 17 · Annex - Bravo · I
@@ -442,14 +599,19 @@ SUMMARY:⚽ Foothills Ajax 2017 vs S4 Athletic City 17 · Annex - Bravo · I
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #500\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #500\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs S4 Athletic City 17 · Annex - Bravo
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707138@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:⚽ Villains Raiders 17 vs Chinooks FC United 2017 · Annex - Bravo
@@ -457,38 +619,53 @@ SUMMARY:⚽ Villains Raiders 17 vs Chinooks FC United 2017 · Annex - Bravo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #501\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #501\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs Chinooks FC United 2017 · Annex - B
+ ravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707141@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:⚽ Blizzard SC 17 Boys vs RANGERS FC17 BLUE · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #504\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #504\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs RANGERS FC17 BLUE · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707142@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T121500
 DTEND;TZID=America/Edmonton:20261129T131500
 SUMMARY:⚽ CWFC B2017 Black vs Villains Titans 17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #505\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #505\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs Villains Titans 17 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707139@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T130000
 DTEND;TZID=America/Edmonton:20261129T140000
 SUMMARY:⚽ SWU Inter 17B vs CNS U10B Ospreys 17 A · Annex - Bravo · Indoo
@@ -496,14 +673,19 @@ SUMMARY:⚽ SWU Inter 17B vs CNS U10B Ospreys 17 A · Annex - Bravo · Indoo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #502\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #502\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs CNS U10B Ospreys 17 A · Annex - Bravo · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707140@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T140000
 DTEND;TZID=America/Edmonton:20261129T150000
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs LSCA B Barcelona · An
@@ -511,50 +693,70 @@ SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs LSCA B Barcelona · An
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #503\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #503\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs LSCA B Barcelona 
+ · Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707145@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T081500
 DTEND;TZID=America/Edmonton:20261206T091500
 SUMMARY:⚽ Blizzard SC 17 Boys vs CNS U10B Ospreys 17 A · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #508\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #508\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs CNS U10B Ospreys 17 A · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707146@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T091500
 DTEND;TZID=America/Edmonton:20261206T101500
 SUMMARY:⚽ S4 Athletic City 17 vs LSCA B Barcelona · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #509\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #509\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs LSCA B Barcelona · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707147@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T101500
 DTEND;TZID=America/Edmonton:20261206T111500
 SUMMARY:⚽ RANGERS FC17 BLUE vs CWFC B2017 Black · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #510\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #510\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs CWFC B2017 Black · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707143@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T120000
 DTEND;TZID=America/Edmonton:20261206T130000
 SUMMARY:⚽ Foothills Barcelona 2017 vs Villains Raiders 17 · Annex - Char
@@ -562,26 +764,36 @@ SUMMARY:⚽ Foothills Barcelona 2017 vs Villains Raiders 17 · Annex - Char
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #506\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #506\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs Villains Raiders 17 · Annex - 
+ Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707148@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T121500
 DTEND;TZID=America/Edmonton:20261206T131500
 SUMMARY:⚽ Chinooks FC United 2017 vs SWU Inter 17B · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #511\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #511\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs SWU Inter 17B · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707144@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T130000
 DTEND;TZID=America/Edmonton:20261206T140000
 SUMMARY:⚽ Villains Titans 17 vs Foothills Ajax 2017 · Annex - Charlie · 
@@ -589,26 +801,37 @@ SUMMARY:⚽ Villains Titans 17 vs Foothills Ajax 2017 · Annex - Charlie ·
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #507\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #507\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs Foothills Ajax 2017 · Annex - Charli
+ e · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707153@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T081500
 DTEND;TZID=America/Edmonton:20261213T091500
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs Chinooks FC United 2017 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #516\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #516\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs Chinooks FC United 2017 · Field 2
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707149@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T090000
 DTEND;TZID=America/Edmonton:20261213T100000
 SUMMARY:⚽ Foothills Ajax 2017 vs Foothills Barcelona 2017 · Main - East 
@@ -616,27 +839,38 @@ SUMMARY:⚽ Foothills Ajax 2017 vs Foothills Barcelona 2017 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #512\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #512\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs Foothills Barcelona 2017 · Main - E
+ ast · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707154@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T091500
 DTEND;TZID=America/Edmonton:20261213T101500
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Villains Titans 17 · 
  Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #517\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #517\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Villains Titans 1
+ 7 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707150@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T100000
 DTEND;TZID=America/Edmonton:20261213T110000
 SUMMARY:⚽ LSCA B Barcelona vs Blizzard SC 17 Boys · Main - East · Indoor
@@ -644,28 +878,38 @@ SUMMARY:⚽ LSCA B Barcelona vs Blizzard SC 17 Boys · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #513\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #513\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs Blizzard SC 17 Boys · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707151@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T110000
 DTEND;TZID=America/Edmonton:20261213T120000
 SUMMARY:⚽ SWU Inter 17B vs CWFC B2017 Black · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #514\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #514\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs CWFC B2017 Black · Main - East · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707152@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T120000
 DTEND;TZID=America/Edmonton:20261213T130000
 SUMMARY:⚽ Villains Raiders 17 vs S4 Athletic City 17 · Main - East · Ind
@@ -673,116 +917,165 @@ SUMMARY:⚽ Villains Raiders 17 vs S4 Athletic City 17 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #515\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #515\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs S4 Athletic City 17 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707157@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T081500
 DTEND;TZID=America/Edmonton:20261220T091500
 SUMMARY:⚽ S4 Athletic City 17 vs Villains Titans 17 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #520\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #520\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs Villains Titans 17 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707155@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T090000
 DTEND;TZID=America/Edmonton:20261220T100000
 SUMMARY:⚽ Foothills Barcelona 2017 vs Blizzard SC 17 Boys · MSC Dome NW 
  7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #518\nBoys U10 Dev Plus+ UGBO\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #518\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs Blizzard SC 17 Boys · MSC Dome
+  NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707158@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T091500
 DTEND;TZID=America/Edmonton:20261220T101500
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs Villains Raiders 17 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #521\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #521\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs Villains Raiders 17 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707156@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T100000
 DTEND;TZID=America/Edmonton:20261220T110000
 SUMMARY:⚽ LSCA B Barcelona vs Foothills Ajax 2017 · MSC Dome NW 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #519\nBoys U10 Dev Plus+ UGBO\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #519\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs Foothills Ajax 2017 · MSC Dome NW 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707159@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T101500
 DTEND;TZID=America/Edmonton:20261220T111500
 SUMMARY:⚽ RANGERS FC17 BLUE vs SWU Inter 17B · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #522\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #522\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs SWU Inter 17B · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707160@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T111500
 DTEND;TZID=America/Edmonton:20261220T121500
 SUMMARY:⚽ CWFC B2017 Black vs New Frontier SC 2017 Boys (Sakaguchi) · Fi
  eld 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #523\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #523\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs New Frontier SC 2017 Boys (Sakaguchi) 
+ · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707165@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T081500
 DTEND;TZID=America/Edmonton:20270103T091500
 SUMMARY:⚽ Blizzard SC 17 Boys vs S4 Athletic City 17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #528\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #528\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs S4 Athletic City 17 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707166@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T091500
 DTEND;TZID=America/Edmonton:20270103T101500
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Chinooks FC United 20
  17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #529\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #529\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs Chinooks FC Unite
+ d 2017 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707161@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T110000
 DTEND;TZID=America/Edmonton:20270103T120000
 SUMMARY:⚽ SWU Inter 17B vs LSCA B Barcelona · Annex - Bravo · Indoor sho
@@ -790,14 +1083,19 @@ SUMMARY:⚽ SWU Inter 17B vs LSCA B Barcelona · Annex - Bravo · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #524\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #524\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs LSCA B Barcelona · Annex - Bravo · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707162@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T120000
 DTEND;TZID=America/Edmonton:20270103T130000
 SUMMARY:⚽ Villains Raiders 17 vs CWFC B2017 Black · Annex - Bravo · Indo
@@ -805,14 +1103,19 @@ SUMMARY:⚽ Villains Raiders 17 vs CWFC B2017 Black · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #525\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #525\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs CWFC B2017 Black · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707163@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T130000
 DTEND;TZID=America/Edmonton:20270103T140000
 SUMMARY:⚽ Villains Titans 17 vs RANGERS FC17 BLUE · Annex - Bravo · Indo
@@ -820,14 +1123,19 @@ SUMMARY:⚽ Villains Titans 17 vs RANGERS FC17 BLUE · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #526\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #526\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs RANGERS FC17 BLUE · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707164@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T140000
 DTEND;TZID=America/Edmonton:20270103T150000
 SUMMARY:⚽ Foothills Ajax 2017 vs CNS U10B Ospreys 17 A · Annex - Bravo ·
@@ -835,40 +1143,57 @@ SUMMARY:⚽ Foothills Ajax 2017 vs CNS U10B Ospreys 17 A · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #527\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #527\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs CNS U10B Ospreys 17 A · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707172@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T080000
 DTEND;TZID=America/Edmonton:20270110T090000
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs SWU Inter 17B · Field
   2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #535\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #535\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs SWU Inter 17B · F
+ ield 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707170@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T111500
 DTEND;TZID=America/Edmonton:20270110T121500
 SUMMARY:⚽ Chinooks FC United 2017 vs Foothills Barcelona 2017 · Field 1 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #533\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #533\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs Foothills Barcelona 2017 · Fiel
+ d 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707167@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T120000
 DTEND;TZID=America/Edmonton:20270110T130000
 SUMMARY:⚽ LSCA B Barcelona vs RANGERS FC17 BLUE · Main - West · Indoor s
@@ -876,26 +1201,36 @@ SUMMARY:⚽ LSCA B Barcelona vs RANGERS FC17 BLUE · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #530\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #530\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs RANGERS FC17 BLUE · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707171@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T121500
 DTEND;TZID=America/Edmonton:20270110T131500
 SUMMARY:⚽ CWFC B2017 Black vs Blizzard SC 17 Boys · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #534\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #534\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs Blizzard SC 17 Boys · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707168@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T130000
 DTEND;TZID=America/Edmonton:20270110T140000
 SUMMARY:⚽ Foothills Ajax 2017 vs Villains Raiders 17 · Main - West · Ind
@@ -903,14 +1238,19 @@ SUMMARY:⚽ Foothills Ajax 2017 vs Villains Raiders 17 · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #531\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #531\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs Villains Raiders 17 · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707169@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
 SUMMARY:⚽ Villains Titans 17 vs CNS U10B Ospreys 17 A · Main - West · In
@@ -918,14 +1258,19 @@ SUMMARY:⚽ Villains Titans 17 vs CNS U10B Ospreys 17 A · Main - West · In
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #532\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #532\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs CNS U10B Ospreys 17 A · Main - West 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707175@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs S4 Athletic City 17 · Main - East · I
@@ -933,14 +1278,19 @@ SUMMARY:⚽ CNS U10B Ospreys 17 A vs S4 Athletic City 17 · Main - East · I
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #538\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #538\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs S4 Athletic City 17 · Main - East
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707176@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
 SUMMARY:⚽ Villains Raiders 17 vs New Frontier SC 2017 Boys (Sakaguchi) ·
@@ -948,14 +1298,19 @@ SUMMARY:⚽ Villains Raiders 17 vs New Frontier SC 2017 Boys (Sakaguchi) ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #539\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #539\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs New Frontier SC 2017 Boys (Sakaguch
+ i) · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707178@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
 SUMMARY:⚽ Blizzard SC 17 Boys vs Foothills Ajax 2017 · Main - West · Ind
@@ -963,14 +1318,19 @@ SUMMARY:⚽ Blizzard SC 17 Boys vs Foothills Ajax 2017 · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #541\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #541\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs Foothills Ajax 2017 · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707173@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:⚽ SWU Inter 17B vs Villains Titans 17 · Annex - Alpha · Indoor s
@@ -978,14 +1338,19 @@ SUMMARY:⚽ SWU Inter 17B vs Villains Titans 17 · Annex - Alpha · Indoor s
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #536\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #536\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs Villains Titans 17 · Annex - Alpha · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707177@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:⚽ CWFC B2017 Black vs Foothills Barcelona 2017 · Main - East · I
@@ -993,14 +1358,19 @@ SUMMARY:⚽ CWFC B2017 Black vs Foothills Barcelona 2017 · Main - East · I
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #540\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #540\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs Foothills Barcelona 2017 · Main - East
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707174@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:⚽ RANGERS FC17 BLUE vs Chinooks FC United 2017 · Annex - Alpha ·
@@ -1008,164 +1378,235 @@ SUMMARY:⚽ RANGERS FC17 BLUE vs Chinooks FC United 2017 · Annex - Alpha ·
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #537\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #537\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs Chinooks FC United 2017 · Annex - Alp
+ ha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707179@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T080000
 DTEND;TZID=America/Edmonton:20270124T090000
 SUMMARY:⚽ Chinooks FC United 2017 vs Villains Titans 17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #542\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #542\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs Villains Titans 17 · Field 4 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707180@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T090000
 DTEND;TZID=America/Edmonton:20270124T100000
 SUMMARY:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs S4 Athletic City 17 ·
   Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #543\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #543\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2017 Boys (Sakaguchi) vs S4 Athletic City 
+ 17 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707181@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ Foothills Barcelona 2017 vs SWU Inter 17B · Field A (7v7) · Cl
  eats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #544\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #544\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs SWU Inter 17B · Field A (7v7) 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707182@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T140000
 DTEND;TZID=America/Edmonton:20270124T150000
 SUMMARY:⚽ Villains Raiders 17 vs Blizzard SC 17 Boys · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #545\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #545\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs Blizzard SC 17 Boys · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707183@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T150000
 DTEND;TZID=America/Edmonton:20270124T160000
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs RANGERS FC17 BLUE · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #546\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #546\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs RANGERS FC17 BLUE · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707184@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T160000
 DTEND;TZID=America/Edmonton:20270124T170000
 SUMMARY:⚽ LSCA B Barcelona vs CWFC B2017 Black · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #547\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #547\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs CWFC B2017 Black · Field A (7v7) · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707185@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:⚽ Foothills Barcelona 2017 vs CNS U10B Ospreys 17 A · Field A (7
  v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #548\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #548\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs CNS U10B Ospreys 17 A · Field 
+ A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707186@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T130000
 DTEND;TZID=America/Edmonton:20270207T140000
 SUMMARY:⚽ Villains Titans 17 vs LSCA B Barcelona · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #549\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #549\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Titans 17 vs LSCA B Barcelona · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707187@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T140000
 DTEND;TZID=America/Edmonton:20270207T150000
 SUMMARY:⚽ Blizzard SC 17 Boys vs New Frontier SC 2017 Boys (Sakaguchi) ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #550\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #550\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 17 Boys vs New Frontier SC 2017 Boys (Sakaguch
+ i) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707188@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T150000
 DTEND;TZID=America/Edmonton:20270207T160000
 SUMMARY:⚽ CWFC B2017 Black vs Chinooks FC United 2017 · Field A (7v7) · 
  Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #551\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #551\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2017 Black vs Chinooks FC United 2017 · Field A (7v7
+ ) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707189@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T160000
 DTEND;TZID=America/Edmonton:20270207T170000
 SUMMARY:⚽ RANGERS FC17 BLUE vs Foothills Ajax 2017 · Field A (7v7) · Cle
  ats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #552\nBoys U10 Dev Plus+ UGBO\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #552\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS FC17 BLUE vs Foothills Ajax 2017 · Field A (7v7) ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707191@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T120000
 DTEND;TZID=America/Edmonton:20270221T130000
 SUMMARY:⚽ CNS U10B Ospreys 17 A vs New Frontier SC 2017 Boys (Sakaguchi)
@@ -1173,14 +1614,19 @@ SUMMARY:⚽ CNS U10B Ospreys 17 A vs New Frontier SC 2017 Boys (Sakaguchi)
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #554\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #554\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CNS U10B Ospreys 17 A vs New Frontier SC 2017 Boys (Sakagu
+ chi) · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707190@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ LSCA B Barcelona vs Foothills Barcelona 2017 · Indoor AT 7v7 ·
@@ -1188,14 +1634,19 @@ SUMMARY:⚽ LSCA B Barcelona vs Foothills Barcelona 2017 · Indoor AT 7v7 ·
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #553\nBoys U10 Dev Plus+ UGBO\nSched
- ule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #553\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ LSCA B Barcelona vs Foothills Barcelona 2017 · Indoor AT 7
+ v7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707192@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ S4 Athletic City 17 vs CWFC B2017 Black · Annex - Alpha · Indo
@@ -1203,14 +1654,19 @@ SUMMARY:⚽ S4 Athletic City 17 vs CWFC B2017 Black · Annex - Alpha · Indo
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #555\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #555\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic City 17 vs CWFC B2017 Black · Annex - Alpha · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707193@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T140000
 DTEND;TZID=America/Edmonton:20270221T150000
 SUMMARY:⚽ SWU Inter 17B vs Foothills Ajax 2017 · Annex - Alpha · Indoor 
@@ -1218,14 +1674,19 @@ SUMMARY:⚽ SWU Inter 17B vs Foothills Ajax 2017 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #556\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #556\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Inter 17B vs Foothills Ajax 2017 · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707194@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T150000
 DTEND;TZID=America/Edmonton:20270221T160000
 SUMMARY:⚽ Villains Raiders 17 vs RANGERS FC17 BLUE · Annex - Alpha · Ind
@@ -1233,14 +1694,19 @@ SUMMARY:⚽ Villains Raiders 17 vs RANGERS FC17 BLUE · Annex - Alpha · Ind
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #557\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #557\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Raiders 17 vs RANGERS FC17 BLUE · Annex - Alpha ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707195@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T110000
 DTEND;TZID=America/Edmonton:20270228T120000
 SUMMARY:⚽ Foothills Ajax 2017 vs LSCA B Barcelona · Annex - Bravo · Indo
@@ -1248,14 +1714,19 @@ SUMMARY:⚽ Foothills Ajax 2017 vs LSCA B Barcelona · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #558\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #558\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Ajax 2017 vs LSCA B Barcelona · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707196@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
 SUMMARY:⚽ Foothills Barcelona 2017 vs Villains Titans 17 · Annex - Bravo
@@ -1263,21 +1734,32 @@ SUMMARY:⚽ Foothills Barcelona 2017 vs Villains Titans 17 · Annex - Bravo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #559\nBoys U10 Dev Plus+ UGBO\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ UGBO · Game #559\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Barcelona 2017 vs Villains Titans 17 · Annex - B
+ ravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707197@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T131500
 DTEND;TZID=America/Edmonton:20270228T141500
 SUMMARY:⚽ Chinooks FC United 2017 vs S4 Athletic City 17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #560\nBoys U10 Dev Plus+ UGBO\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #560\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC United 2017 vs S4 Athletic City 17 · Field 4 7
+ v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

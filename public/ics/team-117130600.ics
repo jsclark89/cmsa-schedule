@@ -26,172 +26,248 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707788@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T100000
 DTEND;TZID=America/Edmonton:20261018T110000
 SUMMARY:⚽ Blizzard City 16 Boys at Rockies Thunder 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #563\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #563\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at Rockies Thunder 16 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707793@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T111500
 DTEND;TZID=America/Edmonton:20261025T121500
 SUMMARY:⚽ Blizzard City 16 Boys vs CWFC B2016 Green · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #568\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #568\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs CWFC B2016 Green · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707794@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T080000
 DTEND;TZID=America/Edmonton:20261108T090000
 SUMMARY:⚽ Blizzard City 16 Boys at Rockies Jays 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #569\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #569\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at Rockies Jays 16 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707798@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T081500
 DTEND;TZID=America/Edmonton:20261115T091500
 SUMMARY:⚽ Blizzard City 16 Boys vs RANGERS SPORTIF 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #573\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #573\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs RANGERS SPORTIF 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707805@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T121500
 DTEND;TZID=America/Edmonton:20261122T131500
 SUMMARY:⚽ Blizzard City 16 Boys at Blizzard County 16 Boys · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #580\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #580\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at Blizzard County 16 Boys · Field 4
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707806@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T081500
 DTEND;TZID=America/Edmonton:20261129T091500
 SUMMARY:⚽ Blizzard City 16 Boys vs WHU West Hills Supra 16 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #581\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #581\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs WHU West Hills Supra 16 · Field 4
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707816@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T121500
 DTEND;TZID=America/Edmonton:20261213T131500
 SUMMARY:⚽ Blizzard City 16 Boys at Blizzard Celtic 16 Boys · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #591\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #591\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at Blizzard Celtic 16 Boys · Field 2
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707818@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T081500
 DTEND;TZID=America/Edmonton:20261220T091500
 SUMMARY:⚽ Blizzard City 16 Boys vs Blizzard Wanderers 16 Boys · Field 4 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #593\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #593\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs Blizzard Wanderers 16 Boys · Fiel
+ d 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707823@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T101500
 DTEND;TZID=America/Edmonton:20270103T111500
 SUMMARY:⚽ Blizzard City 16 Boys vs Rockies Thunder 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #598\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #598\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs Rockies Thunder 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707829@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T111500
 DTEND;TZID=America/Edmonton:20270110T121500
 SUMMARY:⚽ Blizzard City 16 Boys at CWFC B2016 Green · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #604\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #604\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at CWFC B2016 Green · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707832@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T090000
 DTEND;TZID=America/Edmonton:20270117T100000
 SUMMARY:⚽ Blizzard City 16 Boys vs Rockies Jays 16 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #607\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #607\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs Rockies Jays 16 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707836@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T101500
 DTEND;TZID=America/Edmonton:20270131T111500
 SUMMARY:⚽ Blizzard City 16 Boys at RANGERS SPORTIF 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #611\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #611\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at RANGERS SPORTIF 16 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707838@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T080000
 DTEND;TZID=America/Edmonton:20270207T090000
 SUMMARY:⚽ Blizzard City 16 Boys vs Blizzard County 16 Boys · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #613\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #613\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys vs Blizzard County 16 Boys · Field 2
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707846@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T101500
 DTEND;TZID=America/Edmonton:20270228T111500
 SUMMARY:⚽ Blizzard City 16 Boys at Blizzard Wanderers 16 Boys · Field 2 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #621\nBoys U11 Dev HENRY\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev HENRY · Game #621\nSchedule: https://jsclark89.
+ github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard City 16 Boys at Blizzard Wanderers 16 Boys · Fiel
+ d 2 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

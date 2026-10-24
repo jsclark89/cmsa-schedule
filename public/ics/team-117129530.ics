@@ -26,187 +26,265 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709470@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T091500
 DTEND;TZID=America/Edmonton:20261017T101500
 SUMMARY:⚽ Spartans Admirals vs WHU West Hills Gunners 14 · MSC Dome NE 7
  v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1909\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1909\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs WHU West Hills Gunners 14 · MSC Dome 
+ NE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709483@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T143000
 DTEND;TZID=America/Edmonton:20261025T153000
 SUMMARY:⚽ Spartans Admirals at Blizzard Alliance 14 Boys · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1922\nBoys U13 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 2 · Game #1922\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at Blizzard Alliance 14 Boys · Field 2 7
+ v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709485@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T141500
 DTEND;TZID=America/Edmonton:20261107T151500
 SUMMARY:⚽ Spartans Admirals at Foothills 2014 Prospects · Field A · Clea
  ts
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1924\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1924\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at Foothills 2014 Prospects · Field A · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709497@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T190000
 DTEND;TZID=America/Edmonton:20261114T200000
 SUMMARY:⚽ Spartans Admirals vs EMFC Juventus 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1939\nBoys U13 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 2 · Game #1939\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs EMFC Juventus 14 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709506@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T130000
 DTEND;TZID=America/Edmonton:20261121T140000
 SUMMARY:⚽ Spartans Admirals vs Chinooks FC Premiers 2014 · Field B · Cle
  ats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1945\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1945\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs Chinooks FC Premiers 2014 · Field B ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709512@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T093000
 DTEND;TZID=America/Edmonton:20261128T103000
 SUMMARY:⚽ Spartans Admirals at SWU Atletico 14B · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1951\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1951\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at SWU Atletico 14B · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709520@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T141500
 DTEND;TZID=America/Edmonton:20261212T151500
 SUMMARY:⚽ Spartans Admirals vs CWFC B2014 Green · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1959\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1959\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs CWFC B2014 Green · Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709531@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T103000
 DTEND;TZID=America/Edmonton:20261219T113000
 SUMMARY:⚽ Spartans Admirals at SWU Barca 14B · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1970\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1970\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at SWU Barca 14B · Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709545@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T193000
 DTEND;TZID=America/Edmonton:20270102T203000
 SUMMARY:⚽ Spartans Admirals at Blizzard United 14 Boys · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1984\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1984\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at Blizzard United 14 Boys · #02/SW · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709547@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T080000
 DTEND;TZID=America/Edmonton:20270109T090000
 SUMMARY:⚽ Spartans Admirals vs CCFC Calgary City FC Whitecaps 2014 · Fie
  ld B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1986\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1986\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs CCFC Calgary City FC Whitecaps 2014 ·
+  Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709559@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T114500
 DTEND;TZID=America/Edmonton:20270116T124500
 SUMMARY:⚽ Spartans Admirals vs New Frontier SC 2014 Boys (Keith) · MSC D
  ome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1998\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1998\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs New Frontier SC 2014 Boys (Keith) · M
+ SC Dome NE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709566@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T091500
 DTEND;TZID=America/Edmonton:20270130T101500
 SUMMARY:⚽ Spartans Admirals at MUSC Storm 14 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2005\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2005\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at MUSC Storm 14 · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709576@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T103000
 DTEND;TZID=America/Edmonton:20270220T113000
 SUMMARY:⚽ Spartans Admirals vs CalGlen Royals 14 · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2015\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2015\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals vs CalGlen Royals 14 · Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709594@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T130000
 DTEND;TZID=America/Edmonton:20270227T140000
 SUMMARY:⚽ Spartans Admirals at RANGERS ATHLETICS 14 · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2030\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2030\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Admirals at RANGERS ATHLETICS 14 · Field B · Clea
+ ts
+END:VALARM
 END:VEVENT
 END:VCALENDAR

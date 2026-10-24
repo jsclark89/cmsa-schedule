@@ -26,189 +26,267 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709469@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
 SUMMARY:⚽ CWFC B2014 Green at Airdrie F.C. Dynamo 14 · MSC Dome NE 7v7 ·
   Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1908\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1908\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at Airdrie F.C. Dynamo 14 · MSC Dome NE 7
+ v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709478@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T141500
 DTEND;TZID=America/Edmonton:20261024T151500
 SUMMARY:⚽ CWFC B2014 Green vs Rockies Albion 14 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1917\nBoys U13 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 2 · Game #1917\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs Rockies Albion 14 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709491@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T154500
 DTEND;TZID=America/Edmonton:20261107T164500
 SUMMARY:⚽ CWFC B2014 Green vs Villains Cyclones 14 · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1930\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1930\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs Villains Cyclones 14 · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709496@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T174500
 DTEND;TZID=America/Edmonton:20261114T184500
 SUMMARY:⚽ CWFC B2014 Green at New Frontier SC 2014 Boys (Keith) · Field 
  2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1938\nBoys U13 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U13 Tier 2 · Game #1938\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at New Frontier SC 2014 Boys (Keith) · Fi
+ eld 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709510@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T131500
 DTEND;TZID=America/Edmonton:20261121T141500
 SUMMARY:⚽ CWFC B2014 Green vs RANGERS ATHLETICS 14 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1948\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1948\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs RANGERS ATHLETICS 14 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709514@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T120000
 DTEND;TZID=America/Edmonton:20261128T130000
 SUMMARY:⚽ CWFC B2014 Green at WHU West Hills Gunners 14 · #01/NW · Cleat
  s
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1953\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1953\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at WHU West Hills Gunners 14 · #01/NW · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709520@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T141500
 DTEND;TZID=America/Edmonton:20261212T151500
 SUMMARY:⚽ CWFC B2014 Green at Spartans Admirals · Field B · Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1959\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1959\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at Spartans Admirals · Field B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709536@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T143000
 DTEND;TZID=America/Edmonton:20261219T153000
 SUMMARY:⚽ CWFC B2014 Green vs Foothills 2014 Prospects · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1973\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1973\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs Foothills 2014 Prospects · #02/SW · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709542@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T164500
 DTEND;TZID=America/Edmonton:20270102T174500
 SUMMARY:⚽ CWFC B2014 Green at EMFC Juventus 14 · MSC Dome SE 7v7 · Cleat
  s
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1981\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1981\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at EMFC Juventus 14 · MSC Dome SE 7v7 · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709550@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T120000
 DTEND;TZID=America/Edmonton:20270109T130000
 SUMMARY:⚽ CWFC B2014 Green vs Chinooks FC Premiers 2014 · MSC Dome NE 7v
  7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1989\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #1989\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs Chinooks FC Premiers 2014 · MSC Dome N
+ E 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709564@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T154500
 DTEND;TZID=America/Edmonton:20270116T164500
 SUMMARY:⚽ CWFC B2014 Green vs Blizzard United 14 Boys · MSC Dome SE 7v7 
  · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2003\nBoys U13 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2003\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs Blizzard United 14 Boys · MSC Dome SE 
+ 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709571@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T154500
 DTEND;TZID=America/Edmonton:20270130T164500
 SUMMARY:⚽ CWFC B2014 Green at Blizzard Alliance 14 Boys · #03/SE · Cleat
  s
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2008\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2008\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at Blizzard Alliance 14 Boys · #03/SE · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709580@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T113000
 DTEND;TZID=America/Edmonton:20270220T123000
 SUMMARY:⚽ CWFC B2014 Green vs MUSC Storm 14 · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2019\nBoys U13 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2019\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green vs MUSC Storm 14 · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709585@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T123000
 DTEND;TZID=America/Edmonton:20270227T133000
 SUMMARY:⚽ CWFC B2014 Green at SWU Atletico 14B · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2024\nBoys U13 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 2 · Game #2024\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CWFC B2014 Green at SWU Atletico 14B · Field A · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

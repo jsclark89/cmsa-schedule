@@ -26,182 +26,259 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711776@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T181500
 DTEND;TZID=America/Edmonton:20261018T191500
 SUMMARY:⚽ Rockies Summit 12 vs CNEU FLAMES · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4827\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4827\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs CNEU FLAMES · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711811@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T191500
 DTEND;TZID=America/Edmonton:20261108T201500
 SUMMARY:⚽ Rockies Summit 12 at New Frontier SC 2012 Girls (Deen) · Field
   3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4841\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4841\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at New Frontier SC 2012 Girls (Deen) · F
+ ield 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711819@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ Rockies Summit 12 at Blizzard Alliance 12 Girls · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4844\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4844\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at Blizzard Alliance 12 Girls · Field 3 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711832@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T141500
 DTEND;TZID=America/Edmonton:20261122T151500
 SUMMARY:⚽ Rockies Summit 12 vs Chinooks WFC Premiers 2013 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4850\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4850\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs Chinooks WFC Premiers 2013 · Field 3 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711854@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T181500
 DTEND;TZID=America/Edmonton:20261129T191500
 SUMMARY:⚽ Rockies Summit 12 vs Villains Black 13G · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4859\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4859\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs Villains Black 13G · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711857@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T083000
 DTEND;TZID=America/Edmonton:20261206T093000
 SUMMARY:⚽ Rockies Summit 12 at Foothills WFC 2013 Girls · Field A · Clea
  ts
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4860\nGirls U15 Tier 2\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4860\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at Foothills WFC 2013 Girls · Field A · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711867@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T181500
 DTEND;TZID=America/Edmonton:20261213T191500
 SUMMARY:⚽ Rockies Summit 12 vs Villains Grey 13G · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4870\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4870\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs Villains Grey 13G · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711874@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T141500
 DTEND;TZID=America/Edmonton:20261220T151500
 SUMMARY:⚽ Rockies Summit 12 at OUSC United G12 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4875\nGirls U15 Tier 2\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4875\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at OUSC United G12 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711878@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270104T204500
 DTEND;TZID=America/Edmonton:20270104T214500
 SUMMARY:⚽ Rockies Summit 12 vs WHU West Hills Griffins 13 · #01/NW · Cle
  ats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4881\nGirls U15 Tier 2\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4881\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs WHU West Hills Griffins 13 · #01/NW ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711883@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T163000
 DTEND;TZID=America/Edmonton:20270116T173000
 SUMMARY:⚽ Rockies Summit 12 vs Blizzard Alliance 13 Girls · Field C · Cl
  eats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4886\nGirls U15 Tier 2\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4886\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs Blizzard Alliance 13 Girls · Field C 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711887@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T080000
 DTEND;TZID=America/Edmonton:20270123T090000
 SUMMARY:⚽ Rockies Summit 12 at CNEU FLAMES · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4890\nGirls U15 Tier 2\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4890\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at CNEU FLAMES · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711902@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T091500
 DTEND;TZID=America/Edmonton:20270207T101500
 SUMMARY:⚽ Rockies Summit 12 at RANGERS W ATHLETICS 12/13 · #04/NE · Clea
  ts
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4905\nGirls U15 Tier 2\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4905\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at RANGERS W ATHLETICS 12/13 · #04/NE · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711906@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T141500
 DTEND;TZID=America/Edmonton:20270221T151500
 SUMMARY:⚽ Rockies Summit 12 at MUSC Warriors 12 · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4909\nGirls U15 Tier 2\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 2 · Game #4909\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 at MUSC Warriors 12 · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711909@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T080000
 DTEND;TZID=America/Edmonton:20270228T090000
 SUMMARY:⚽ Rockies Summit 12 vs OUSC United G12 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4912\nGirls U15 Tier 2\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 2 · Game #4912\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Summit 12 vs OUSC United G12 · Field 3 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,19 +26,24 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708390@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T091500
 DTEND;TZID=America/Edmonton:20261018T101500
 SUMMARY:⚽ Airdrie F.C. Roses 16 at CWFC G2016 Black · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4210\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4210\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at CWFC G2016 Black · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708396@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at Foothills 2016 Prospects Girls · Anne
@@ -46,180 +51,250 @@ SUMMARY:⚽ Airdrie F.C. Roses 16 at Foothills 2016 Prospects Girls · Anne
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4213\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4213\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at Foothills 2016 Prospects Girls · 
+ Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708402@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T170000
 DTEND;TZID=America/Edmonton:20261108T180000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs CalGlen Rockets 16/17 · Field 2 · Cle
  ats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4216\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4216\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs CalGlen Rockets 16/17 · Field 2 ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708412@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at RANGERS WFC 16 YELLOW · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4221\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4221\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at RANGERS WFC 16 YELLOW · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708424@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at New Frontier SC 2016 Girls (Harman) ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4226\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4226\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at New Frontier SC 2016 Girls (Harma
+ n) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708428@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T160000
 DTEND;TZID=America/Edmonton:20261206T170000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs SWU Wild 16G · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4228\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4228\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs SWU Wild 16G · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708435@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T110000
 DTEND;TZID=America/Edmonton:20261220T120000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at WHU West Hills Panthers 16 · Field 3 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4232\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4232\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at WHU West Hills Panthers 16 · Fiel
+ d 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708450@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T110000
 DTEND;TZID=America/Edmonton:20270102T120000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs CWFC G2016 Black · MSC Dome SE 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4239\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4239\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs CWFC G2016 Black · MSC Dome SE 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708453@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T170000
 DTEND;TZID=America/Edmonton:20270110T180000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs Foothills 2016 Prospects Girls · Fiel
  d 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4240\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4240\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs Foothills 2016 Prospects Girls · 
+ Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708480@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at CalGlen Rockets 16/17 · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4247\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4247\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at CalGlen Rockets 16/17 · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708484@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T150000
 DTEND;TZID=America/Edmonton:20270131T160000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs RANGERS WFC 16 YELLOW · Field 2 · Cle
  ats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4248\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4248\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs RANGERS WFC 16 YELLOW · Field 2 ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708499@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T160000
 DTEND;TZID=America/Edmonton:20270207T170000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs New Frontier SC 2016 Girls (Harman) ·
   Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4252\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4252\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs New Frontier SC 2016 Girls (Harma
+ n) · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708516@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ Airdrie F.C. Roses 16 at SWU Wild 16G · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4259\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4259\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 at SWU Wild 16G · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708517@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T160000
 DTEND;TZID=America/Edmonton:20270228T170000
 SUMMARY:⚽ Airdrie F.C. Roses 16 vs WHU West Hills Panthers 16 · Field 2 
  · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4260\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4260\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Roses 16 vs WHU West Hills Panthers 16 · Fiel
+ d 2 · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

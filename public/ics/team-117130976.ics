@@ -26,60 +26,82 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708313@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T110000
 DTEND;TZID=America/Edmonton:20261017T120000
 SUMMARY:⚽ SWU Tides 16 G vs Rockies Impact 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4112\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4112\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs Rockies Impact 16 · Field A (7v7) · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708319@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T100000
 DTEND;TZID=America/Edmonton:20261031T110000
 SUMMARY:⚽ SWU Tides 16 G at MUSC Phoenix 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4118\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4118\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at MUSC Phoenix 16 · Main - East · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708322@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T173000
 DTEND;TZID=America/Edmonton:20261107T183000
 SUMMARY:⚽ SWU Tides 16 G at Blizzard United 16 Girls · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4121\nGirls U11 Dev HUITEMA\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev HUITEMA · Game #4121\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at Blizzard United 16 Girls · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708324@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T150000
 DTEND;TZID=America/Edmonton:20261114T160000
 SUMMARY:⚽ SWU Tides 16 G vs WHU West Hills Eagles 16 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4123\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4123\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs WHU West Hills Eagles 16 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708327@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T140000
 DTEND;TZID=America/Edmonton:20261121T150000
 SUMMARY:⚽ SWU Tides 16 G at Foothills Wave 2016 · Main - West · Indoor s
@@ -87,14 +109,19 @@ SUMMARY:⚽ SWU Tides 16 G at Foothills Wave 2016 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4126\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4126\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at Foothills Wave 2016 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708329@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T140000
 DTEND;TZID=America/Edmonton:20261128T150000
 SUMMARY:⚽ SWU Tides 16 G vs Villains Current 16 · Main - West · Indoor s
@@ -102,26 +129,36 @@ SUMMARY:⚽ SWU Tides 16 G vs Villains Current 16 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4128\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4128\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs Villains Current 16 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708332@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T163000
 DTEND;TZID=America/Edmonton:20261205T173000
 SUMMARY:⚽ SWU Tides 16 G at Rockies Impact 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4131\nGirls U11 Dev HUITEMA\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev HUITEMA · Game #4131\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at Rockies Impact 16 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708338@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T080000
 DTEND;TZID=America/Edmonton:20261219T090000
 SUMMARY:⚽ SWU Tides 16 G vs MUSC Phoenix 16 · Annex - Delta · Indoor sho
@@ -129,14 +166,19 @@ SUMMARY:⚽ SWU Tides 16 G vs MUSC Phoenix 16 · Annex - Delta · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4137\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4137\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs MUSC Phoenix 16 · Annex - Delta · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708342@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T140000
 DTEND;TZID=America/Edmonton:20270102T150000
 SUMMARY:⚽ SWU Tides 16 G vs Blizzard United 16 Girls · Main - West · Ind
@@ -144,76 +186,110 @@ SUMMARY:⚽ SWU Tides 16 G vs Blizzard United 16 Girls · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4141\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4141\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs Blizzard United 16 Girls · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708346@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T160000
 DTEND;TZID=America/Edmonton:20270109T170000
 SUMMARY:⚽ SWU Tides 16 G at WHU West Hills Eagles 16 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4145\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4145\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at WHU West Hills Eagles 16 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708347@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T120000
 DTEND;TZID=America/Edmonton:20270116T130000
 SUMMARY:⚽ SWU Tides 16 G vs Foothills Wave 2016 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4146\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4146\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs Foothills Wave 2016 · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708351@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T150000
 DTEND;TZID=America/Edmonton:20270123T160000
 SUMMARY:⚽ SWU Tides 16 G at Villains Current 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4150\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4150\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at Villains Current 16 · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708355@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T160000
 DTEND;TZID=America/Edmonton:20270130T170000
 SUMMARY:⚽ SWU Tides 16 G vs Rockies Impact 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4154\nGirls U11 Dev HUITEMA\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev HUITEMA · Game #4154\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G vs Rockies Impact 16 · Field A (7v7) · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708359@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T130000
 DTEND;TZID=America/Edmonton:20270227T140000
 SUMMARY:⚽ SWU Tides 16 G at MUSC Phoenix 16 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4158\nGirls U11 Dev HUITEMA\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev HUITEMA · Game #4158\nSchedule: https
+ ://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Tides 16 G at MUSC Phoenix 16 · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

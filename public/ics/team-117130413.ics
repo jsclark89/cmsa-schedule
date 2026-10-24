@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701182@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T160000
 DTEND;TZID=America/Edmonton:20261018T170000
 SUMMARY:⚽ Villains Cobras 17 at Spartans Helios 17 · Indoor AT 7v7 · Ind
@@ -34,14 +34,19 @@ SUMMARY:⚽ Villains Cobras 17 at Spartans Helios 17 · Indoor AT 7v7 · Ind
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #1\nBoys U10 Dev BRYM\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #1\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at Spartans Helios 17 · Indoor AT 7v7 ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701187@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
@@ -49,14 +54,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #6\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #6\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701190@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
 SUMMARY:⚽ Villains Cobras 17 at S4 Athletic 17 · Main - West · Indoor sh
@@ -64,14 +74,19 @@ SUMMARY:⚽ Villains Cobras 17 at S4 Athletic 17 · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #9\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #9\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at S4 Athletic 17 · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701195@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T090000
 DTEND;TZID=America/Edmonton:20261115T100000
 SUMMARY:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indoor s
@@ -79,14 +94,19 @@ SUMMARY:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #14\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #14\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701198@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
 SUMMARY:⚽ Villains Cobras 17 at Foothills York 2017 · Annex - Bravo · In
@@ -94,14 +114,19 @@ SUMMARY:⚽ Villains Cobras 17 at Foothills York 2017 · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #17\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #17\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at Foothills York 2017 · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701205@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T170000
 DTEND;TZID=America/Edmonton:20261129T180000
 SUMMARY:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · Indoor
@@ -109,14 +134,19 @@ SUMMARY:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #24\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #24\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701213@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T150000
 DTEND;TZID=America/Edmonton:20261213T160000
 SUMMARY:⚽ Villains Cobras 17 at RWFC Royal West FC Shakhtar 17 · Annex -
@@ -124,28 +154,39 @@ SUMMARY:⚽ Villains Cobras 17 at RWFC Royal West FC Shakhtar 17 · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #32\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #32\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at RWFC Royal West FC Shakhtar 17 · Ann
+ ex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701216@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T150000
 DTEND;TZID=America/Edmonton:20261220T160000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills Pacific 2017 · MSC Dome NW 7v7
   · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #35\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #35\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills Pacific 2017 · MSC Dome NW
+  7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701220@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T160000
 DTEND;TZID=America/Edmonton:20270103T170000
 SUMMARY:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · Indoo
@@ -153,14 +194,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · Indoo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #39\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #39\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701222@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:⚽ Villains Cobras 17 at Foothills Cavalry 2017 · Annex - Bravo ·
@@ -168,14 +214,19 @@ SUMMARY:⚽ Villains Cobras 17 at Foothills Cavalry 2017 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #41\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #41\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at Foothills Cavalry 2017 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701229@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Indoor 
@@ -183,14 +234,19 @@ SUMMARY:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #48\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #48\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701230@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ Villains Cobras 17 at SWU Napoli 17 B · Annex - Charlie · Indo
@@ -198,14 +254,19 @@ SUMMARY:⚽ Villains Cobras 17 at SWU Napoli 17 B · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #49\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #49\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at SWU Napoli 17 B · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701236@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T170000
 DTEND;TZID=America/Edmonton:20270131T180000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · Indo
@@ -213,14 +274,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #55\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #55\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701242@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T090000
 DTEND;TZID=America/Edmonton:20270228T100000
 SUMMARY:⚽ Villains Cobras 17 at Foothills Pacific 2017 · Annex - Bravo ·
@@ -228,9 +294,14 @@ SUMMARY:⚽ Villains Cobras 17 at Foothills Pacific 2017 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #61\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #61\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 at Foothills Pacific 2017 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

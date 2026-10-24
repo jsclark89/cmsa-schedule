@@ -26,47 +26,62 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707905@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T090000
 DTEND;TZID=America/Edmonton:20261017T100000
 SUMMARY:⚽ OUSC United B16 vs Villains Gunners 16 · Red · Cleats
 LOCATION:10Fold Regional Fieldhouse Red\, 125 Fieldhouse Drive Okotoks\,
   AB T1S 0C4
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Boarded field (boards not in use for 7v7)\nGame #813\n
- Boys U11 Dev Plus+ GOODMAN\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #813\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs Villains Gunners 16 · Red · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707911@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T150000
 DTEND;TZID=America/Edmonton:20261025T160000
 SUMMARY:⚽ OUSC United B16 vs New Frontier SC 2016 Boys (Good) · Field A 
  (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #819\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #819\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs New Frontier SC 2016 Boys (Good) · Fiel
+ d A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707916@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T080000
 DTEND;TZID=America/Edmonton:20261101T090000
 SUMMARY:⚽ OUSC United B16 at RANGERS FC16 NAVY · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #824\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ GOODMAN · Game #824\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at RANGERS FC16 NAVY · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707920@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T100000
 DTEND;TZID=America/Edmonton:20261108T110000
 SUMMARY:⚽ OUSC United B16 vs CUFC Rangers 16 · Annex - Bravo · Indoor sh
@@ -74,14 +89,19 @@ SUMMARY:⚽ OUSC United B16 vs CUFC Rangers 16 · Annex - Bravo · Indoor sh
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #828\nBoys U11 Dev Plus+ GOODMAN\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ GOODMAN · Game #828\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs CUFC Rangers 16 · Annex - Bravo · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707921@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ OUSC United B16 at Foothills United 2016 · Annex - Charlie · I
@@ -89,14 +109,19 @@ SUMMARY:⚽ OUSC United B16 at Foothills United 2016 · Annex - Charlie · I
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #829\nBoys U11 Dev Plus+ GOODMAN\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ GOODMAN · Game #829\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at Foothills United 2016 · Annex - Charlie
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707929@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T150000
 DTEND;TZID=America/Edmonton:20261129T160000
 SUMMARY:⚽ OUSC United B16 at EMFC Cavalry 16 · Indoor AT 7v7 · Indoor sh
@@ -104,82 +129,116 @@ SUMMARY:⚽ OUSC United B16 at EMFC Cavalry 16 · Indoor AT 7v7 · Indoor sh
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #837\nBoys U11 Dev Plus+ GOODMAN\nSc
- hedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ GOODMAN · Game #837\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at EMFC Cavalry 16 · Indoor AT 7v7 · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707933@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T100000
 DTEND;TZID=America/Edmonton:20261205T110000
 SUMMARY:⚽ OUSC United B16 vs Foothills Prospects 2016 · Blue · Cleats
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Boarded field (boards not in use for 7v7)\nGame #841\n
- Boys U11 Dev Plus+ GOODMAN\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #841\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs Foothills Prospects 2016 · Blue · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707940@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T130000
 DTEND;TZID=America/Edmonton:20261220T140000
 SUMMARY:⚽ OUSC United B16 vs Blizzard Athletic 16 Boys · Field A (7v7) ·
   Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #848\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #848\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs Blizzard Athletic 16 Boys · Field A (7v
+ 7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707944@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T130000
 DTEND;TZID=America/Edmonton:20270103T140000
 SUMMARY:⚽ OUSC United B16 at Villains Gunners 16 · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #852\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #852\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at Villains Gunners 16 · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707947@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T100000
 DTEND;TZID=America/Edmonton:20270110T110000
 SUMMARY:⚽ OUSC United B16 at New Frontier SC 2016 Boys (Good) · Field 2 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #855\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ GOODMAN · Game #855\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at New Frontier SC 2016 Boys (Good) · Fiel
+ d 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707952@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T100000
 DTEND;TZID=America/Edmonton:20270124T110000
 SUMMARY:⚽ OUSC United B16 vs RANGERS FC16 NAVY · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #860\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #860\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs RANGERS FC16 NAVY · Field A (7v7) · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707953@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T160000
 DTEND;TZID=America/Edmonton:20270131T170000
 SUMMARY:⚽ OUSC United B16 at CUFC Rangers 16 · Indoor AT 7v7 · Indoor sh
@@ -187,37 +246,52 @@ SUMMARY:⚽ OUSC United B16 at CUFC Rangers 16 · Indoor AT 7v7 · Indoor sh
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #861\nBoys U11 Dev Plus+ GOODMAN\nSc
- hedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ GOODMAN · Game #861\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at CUFC Rangers 16 · Indoor AT 7v7 · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707957@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:⚽ OUSC United B16 vs Foothills United 2016 · Red · Cleats
 LOCATION:10Fold Regional Fieldhouse Red\, 125 Fieldhouse Drive Okotoks\,
   AB T1S 0C4
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Boarded field (boards not in use for 7v7)\nGame #865\n
- Boys U11 Dev Plus+ GOODMAN\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #865\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 vs Foothills United 2016 · Red · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707967@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T130000
 DTEND;TZID=America/Edmonton:20270228T140000
 SUMMARY:⚽ OUSC United B16 at Blizzard Athletic 16 Boys · Field A (7v7) ·
   Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #875\nBoys U11 Dev Plus+ GOODMAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ GOODMAN · Game #875\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ OUSC United B16 at Blizzard Athletic 16 Boys · Field A (7v
+ 7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

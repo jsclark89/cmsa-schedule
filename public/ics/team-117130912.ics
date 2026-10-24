@@ -26,198 +26,282 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708925@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T140000
 DTEND;TZID=America/Edmonton:20261018T150000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Foothills Burnley 2015
   · MSC Dome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1719\nBoys U12 City Wide Tier 6\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1719\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Foothills Burnley 
+ 2015 · MSC Dome NE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708970@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T133000
 DTEND;TZID=America/Edmonton:20261108T143000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at Rockies Werder Bremen 
  15 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1730\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1730\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at Rockies Werder Bre
+ men 15 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708979@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at CNEU 2015 Twisters · F
  ield D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1732\nBoys U12 City Wide Tier 
- 6\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1732\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at CNEU 2015 Twisters
+  · Field D · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709007@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T140000
 DTEND;TZID=America/Edmonton:20261122T150000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Stuttgart15 · 
  MSC Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1739\nBoys U12 City Wide Tier 6\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1739\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Stuttgart1
+ 5 · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709028@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T130000
 DTEND;TZID=America/Edmonton:20261129T140000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Wolfsburg15 · 
  #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1744\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1744\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Wolfsburg1
+ 5 · #03/SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709037@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T110000
 DTEND;TZID=America/Edmonton:20261206T120000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at Villains Jets 15 · Fie
  ld D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1746\nBoys U12 City Wide Tier 
- 6\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1746\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at Villains Jets 15 ·
+  Field D · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709067@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T150000
 DTEND;TZID=America/Edmonton:20261213T160000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Foothills Palace 2015 
  · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1754\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1754\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Foothills Palace 2
+ 015 · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709083@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T163000
 DTEND;TZID=America/Edmonton:20270102T173000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Chinooks FC White 2015
   · Field D · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1759\nBoys U12 City Wide Tier 
- 6\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1759\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Chinooks FC White 
+ 2015 · Field D · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709099@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T151500
 DTEND;TZID=America/Edmonton:20270109T161500
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at Blizzard Sporting 15 B
  oys · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1765\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1765\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at Blizzard Sporting 
+ 15 Boys · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709122@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T103000
 DTEND;TZID=America/Edmonton:20270123T113000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Werder Bremen 
  15 · Field C · Cleats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1773\nBoys U12 City Wide Tier 
- 6\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1773\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs Rockies Werder Bre
+ men 15 · Field C · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709133@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T134500
 DTEND;TZID=America/Edmonton:20270130T144500
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at RANGERS SPORTIF 15 · #
  04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1779\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1779\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at RANGERS SPORTIF 15
+  · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709140@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) vs CNEU 2015 Twisters · M
  SC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1782\nBoys U12 City Wide Tier 6\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1782\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) vs CNEU 2015 Twisters
+  · MSC Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709144@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T153000
 DTEND;TZID=America/Edmonton:20270220T163000
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at Foothills Burnley 2015
   · Field C · Cleats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1786\nBoys U12 City Wide Tier 
- 6\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1786\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at Foothills Burnley 
+ 2015 · Field C · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709150@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T144500
 DTEND;TZID=America/Edmonton:20270227T154500
 SUMMARY:⚽ New Frontier SC 2015 Boys (Shimeles) at Chinooks FC White 2015
   · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1792\nBoys U12 City Wide Tier 6\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1792\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2015 Boys (Shimeles) at Chinooks FC White 
+ 2015 · #04/NE · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

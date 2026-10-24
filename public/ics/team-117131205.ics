@@ -26,187 +26,264 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11710036@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T153000
 DTEND;TZID=America/Edmonton:20261024T163000
 SUMMARY:⚽ CalGlen Umoja 13 vs New Frontier SC 2013 Boys (Bolk) · MSC Dom
  e SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2521\nBoys U14 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2521\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs New Frontier SC 2013 Boys (Bolk) · MSC
+  Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710049@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T080000
 DTEND;TZID=America/Edmonton:20261031T090000
 SUMMARY:⚽ CalGlen Umoja 13 at Spartans Elite · MSC Dome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2527\nBoys U14 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2527\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at Spartans Elite · MSC Dome NE 7v7 · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710072@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T154500
 DTEND;TZID=America/Edmonton:20261107T164500
 SUMMARY:⚽ CalGlen Umoja 13 vs SWU Cruzeiro 13 B · MSC Dome NE 7v7 · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2539\nBoys U14 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2539\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs SWU Cruzeiro 13 B · MSC Dome NE 7v7 · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710084@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T193000
 DTEND;TZID=America/Edmonton:20261114T203000
 SUMMARY:⚽ CalGlen Umoja 13 at WHU West Hills Arrows 13 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2548\nBoys U14 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 2 · Game #2548\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at WHU West Hills Arrows 13 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710100@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T193000
 DTEND;TZID=America/Edmonton:20261128T203000
 SUMMARY:⚽ CalGlen Umoja 13 vs CUFC Samurai 13 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2554\nBoys U14 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 2 · Game #2554\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs CUFC Samurai 13 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710114@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T091500
 DTEND;TZID=America/Edmonton:20261205T101500
 SUMMARY:⚽ CalGlen Umoja 13 at NCFC 13 Madrid · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2560\nBoys U14 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2560\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at NCFC 13 Madrid · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710134@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T143000
 DTEND;TZID=America/Edmonton:20261212T153000
 SUMMARY:⚽ CalGlen Umoja 13 vs CWFC B2013 Green · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2573\nBoys U14 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2573\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs CWFC B2013 Green · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710143@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T081500
 DTEND;TZID=America/Edmonton:20261219T091500
 SUMMARY:⚽ CalGlen Umoja 13 at Blizzard Alliance 13 Boys · #01/NW · Cleat
  s
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2581\nBoys U14 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2581\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at Blizzard Alliance 13 Boys · #01/NW · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710157@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T114500
 DTEND;TZID=America/Edmonton:20270102T124500
 SUMMARY:⚽ CalGlen Umoja 13 vs SWU Premiers 13 B · MSC Dome NE 7v7 · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2589\nBoys U14 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2589\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs SWU Premiers 13 B · MSC Dome NE 7v7 · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710186@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T154500
 DTEND;TZID=America/Edmonton:20270109T164500
 SUMMARY:⚽ CalGlen Umoja 13 at Blizzard United 13 Boys · MSC Dome SE 7v7 
  · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #2603\nBoys U14 Tier 2\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2603\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at Blizzard United 13 Boys · MSC Dome SE 
+ 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710201@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T163000
 DTEND;TZID=America/Edmonton:20270123T173000
 SUMMARY:⚽ CalGlen Umoja 13 at RANGERS ATHLETICS 13 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #2611\nBoys U14 Tier 2\nSchedule: https://jsclark89.git
- hub.io/cmsa-schedule/
+DESCRIPTION:Boys U14 Tier 2 · Game #2611\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at RANGERS ATHLETICS 13 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710208@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T170000
 DTEND;TZID=America/Edmonton:20270130T180000
 SUMMARY:⚽ CalGlen Umoja 13 vs MUSC Athletic 13 · #02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2614\nBoys U14 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2614\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs MUSC Athletic 13 · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710228@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T103000
 DTEND;TZID=America/Edmonton:20270206T113000
 SUMMARY:⚽ CalGlen Umoja 13 at Foothills 2013 Boys · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #2624\nBoys U14 Tier 2\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2624\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 at Foothills 2013 Boys · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710256@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T134500
 DTEND;TZID=America/Edmonton:20270220T144500
 SUMMARY:⚽ CalGlen Umoja 13 vs New Frontier SC 2013 Boys (Knowles) · #02/
  SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #2638\nBoys U14 Tier 2\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U14 Tier 2 · Game #2638\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Umoja 13 vs New Frontier SC 2013 Boys (Knowles) · 
+ #02/SW · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

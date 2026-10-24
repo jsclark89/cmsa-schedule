@@ -26,35 +26,47 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701809@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T120000
 DTEND;TZID=America/Edmonton:20261018T130000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs MUSC Valor 16 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #628\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #628\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs MUSC Valor 16 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701816@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T091500
 DTEND;TZID=America/Edmonton:20261108T101500
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at SWU Reims 16B · MSC Dome NW 
  7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #635\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #635\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at SWU Reims 16B · MSC Dome
+  NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701823@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Forest 2016 · Main
@@ -62,14 +74,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Forest 2016 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #642\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #642\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Forest 2016 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701825@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Nantes 16B · Annex - Cha
@@ -77,28 +94,39 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Nantes 16B · Annex - Cha
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #644\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #644\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Nantes 16B · Annex -
+  Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701833@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T140000
 DTEND;TZID=America/Edmonton:20261129T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Olympique 16B · MSC Dome
   SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #652\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #652\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Olympique 16B · MSC 
+ Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701836@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T130000
 DTEND;TZID=America/Edmonton:20261206T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at SSA Strikers 16/17 · Main - 
@@ -106,14 +134,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at SSA Strikers 16/17 · Main -
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #655\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #655\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at SSA Strikers 16/17 · Mai
+ n - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701843@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T100000
 DTEND;TZID=America/Edmonton:20261213T110000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs MUSC Forge 16 · Annex - Delt
@@ -121,14 +154,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs MUSC Forge 16 · Annex - Delt
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #662\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #662\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs MUSC Forge 16 · Annex - 
+ Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701847@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T100000
 DTEND;TZID=America/Edmonton:20261220T110000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs LSCA B Chelsea · Annex - Bra
@@ -136,14 +174,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs LSCA B Chelsea · Annex - Bra
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #666\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #666\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs LSCA B Chelsea · Annex -
+  Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701852@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T150000
 DTEND;TZID=America/Edmonton:20270103T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Norwich 2016 · Ann
@@ -151,14 +194,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Norwich 2016 · Ann
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #671\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #671\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at Foothills Norwich 2016 ·
+  Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701862@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T140000
 DTEND;TZID=America/Edmonton:20270124T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Reims 16B · Main - East 
@@ -166,28 +214,39 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Reims 16B · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #681\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #681\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs SWU Reims 16B · Main - E
+ ast · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701867@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T130000
 DTEND;TZID=America/Edmonton:20270131T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at Villains Storm 16 · Field A 
  (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #686\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #686\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at Villains Storm 16 · Fiel
+ d A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701873@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T110000
 DTEND;TZID=America/Edmonton:20270207T120000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs Foothills Forest 2016 · Main
@@ -195,14 +254,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 vs Foothills Forest 2016 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #692\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #692\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 vs Foothills Forest 2016 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701876@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at MUSC Valor 16 · Main - East 
@@ -210,14 +274,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at MUSC Valor 16 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #695\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #695\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at MUSC Valor 16 · Main - E
+ ast · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701881@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at LSCA B Chelsea · Annex - Cha
@@ -225,9 +294,14 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 16 at LSCA B Chelsea · Annex - Cha
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #700\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #700\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 16 at LSCA B Chelsea · Annex -
+  Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

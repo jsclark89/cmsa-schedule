@@ -26,19 +26,24 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708392@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T101500
 DTEND;TZID=America/Edmonton:20261018T111500
 SUMMARY:⚽ SWU Wild 16G vs CalGlen Rockets 16/17 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4211\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4211\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs CalGlen Rockets 16/17 · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708395@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T150000
 DTEND;TZID=America/Edmonton:20261101T160000
 SUMMARY:⚽ SWU Wild 16G vs New Frontier SC 2016 Girls (Harman) · Annex - 
@@ -46,138 +51,194 @@ SUMMARY:⚽ SWU Wild 16G vs New Frontier SC 2016 Girls (Harman) · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4212\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4212\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs New Frontier SC 2016 Girls (Harman) · Anne
+ x - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708405@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:⚽ SWU Wild 16G at WHU West Hills Panthers 16 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4217\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4217\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at WHU West Hills Panthers 16 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708416@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T120000
 DTEND;TZID=America/Edmonton:20261115T130000
 SUMMARY:⚽ SWU Wild 16G vs Foothills 2016 Prospects Girls · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4223\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4223\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs Foothills 2016 Prospects Girls · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708418@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T100000
 DTEND;TZID=America/Edmonton:20261129T110000
 SUMMARY:⚽ SWU Wild 16G at RANGERS WFC 16 YELLOW · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4224\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4224\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at RANGERS WFC 16 YELLOW · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708428@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T160000
 DTEND;TZID=America/Edmonton:20261206T170000
 SUMMARY:⚽ SWU Wild 16G at Airdrie F.C. Roses 16 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4228\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4228\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at Airdrie F.C. Roses 16 · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708439@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T100000
 DTEND;TZID=America/Edmonton:20261220T110000
 SUMMARY:⚽ SWU Wild 16G vs CWFC G2016 Black · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4235\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4235\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs CWFC G2016 Black · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708441@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T080000
 DTEND;TZID=America/Edmonton:20270102T090000
 SUMMARY:⚽ SWU Wild 16G at CalGlen Rockets 16/17 · MSC Dome SE 7v7 · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4236\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4236\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at CalGlen Rockets 16/17 · MSC Dome SE 7v7 · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708457@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
 SUMMARY:⚽ SWU Wild 16G at New Frontier SC 2016 Girls (Harman) · Field A 
  (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4241\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4241\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at New Frontier SC 2016 Girls (Harman) · Fiel
+ d A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708476@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
 SUMMARY:⚽ SWU Wild 16G vs WHU West Hills Panthers 16 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4246\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4246\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs WHU West Hills Panthers 16 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708496@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T100000
 DTEND;TZID=America/Edmonton:20270131T110000
 SUMMARY:⚽ SWU Wild 16G at Foothills 2016 Prospects Girls · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4251\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4251\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at Foothills 2016 Prospects Girls · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708507@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T130000
 DTEND;TZID=America/Edmonton:20270207T140000
 SUMMARY:⚽ SWU Wild 16G vs RANGERS WFC 16 YELLOW · Annex - Alpha · Indoor
@@ -185,35 +246,51 @@ SUMMARY:⚽ SWU Wild 16G vs RANGERS WFC 16 YELLOW · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4254\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4254\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs RANGERS WFC 16 YELLOW · Annex - Alpha · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708516@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ SWU Wild 16G vs Airdrie F.C. Roses 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4259\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4259\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G vs Airdrie F.C. Roses 16 · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708519@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T150000
 DTEND;TZID=America/Edmonton:20270228T160000
 SUMMARY:⚽ SWU Wild 16G at CWFC G2016 Black · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4262\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4262\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Wild 16G at CWFC G2016 Black · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

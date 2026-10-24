@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707508@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at EMFC Energy 17 · Annex 
@@ -34,41 +34,58 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at EMFC Energy 17 · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #255\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #255\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at EMFC Energy 17 · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707519@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T130000
 DTEND;TZID=America/Edmonton:20261024T140000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs CFC Crossfield FC Boys 
  U10 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #266\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #266\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs CFC Crossfield FC B
+ oys U10 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707526@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T174500
 DTEND;TZID=America/Edmonton:20261031T184500
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at New Frontier SC 2017 Bo
  ys (Szautner) · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #273\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ FRASER · Game #273\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at New Frontier SC 201
+ 7 Boys (Szautner) · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707528@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T080000
 DTEND;TZID=America/Edmonton:20261107T090000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs New Frontier SC 2017 Bo
@@ -76,14 +93,19 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs New Frontier SC 2017 Bo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #275\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #275\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs New Frontier SC 201
+ 7 Boys (O'Connell) · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707538@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T120000
 DTEND;TZID=America/Edmonton:20261121T130000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at CUFC Kings 2017/18 · Ma
@@ -91,28 +113,39 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at CUFC Kings 2017/18 · Ma
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #285\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #285\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at CUFC Kings 2017/18 
+ · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707547@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T120000
 DTEND;TZID=America/Edmonton:20261128T130000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs CNEU 2017 HAWKS · Field
   A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #294\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #294\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs CNEU 2017 HAWKS · F
+ ield A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707551@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T140000
 DTEND;TZID=America/Edmonton:20261205T150000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at RANGERS FC17 RED · Main
@@ -120,27 +153,38 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at RANGERS FC17 RED · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #298\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #298\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at RANGERS FC17 RED · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707560@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T111500
 DTEND;TZID=America/Edmonton:20261219T121500
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs Airdrie F.C. Juventus 1
  7 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #307\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ FRASER · Game #307\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs Airdrie F.C. Juvent
+ us 17 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707565@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T080000
 DTEND;TZID=America/Edmonton:20270102T090000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at CalGlen Whitecaps 17 · 
@@ -148,14 +192,19 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at CalGlen Whitecaps 17 ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #312\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #312\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at CalGlen Whitecaps 1
+ 7 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707570@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T090000
 DTEND;TZID=America/Edmonton:20270116T100000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at Rockies Sevilla 17 · Ma
@@ -163,14 +212,19 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at Rockies Sevilla 17 · Ma
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #317\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #317\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at Rockies Sevilla 17 
+ · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707579@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T140000
 DTEND;TZID=America/Edmonton:20270123T150000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs Blizzard Athletic 17 Bo
@@ -178,14 +232,19 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs Blizzard Athletic 17 Bo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #326\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #326\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs Blizzard Athletic 1
+ 7 Boys · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707585@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T110000
 DTEND;TZID=America/Edmonton:20270130T120000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs RANGERS FC17 RED · Main
@@ -193,14 +252,19 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs RANGERS FC17 RED · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #332\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #332\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs RANGERS FC17 RED · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707596@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T130000
 DTEND;TZID=America/Edmonton:20270220T140000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at Chinooks FC Red 2017 · 
@@ -208,23 +272,34 @@ SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 at Chinooks FC Red 2017 ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #343\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #343\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 at Chinooks FC Red 201
+ 7 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707602@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T140000
 DTEND;TZID=America/Edmonton:20270227T150000
 SUMMARY:⚽ CCFC Calgary City FC Leo Messi 2017 vs S4 Lightning 17 · Field
   A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #349\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #349\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Leo Messi 2017 vs S4 Lightning 17 · F
+ ield A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

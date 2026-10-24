@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707268@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T120000
 DTEND;TZID=America/Edmonton:20261017T130000
 SUMMARY:⚽ SWU Juventus 17B at Villains Raptors 17 · Main - West · Indoor
@@ -34,14 +34,19 @@ SUMMARY:⚽ SWU Juventus 17B at Villains Raptors 17 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #351\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #351\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Villains Raptors 17 · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707281@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T120000
 DTEND;TZID=America/Edmonton:20261024T130000
 SUMMARY:⚽ SWU Juventus 17B vs Blizzard Alliance 17 Boys · Main - West · 
@@ -49,28 +54,39 @@ SUMMARY:⚽ SWU Juventus 17B vs Blizzard Alliance 17 Boys · Main - West ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #364\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #364\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs Blizzard Alliance 17 Boys · Main - Wes
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707291@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T110000
 DTEND;TZID=America/Edmonton:20261107T120000
 SUMMARY:⚽ SWU Juventus 17B at Chinooks FC Premiers 2017 · Field A (7v7) 
  · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #374\nBoys U10 Dev Plus+ KERR\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ KERR · Game #374\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Chinooks FC Premiers 2017 · Field A (7
+ v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707295@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T150000
 DTEND;TZID=America/Edmonton:20261114T160000
 SUMMARY:⚽ SWU Juventus 17B at Foothills PSG 2017 · Main - East · Indoor 
@@ -78,14 +94,19 @@ SUMMARY:⚽ SWU Juventus 17B at Foothills PSG 2017 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #378\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #378\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Foothills PSG 2017 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707301@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T090000
 DTEND;TZID=America/Edmonton:20261121T100000
 SUMMARY:⚽ SWU Juventus 17B vs New Frontier SC 2017 Boys (Good) · Main - 
@@ -93,14 +114,19 @@ SUMMARY:⚽ SWU Juventus 17B vs New Frontier SC 2017 Boys (Good) · Main -
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #384\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #384\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs New Frontier SC 2017 Boys (Good) · Mai
+ n - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707311@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T100000
 DTEND;TZID=America/Edmonton:20261128T110000
 SUMMARY:⚽ SWU Juventus 17B at Foothills Lazio · Main - East · Indoor sho
@@ -108,14 +134,19 @@ SUMMARY:⚽ SWU Juventus 17B at Foothills Lazio · Main - East · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #394\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #394\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Foothills Lazio · Main - East · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707317@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T140000
 DTEND;TZID=America/Edmonton:20261205T150000
 SUMMARY:⚽ SWU Juventus 17B vs RANGERS FC17 YELLOW · Annex - Alpha · Indo
@@ -123,27 +154,38 @@ SUMMARY:⚽ SWU Juventus 17B vs RANGERS FC17 YELLOW · Annex - Alpha · Indo
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #400\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #400\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs RANGERS FC17 YELLOW · Annex - Alpha · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707328@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:⚽ SWU Juventus 17B at Rockies AFC 17 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #411\nBoys U10 Dev Plus+ KERR\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ KERR · Game #411\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Rockies AFC 17 · Field A (7v7) · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707334@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T160000
 DTEND;TZID=America/Edmonton:20270102T170000
 SUMMARY:⚽ SWU Juventus 17B vs Villains FC 17 · Annex - Alpha · Indoor sh
@@ -151,14 +193,19 @@ SUMMARY:⚽ SWU Juventus 17B vs Villains FC 17 · Annex - Alpha · Indoor sh
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #417\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #417\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs Villains FC 17 · Annex - Alpha · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707352@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T090000
 DTEND;TZID=America/Edmonton:20270123T100000
 SUMMARY:⚽ SWU Juventus 17B vs Airdrie F.C. Atletico 17 · Main - West · I
@@ -166,14 +213,19 @@ SUMMARY:⚽ SWU Juventus 17B vs Airdrie F.C. Atletico 17 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #435\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #435\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs Airdrie F.C. Atletico 17 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707363@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T150000
 DTEND;TZID=America/Edmonton:20270130T160000
 SUMMARY:⚽ SWU Juventus 17B at EMFC Galaxy 17 · Main - West · Indoor shoe
@@ -181,14 +233,19 @@ SUMMARY:⚽ SWU Juventus 17B at EMFC Galaxy 17 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #446\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #446\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at EMFC Galaxy 17 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707366@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T130000
 DTEND;TZID=America/Edmonton:20270206T140000
 SUMMARY:⚽ SWU Juventus 17B vs MUSC Wolves 17 · Main - West · Indoor shoe
@@ -196,14 +253,19 @@ SUMMARY:⚽ SWU Juventus 17B vs MUSC Wolves 17 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #449\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #449\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs MUSC Wolves 17 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707376@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T120000
 DTEND;TZID=America/Edmonton:20270220T130000
 SUMMARY:⚽ SWU Juventus 17B at Foothills Benfica 2017 · Main - East · Ind
@@ -211,23 +273,34 @@ SUMMARY:⚽ SWU Juventus 17B at Foothills Benfica 2017 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #459\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #459\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B at Foothills Benfica 2017 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707385@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ SWU Juventus 17B vs CNEU 2017 Strikers · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #468\nBoys U10 Dev Plus+ KERR\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ KERR · Game #468\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Juventus 17B vs CNEU 2017 Strikers · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

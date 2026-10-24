@@ -26,196 +26,280 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708522@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T090000
 DTEND;TZID=America/Edmonton:20261017T100000
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs New Frontier SC 2015 Boys (Reyes)
   · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1164\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1164\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs New Frontier SC 2015 Boys (Re
+ yes) · Field A · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708534@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T123000
 DTEND;TZID=America/Edmonton:20261024T133000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at Villains Sting 15 · Field D · Cle
  ats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1176\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1176\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at Villains Sting 15 · Field D ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708551@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T090000
 DTEND;TZID=America/Edmonton:20261107T100000
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs SWU Boca 15B · MSC Dome NE 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1185\nBoys U12 City Wide Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1185\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs SWU Boca 15B · MSC Dome NE 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708566@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T150000
 DTEND;TZID=America/Edmonton:20261114T160000
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs Foothills FC Green 2015 · #03/SE 
  · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1192\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1192\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs Foothills FC Green 2015 · #03
+ /SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708575@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T103000
 DTEND;TZID=America/Edmonton:20261121T113000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at LSCA B United 2015 · Field C · Cl
  eats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1197\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1197\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at LSCA B United 2015 · Field C 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708597@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T133000
 DTEND;TZID=America/Edmonton:20261128T143000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at Airdrie F.C. Cavalry 15 · Field D
   · Cleats
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1208\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1208\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at Airdrie F.C. Cavalry 15 · Fie
+ ld D · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708605@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T093000
 DTEND;TZID=America/Edmonton:20261205T103000
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs New Frontier SC 2015 Boys (Fernan
  des) · Field C · Cleats
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1212\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1212\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs New Frontier SC 2015 Boys (Fe
+ rnandes) · Field C · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708646@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T121500
 DTEND;TZID=America/Edmonton:20261219T131500
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs MUSC Premier 15 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1234\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1234\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs MUSC Premier 15 · #04/NE · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708653@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T080000
 DTEND;TZID=America/Edmonton:20270103T090000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at LSCA B Roma 2015 · Field C · Clea
  ts
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #1236\nBoys U12 City Wide Tier 
- 1\nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1236\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at LSCA B Roma 2015 · Field C · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708685@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs SWU Sporting 15B · #04/NE · Cleat
  s
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1250\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1250\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs SWU Sporting 15B · #04/NE · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708695@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T140000
 DTEND;TZID=America/Edmonton:20270124T150000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at Foothills FC White 2015 · MSC Dom
  e NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1255\nBoys U12 City Wide Tier 1\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1255\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at Foothills FC White 2015 · MSC
+  Dome NE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708710@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T094500
 DTEND;TZID=America/Edmonton:20270131T104500
 SUMMARY:⚽ Chinooks FC Premiers 2015 vs CWFC B2015 Black · #02/SW · Cleat
  s
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1263\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1263\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 vs CWFC B2015 Black · #02/SW · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708727@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T123000
 DTEND;TZID=America/Edmonton:20270221T133000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at CCFC Calgary City FC CR7 2015 · #
  02/SW · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1273\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1273\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at CCFC Calgary City FC CR7 2015
+  · #02/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708741@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T080000
 DTEND;TZID=America/Edmonton:20270228T090000
 SUMMARY:⚽ Chinooks FC Premiers 2015 at SWU Newells 15 · #04/NE · Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #1280\nBoys U12 City Wide Tier 1\
- nSchedule: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1280\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2015 at SWU Newells 15 · #04/NE · Cle
+ ats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

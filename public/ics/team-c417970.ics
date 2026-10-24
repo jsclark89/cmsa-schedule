@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107975@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T201500
 DTEND;TZID=America/Edmonton:20261101T211500
 SUMMARY:⚽ The Call Me Maybes at Qa'Pla · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes at Qa'Pla · Annex - Alpha · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107998@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261106T211500
 DTEND;TZID=America/Edmonton:20261106T221500
 SUMMARY:⚽ The Call Me Maybes vs Kick and Run FC · Main - North · Indoor 
@@ -48,14 +53,19 @@ SUMMARY:⚽ The Call Me Maybes vs Kick and Run FC · Main - North · Indoor
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes vs Kick and Run FC · Main - North · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108010@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261112T191500
 DTEND;TZID=America/Edmonton:20261112T201500
 SUMMARY:⚽ The Call Me Maybes at Claymores FC · Main - South · Indoor sho
@@ -63,79 +73,109 @@ SUMMARY:⚽ The Call Me Maybes at Claymores FC · Main - South · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes at Claymores FC · Main - South · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108035@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261118T211500
 DTEND;TZID=America/Edmonton:20261118T221500
 SUMMARY:⚽ The Call Me Maybes at CSC United · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes at CSC United · Main - North · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108054@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T201500
 DTEND;TZID=America/Edmonton:20261123T211500
 SUMMARY:⚽ The Call Me Maybes vs Renegades · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes vs Renegades · Main - South · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108078@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T131500
 DTEND;TZID=America/Edmonton:20261129T141500
 SUMMARY:⚽ The Call Me Maybes at Trojans FC · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes at Trojans FC · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108098@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261202T211500
 DTEND;TZID=America/Edmonton:20261202T221500
 SUMMARY:⚽ The Call Me Maybes vs Brewventus · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes vs Brewventus · Main - North · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108147@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T211500
 DTEND;TZID=America/Edmonton:20261216T221500
 SUMMARY:⚽ The Call Me Maybes vs Shadow FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ The Call Me Maybes vs Shadow FC · Main - North · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

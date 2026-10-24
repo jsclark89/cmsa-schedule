@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707968@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
 SUMMARY:⚽ EMFC Crew 16 vs New Frontier SC 2016 Boys (Al-Asad) · Main - E
@@ -34,14 +34,19 @@ SUMMARY:⚽ EMFC Crew 16 vs New Frontier SC 2016 Boys (Al-Asad) · Main - E
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #876\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #876\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs New Frontier SC 2016 Boys (Al-Asad) · Main
+  - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707969@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T090000
 DTEND;TZID=America/Edmonton:20261017T100000
 SUMMARY:⚽ Spartans Adamastos 16 vs Villains Ravens 16 · Main - East · In
@@ -49,14 +54,19 @@ SUMMARY:⚽ Spartans Adamastos 16 vs Villains Ravens 16 · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #877\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #877\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs Villains Ravens 16 · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707970@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T100000
 DTEND;TZID=America/Edmonton:20261017T110000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 2016
@@ -64,39 +74,55 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 2016
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #878\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #878\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 
+ 2016 · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707974@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T100000
 DTEND;TZID=America/Edmonton:20261017T110000
 SUMMARY:⚽ CalGlen Lightning 16 vs Rockies Albion 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #882\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #882\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs Rockies Albion 16 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707975@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T101500
 DTEND;TZID=America/Edmonton:20261017T111500
 SUMMARY:⚽ Blizzard Albion 16 Boys vs Airdrie F.C. Wanderers 16 · Field 4
   7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #883\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #883\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs Airdrie F.C. Wanderers 16 · Fie
+ ld 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707971@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T110000
 DTEND;TZID=America/Edmonton:20261017T120000
 SUMMARY:⚽ Foothills Union 2016 vs Villains Crew 16 · Main - East · Indoo
@@ -104,28 +130,38 @@ SUMMARY:⚽ Foothills Union 2016 vs Villains Crew 16 · Main - East · Indoo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #879\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #879\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs Villains Crew 16 · Main - East · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707972@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T140000
 DTEND;TZID=America/Edmonton:20261017T150000
 SUMMARY:⚽ SWU Lyon 16B vs NCFC 16 Sounders · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #880\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #880\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs NCFC 16 Sounders · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707973@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T150000
 DTEND;TZID=America/Edmonton:20261017T160000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs Rockies Dundee 16 · Main - East 
@@ -133,27 +169,38 @@ SUMMARY:⚽ WHU West Hills Mustangs 16 vs Rockies Dundee 16 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #881\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #881\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs Rockies Dundee 16 · Main - E
+ ast · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707979@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T081500
 DTEND;TZID=America/Edmonton:20261024T091500
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs WHU West Hills Mustangs 1
  6 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #887\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #887\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs WHU West Hills Mustan
+ gs 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707976@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T090000
 DTEND;TZID=America/Edmonton:20261024T100000
 SUMMARY:⚽ Rockies Dundee 16 vs Spartans Adamastos 16 · Main - East · Ind
@@ -161,66 +208,94 @@ SUMMARY:⚽ Rockies Dundee 16 vs Spartans Adamastos 16 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #884\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #884\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs Spartans Adamastos 16 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707980@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T090000
 DTEND;TZID=America/Edmonton:20261024T100000
 SUMMARY:⚽ Rockies Albion 16 vs SWU Lyon 16B · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #888\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #888\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs SWU Lyon 16B · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707982@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T090000
 DTEND;TZID=America/Edmonton:20261024T100000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs EMFC Crew 16 · Field A (7v7) · Cl
  eats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #890\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #890\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs EMFC Crew 16 · Field A (7v7) 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707981@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T100000
 DTEND;TZID=America/Edmonton:20261024T110000
 SUMMARY:⚽ NCFC 16 Sounders vs Airdrie F.C. Wanderers 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #889\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #889\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Airdrie F.C. Wanderers 16 · Field 3 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707983@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T100000
 DTEND;TZID=America/Edmonton:20261024T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Foothills Union 2016 · 
  Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #891\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #891\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Foothills Union 201
+ 6 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707977@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T130000
 DTEND;TZID=America/Edmonton:20261024T140000
 SUMMARY:⚽ Villains Ravens 16 vs CalGlen Lightning 16 · Main - East · Ind
@@ -228,14 +303,19 @@ SUMMARY:⚽ Villains Ravens 16 vs CalGlen Lightning 16 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #885\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #885\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs CalGlen Lightning 16 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707978@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T140000
 DTEND;TZID=America/Edmonton:20261024T150000
 SUMMARY:⚽ Villains Crew 16 vs Blizzard Albion 16 Boys · Main - East · In
@@ -243,14 +323,19 @@ SUMMARY:⚽ Villains Crew 16 vs Blizzard Albion 16 Boys · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #886\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #886\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs Blizzard Albion 16 Boys · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707984@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T140000
 DTEND;TZID=America/Edmonton:20261107T150000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs NCFC 16 Sounders · Anne
@@ -258,14 +343,19 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs NCFC 16 Sounders · Anne
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #892\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #892\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs NCFC 16 Sounders · 
+ Annex - Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707985@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T150000
 DTEND;TZID=America/Edmonton:20261107T160000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs EMFC Crew 16 · Annex - Charlie ·
@@ -273,28 +363,39 @@ SUMMARY:⚽ WHU West Hills Mustangs 16 vs EMFC Crew 16 · Annex - Charlie ·
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #893\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #893\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs EMFC Crew 16 · Annex - Charl
+ ie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707989@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T150000
 DTEND;TZID=America/Edmonton:20261107T160000
 SUMMARY:⚽ Villains Ravens 16 vs Airdrie F.C. Wanderers 16 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #897\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #897\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs Airdrie F.C. Wanderers 16 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707986@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T160000
 DTEND;TZID=America/Edmonton:20261107T170000
 SUMMARY:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · Indo
@@ -302,14 +403,19 @@ SUMMARY:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #894\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #894\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707988@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T160000
 DTEND;TZID=America/Edmonton:20261107T170000
 SUMMARY:⚽ Rockies Dundee 16 vs CCFC Calgary City FC Cavalry 2016 · Main 
@@ -317,28 +423,39 @@ SUMMARY:⚽ Rockies Dundee 16 vs CCFC Calgary City FC Cavalry 2016 · Main
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #896\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #896\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs CCFC Calgary City FC Cavalry 2016 · M
+ ain - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707990@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T160000
 DTEND;TZID=America/Edmonton:20261107T170000
 SUMMARY:⚽ CalGlen Lightning 16 vs Spartans Adamastos 16 · Field A (7v7) 
  · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #898\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #898\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs Spartans Adamastos 16 · Field A (7
+ v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707987@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T170000
 DTEND;TZID=America/Edmonton:20261107T180000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs Blizzard Albion 16 Boys · Annex -
@@ -346,14 +463,19 @@ SUMMARY:⚽ Chinooks FC Premiers 2016 vs Blizzard Albion 16 Boys · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #895\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #895\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs Blizzard Albion 16 Boys · Ann
+ ex - Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707991@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
 SUMMARY:⚽ Foothills Union 2016 vs SWU Lyon 16B · Annex - Alpha · Indoor 
@@ -361,14 +483,19 @@ SUMMARY:⚽ Foothills Union 2016 vs SWU Lyon 16B · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #899\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #899\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs SWU Lyon 16B · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707993@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T080000
 DTEND;TZID=America/Edmonton:20261114T090000
 SUMMARY:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - East · 
@@ -376,14 +503,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #901\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #901\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - Eas
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707994@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T090000
 DTEND;TZID=America/Edmonton:20261114T100000
 SUMMARY:⚽ CalGlen Lightning 16 vs WHU West Hills Mustangs 16 · Main - Ea
@@ -391,14 +523,19 @@ SUMMARY:⚽ CalGlen Lightning 16 vs WHU West Hills Mustangs 16 · Main - Ea
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #902\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #902\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs WHU West Hills Mustangs 16 · Main 
+ - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707995@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T100000
 DTEND;TZID=America/Edmonton:20261114T110000
 SUMMARY:⚽ EMFC Crew 16 vs Foothills Union 2016 · Main - East · Indoor sh
@@ -406,127 +543,178 @@ SUMMARY:⚽ EMFC Crew 16 vs Foothills Union 2016 · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #903\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #903\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs Foothills Union 2016 · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707992@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T110000
 DTEND;TZID=America/Edmonton:20261114T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs Rockies Dundee 16 · Field 2 · Cle
  ats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #900\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #900\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs Rockies Dundee 16 · Field 2 ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707996@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T110000
 DTEND;TZID=America/Edmonton:20261114T120000
 SUMMARY:⚽ Villains Crew 16 vs Villains Ravens 16 · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #904\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #904\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs Villains Ravens 16 · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707997@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T120000
 DTEND;TZID=America/Edmonton:20261114T130000
 SUMMARY:⚽ Spartans Adamastos 16 vs SWU Lyon 16B · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #905\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #905\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs SWU Lyon 16B · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707998@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T130000
 DTEND;TZID=America/Edmonton:20261114T140000
 SUMMARY:⚽ Rockies Albion 16 vs New Frontier SC 2016 Boys (Al-Asad) · Fie
  ld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #906\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #906\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs New Frontier SC 2016 Boys (Al-Asad) ·
+  Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707999@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T140000
 DTEND;TZID=America/Edmonton:20261114T150000
 SUMMARY:⚽ Blizzard Albion 16 Boys vs CCFC Calgary City FC Cavalry 2016 ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #907\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #907\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs CCFC Calgary City FC Cavalry 20
+ 16 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708006@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T090000
 DTEND;TZID=America/Edmonton:20261121T100000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs Foothills Union 2016 · Field A (
  7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #914\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #914\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs Foothills Union 2016 · Field
+  A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708000@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T110000
 DTEND;TZID=America/Edmonton:20261121T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs Spartans Adamastos 16 · Field 2 ·
   Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #908\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #908\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs Spartans Adamastos 16 · Field
+  2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708007@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T130000
 DTEND;TZID=America/Edmonton:20261121T140000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs Rockies Albion 16 · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #915\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #915\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs Rockies Albion 16 · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708001@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T140000
 DTEND;TZID=America/Edmonton:20261121T150000
 SUMMARY:⚽ SWU Lyon 16B vs CalGlen Lightning 16 · Annex - Alpha · Indoor 
@@ -534,14 +722,19 @@ SUMMARY:⚽ SWU Lyon 16B vs CalGlen Lightning 16 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #909\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #909\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs CalGlen Lightning 16 · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708005@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T140000
 DTEND;TZID=America/Edmonton:20261121T150000
 SUMMARY:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · Indo
@@ -549,14 +742,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #913\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #913\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708002@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T150000
 DTEND;TZID=America/Edmonton:20261121T160000
 SUMMARY:⚽ Blizzard Albion 16 Boys vs EMFC Crew 16 · Annex - Alpha · Indo
@@ -564,14 +762,19 @@ SUMMARY:⚽ Blizzard Albion 16 Boys vs EMFC Crew 16 · Annex - Alpha · Indo
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #910\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #910\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs EMFC Crew 16 · Annex - Alpha · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708003@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T160000
 DTEND;TZID=America/Edmonton:20261121T170000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Villains Ravens 16 · An
@@ -579,14 +782,19 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Villains Ravens 16 · An
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #911\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #911\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Villains Ravens 16 
+ · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708004@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T170000
 DTEND;TZID=America/Edmonton:20261121T180000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · Annex 
@@ -594,70 +802,99 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #912\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #912\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708010@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T080000
 DTEND;TZID=America/Edmonton:20261128T090000
 SUMMARY:⚽ Foothills Union 2016 vs Rockies Dundee 16 · MSC Dome SE 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #918\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #918\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs Rockies Dundee 16 · MSC Dome SE 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708011@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T090000
 DTEND;TZID=America/Edmonton:20261128T100000
 SUMMARY:⚽ CalGlen Lightning 16 vs Airdrie F.C. Wanderers 16 · MSC Dome S
  E 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #919\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #919\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs Airdrie F.C. Wanderers 16 · MSC Do
+ me SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708012@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T100000
 DTEND;TZID=America/Edmonton:20261128T110000
 SUMMARY:⚽ Spartans Adamastos 16 vs Villains Crew 16 · MSC Dome SE 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #920\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #920\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs Villains Crew 16 · MSC Dome SE 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708013@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T110000
 DTEND;TZID=America/Edmonton:20261128T120000
 SUMMARY:⚽ Villains Ravens 16 vs Chinooks FC Premiers 2016 · MSC Dome SE 
  7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #921\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #921\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs Chinooks FC Premiers 2016 · MSC Dome
+  SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708008@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T130000
 DTEND;TZID=America/Edmonton:20261128T140000
 SUMMARY:⚽ SWU Lyon 16B vs WHU West Hills Mustangs 16 · Main - East · Ind
@@ -665,56 +902,78 @@ SUMMARY:⚽ SWU Lyon 16B vs WHU West Hills Mustangs 16 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #916\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #916\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs WHU West Hills Mustangs 16 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708014@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T130000
 DTEND;TZID=America/Edmonton:20261128T140000
 SUMMARY:⚽ Rockies Albion 16 vs Blizzard Albion 16 Boys · Field A (7v7) ·
   Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #922\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #922\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Blizzard Albion 16 Boys · Field A (7v
+ 7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708009@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T140000
 DTEND;TZID=America/Edmonton:20261128T150000
 SUMMARY:⚽ NCFC 16 Sounders vs EMFC Crew 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #917\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #917\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs EMFC Crew 16 · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708015@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T140000
 DTEND;TZID=America/Edmonton:20261128T150000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CCFC Calgary City FC Ca
  valry 2016 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #923\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #923\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CCFC Calgary City F
+ C Cavalry 2016 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708017@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T080000
 DTEND;TZID=America/Edmonton:20261212T090000
 SUMMARY:⚽ Spartans Adamastos 16 vs New Frontier SC 2016 Boys (Al-Asad) ·
@@ -722,14 +981,19 @@ SUMMARY:⚽ Spartans Adamastos 16 vs New Frontier SC 2016 Boys (Al-Asad) ·
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #925\nBoys U11 Dev Plus+ JONES\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #925\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs New Frontier SC 2016 Boys (Al-Asa
+ d) · Indoor AT 7v7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708018@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T090000
 DTEND;TZID=America/Edmonton:20261212T100000
 SUMMARY:⚽ EMFC Crew 16 vs Rockies Albion 16 · Indoor AT 7v7 · Indoor sho
@@ -737,28 +1001,38 @@ SUMMARY:⚽ EMFC Crew 16 vs Rockies Albion 16 · Indoor AT 7v7 · Indoor sho
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #926\nBoys U11 Dev Plus+ JONES\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #926\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs Rockies Albion 16 · Indoor AT 7v7 · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708016@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T110000
 DTEND;TZID=America/Edmonton:20261212T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs SWU Lyon 16B · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #924\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #924\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs SWU Lyon 16B · Field 2 · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708021@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T110000
 DTEND;TZID=America/Edmonton:20261213T120000
 SUMMARY:⚽ Villains Ravens 16 vs CCFC Calgary City FC Cavalry 2016 · Anne
@@ -766,14 +1040,19 @@ SUMMARY:⚽ Villains Ravens 16 vs CCFC Calgary City FC Cavalry 2016 · Anne
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #929\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #929\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs CCFC Calgary City FC Cavalry 2016 · 
+ Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708022@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T120000
 DTEND;TZID=America/Edmonton:20261213T130000
 SUMMARY:⚽ Foothills Union 2016 vs NCFC 16 Sounders · Annex - Bravo · Ind
@@ -781,14 +1060,19 @@ SUMMARY:⚽ Foothills Union 2016 vs NCFC 16 Sounders · Annex - Bravo · Ind
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #930\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #930\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs NCFC 16 Sounders · Annex - Bravo ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708023@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T130000
 DTEND;TZID=America/Edmonton:20261213T140000
 SUMMARY:⚽ Villains Crew 16 vs CalGlen Lightning 16 · Annex - Bravo · Ind
@@ -796,14 +1080,19 @@ SUMMARY:⚽ Villains Crew 16 vs CalGlen Lightning 16 · Annex - Bravo · Ind
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #931\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #931\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs CalGlen Lightning 16 · Annex - Bravo ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708019@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T160000
 DTEND;TZID=America/Edmonton:20261213T170000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs Blizzard Albion 16 Boys · Annex 
@@ -811,14 +1100,19 @@ SUMMARY:⚽ WHU West Hills Mustangs 16 vs Blizzard Albion 16 Boys · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #927\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #927\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs Blizzard Albion 16 Boys · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708020@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T170000
 DTEND;TZID=America/Edmonton:20261213T180000
 SUMMARY:⚽ Rockies Dundee 16 vs Chinooks FC Premiers 2016 · Annex - Alpha
@@ -826,14 +1120,19 @@ SUMMARY:⚽ Rockies Dundee 16 vs Chinooks FC Premiers 2016 · Annex - Alpha
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #928\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #928\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs Chinooks FC Premiers 2016 · Annex - A
+ lpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708024@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T080000
 DTEND;TZID=America/Edmonton:20261219T090000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16 · A
@@ -841,26 +1140,37 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16 · A
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #932\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #932\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16
+  · Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708027@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T080000
 DTEND;TZID=America/Edmonton:20261219T090000
 SUMMARY:⚽ Blizzard Albion 16 Boys vs Villains Ravens 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #935\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #935\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs Villains Ravens 16 · Field 1 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708025@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T090000
 DTEND;TZID=America/Edmonton:20261219T100000
 SUMMARY:⚽ Villains Crew 16 vs Airdrie F.C. Wanderers 16 · Annex - Bravo 
@@ -868,64 +1178,92 @@ SUMMARY:⚽ Villains Crew 16 vs Airdrie F.C. Wanderers 16 · Annex - Bravo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #933\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #933\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs Airdrie F.C. Wanderers 16 · Annex - Br
+ avo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708028@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T090000
 DTEND;TZID=America/Edmonton:20261219T100000
 SUMMARY:⚽ CalGlen Lightning 16 vs Chinooks FC Premiers 2016 · Field 1 7v
  7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #936\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #936\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs Chinooks FC Premiers 2016 · Field 
+ 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708029@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:⚽ NCFC 16 Sounders vs WHU West Hills Mustangs 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #937\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #937\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs WHU West Hills Mustangs 16 · Field 1 7
+ v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708030@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T110000
 DTEND;TZID=America/Edmonton:20261219T120000
 SUMMARY:⚽ Rockies Albion 16 vs Foothills Union 2016 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #938\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #938\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Foothills Union 2016 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708031@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T111500
 DTEND;TZID=America/Edmonton:20261219T121500
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs SWU Lyon 16B · Field 4 
  7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #939\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #939\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs SWU Lyon 16B · Fiel
+ d 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708026@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T170000
 DTEND;TZID=America/Edmonton:20261219T180000
 SUMMARY:⚽ EMFC Crew 16 vs Rockies Dundee 16 · Annex - Bravo · Indoor sho
@@ -933,14 +1271,19 @@ SUMMARY:⚽ EMFC Crew 16 vs Rockies Dundee 16 · Annex - Bravo · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #934\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #934\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs Rockies Dundee 16 · Annex - Bravo · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708032@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T080000
 DTEND;TZID=America/Edmonton:20270102T090000
 SUMMARY:⚽ Villains Ravens 16 vs Foothills Union 2016 · Main - East · Ind
@@ -948,14 +1291,19 @@ SUMMARY:⚽ Villains Ravens 16 vs Foothills Union 2016 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #940\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #940\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs Foothills Union 2016 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708033@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T090000
 DTEND;TZID=America/Edmonton:20270102T100000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs Airdrie F.C. Wanderers 16 · Main
@@ -963,14 +1311,19 @@ SUMMARY:⚽ WHU West Hills Mustangs 16 vs Airdrie F.C. Wanderers 16 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #941\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #941\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs Airdrie F.C. Wanderers 16 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708034@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T100000
 DTEND;TZID=America/Edmonton:20270102T110000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs Spartans Adamastos 16 · Main - Ea
@@ -978,28 +1331,38 @@ SUMMARY:⚽ Chinooks FC Premiers 2016 vs Spartans Adamastos 16 · Main - Ea
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #942\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #942\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs Spartans Adamastos 16 · Main 
+ - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708035@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T110000
 DTEND;TZID=America/Edmonton:20270102T120000
 SUMMARY:⚽ EMFC Crew 16 vs Villains Crew 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #943\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #943\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs Villains Crew 16 · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708036@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T120000
 DTEND;TZID=America/Edmonton:20270102T130000
 SUMMARY:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indoor s
@@ -1007,14 +1370,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #944\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #944\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708037@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T130000
 DTEND;TZID=America/Edmonton:20270102T140000
 SUMMARY:⚽ SWU Lyon 16B vs Blizzard Albion 16 Boys · Main - East · Indoor
@@ -1022,57 +1390,79 @@ SUMMARY:⚽ SWU Lyon 16B vs Blizzard Albion 16 Boys · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #945\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #945\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs Blizzard Albion 16 Boys · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708038@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T150000
 DTEND;TZID=America/Edmonton:20270102T160000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs CalGlen Lightning 16 · Fi
  eld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #946\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #946\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs CalGlen Lightning 16 
+ · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708039@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T160000
 DTEND;TZID=America/Edmonton:20270102T170000
 SUMMARY:⚽ Rockies Dundee 16 vs New Frontier SC 2016 Boys (Al-Asad) · Fie
  ld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #947\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #947\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs New Frontier SC 2016 Boys (Al-Asad) ·
+  Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708040@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T110000
 DTEND;TZID=America/Edmonton:20270116T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs CCFC Calgary City FC Cavalry 2016
   · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #948\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #948\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs CCFC Calgary City FC Cavalry 
+ 2016 · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708045@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T130000
 DTEND;TZID=America/Edmonton:20270116T140000
 SUMMARY:⚽ Villains Ravens 16 vs EMFC Crew 16 · Main - West · Indoor shoe
@@ -1080,14 +1470,19 @@ SUMMARY:⚽ Villains Ravens 16 vs EMFC Crew 16 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #953\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #953\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs EMFC Crew 16 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708041@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T140000
 DTEND;TZID=America/Edmonton:20270116T150000
 SUMMARY:⚽ Spartans Adamastos 16 vs Rockies Albion 16 · Annex - Alpha · I
@@ -1095,14 +1490,19 @@ SUMMARY:⚽ Spartans Adamastos 16 vs Rockies Albion 16 · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #949\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #949\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs Rockies Albion 16 · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708043@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T140000
 DTEND;TZID=America/Edmonton:20270116T150000
 SUMMARY:⚽ Foothills Union 2016 vs Blizzard Albion 16 Boys · Annex - Brav
@@ -1110,28 +1510,38 @@ SUMMARY:⚽ Foothills Union 2016 vs Blizzard Albion 16 Boys · Annex - Brav
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #951\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #951\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs Blizzard Albion 16 Boys · Annex - 
+ Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708046@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T140000
 DTEND;TZID=America/Edmonton:20270116T150000
 SUMMARY:⚽ SWU Lyon 16B vs Rockies Dundee 16 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #954\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #954\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs Rockies Dundee 16 · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708042@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T150000
 DTEND;TZID=America/Edmonton:20270116T160000
 SUMMARY:⚽ Villains Crew 16 vs WHU West Hills Mustangs 16 · Annex - Alpha
@@ -1139,14 +1549,19 @@ SUMMARY:⚽ Villains Crew 16 vs WHU West Hills Mustangs 16 · Annex - Alpha
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #950\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #950\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs WHU West Hills Mustangs 16 · Annex - A
+ lpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708044@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T150000
 DTEND;TZID=America/Edmonton:20270116T160000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs New Frontier SC 2016 Boys (Al-Asa
@@ -1154,14 +1569,19 @@ SUMMARY:⚽ Chinooks FC Premiers 2016 vs New Frontier SC 2016 Boys (Al-Asa
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #952\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #952\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs New Frontier SC 2016 Boys (Al
+ -Asad) · Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708047@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T150000
 DTEND;TZID=America/Edmonton:20270116T160000
 SUMMARY:⚽ CalGlen Lightning 16 vs NCFC 16 Sounders · Main - West · Indoo
@@ -1169,70 +1589,98 @@ SUMMARY:⚽ CalGlen Lightning 16 vs NCFC 16 Sounders · Main - West · Indoo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #955\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #955\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs NCFC 16 Sounders · Main - West · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708053@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T080000
 DTEND;TZID=America/Edmonton:20270123T090000
 SUMMARY:⚽ Blizzard Albion 16 Boys vs Rockies Dundee 16 · MSC Dome NE 7v7
   · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #961\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #961\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs Rockies Dundee 16 · MSC Dome NE
+  7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708054@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T090000
 DTEND;TZID=America/Edmonton:20270123T100000
 SUMMARY:⚽ Rockies Albion 16 vs Villains Ravens 16 · MSC Dome NE 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #962\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #962\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Villains Ravens 16 · MSC Dome NE 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708055@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T100000
 DTEND;TZID=America/Edmonton:20270123T110000
 SUMMARY:⚽ Villains Crew 16 vs Chinooks FC Premiers 2016 · MSC Dome NE 7v
  7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #963\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #963\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs Chinooks FC Premiers 2016 · MSC Dome N
+ E 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708048@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T110000
 DTEND;TZID=America/Edmonton:20270123T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs EMFC Crew 16 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #956\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #956\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs EMFC Crew 16 · Field 2 · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708049@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T140000
 DTEND;TZID=America/Edmonton:20270123T150000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs New Frontier SC 2016 Boys (Al-As
@@ -1240,14 +1688,19 @@ SUMMARY:⚽ WHU West Hills Mustangs 16 vs New Frontier SC 2016 Boys (Al-As
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #957\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #957\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs New Frontier SC 2016 Boys (A
+ l-Asad) · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708051@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T140000
 DTEND;TZID=America/Edmonton:20270123T150000
 SUMMARY:⚽ SWU Lyon 16B vs CCFC Calgary City FC Cavalry 2016 · Annex - Br
@@ -1255,14 +1708,19 @@ SUMMARY:⚽ SWU Lyon 16B vs CCFC Calgary City FC Cavalry 2016 · Annex - Br
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #959\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #959\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs CCFC Calgary City FC Cavalry 2016 · Annex 
+ - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708050@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T150000
 DTEND;TZID=America/Edmonton:20270123T160000
 SUMMARY:⚽ Foothills Union 2016 vs CalGlen Lightning 16 · Annex - Alpha ·
@@ -1270,14 +1728,19 @@ SUMMARY:⚽ Foothills Union 2016 vs CalGlen Lightning 16 · Annex - Alpha ·
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #958\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #958\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs CalGlen Lightning 16 · Annex - Alp
+ ha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708052@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T150000
 DTEND;TZID=America/Edmonton:20270123T160000
 SUMMARY:⚽ Spartans Adamastos 16 vs NCFC 16 Sounders · Annex - Bravo · In
@@ -1285,14 +1748,19 @@ SUMMARY:⚽ Spartans Adamastos 16 vs NCFC 16 Sounders · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #960\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #960\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs NCFC 16 Sounders · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708056@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T080000
 DTEND;TZID=America/Edmonton:20270206T090000
 SUMMARY:⚽ Blizzard Albion 16 Boys vs CalGlen Lightning 16 · Main - East 
@@ -1300,14 +1768,19 @@ SUMMARY:⚽ Blizzard Albion 16 Boys vs CalGlen Lightning 16 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #964\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #964\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs CalGlen Lightning 16 · Main - E
+ ast · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708057@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T090000
 DTEND;TZID=America/Edmonton:20270206T100000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Airdrie F.C. Wanderers 
@@ -1315,14 +1788,19 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Airdrie F.C. Wanderers
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #965\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #965\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs Airdrie F.C. Wander
+ ers 16 · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708058@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T100000
 DTEND;TZID=America/Edmonton:20270206T110000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs WHU West Hills Mustangs 16 · Main
@@ -1330,14 +1808,19 @@ SUMMARY:⚽ Chinooks FC Premiers 2016 vs WHU West Hills Mustangs 16 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #966\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #966\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs WHU West Hills Mustangs 16 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708059@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T110000
 DTEND;TZID=America/Edmonton:20270206T120000
 SUMMARY:⚽ EMFC Crew 16 vs Spartans Adamastos 16 · Main - East · Indoor s
@@ -1345,28 +1828,38 @@ SUMMARY:⚽ EMFC Crew 16 vs Spartans Adamastos 16 · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #967\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #967\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs Spartans Adamastos 16 · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708060@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T120000
 DTEND;TZID=America/Edmonton:20270206T130000
 SUMMARY:⚽ SWU Lyon 16B vs Villains Crew 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #968\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #968\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Lyon 16B vs Villains Crew 16 · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708061@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T130000
 DTEND;TZID=America/Edmonton:20270206T140000
 SUMMARY:⚽ Rockies Dundee 16 vs Rockies Albion 16 · Main - East · Indoor 
@@ -1374,14 +1867,19 @@ SUMMARY:⚽ Rockies Dundee 16 vs Rockies Albion 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #969\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #969\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs Rockies Albion 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708062@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T140000
 DTEND;TZID=America/Edmonton:20270206T150000
 SUMMARY:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Indoor 
@@ -1389,14 +1887,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #970\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #970\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708063@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 · Ma
@@ -1404,140 +1907,197 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 · Ma
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #971\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #971\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 
+ · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708065@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T090000
 DTEND;TZID=America/Edmonton:20270220T100000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs NCFC 16 Sounders · Field 
  A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #973\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #973\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs NCFC 16 Sounders · Fi
+ eld A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708066@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T100000
 DTEND;TZID=America/Edmonton:20270220T110000
 SUMMARY:⚽ Villains Crew 16 vs New Frontier SC 2016 Boys (Al-Asad) · Fiel
  d A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #974\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #974\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Crew 16 vs New Frontier SC 2016 Boys (Al-Asad) · 
+ Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708064@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T110000
 DTEND;TZID=America/Edmonton:20270220T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs Foothills Union 2016 · Field 2 · 
  Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #972\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #972\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs Foothills Union 2016 · Field 
+ 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708067@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T110000
 DTEND;TZID=America/Edmonton:20270220T120000
 SUMMARY:⚽ WHU West Hills Mustangs 16 vs Rockies Albion 16 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #975\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #975\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ WHU West Hills Mustangs 16 vs Rockies Albion 16 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708068@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T120000
 DTEND;TZID=America/Edmonton:20270220T130000
 SUMMARY:⚽ Spartans Adamastos 16 vs Blizzard Albion 16 Boys · Field A (7v
  7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #976\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #976\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Adamastos 16 vs Blizzard Albion 16 Boys · Field A
+  (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708069@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T130000
 DTEND;TZID=America/Edmonton:20270220T140000
 SUMMARY:⚽ CalGlen Lightning 16 vs EMFC Crew 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #977\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #977\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CalGlen Lightning 16 vs EMFC Crew 16 · Field A (7v7) · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708070@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T140000
 DTEND;TZID=America/Edmonton:20270220T150000
 SUMMARY:⚽ Chinooks FC Premiers 2016 vs SWU Lyon 16B · Field A (7v7) · Cl
  eats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #978\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #978\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Premiers 2016 vs SWU Lyon 16B · Field A (7v7) 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708071@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T150000
 DTEND;TZID=America/Edmonton:20270220T160000
 SUMMARY:⚽ Rockies Dundee 16 vs Villains Ravens 16 · Field A (7v7) · Clea
  ts
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #979\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #979\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs Villains Ravens 16 · Field A (7v7) · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708073@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T090000
 DTEND;TZID=America/Edmonton:20270227T100000
 SUMMARY:⚽ EMFC Crew 16 vs SWU Lyon 16B · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #981\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #981\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Crew 16 vs SWU Lyon 16B · Annex - Alpha · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708074@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T100000
 DTEND;TZID=America/Edmonton:20270227T110000
 SUMMARY:⚽ Foothills Union 2016 vs Spartans Adamastos 16 · Annex - Alpha 
@@ -1545,29 +2105,39 @@ SUMMARY:⚽ Foothills Union 2016 vs Spartans Adamastos 16 · Annex - Alpha
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #982\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #982\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Union 2016 vs Spartans Adamastos 16 · Annex - Al
+ pha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708072@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ Airdrie F.C. Wanderers 16 vs Chinooks FC Premiers 2016 · Field
   2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #980\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #980\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Wanderers 16 vs Chinooks FC Premiers 2016 · F
+ ield 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708075@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ Villains Ravens 16 vs WHU West Hills Mustangs 16 · Annex - Alp
@@ -1575,59 +2145,86 @@ SUMMARY:⚽ Villains Ravens 16 vs WHU West Hills Mustangs 16 · Annex - Alp
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #983\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #983\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Ravens 16 vs WHU West Hills Mustangs 16 · Annex -
+  Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708076@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ Rockies Albion 16 vs CCFC Calgary City FC Cavalry 2016 · Field
   1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #984\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #984\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs CCFC Calgary City FC Cavalry 2016 · F
+ ield 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708078@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CalGlen Lightning 16 · 
  Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #986\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #986\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Al-Asad) vs CalGlen Lightning 1
+ 6 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708077@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T111500
 DTEND;TZID=America/Edmonton:20270227T121500
 SUMMARY:⚽ Rockies Dundee 16 vs Villains Crew 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #985\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #985\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Dundee 16 vs Villains Crew 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708079@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T111500
 DTEND;TZID=America/Edmonton:20270227T121500
 SUMMARY:⚽ Blizzard Albion 16 Boys vs NCFC 16 Sounders · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #987\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #987\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 16 Boys vs NCFC 16 Sounders · Field 4 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

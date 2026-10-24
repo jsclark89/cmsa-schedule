@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701805@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T120000
 DTEND;TZID=America/Edmonton:20261018T130000
 SUMMARY:⚽ MUSC Forge 16 vs Villains Storm 16 · Main - East · Indoor shoe
@@ -34,55 +34,76 @@ SUMMARY:⚽ MUSC Forge 16 vs Villains Storm 16 · Main - East · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #624\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #624\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs Villains Storm 16 · Main - East · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701814@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T160000
 DTEND;TZID=America/Edmonton:20261025T170000
 SUMMARY:⚽ MUSC Forge 16 at SWU Nantes 16B · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #633\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #633\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at SWU Nantes 16B · Annex - Alpha · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701819@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T121500
 DTEND;TZID=America/Edmonton:20261108T131500
 SUMMARY:⚽ MUSC Forge 16 vs SSA Strikers 16/17 · MSC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #638\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #638\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs SSA Strikers 16/17 · MSC Dome NW 7v7 · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701822@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ MUSC Forge 16 vs SWU Reims 16B · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #641\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #641\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs SWU Reims 16B · Main - East · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701829@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T120000
 DTEND;TZID=America/Edmonton:20261122T130000
 SUMMARY:⚽ MUSC Forge 16 at MUSC Valor 16 · Annex - Charlie · Indoor shoe
@@ -90,14 +111,19 @@ SUMMARY:⚽ MUSC Forge 16 at MUSC Valor 16 · Annex - Charlie · Indoor shoe
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #648\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #648\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at MUSC Valor 16 · Annex - Charlie · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701831@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
 SUMMARY:⚽ MUSC Forge 16 vs Foothills Forest 2016 · Main - East · Indoor 
@@ -105,28 +131,38 @@ SUMMARY:⚽ MUSC Forge 16 vs Foothills Forest 2016 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #650\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #650\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs Foothills Forest 2016 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701838@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T150000
 DTEND;TZID=America/Edmonton:20261206T160000
 SUMMARY:⚽ MUSC Forge 16 at LSCA B Chelsea · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #657\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #657\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at LSCA B Chelsea · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701843@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T100000
 DTEND;TZID=America/Edmonton:20261213T110000
 SUMMARY:⚽ MUSC Forge 16 at RWFC Royal West FC Shakhtar 16 · Annex - Delt
@@ -134,14 +170,19 @@ SUMMARY:⚽ MUSC Forge 16 at RWFC Royal West FC Shakhtar 16 · Annex - Delt
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #662\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #662\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at RWFC Royal West FC Shakhtar 16 · Annex - 
+ Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701853@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T120000
 DTEND;TZID=America/Edmonton:20270103T130000
 SUMMARY:⚽ MUSC Forge 16 vs SWU Olympique 16B · Main - East · Indoor shoe
@@ -149,28 +190,38 @@ SUMMARY:⚽ MUSC Forge 16 vs SWU Olympique 16B · Main - East · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #672\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #672\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs SWU Olympique 16B · Main - East · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701855@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T110000
 DTEND;TZID=America/Edmonton:20270110T120000
 SUMMARY:⚽ MUSC Forge 16 vs SWU Nantes 16B · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #674\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #674\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs SWU Nantes 16B · Annex - Alpha · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701860@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ MUSC Forge 16 at SSA Strikers 16/17 · Main - East · Indoor sho
@@ -178,50 +229,72 @@ SUMMARY:⚽ MUSC Forge 16 at SSA Strikers 16/17 · Main - East · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #679\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #679\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at SSA Strikers 16/17 · Main - East · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701869@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T150000
 DTEND;TZID=America/Edmonton:20270131T160000
 SUMMARY:⚽ MUSC Forge 16 vs Foothills Norwich 2016 · Field A (7v7) · Clea
  ts
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #688\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #688\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 vs Foothills Norwich 2016 · Field A (7v7) · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701870@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T080000
 DTEND;TZID=America/Edmonton:20270207T090000
 SUMMARY:⚽ MUSC Forge 16 at SWU Reims 16B · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #689\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #689\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at SWU Reims 16B · Main - East · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701879@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T140000
 DTEND;TZID=America/Edmonton:20270221T150000
 SUMMARY:⚽ MUSC Forge 16 at Villains Storm 16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #698\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #698\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Forge 16 at Villains Storm 16 · Field A (7v7) · Cleat
+ s
+END:VALARM
 END:VEVENT
 END:VCALENDAR

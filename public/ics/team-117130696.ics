@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708144@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T090000
 DTEND;TZID=America/Edmonton:20261017T100000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Rockies Celtic 16 · Main
@@ -34,27 +34,38 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Rockies Celtic 16 · Main
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1045\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1045\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at Rockies Celtic 16 · 
+ Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708149@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T080000
 DTEND;TZID=America/Edmonton:20261024T090000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Rockies AFC 16 · Field 3
   7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1050\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1050\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs Rockies AFC 16 · Fie
+ ld 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708152@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T120000
 DTEND;TZID=America/Edmonton:20261031T130000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Foothills FC Green 2016 
@@ -62,55 +73,78 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Foothills FC Green 2016
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1053\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1053\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at Foothills FC Green 2
+ 016 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708158@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T091500
 DTEND;TZID=America/Edmonton:20261108T101500
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs RANGERS FC16 BLUE · Fiel
  d 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1059\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1059\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs RANGERS FC16 BLUE · 
+ Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708161@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T150000
 DTEND;TZID=America/Edmonton:20261114T160000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Villains Jaguars 16 · MS
  C Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1062\nBoys U11 Dev Plus+ SALIBA\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1062\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs Villains Jaguars 16 
+ · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708164@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T100000
 DTEND;TZID=America/Edmonton:20261121T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at SWU Monaco 16B · Field A
   (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #1065\nBoys U11 Dev Plus+ SALIBA\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1065\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at SWU Monaco 16B · Fie
+ ld A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708167@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T160000
 DTEND;TZID=America/Edmonton:20261205T170000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Blizzard SC 16 Boys · An
@@ -118,14 +152,19 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Blizzard SC 16 Boys · An
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1068\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1068\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs Blizzard SC 16 Boys 
+ · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708171@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Rockies Celtic 16 · Anne
@@ -133,28 +172,39 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Rockies Celtic 16 · Anne
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1072\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1072\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs Rockies Celtic 16 · 
+ Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708175@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T090000
 DTEND;TZID=America/Edmonton:20270109T100000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Rockies AFC 16 · Field A
   (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #1076\nBoys U11 Dev Plus+ SALIBA\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1076\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at Rockies AFC 16 · Fie
+ ld A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708181@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T100000
 DTEND;TZID=America/Edmonton:20270116T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Foothills FC Green 2016 
@@ -162,62 +212,91 @@ SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs Foothills FC Green 2016
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1082\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1082\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs Foothills FC Green 2
+ 016 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708186@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T101500
 DTEND;TZID=America/Edmonton:20270124T111500
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at RANGERS FC16 BLUE · Fiel
  d 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1087\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1087\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at RANGERS FC16 BLUE · 
+ Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708189@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T080000
 DTEND;TZID=America/Edmonton:20270130T090000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Villains Jaguars 16 · MS
  C Dome NE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1090\nBoys U11 Dev Plus+ SALIBA\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1090\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at Villains Jaguars 16 
+ · MSC Dome NE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708194@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T100000
 DTEND;TZID=America/Edmonton:20270221T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) vs SWU Monaco 16B · Field 2
   7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1095\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1095\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) vs SWU Monaco 16B · Fie
+ ld 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708198@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T100000
 DTEND;TZID=America/Edmonton:20270227T110000
 SUMMARY:⚽ New Frontier SC 2016 Boys (Petros) at Blizzard SC 16 Boys · Fi
  eld 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1099\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1099\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Boys (Petros) at Blizzard SC 16 Boys 
+ · Field 3 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

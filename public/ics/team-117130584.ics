@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701808@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T150000
 DTEND;TZID=America/Edmonton:20261018T160000
 SUMMARY:⚽ SWU Olympique 16B at Foothills Norwich 2016 · Main - East · In
@@ -34,14 +34,19 @@ SUMMARY:⚽ SWU Olympique 16B at Foothills Norwich 2016 · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #627\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #627\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at Foothills Norwich 2016 · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701810@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T120000
 DTEND;TZID=America/Edmonton:20261025T130000
 SUMMARY:⚽ SWU Olympique 16B at Foothills Forest 2016 · Annex - Alpha · I
@@ -49,28 +54,39 @@ SUMMARY:⚽ SWU Olympique 16B at Foothills Forest 2016 · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #629\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #629\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at Foothills Forest 2016 · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701815@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T081500
 DTEND;TZID=America/Edmonton:20261108T091500
 SUMMARY:⚽ SWU Olympique 16B vs Villains Storm 16 · MSC Dome NW 7v7 · Cle
  ats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #634\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #634\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs Villains Storm 16 · MSC Dome NW 7v7 ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701821@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T120000
 DTEND;TZID=America/Edmonton:20261115T130000
 SUMMARY:⚽ SWU Olympique 16B at SSA Strikers 16/17 · Main - East · Indoor
@@ -78,14 +94,19 @@ SUMMARY:⚽ SWU Olympique 16B at SSA Strikers 16/17 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #640\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #640\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at SSA Strikers 16/17 · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701827@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T100000
 DTEND;TZID=America/Edmonton:20261122T110000
 SUMMARY:⚽ SWU Olympique 16B vs LSCA B Chelsea · Annex - Charlie · Indoor
@@ -93,28 +114,39 @@ SUMMARY:⚽ SWU Olympique 16B vs LSCA B Chelsea · Annex - Charlie · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #646\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #646\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs LSCA B Chelsea · Annex - Charlie · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701833@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T140000
 DTEND;TZID=America/Edmonton:20261129T150000
 SUMMARY:⚽ SWU Olympique 16B at RWFC Royal West FC Shakhtar 16 · MSC Dome
   SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #652\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #652\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at RWFC Royal West FC Shakhtar 16 · MSC 
+ Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701839@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T160000
 DTEND;TZID=America/Edmonton:20261206T170000
 SUMMARY:⚽ SWU Olympique 16B vs SWU Nantes 16B · Main - West · Indoor sho
@@ -122,14 +154,19 @@ SUMMARY:⚽ SWU Olympique 16B vs SWU Nantes 16B · Main - West · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #658\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #658\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs SWU Nantes 16B · Main - West · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701842@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T090000
 DTEND;TZID=America/Edmonton:20261213T100000
 SUMMARY:⚽ SWU Olympique 16B vs SWU Reims 16B · Annex - Delta · Indoor sh
@@ -137,14 +174,19 @@ SUMMARY:⚽ SWU Olympique 16B vs SWU Reims 16B · Annex - Delta · Indoor sh
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #661\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #661\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs SWU Reims 16B · Annex - Delta · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701848@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T110000
 DTEND;TZID=America/Edmonton:20261220T120000
 SUMMARY:⚽ SWU Olympique 16B at MUSC Valor 16 · Annex - Bravo · Indoor sh
@@ -152,14 +194,19 @@ SUMMARY:⚽ SWU Olympique 16B at MUSC Valor 16 · Annex - Bravo · Indoor sh
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #667\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #667\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at MUSC Valor 16 · Annex - Bravo · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701853@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T120000
 DTEND;TZID=America/Edmonton:20270103T130000
 SUMMARY:⚽ SWU Olympique 16B at MUSC Forge 16 · Main - East · Indoor shoe
@@ -167,14 +214,19 @@ SUMMARY:⚽ SWU Olympique 16B at MUSC Forge 16 · Main - East · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #672\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #672\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at MUSC Forge 16 · Main - East · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701857@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T150000
 DTEND;TZID=America/Edmonton:20270110T160000
 SUMMARY:⚽ SWU Olympique 16B vs Foothills Forest 2016 · Annex - Alpha · I
@@ -182,14 +234,19 @@ SUMMARY:⚽ SWU Olympique 16B vs Foothills Forest 2016 · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #676\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #676\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs Foothills Forest 2016 · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701864@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T160000
 DTEND;TZID=America/Edmonton:20270124T170000
 SUMMARY:⚽ SWU Olympique 16B at Villains Storm 16 · Main - East · Indoor 
@@ -197,28 +254,39 @@ SUMMARY:⚽ SWU Olympique 16B at Villains Storm 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #683\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #683\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B at Villains Storm 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701868@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T140000
 DTEND;TZID=America/Edmonton:20270131T150000
 SUMMARY:⚽ SWU Olympique 16B vs SSA Strikers 16/17 · Field A (7v7) · Clea
  ts
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #687\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #687\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs SSA Strikers 16/17 · Field A (7v7) · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701875@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T120000
 DTEND;TZID=America/Edmonton:20270221T130000
 SUMMARY:⚽ SWU Olympique 16B vs Foothills Norwich 2016 · Main - East · In
@@ -226,9 +294,14 @@ SUMMARY:⚽ SWU Olympique 16B vs Foothills Norwich 2016 · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #694\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #694\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Olympique 16B vs Foothills Norwich 2016 · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

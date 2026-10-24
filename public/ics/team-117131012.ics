@@ -26,20 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708387@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T091500
 DTEND;TZID=America/Edmonton:20261018T101500
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs RANGERS WFC 16 YELLOW ·
   Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4209\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4209\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs RANGERS WFC 16 YELL
+ OW · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708395@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T150000
 DTEND;TZID=America/Edmonton:20261101T160000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at SWU Wild 16G · Annex - 
@@ -47,177 +53,253 @@ SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at SWU Wild 16G · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4212\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4212\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at SWU Wild 16G · Anne
+ x - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708407@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T140000
 DTEND;TZID=America/Edmonton:20261108T150000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs CWFC G2016 Black · Fiel
  d A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4218\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4218\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs CWFC G2016 Black · 
+ Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708414@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T110000
 DTEND;TZID=America/Edmonton:20261115T120000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at CalGlen Rockets 16/17 ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4222\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4222\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at CalGlen Rockets 16/
+ 17 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708424@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs Airdrie F.C. Roses 16 ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4226\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4226\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs Airdrie F.C. Roses 
+ 16 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708431@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T090000
 DTEND;TZID=America/Edmonton:20261206T100000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs WHU West Hills Panthers
   16 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4230\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4230\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs WHU West Hills Pant
+ hers 16 · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708437@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T090000
 DTEND;TZID=America/Edmonton:20261220T100000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at Foothills 2016 Prospect
  s Girls · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4234\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4234\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at Foothills 2016 Pros
+ pects Girls · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708446@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T100000
 DTEND;TZID=America/Edmonton:20270102T110000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at RANGERS WFC 16 YELLOW ·
   MSC Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4238\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4238\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at RANGERS WFC 16 YELL
+ OW · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708457@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs SWU Wild 16G · Field A 
  (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4241\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4241\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs SWU Wild 16G · Fiel
+ d A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708468@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T090000
 DTEND;TZID=America/Edmonton:20270117T100000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at CWFC G2016 Black · Fiel
  d A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4244\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4244\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at CWFC G2016 Black · 
+ Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708492@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T101500
 DTEND;TZID=America/Edmonton:20270131T111500
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs CalGlen Rockets 16/17 ·
   Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4250\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4250\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs CalGlen Rockets 16/
+ 17 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708499@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T160000
 DTEND;TZID=America/Edmonton:20270207T170000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at Airdrie F.C. Roses 16 ·
   Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4252\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4252\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at Airdrie F.C. Roses 
+ 16 · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708514@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T150000
 DTEND;TZID=America/Edmonton:20270221T160000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) at WHU West Hills Panthers
   16 · MSC Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4257\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4257\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) at WHU West Hills Pant
+ hers 16 · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708520@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T160000
 DTEND;TZID=America/Edmonton:20270228T170000
 SUMMARY:⚽ New Frontier SC 2016 Girls (Harman) vs Foothills 2016 Prospect
  s Girls · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4263\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4263\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ New Frontier SC 2016 Girls (Harman) vs Foothills 2016 Pros
+ pects Girls · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,35 +26,45 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707269@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
 SUMMARY:⚽ EMFC Galaxy 17 at Villains FC 17 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #352\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #352\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at Villains FC 17 · Main - West · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707279@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T100000
 DTEND;TZID=America/Edmonton:20261024T110000
 SUMMARY:⚽ EMFC Galaxy 17 at Foothills Lazio · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #362\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #362\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at Foothills Lazio · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707287@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T170000
 DTEND;TZID=America/Edmonton:20261107T180000
 SUMMARY:⚽ EMFC Galaxy 17 vs Airdrie F.C. Atletico 17 · Annex - Alpha · I
@@ -62,14 +72,19 @@ SUMMARY:⚽ EMFC Galaxy 17 vs Airdrie F.C. Atletico 17 · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #370\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #370\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs Airdrie F.C. Atletico 17 · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707296@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T080000
 DTEND;TZID=America/Edmonton:20261114T090000
 SUMMARY:⚽ EMFC Galaxy 17 vs Chinooks FC Premiers 2017 · Main - West · In
@@ -77,28 +92,38 @@ SUMMARY:⚽ EMFC Galaxy 17 vs Chinooks FC Premiers 2017 · Main - West · In
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #379\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #379\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs Chinooks FC Premiers 2017 · Main - West 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707300@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T080000
 DTEND;TZID=America/Edmonton:20261121T090000
 SUMMARY:⚽ EMFC Galaxy 17 at MUSC Wolves 17 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #383\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #383\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at MUSC Wolves 17 · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707310@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T090000
 DTEND;TZID=America/Edmonton:20261128T100000
 SUMMARY:⚽ EMFC Galaxy 17 vs Foothills Benfica 2017 · Main - East · Indoo
@@ -106,14 +131,19 @@ SUMMARY:⚽ EMFC Galaxy 17 vs Foothills Benfica 2017 · Main - East · Indoo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #393\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #393\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs Foothills Benfica 2017 · Main - East · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707323@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T120000
 DTEND;TZID=America/Edmonton:20261205T130000
 SUMMARY:⚽ EMFC Galaxy 17 at CNEU 2017 Strikers · Main - West · Indoor sh
@@ -121,27 +151,38 @@ SUMMARY:⚽ EMFC Galaxy 17 at CNEU 2017 Strikers · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #406\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #406\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at CNEU 2017 Strikers · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707327@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T090000
 DTEND;TZID=America/Edmonton:20261219T100000
 SUMMARY:⚽ EMFC Galaxy 17 at CalGlen Cavalry 17 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #410\nBoys U10 Dev Plus+ KERR\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ KERR · Game #410\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at CalGlen Cavalry 17 · Field A (7v7) · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707333@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T150000
 DTEND;TZID=America/Edmonton:20270102T160000
 SUMMARY:⚽ EMFC Galaxy 17 vs CUFC Avengers 2017/18 · Annex - Alpha · Indo
@@ -149,14 +190,19 @@ SUMMARY:⚽ EMFC Galaxy 17 vs CUFC Avengers 2017/18 · Annex - Alpha · Indo
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #416\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #416\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs CUFC Avengers 2017/18 · Annex - Alpha · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707341@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T100000
 DTEND;TZID=America/Edmonton:20270109T110000
 SUMMARY:⚽ EMFC Galaxy 17 vs Villains Raptors 17 · Main - East · Indoor s
@@ -164,14 +210,19 @@ SUMMARY:⚽ EMFC Galaxy 17 vs Villains Raptors 17 · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #424\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #424\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs Villains Raptors 17 · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707348@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T090000
 DTEND;TZID=America/Edmonton:20270123T100000
 SUMMARY:⚽ EMFC Galaxy 17 at Blizzard Alliance 17 Boys · Main - East · In
@@ -179,14 +230,19 @@ SUMMARY:⚽ EMFC Galaxy 17 at Blizzard Alliance 17 Boys · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #431\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #431\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at Blizzard Alliance 17 Boys · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707363@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T150000
 DTEND;TZID=America/Edmonton:20270130T160000
 SUMMARY:⚽ EMFC Galaxy 17 vs SWU Juventus 17B · Main - West · Indoor shoe
@@ -194,14 +250,19 @@ SUMMARY:⚽ EMFC Galaxy 17 vs SWU Juventus 17B · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #446\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #446\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs SWU Juventus 17B · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707368@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:⚽ EMFC Galaxy 17 at Foothills PSG 2017 · Main - West · Indoor sh
@@ -209,14 +270,19 @@ SUMMARY:⚽ EMFC Galaxy 17 at Foothills PSG 2017 · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #451\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #451\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 at Foothills PSG 2017 · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707374@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T100000
 DTEND;TZID=America/Edmonton:20270220T110000
 SUMMARY:⚽ EMFC Galaxy 17 vs New Frontier SC 2017 Boys (Good) · Main - Ea
@@ -224,9 +290,14 @@ SUMMARY:⚽ EMFC Galaxy 17 vs New Frontier SC 2017 Boys (Good) · Main - Ea
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #457\nBoys U10 Dev Plus+ KERR\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #457\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ EMFC Galaxy 17 vs New Frontier SC 2017 Boys (Good) · Main 
+ - East · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

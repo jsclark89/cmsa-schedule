@@ -26,89 +26,122 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107921@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T170000
 DTEND;TZID=America/Edmonton:20261108T180000
 SUMMARY:⚽ CUFC Futsal at Vanguard FC
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal at Vanguard FC
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107928@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261112T210000
 DTEND;TZID=America/Edmonton:20261112T220000
 SUMMARY:⚽ CUFC Futsal vs 1UP United
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs 1UP United
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107940@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T220000
 DTEND;TZID=America/Edmonton:20261122T230000
 SUMMARY:⚽ CUFC Futsal at AU Lions · Field House 2 · Indoor shoes
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nMens\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+ )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
+ hedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal at AU Lions · Field House 2 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107948@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T210000
 DTEND;TZID=America/Edmonton:20261129T220000
 SUMMARY:⚽ CUFC Futsal vs Impero FC Dinamo · Field House 2 · Indoor shoes
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nMens\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+ )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
+ hedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs Impero FC Dinamo · Field House 2 · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107954@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T150000
 DTEND;TZID=America/Edmonton:20261206T160000
 SUMMARY:⚽ CUFC Futsal vs Elevate Soccer Academy
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs Elevate Soccer Academy
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107962@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T200000
 DTEND;TZID=America/Edmonton:20261213T210000
 SUMMARY:⚽ CUFC Futsal at FC Tryzub · Field House 2 · Indoor shoes
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nMens\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+ )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
+ hedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal at FC Tryzub · Field House 2 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107970@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T170000
 DTEND;TZID=America/Edmonton:20261220T180000
 SUMMARY:⚽ CUFC Futsal vs Union Futsal
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs Union Futsal
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107841@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T210000
 DTEND;TZID=America/Edmonton:20270110T220000
 SUMMARY:⚽ CUFC Futsal vs Calgary Rangers FC · Field House 2 · Indoor sho
@@ -116,43 +149,63 @@ SUMMARY:⚽ CUFC Futsal vs Calgary Rangers FC · Field House 2 · Indoor sho
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nMens\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+ )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
+ hedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs Calgary Rangers FC · Field House 2 · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107848@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:⚽ CUFC Futsal at Impero FC PRIMO
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal at Impero FC PRIMO
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107851@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270119T200000
 DTEND;TZID=America/Edmonton:20270119T210000
 SUMMARY:⚽ CUFC Futsal vs Callies Futsal · Field House 2 · Indoor shoes
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nMens\nSchedule: https://jsclark89.github.
- io/cmsa-schedule/
+ )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
+ hedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal vs Callies Futsal · Field House 2 · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107859@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T170000
 DTEND;TZID=America/Edmonton:20270124T180000
 SUMMARY:⚽ CUFC Futsal at Elite Football Academy
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CUFC Futsal at Elite Football Academy
+END:VALARM
 END:VEVENT
 END:VCALENDAR

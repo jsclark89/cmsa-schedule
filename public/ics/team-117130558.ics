@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707512@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
 SUMMARY:⚽ Chinooks FC Red 2017 at Rockies Sevilla 17 · Annex - Charlie ·
@@ -34,27 +34,38 @@ SUMMARY:⚽ Chinooks FC Red 2017 at Rockies Sevilla 17 · Annex - Charlie ·
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #259\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #259\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at Rockies Sevilla 17 · Annex - Charl
+ ie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707515@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T080000
 DTEND;TZID=America/Edmonton:20261024T090000
 SUMMARY:⚽ Chinooks FC Red 2017 vs Blizzard Athletic 17 Boys · Field 1 7v
  7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #262\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ FRASER · Game #262\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs Blizzard Athletic 17 Boys · Field 
+ 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707521@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T080000
 DTEND;TZID=America/Edmonton:20261031T090000
 SUMMARY:⚽ Chinooks FC Red 2017 at EMFC Energy 17 · Main - East · Indoor 
@@ -62,14 +73,19 @@ SUMMARY:⚽ Chinooks FC Red 2017 at EMFC Energy 17 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #268\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #268\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at EMFC Energy 17 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707531@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T110000
 DTEND;TZID=America/Edmonton:20261107T120000
 SUMMARY:⚽ Chinooks FC Red 2017 vs CalGlen Whitecaps 17 · Main - West · I
@@ -77,14 +93,19 @@ SUMMARY:⚽ Chinooks FC Red 2017 vs CalGlen Whitecaps 17 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #278\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #278\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs CalGlen Whitecaps 17 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707536@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T090000
 DTEND;TZID=America/Edmonton:20261121T100000
 SUMMARY:⚽ Chinooks FC Red 2017 at RANGERS FC17 RED · Main - West · Indoo
@@ -92,28 +113,39 @@ SUMMARY:⚽ Chinooks FC Red 2017 at RANGERS FC17 RED · Main - West · Indoo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #283\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #283\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at RANGERS FC17 RED · Main - West · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707546@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T110000
 DTEND;TZID=America/Edmonton:20261128T120000
 SUMMARY:⚽ Chinooks FC Red 2017 vs CUFC Kings 2017/18 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #293\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #293\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs CUFC Kings 2017/18 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707550@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T130000
 DTEND;TZID=America/Edmonton:20261205T140000
 SUMMARY:⚽ Chinooks FC Red 2017 at S4 Lightning 17 · Main - East · Indoor
@@ -121,14 +153,19 @@ SUMMARY:⚽ Chinooks FC Red 2017 at S4 Lightning 17 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #297\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #297\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at S4 Lightning 17 · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707559@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T150000
 DTEND;TZID=America/Edmonton:20261219T160000
 SUMMARY:⚽ Chinooks FC Red 2017 vs Rockies Sevilla 17 · Annex - Bravo · I
@@ -136,71 +173,99 @@ SUMMARY:⚽ Chinooks FC Red 2017 vs Rockies Sevilla 17 · Annex - Bravo · I
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #306\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #306\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs Rockies Sevilla 17 · Annex - Bravo
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707567@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T130000
 DTEND;TZID=America/Edmonton:20270102T140000
 SUMMARY:⚽ Chinooks FC Red 2017 at New Frontier SC 2017 Boys (Szautner) ·
   MSC Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #314\nBoys U10 Dev Plus+ FRASER\nSchedule: 
- https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #314\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at New Frontier SC 2017 Boys (Szautne
+ r) · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707575@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T160000
 DTEND;TZID=America/Edmonton:20270116T170000
 SUMMARY:⚽ Chinooks FC Red 2017 vs CNEU 2017 HAWKS · Field A (7v7) · Clea
  ts
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #322\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #322\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs CNEU 2017 HAWKS · Field A (7v7) · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707581@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T120000
 DTEND;TZID=America/Edmonton:20270123T130000
 SUMMARY:⚽ Chinooks FC Red 2017 at New Frontier SC 2017 Boys (O'Connell) 
  · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #328\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #328\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at New Frontier SC 2017 Boys (O'Conne
+ ll) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707584@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T110000
 DTEND;TZID=America/Edmonton:20270130T120000
 SUMMARY:⚽ Chinooks FC Red 2017 at Airdrie F.C. Juventus 17 · Field 2 · C
  leats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #331\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #331\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 at Airdrie F.C. Juventus 17 · Field 2
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707596@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T130000
 DTEND;TZID=America/Edmonton:20270220T140000
 SUMMARY:⚽ Chinooks FC Red 2017 vs CCFC Calgary City FC Leo Messi 2017 · 
@@ -208,23 +273,34 @@ SUMMARY:⚽ Chinooks FC Red 2017 vs CCFC Calgary City FC Leo Messi 2017 ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #343\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #343\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs CCFC Calgary City FC Leo Messi 201
+ 7 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707603@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T150000
 DTEND;TZID=America/Edmonton:20270227T160000
 SUMMARY:⚽ Chinooks FC Red 2017 vs CFC Crossfield FC Boys U10 · Field A (
  7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #350\nBoys U10 Dev Plus+ FRASER\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #350\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Chinooks FC Red 2017 vs CFC Crossfield FC Boys U10 · Field
+  A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

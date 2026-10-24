@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707510@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T110000
 DTEND;TZID=America/Edmonton:20261017T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at RANGERS FC17 RED · Annex - Charlie
@@ -34,28 +34,38 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 at RANGERS FC17 RED · Annex - Charlie
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #257\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #257\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at RANGERS FC17 RED · Annex - Cha
+ rlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707513@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T110000
 DTEND;TZID=America/Edmonton:20261024T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs S4 Lightning 17 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #260\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #260\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs S4 Lightning 17 · Field 2 · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707522@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T080000
 DTEND;TZID=America/Edmonton:20261031T090000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at New Frontier SC 2017 Boys (O'Conne
@@ -63,29 +73,39 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 at New Frontier SC 2017 Boys (O'Conne
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #269\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #269\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at New Frontier SC 2017 Boys (O'C
+ onnell) · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707527@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T110000
 DTEND;TZID=America/Edmonton:20261107T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs New Frontier SC 2017 Boys (Szautne
  r) · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #274\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #274\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs New Frontier SC 2017 Boys (Sza
+ utner) · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707537@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T100000
 DTEND;TZID=America/Edmonton:20261121T110000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at CNEU 2017 HAWKS · Main - West · In
@@ -93,29 +113,39 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 at CNEU 2017 HAWKS · Main - West · In
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #284\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #284\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at CNEU 2017 HAWKS · Main - West 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707541@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T110000
 DTEND;TZID=America/Edmonton:20261128T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs CFC Crossfield FC Boys U10 · Field
   2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #288\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #288\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs CFC Crossfield FC Boys U10 · F
+ ield 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707552@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T150000
 DTEND;TZID=America/Edmonton:20261205T160000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at CalGlen Whitecaps 17 · Main - East
@@ -123,27 +153,38 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 at CalGlen Whitecaps 17 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #299\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #299\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at CalGlen Whitecaps 17 · Main - 
+ East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707560@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T111500
 DTEND;TZID=America/Edmonton:20261219T121500
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at CCFC Calgary City FC Leo Messi 201
  7 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #307\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ FRASER · Game #307\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at CCFC Calgary City FC Leo Messi
+  2017 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707564@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T160000
 DTEND;TZID=America/Edmonton:20270102T170000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Rockies Sevilla 17 · Main - East ·
@@ -151,14 +192,19 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Rockies Sevilla 17 · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #311\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #311\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs Rockies Sevilla 17 · Main - Ea
+ st · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707572@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T110000
 DTEND;TZID=America/Edmonton:20270116T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at CUFC Kings 2017/18 · Main - East ·
@@ -166,68 +212,93 @@ SUMMARY:⚽ Airdrie F.C. Juventus 17 at CUFC Kings 2017/18 · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #319\nBoys U10 Dev Plus+ FRASER\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ FRASER · Game #319\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at CUFC Kings 2017/18 · Main - Ea
+ st · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707576@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T100000
 DTEND;TZID=America/Edmonton:20270123T110000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs EMFC Energy 17 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #323\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #323\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs EMFC Energy 17 · Field 2 · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707584@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T110000
 DTEND;TZID=America/Edmonton:20270130T120000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Chinooks FC Red 2017 · Field 2 · C
  leats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #331\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #331\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs Chinooks FC Red 2017 · Field 2
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707590@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T090000
 DTEND;TZID=America/Edmonton:20270220T100000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 at CFC Crossfield FC Boys U10 · Field
   2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #337\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #337\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 at CFC Crossfield FC Boys U10 · F
+ ield 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707597@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T100000
 DTEND;TZID=America/Edmonton:20270227T110000
 SUMMARY:⚽ Airdrie F.C. Juventus 17 vs Blizzard Athletic 17 Boys · Field 
  2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #344\nBoys U10 Dev Plus+ FRASER\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ FRASER · Game #344\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Juventus 17 vs Blizzard Athletic 17 Boys · Fi
+ eld 2 · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107754@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T213000
 DTEND;TZID=America/Edmonton:20261103T223000
 SUMMARY:⚽ El Salvador Over 45 vs AMERICA CHILE · Main - West · Indoor sh
@@ -34,14 +34,19 @@ SUMMARY:⚽ El Salvador Over 45 vs AMERICA CHILE · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs AMERICA CHILE · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107756@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T201500
 DTEND;TZID=America/Edmonton:20261114T211500
 SUMMARY:⚽ El Salvador Over 45 at White Eagles O45 · Main - West · Indoor
@@ -49,14 +54,19 @@ SUMMARY:⚽ El Salvador Over 45 at White Eagles O45 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at White Eagles O45 · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107653@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T191500
 DTEND;TZID=America/Edmonton:20261123T201500
 SUMMARY:⚽ El Salvador Over 45 vs Napoli D10S · Main - South · Indoor sho
@@ -64,28 +74,38 @@ SUMMARY:⚽ El Salvador Over 45 vs Napoli D10S · Main - South · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Napoli D10S · Main - South · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107616@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261202T191500
 DTEND;TZID=America/Edmonton:20261202T201500
 SUMMARY:⚽ El Salvador Over 45 vs Cafeteros · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Cafeteros · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107761@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T213000
 DTEND;TZID=America/Edmonton:20261208T223000
 SUMMARY:⚽ El Salvador Over 45 at Ismaili O45 · Main - West · Indoor shoe
@@ -93,14 +113,19 @@ SUMMARY:⚽ El Salvador Over 45 at Ismaili O45 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Ismaili O45 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107764@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270107T191500
 DTEND;TZID=America/Edmonton:20270107T201500
 SUMMARY:⚽ El Salvador Over 45 vs Calgary United Old Bhoys · Main - West 
@@ -108,14 +133,19 @@ SUMMARY:⚽ El Salvador Over 45 vs Calgary United Old Bhoys · Main - West
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Calgary United Old Bhoys · Main - W
+ est · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107618@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270113T201500
 DTEND;TZID=America/Edmonton:20270113T211500
 SUMMARY:⚽ El Salvador Over 45 at Southside Rangers O45B · Main - East · 
@@ -123,28 +153,38 @@ SUMMARY:⚽ El Salvador Over 45 at Southside Rangers O45B · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Southside Rangers O45B · Main - Eas
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107767@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T201500
 DTEND;TZID=America/Edmonton:20270123T211500
 SUMMARY:⚽ El Salvador Over 45 vs Eagles O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Eagles O45 · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107561@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270205T211500
 DTEND;TZID=America/Edmonton:20270205T221500
 SUMMARY:⚽ El Salvador Over 45 at Chile O45 · Annex - Bravo · Indoor shoe
@@ -152,14 +192,19 @@ SUMMARY:⚽ El Salvador Over 45 at Chile O45 · Annex - Bravo · Indoor shoe
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Chile O45 · Annex - Bravo · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107621@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270211T191500
 DTEND;TZID=America/Edmonton:20270211T201500
 SUMMARY:⚽ El Salvador Over 45 at AMERICA CHILE · Main - East · Indoor sh
@@ -167,14 +212,19 @@ SUMMARY:⚽ El Salvador Over 45 at AMERICA CHILE · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at AMERICA CHILE · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107643@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270217T201500
 DTEND;TZID=America/Edmonton:20270217T211500
 SUMMARY:⚽ El Salvador Over 45 vs White Eagles O45 · Main - North · Indoo
@@ -182,14 +232,19 @@ SUMMARY:⚽ El Salvador Over 45 vs White Eagles O45 · Main - North · Indoo
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs White Eagles O45 · Main - North · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107775@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T193000
 DTEND;TZID=America/Edmonton:20270223T203000
 SUMMARY:⚽ El Salvador Over 45 at Napoli D10S · Main - West · Indoor shoe
@@ -197,14 +252,19 @@ SUMMARY:⚽ El Salvador Over 45 at Napoli D10S · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Napoli D10S · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107782@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270304T201500
 DTEND;TZID=America/Edmonton:20270304T211500
 SUMMARY:⚽ El Salvador Over 45 vs Ismaili O45 · Main - West · Indoor shoe
@@ -212,14 +272,19 @@ SUMMARY:⚽ El Salvador Over 45 vs Ismaili O45 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Ismaili O45 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107576@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270311T201500
 DTEND;TZID=America/Edmonton:20270311T211500
 SUMMARY:⚽ El Salvador Over 45 at Cafeteros · Annex - Delta · Indoor shoe
@@ -227,14 +292,19 @@ SUMMARY:⚽ El Salvador Over 45 at Cafeteros · Annex - Delta · Indoor shoe
 LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Cafeteros · Annex - Delta · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107786@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270317T201500
 DTEND;TZID=America/Edmonton:20270317T211500
 SUMMARY:⚽ El Salvador Over 45 at Calgary United Old Bhoys · Main - West 
@@ -242,14 +312,19 @@ SUMMARY:⚽ El Salvador Over 45 at Calgary United Old Bhoys · Main - West
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 at Calgary United Old Bhoys · Main - W
+ est · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107832@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270323T193000
 DTEND;TZID=America/Edmonton:20270323T203000
 SUMMARY:⚽ El Salvador Over 45 vs Southside Rangers O45B · Main - West · 
@@ -257,9 +332,14 @@ SUMMARY:⚽ El Salvador Over 45 vs Southside Rangers O45B · Main - West ·
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador Over 45 vs Southside Rangers O45B · Main - Wes
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

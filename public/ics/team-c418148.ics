@@ -26,189 +26,245 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109155@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261113T213000
 DTEND;TZID=America/Edmonton:20261113T223000
 SUMMARY:⚽ Foothills FC at CalGlen Crusaders FC · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at CalGlen Crusaders FC · Aspen Air · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109202@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261117T214500
 DTEND;TZID=America/Edmonton:20261117T224500
 SUMMARY:⚽ Foothills FC at Croatia Dinamo · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at Croatia Dinamo · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109304@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261125T214500
 DTEND;TZID=America/Edmonton:20261125T224500
 SUMMARY:⚽ Foothills FC vs United Nova FC · MSC Dome NW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs United Nova FC · MSC Dome NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109412@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261204T213000
 DTEND;TZID=America/Edmonton:20261204T223000
 SUMMARY:⚽ Foothills FC at SWU Avo · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at SWU Avo · Aspen Air · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109479@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261211T220000
 DTEND;TZID=America/Edmonton:20261211T230000
 SUMMARY:⚽ Foothills FC vs Aces FC · Boardwalk · Cleats
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs Aces FC · Boardwalk · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109533@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261215T214500
 DTEND;TZID=America/Edmonton:20261215T224500
 SUMMARY:⚽ Foothills FC at Callies Major · MSC Dome SW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at Callies Major · MSC Dome SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108206@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270108T213000
 DTEND;TZID=America/Edmonton:20270108T223000
 SUMMARY:⚽ Foothills FC vs Aces FC Borussia · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs Aces FC Borussia · Aspen Air · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108250@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270112T203000
 DTEND;TZID=America/Edmonton:20270112T213000
 SUMMARY:⚽ Foothills FC vs Blizzard SC · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs Blizzard SC · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108408@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
 SUMMARY:⚽ Foothills FC vs Croatia Dinamo · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs Croatia Dinamo · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108476@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270201T213000
 DTEND;TZID=America/Edmonton:20270201T223000
 SUMMARY:⚽ Foothills FC vs CalGlen Crusaders FC · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs CalGlen Crusaders FC · Aspen Air · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108649@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270219T213000
 DTEND;TZID=America/Edmonton:20270219T223000
 SUMMARY:⚽ Foothills FC at United Nova FC · Aspen Air · Cleats
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nMajor\nSchedule: https://jsclark89.g
- ithub.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at United Nova FC · Aspen Air · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108694@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T214500
 DTEND;TZID=America/Edmonton:20270223T224500
 SUMMARY:⚽ Foothills FC vs SWU Avo · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs SWU Avo · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108778@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270302T214500
 DTEND;TZID=America/Edmonton:20270302T224500
 SUMMARY:⚽ Foothills FC at Aces FC · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at Aces FC · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108869@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270310T214500
 DTEND;TZID=America/Edmonton:20270310T224500
 SUMMARY:⚽ Foothills FC vs Callies Major · MSC Dome SE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nMajor\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nMajor\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC vs Callies Major · MSC Dome SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108946@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270317T224500
 DTEND;TZID=America/Edmonton:20270317T234500
 SUMMARY:⚽ Foothills FC at Aces FC Borussia · Field 1
@@ -216,10 +272,15 @@ LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at Aces FC Borussia · Field 1
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108997@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270323T213000
 DTEND;TZID=America/Edmonton:20270323T223000
 SUMMARY:⚽ Foothills FC at Blizzard SC · Field 1
@@ -227,5 +288,10 @@ LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills FC at Blizzard SC · Field 1
+END:VALARM
 END:VEVENT
 END:VCALENDAR

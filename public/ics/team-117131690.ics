@@ -26,191 +26,274 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711914@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T184500
 DTEND;TZID=America/Edmonton:20261017T194500
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs CUFC Valkyries 13/14 · Field A · Cl
  eats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4917\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4917\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs CUFC Valkyries 13/14 · Field A 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711925@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T203000
 DTEND;TZID=America/Edmonton:20261024T213000
 SUMMARY:⚽ Airdrie F.C. Courage 13 at RANGERS W ROYALS 12/13 · Field 2 7v
  7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4928\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 3 · Game #4928\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at RANGERS W ROYALS 12/13 · Field 
+ 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711932@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T080000
 DTEND;TZID=America/Edmonton:20261107T090000
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs Foothills 2012/13 United · MSC Dome
   NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4933\nGirls U15 Tier 3\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4933\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs Foothills 2012/13 United · MSC 
+ Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711951@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T114500
 DTEND;TZID=America/Edmonton:20261114T124500
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs Blizzard United 13 Girls · MSC Dome
   SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4943\nGirls U15 Tier 3\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4943\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs Blizzard United 13 Girls · MSC 
+ Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711991@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T130000
 DTEND;TZID=America/Edmonton:20261128T140000
 SUMMARY:⚽ Airdrie F.C. Courage 13 at SWU Selects Red 13/14G · Field B · 
  Cleats
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #4959\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4959\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at SWU Selects Red 13/14G · Field 
+ B · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712007@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T081500
 DTEND;TZID=America/Edmonton:20261205T091500
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs Foothills 2012/13 Girls · #04/NE · 
  Cleats
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4964\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4964\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs Foothills 2012/13 Girls · #04/N
+ E · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712053@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
 SUMMARY:⚽ Airdrie F.C. Courage 13 at New Frontier SC 2013 Girls (Harman)
   · #01/NW · Cleats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4975\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4975\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at New Frontier SC 2013 Girls (Har
+ man) · #01/NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712067@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T203000
 DTEND;TZID=America/Edmonton:20261219T213000
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs CNEU 2013 Rush · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4986\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 3 · Game #4986\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs CNEU 2013 Rush · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712136@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T181500
 DTEND;TZID=America/Edmonton:20270102T191500
 SUMMARY:⚽ Airdrie F.C. Courage 13 at New Frontier SC 2013 Girls (Valstar
  ) · #03/SE · Cleats
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4993\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4993\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at New Frontier SC 2013 Girls (Val
+ star) · #03/SE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712158@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T191500
 DTEND;TZID=America/Edmonton:20270116T201500
 SUMMARY:⚽ Airdrie F.C. Courage 13 at WHU West Hills Skylarks 12 · #02/SW
   · Cleats
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #4997\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #4997\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at WHU West Hills Skylarks 12 · #0
+ 2/SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712191@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T163000
 DTEND;TZID=America/Edmonton:20270130T173000
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs Rockies Energie 13 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #5009\nGirls U15 Tier 3\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
+DESCRIPTION:Girls U15 Tier 3 · Game #5009\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs Rockies Energie 13 · Field 3 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712205@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T153000
 DTEND;TZID=America/Edmonton:20270206T163000
 SUMMARY:⚽ Airdrie F.C. Courage 13 at MUSC Magic 12 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #5014\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5014\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at MUSC Magic 12 · Field A · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712218@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T130000
 DTEND;TZID=America/Edmonton:20270220T140000
 SUMMARY:⚽ Airdrie F.C. Courage 13 vs MUSC Blues 12 · Field A · Cleats
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Foothills Macron\nGame #5019\nGirls U15 Tier 3\nSchedu
- le: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5019\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 vs MUSC Blues 12 · Field A · Cleat
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11712241@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T144500
 DTEND;TZID=America/Edmonton:20270227T154500
 SUMMARY:⚽ Airdrie F.C. Courage 13 at OUSC United G12 Green · #01/NW · Cl
  eats
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Regular cleats\nGame #5031\nGirls U15 Tier 3\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U15 Tier 3 · Game #5031\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Airdrie F.C. Courage 13 at OUSC United G12 Green · #01/NW 
+ · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

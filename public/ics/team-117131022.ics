@@ -26,20 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708385@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T081500
 DTEND;TZID=America/Edmonton:20261018T091500
 SUMMARY:⚽ Foothills 2016 Prospects Girls at WHU West Hills Panthers 16 ·
   Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4208\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4208\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at WHU West Hills Panthers 
+ 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708396@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs Airdrie F.C. Roses 16 · Anne
@@ -47,140 +53,198 @@ SUMMARY:⚽ Foothills 2016 Prospects Girls vs Airdrie F.C. Roses 16 · Anne
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4213\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4213\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs Airdrie F.C. Roses 16 · 
+ Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708408@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T150000
 DTEND;TZID=America/Edmonton:20261108T160000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs RANGERS WFC 16 YELLOW · Fiel
  d A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4219\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4219\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs RANGERS WFC 16 YELLOW · 
+ Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708416@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T120000
 DTEND;TZID=America/Edmonton:20261115T130000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at SWU Wild 16G · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4223\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4223\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at SWU Wild 16G · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708427@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T160000
 DTEND;TZID=America/Edmonton:20261129T170000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs CWFC G2016 Black · Field A (
  7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4227\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4227\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs CWFC G2016 Black · Field
+  A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708429@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T120000
 DTEND;TZID=America/Edmonton:20261206T130000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at CalGlen Rockets 16/17 · Fiel
  d 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4229\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ PRINCE · Game #4229\nSchedule: https://j
+ sclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at CalGlen Rockets 16/17 · 
+ Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708437@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T090000
 DTEND;TZID=America/Edmonton:20261220T100000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs New Frontier SC 2016 Girls (
  Harman) · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4234\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4234\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs New Frontier SC 2016 Gir
+ ls (Harman) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708443@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T090000
 DTEND;TZID=America/Edmonton:20270102T100000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs WHU West Hills Panthers 16 ·
   MSC Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4237\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4237\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs WHU West Hills Panthers 
+ 16 · MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708453@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T170000
 DTEND;TZID=America/Edmonton:20270110T180000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at Airdrie F.C. Roses 16 · Fiel
  d 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4240\nGirls U11 Dev Plus+ PRINCE\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4240\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at Airdrie F.C. Roses 16 · 
+ Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708472@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T100000
 DTEND;TZID=America/Edmonton:20270117T110000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at RANGERS WFC 16 YELLOW · Fiel
  d A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4245\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4245\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at RANGERS WFC 16 YELLOW · 
+ Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708496@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T100000
 DTEND;TZID=America/Edmonton:20270131T110000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs SWU Wild 16G · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4251\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4251\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs SWU Wild 16G · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708503@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at CWFC G2016 Black · Annex - A
@@ -188,37 +252,54 @@ SUMMARY:⚽ Foothills 2016 Prospects Girls at CWFC G2016 Black · Annex - A
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4253\nGirls U11 Dev Plus+ PRINCE\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ PRINCE · Game #4253\nSchedule: 
+ https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at CWFC G2016 Black · Annex
+  - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708513@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T140000
 DTEND;TZID=America/Edmonton:20270221T150000
 SUMMARY:⚽ Foothills 2016 Prospects Girls vs CalGlen Rockets 16/17 · MSC 
  Dome SE 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4256\nGirls U11 Dev Plus+ PRINCE\nSchedule
- : https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4256\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls vs CalGlen Rockets 16/17 · 
+ MSC Dome SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708520@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T160000
 DTEND;TZID=America/Edmonton:20270228T170000
 SUMMARY:⚽ Foothills 2016 Prospects Girls at New Frontier SC 2016 Girls (
  Harman) · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4263\nGirls U11 Dev Plus+ PRINCE\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ PRINCE · Game #4263\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills 2016 Prospects Girls at New Frontier SC 2016 Gir
+ ls (Harman) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

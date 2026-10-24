@@ -26,31 +26,41 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707974@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T100000
 DTEND;TZID=America/Edmonton:20261017T110000
 SUMMARY:⚽ Rockies Albion 16 at CalGlen Lightning 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #882\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #882\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at CalGlen Lightning 16 · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707980@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T090000
 DTEND;TZID=America/Edmonton:20261024T100000
 SUMMARY:⚽ Rockies Albion 16 vs SWU Lyon 16B · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #888\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #888\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs SWU Lyon 16B · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707986@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T160000
 DTEND;TZID=America/Edmonton:20261107T170000
 SUMMARY:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · Indo
@@ -58,56 +68,79 @@ SUMMARY:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #894\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #894\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Villains Crew 16 · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707998@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T130000
 DTEND;TZID=America/Edmonton:20261114T140000
 SUMMARY:⚽ Rockies Albion 16 vs New Frontier SC 2016 Boys (Al-Asad) · Fie
  ld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #906\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #906\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs New Frontier SC 2016 Boys (Al-Asad) ·
+  Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708007@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T130000
 DTEND;TZID=America/Edmonton:20261121T140000
 SUMMARY:⚽ Rockies Albion 16 at Chinooks FC Premiers 2016 · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #915\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #915\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at Chinooks FC Premiers 2016 · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708014@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T130000
 DTEND;TZID=America/Edmonton:20261128T140000
 SUMMARY:⚽ Rockies Albion 16 vs Blizzard Albion 16 Boys · Field A (7v7) ·
   Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #922\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #922\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Blizzard Albion 16 Boys · Field A (7v
+ 7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708018@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T090000
 DTEND;TZID=America/Edmonton:20261212T100000
 SUMMARY:⚽ Rockies Albion 16 at EMFC Crew 16 · Indoor AT 7v7 · Indoor sho
@@ -115,26 +148,36 @@ SUMMARY:⚽ Rockies Albion 16 at EMFC Crew 16 · Indoor AT 7v7 · Indoor sho
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #926\nBoys U11 Dev Plus+ JONES\nSche
- dule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #926\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at EMFC Crew 16 · Indoor AT 7v7 · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708030@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T110000
 DTEND;TZID=America/Edmonton:20261219T120000
 SUMMARY:⚽ Rockies Albion 16 vs Foothills Union 2016 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #938\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #938\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Foothills Union 2016 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708036@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T120000
 DTEND;TZID=America/Edmonton:20270102T130000
 SUMMARY:⚽ Rockies Albion 16 at NCFC 16 Sounders · Main - East · Indoor s
@@ -142,14 +185,19 @@ SUMMARY:⚽ Rockies Albion 16 at NCFC 16 Sounders · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #944\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #944\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at NCFC 16 Sounders · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708041@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T140000
 DTEND;TZID=America/Edmonton:20270116T150000
 SUMMARY:⚽ Rockies Albion 16 at Spartans Adamastos 16 · Annex - Alpha · I
@@ -157,28 +205,39 @@ SUMMARY:⚽ Rockies Albion 16 at Spartans Adamastos 16 · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #949\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #949\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at Spartans Adamastos 16 · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708054@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T090000
 DTEND;TZID=America/Edmonton:20270123T100000
 SUMMARY:⚽ Rockies Albion 16 vs Villains Ravens 16 · MSC Dome NE 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #962\nBoys U11 Dev Plus+ JONES\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #962\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs Villains Ravens 16 · MSC Dome NE 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708061@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T130000
 DTEND;TZID=America/Edmonton:20270206T140000
 SUMMARY:⚽ Rockies Albion 16 at Rockies Dundee 16 · Main - East · Indoor 
@@ -186,36 +245,53 @@ SUMMARY:⚽ Rockies Albion 16 at Rockies Dundee 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #969\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #969\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at Rockies Dundee 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708067@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T110000
 DTEND;TZID=America/Edmonton:20270220T120000
 SUMMARY:⚽ Rockies Albion 16 at WHU West Hills Mustangs 16 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #975\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #975\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 at WHU West Hills Mustangs 16 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708076@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ Rockies Albion 16 vs CCFC Calgary City FC Cavalry 2016 · Field
   1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #984\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #984\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 16 vs CCFC Calgary City FC Cavalry 2016 · F
+ ield 1 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

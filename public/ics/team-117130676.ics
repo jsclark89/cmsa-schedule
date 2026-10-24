@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707970@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T100000
 DTEND;TZID=America/Edmonton:20261017T110000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 2016
@@ -34,27 +34,38 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 2016
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #878\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #878\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Chinooks FC Premiers 
+ 2016 · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707979@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T081500
 DTEND;TZID=America/Edmonton:20261024T091500
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs WHU West Hills Mustangs 1
  6 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #887\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #887\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs WHU West Hills Mustan
+ gs 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707988@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T160000
 DTEND;TZID=America/Edmonton:20261107T170000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Rockies Dundee 16 · Main 
@@ -62,28 +73,39 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Rockies Dundee 16 · Main
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #896\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #896\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at Rockies Dundee 16 · M
+ ain - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707999@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T140000
 DTEND;TZID=America/Edmonton:20261114T150000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Blizzard Albion 16 Boys ·
   Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #907\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #907\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at Blizzard Albion 16 Bo
+ ys · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708004@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T170000
 DTEND;TZID=America/Edmonton:20261121T180000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · Annex 
@@ -91,28 +113,39 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #912\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #912\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Villains Crew 16 · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708015@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T140000
 DTEND;TZID=America/Edmonton:20261128T150000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at New Frontier SC 2016 Boys
   (Al-Asad) · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #923\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #923\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at New Frontier SC 2016 
+ Boys (Al-Asad) · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708021@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T110000
 DTEND;TZID=America/Edmonton:20261213T120000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Villains Ravens 16 · Anne
@@ -120,14 +153,19 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Villains Ravens 16 · Anne
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #929\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #929\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at Villains Ravens 16 · 
+ Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708024@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T080000
 DTEND;TZID=America/Edmonton:20261219T090000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16 · A
@@ -135,43 +173,59 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16 · A
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #932\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #932\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Spartans Adamastos 16
+  · Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708038@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T150000
 DTEND;TZID=America/Edmonton:20270102T160000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs CalGlen Lightning 16 · Fi
  eld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #946\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #946\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs CalGlen Lightning 16 
+ · Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708040@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T110000
 DTEND;TZID=America/Edmonton:20270116T120000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Airdrie F.C. Wanderers 16
   · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #948\nBoys U11 Dev Plus+ JONES\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #948\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at Airdrie F.C. Wanderer
+ s 16 · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708051@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T140000
 DTEND;TZID=America/Edmonton:20270123T150000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at SWU Lyon 16B · Annex - Br
@@ -179,14 +233,19 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at SWU Lyon 16B · Annex - Br
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #959\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #959\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at SWU Lyon 16B · Annex 
+ - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708063@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 · Ma
@@ -194,36 +253,53 @@ SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 · Ma
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #971\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #971\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs Foothills Union 2016 
+ · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708065@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T090000
 DTEND;TZID=America/Edmonton:20270220T100000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 vs NCFC 16 Sounders · Field 
  A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #973\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #973\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 vs NCFC 16 Sounders · Fi
+ eld A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708076@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T110000
 DTEND;TZID=America/Edmonton:20270227T120000
 SUMMARY:⚽ CCFC Calgary City FC Cavalry 2016 at Rockies Albion 16 · Field
   1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #984\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #984\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ CCFC Calgary City FC Cavalry 2016 at Rockies Albion 16 · F
+ ield 1 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

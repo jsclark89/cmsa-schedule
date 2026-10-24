@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701807@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T140000
 DTEND;TZID=America/Edmonton:20261018T150000
 SUMMARY:⚽ Foothills Forest 2016 at SWU Nantes 16B · Main - East · Indoor
@@ -34,14 +34,19 @@ SUMMARY:⚽ Foothills Forest 2016 at SWU Nantes 16B · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #626\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #626\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at SWU Nantes 16B · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701810@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T120000
 DTEND;TZID=America/Edmonton:20261025T130000
 SUMMARY:⚽ Foothills Forest 2016 vs SWU Olympique 16B · Annex - Alpha · I
@@ -49,28 +54,39 @@ SUMMARY:⚽ Foothills Forest 2016 vs SWU Olympique 16B · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #629\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #629\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs SWU Olympique 16B · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701818@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T111500
 DTEND;TZID=America/Edmonton:20261108T121500
 SUMMARY:⚽ Foothills Forest 2016 at LSCA B Chelsea · MSC Dome NW 7v7 · Cl
  eats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #637\nBoys U11 Dev MILLER\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #637\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at LSCA B Chelsea · MSC Dome NW 7v7 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701823@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
 SUMMARY:⚽ Foothills Forest 2016 vs RWFC Royal West FC Shakhtar 16 · Main
@@ -78,14 +94,19 @@ SUMMARY:⚽ Foothills Forest 2016 vs RWFC Royal West FC Shakhtar 16 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #642\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #642\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs RWFC Royal West FC Shakhtar 16 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701831@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
 SUMMARY:⚽ Foothills Forest 2016 at MUSC Forge 16 · Main - East · Indoor 
@@ -93,14 +114,19 @@ SUMMARY:⚽ Foothills Forest 2016 at MUSC Forge 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #650\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #650\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at MUSC Forge 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701837@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
 SUMMARY:⚽ Foothills Forest 2016 vs SWU Reims 16B · Main - West · Indoor 
@@ -108,14 +134,19 @@ SUMMARY:⚽ Foothills Forest 2016 vs SWU Reims 16B · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #656\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #656\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs SWU Reims 16B · Main - West · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701840@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T150000
 DTEND;TZID=America/Edmonton:20261213T160000
 SUMMARY:⚽ Foothills Forest 2016 at SSA Strikers 16/17 · Indoor AT 7v7 · 
@@ -123,14 +154,19 @@ SUMMARY:⚽ Foothills Forest 2016 at SSA Strikers 16/17 · Indoor AT 7v7 ·
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #659\nBoys U11 Dev MILLER\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #659\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at SSA Strikers 16/17 · Indoor AT 7v
+ 7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701846@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T090000
 DTEND;TZID=America/Edmonton:20261220T100000
 SUMMARY:⚽ Foothills Forest 2016 vs Foothills Norwich 2016 · Annex - Brav
@@ -138,14 +174,19 @@ SUMMARY:⚽ Foothills Forest 2016 vs Foothills Norwich 2016 · Annex - Brav
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #665\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #665\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs Foothills Norwich 2016 · Annex - 
+ Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701854@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T130000
 DTEND;TZID=America/Edmonton:20270103T140000
 SUMMARY:⚽ Foothills Forest 2016 at Villains Storm 16 · Main - East · Ind
@@ -153,14 +194,19 @@ SUMMARY:⚽ Foothills Forest 2016 at Villains Storm 16 · Main - East · Ind
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #673\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #673\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at Villains Storm 16 · Main - East ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701857@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T150000
 DTEND;TZID=America/Edmonton:20270110T160000
 SUMMARY:⚽ Foothills Forest 2016 at SWU Olympique 16B · Annex - Alpha · I
@@ -168,14 +214,19 @@ SUMMARY:⚽ Foothills Forest 2016 at SWU Olympique 16B · Annex - Alpha · I
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #676\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #676\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at SWU Olympique 16B · Annex - Alpha
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701861@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ Foothills Forest 2016 vs LSCA B Chelsea · Main - East · Indoor
@@ -183,28 +234,39 @@ SUMMARY:⚽ Foothills Forest 2016 vs LSCA B Chelsea · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #680\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #680\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs LSCA B Chelsea · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701865@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T110000
 DTEND;TZID=America/Edmonton:20270131T120000
 SUMMARY:⚽ Foothills Forest 2016 vs MUSC Valor 16 · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #684\nBoys U11 Dev MILLER\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev MILLER · Game #684\nSchedule: https://jsclark89.g
+ ithub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs MUSC Valor 16 · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701873@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T110000
 DTEND;TZID=America/Edmonton:20270207T120000
 SUMMARY:⚽ Foothills Forest 2016 at RWFC Royal West FC Shakhtar 16 · Main
@@ -212,14 +274,19 @@ SUMMARY:⚽ Foothills Forest 2016 at RWFC Royal West FC Shakhtar 16 · Main
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #692\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #692\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 at RWFC Royal West FC Shakhtar 16 · 
+ Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701877@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T140000
 DTEND;TZID=America/Edmonton:20270221T150000
 SUMMARY:⚽ Foothills Forest 2016 vs SWU Nantes 16B · Main - East · Indoor
@@ -227,24 +294,33 @@ SUMMARY:⚽ Foothills Forest 2016 vs SWU Nantes 16B · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #696\nBoys U11 Dev MILLER\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev MILLER · Game #696\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 vs SWU Nantes 16B · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:training-117130593-0@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T150000
 DTEND;TZID=America/Edmonton:20261017T161500
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270227T235959Z
 SUMMARY:⚽ Foothills Forest 2016 training · Field 4 · Cleats
 LOCATION:Foothills Skills Centre Field 4\, 3916 56 Ave SE\, Calgary\, AB
   T2C 2B5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nTeam s
- ession\nShin pads every session. Bring a water bottle.\nSource: Calgary
-  Foothills Soccer Club email\, 2026-10-11\nSchedule: https://jsclark89.
- github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nShin pads every session. Bring a water bottle.\nSchedule: http
+ s://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Forest 2016 training · Field 4 · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

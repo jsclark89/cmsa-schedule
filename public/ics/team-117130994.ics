@@ -26,110 +26,156 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708425@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T101500
 DTEND;TZID=America/Edmonton:20261018T111500
 SUMMARY:⚽ RANGERS WFC 16 BLUE at Blizzard SC 16 Girls · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4264\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4264\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at Blizzard SC 16 Girls · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708444@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T091500
 DTEND;TZID=America/Edmonton:20261025T101500
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs SWU Reign 16G · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4269\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4269\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs SWU Reign 16G · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708451@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T121500
 DTEND;TZID=America/Edmonton:20261108T131500
 SUMMARY:⚽ RANGERS WFC 16 BLUE at WHU West Hills Spirit 16 · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4274\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4274\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at WHU West Hills Spirit 16 · Field 4 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708455@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs Airdrie F.C. Wild 16 · Field A (7v7) · 
  Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4277\nGirls U11 Dev Plus+ REGAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ REGAN · Game #4277\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs Airdrie F.C. Wild 16 · Field A (7v7
+ ) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708460@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T090000
 DTEND;TZID=America/Edmonton:20261122T100000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs New Frontier SC 2016 Girls (Correa) · F
  ield 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4281\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4281\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs New Frontier SC 2016 Girls (Correa)
+  · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708466@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T130000
 DTEND;TZID=America/Edmonton:20261129T140000
 SUMMARY:⚽ RANGERS WFC 16 BLUE at Villains Vipers 16 · Field A (7v7) · Cl
  eats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4285\nGirls U11 Dev Plus+ REGAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ REGAN · Game #4285\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at Villains Vipers 16 · Field A (7v7) 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708470@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T100000
 DTEND;TZID=America/Edmonton:20261220T110000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs Foothills WFC Green 2016 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4288\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4288\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs Foothills WFC Green 2016 · Field 3 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708479@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T160000
 DTEND;TZID=America/Edmonton:20270103T170000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs Blizzard SC 16 Girls · Field A (7v7) · 
  Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4295\nGirls U11 Dev Plus+ REGAN\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ REGAN · Game #4295\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs Blizzard SC 16 Girls · Field A (7v7
+ ) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708483@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T150000
 DTEND;TZID=America/Edmonton:20270109T160000
 SUMMARY:⚽ RANGERS WFC 16 BLUE at SWU Reign 16G · Annex - Alpha · Indoor 
@@ -137,40 +183,56 @@ SUMMARY:⚽ RANGERS WFC 16 BLUE at SWU Reign 16G · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4298\nGirls U11 Dev Plus+ REGAN\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ REGAN · Game #4298\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at SWU Reign 16G · Annex - Alpha · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708487@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T080000
 DTEND;TZID=America/Edmonton:20270117T090000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs WHU West Hills Spirit 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4301\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U11 Dev Plus+ REGAN · Game #4301\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs WHU West Hills Spirit 16 · Field 2 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708491@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T140000
 DTEND;TZID=America/Edmonton:20270131T150000
 SUMMARY:⚽ RANGERS WFC 16 BLUE at Airdrie F.C. Wild 16 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #4304\nGirls U11 Dev Plus+ REGAN\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ REGAN · Game #4304\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at Airdrie F.C. Wild 16 · Field 2 · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708500@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T100000
 DTEND;TZID=America/Edmonton:20270207T110000
 SUMMARY:⚽ RANGERS WFC 16 BLUE at New Frontier SC 2016 Girls (Correa) · M
@@ -178,28 +240,39 @@ SUMMARY:⚽ RANGERS WFC 16 BLUE at New Frontier SC 2016 Girls (Correa) · M
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4310\nGirls U11 Dev Plus+ REGAN\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ REGAN · Game #4310\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at New Frontier SC 2016 Girls (Correa)
+  · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708504@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T110000
 DTEND;TZID=America/Edmonton:20270221T120000
 SUMMARY:⚽ RANGERS WFC 16 BLUE vs Villains Vipers 16 · MSC Dome SE 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4313\nGirls U11 Dev Plus+ REGAN\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U11 Dev Plus+ REGAN · Game #4313\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE vs Villains Vipers 16 · MSC Dome SE 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708510@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T090000
 DTEND;TZID=America/Edmonton:20270228T100000
 SUMMARY:⚽ RANGERS WFC 16 BLUE at Foothills WFC Green 2016 · Annex - Delt
@@ -207,9 +280,14 @@ SUMMARY:⚽ RANGERS WFC 16 BLUE at Foothills WFC Green 2016 · Annex - Delt
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4318\nGirls U11 Dev Plus+ REGAN\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U11 Dev Plus+ REGAN · Game #4318\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RANGERS WFC 16 BLUE at Foothills WFC Green 2016 · Annex - 
+ Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

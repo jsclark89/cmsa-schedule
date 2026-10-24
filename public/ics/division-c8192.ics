@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107980@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T191500
 DTEND;TZID=America/Edmonton:20261102T201500
 SUMMARY:⚽ Shoot It Straight vs Axios FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shoot It Straight vs Axios FC · Main - North · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107983@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T191500
 DTEND;TZID=America/Edmonton:20261102T201500
 SUMMARY:⚽ Getting Recd vs Marky Mark and The Funky Bunch · Main - South 
@@ -48,42 +53,56 @@ SUMMARY:⚽ Getting Recd vs Marky Mark and The Funky Bunch · Main - South
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Getting Recd vs Marky Mark and The Funky Bunch · Main - So
+ uth · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107981@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T201500
 DTEND;TZID=America/Edmonton:20261102T211500
 SUMMARY:⚽ S Wanderers FC vs Shadow Genesis · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S Wanderers FC vs Shadow Genesis · Main - North · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107984@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T201500
 DTEND;TZID=America/Edmonton:20261102T211500
 SUMMARY:⚽ Zoomies FC vs Arse'n'all · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Zoomies FC vs Arse'n'all · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107985@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261102T211500
 DTEND;TZID=America/Edmonton:20261102T221500
 SUMMARY:⚽ Tequila FC vs F.C. Torta Pounders · Main - South · Indoor shoe
@@ -91,14 +110,19 @@ SUMMARY:⚽ Tequila FC vs F.C. Torta Pounders · Main - South · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Tequila FC vs F.C. Torta Pounders · Main - South · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108001@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261110T191500
 DTEND;TZID=America/Edmonton:20261110T201500
 SUMMARY:⚽ Zoomies FC vs F.C. Torta Pounders · Main - South · Indoor shoe
@@ -106,56 +130,74 @@ SUMMARY:⚽ Zoomies FC vs F.C. Torta Pounders · Main - South · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Zoomies FC vs F.C. Torta Pounders · Main - South · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108002@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261110T201500
 DTEND;TZID=America/Edmonton:20261110T211500
 SUMMARY:⚽ Getting Recd vs Arse'n'all · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Getting Recd vs Arse'n'all · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108005@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261112T191500
 DTEND;TZID=America/Edmonton:20261112T201500
 SUMMARY:⚽ Axios FC vs Shadow Genesis · Annex - Bravo · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Axios FC vs Shadow Genesis · Annex - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108006@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261112T201500
 DTEND;TZID=America/Edmonton:20261112T211500
 SUMMARY:⚽ Shoot It Straight vs Tequila FC · Annex - Bravo · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shoot It Straight vs Tequila FC · Annex - Bravo · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108007@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261112T211500
 DTEND;TZID=America/Edmonton:20261112T221500
 SUMMARY:⚽ S Wanderers FC vs Marky Mark and The Funky Bunch · Main - East
@@ -163,14 +205,19 @@ SUMMARY:⚽ S Wanderers FC vs Marky Mark and The Funky Bunch · Main - East
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S Wanderers FC vs Marky Mark and The Funky Bunch · Main - 
+ East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108024@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T191500
 DTEND;TZID=America/Edmonton:20261116T201500
 SUMMARY:⚽ F.C. Torta Pounders vs Getting Recd · Main - North · Indoor sh
@@ -178,14 +225,19 @@ SUMMARY:⚽ F.C. Torta Pounders vs Getting Recd · Main - North · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ F.C. Torta Pounders vs Getting Recd · Main - North · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108027@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T191500
 DTEND;TZID=America/Edmonton:20261116T201500
 SUMMARY:⚽ Marky Mark and The Funky Bunch vs Axios FC · Main - South · In
@@ -193,28 +245,37 @@ SUMMARY:⚽ Marky Mark and The Funky Bunch vs Axios FC · Main - South · In
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Marky Mark and The Funky Bunch vs Axios FC · Main - South 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108025@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T201500
 DTEND;TZID=America/Edmonton:20261116T211500
 SUMMARY:⚽ Tequila FC vs Zoomies FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Tequila FC vs Zoomies FC · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108026@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T211500
 DTEND;TZID=America/Edmonton:20261116T221500
 SUMMARY:⚽ Shadow Genesis vs Shoot It Straight · Main - North · Indoor sh
@@ -222,70 +283,92 @@ SUMMARY:⚽ Shadow Genesis vs Shoot It Straight · Main - North · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shadow Genesis vs Shoot It Straight · Main - North · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108028@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261116T211500
 DTEND;TZID=America/Edmonton:20261116T221500
 SUMMARY:⚽ Arse'n'all vs S Wanderers FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Arse'n'all vs S Wanderers FC · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108046@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T150000
 DTEND;TZID=America/Edmonton:20261121T160000
 SUMMARY:⚽ Arse'n'all vs F.C. Torta Pounders · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Arse'n'all vs F.C. Torta Pounders · Main - East · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108047@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T160000
 DTEND;TZID=America/Edmonton:20261121T170000
 SUMMARY:⚽ Axios FC vs Getting Recd · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Axios FC vs Getting Recd · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108048@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T170000
 DTEND;TZID=America/Edmonton:20261121T180000
 SUMMARY:⚽ Shadow Genesis vs Zoomies FC · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shadow Genesis vs Zoomies FC · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108049@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T180000
 DTEND;TZID=America/Edmonton:20261121T190000
 SUMMARY:⚽ Marky Mark and The Funky Bunch vs Tequila FC · Main - East · I
@@ -293,14 +376,19 @@ SUMMARY:⚽ Marky Mark and The Funky Bunch vs Tequila FC · Main - East · I
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Marky Mark and The Funky Bunch vs Tequila FC · Main - East
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108051@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T140000
 DTEND;TZID=America/Edmonton:20261122T150000
 SUMMARY:⚽ Shoot It Straight vs S Wanderers FC · Main - North · Indoor sh
@@ -308,14 +396,19 @@ SUMMARY:⚽ Shoot It Straight vs S Wanderers FC · Main - North · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shoot It Straight vs S Wanderers FC · Main - North · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108057@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261124T193000
 DTEND;TZID=America/Edmonton:20261124T203000
 SUMMARY:⚽ Shadow Genesis vs Marky Mark and The Funky Bunch · Main - West
@@ -323,28 +416,38 @@ SUMMARY:⚽ Shadow Genesis vs Marky Mark and The Funky Bunch · Main - West
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shadow Genesis vs Marky Mark and The Funky Bunch · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108060@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261125T201500
 DTEND;TZID=America/Edmonton:20261125T211500
 SUMMARY:⚽ Shoot It Straight vs Zoomies FC · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shoot It Straight vs Zoomies FC · Main - East · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108063@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261125T201500
 DTEND;TZID=America/Edmonton:20261125T211500
 SUMMARY:⚽ S Wanderers FC vs F.C. Torta Pounders · Main - North · Indoor 
@@ -352,56 +455,74 @@ SUMMARY:⚽ S Wanderers FC vs F.C. Torta Pounders · Main - North · Indoor
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S Wanderers FC vs F.C. Torta Pounders · Main - North · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108071@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261126T191500
 DTEND;TZID=America/Edmonton:20261126T201500
 SUMMARY:⚽ Axios FC vs Arse'n'all · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Axios FC vs Arse'n'all · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108068@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261126T211500
 DTEND;TZID=America/Edmonton:20261126T221500
 SUMMARY:⚽ Getting Recd vs Tequila FC · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Getting Recd vs Tequila FC · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108087@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T191500
 DTEND;TZID=America/Edmonton:20261130T201500
 SUMMARY:⚽ F.C. Torta Pounders vs Axios FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ F.C. Torta Pounders vs Axios FC · Main - North · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108090@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T191500
 DTEND;TZID=America/Edmonton:20261130T201500
 SUMMARY:⚽ Marky Mark and The Funky Bunch vs Shoot It Straight · Main - S
@@ -409,56 +530,74 @@ SUMMARY:⚽ Marky Mark and The Funky Bunch vs Shoot It Straight · Main - S
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Marky Mark and The Funky Bunch vs Shoot It Straight · Main
+  - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108088@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T201500
 DTEND;TZID=America/Edmonton:20261130T211500
 SUMMARY:⚽ Tequila FC vs S Wanderers FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Tequila FC vs S Wanderers FC · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108086@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T211500
 DTEND;TZID=America/Edmonton:20261130T221500
 SUMMARY:⚽ Arse'n'all vs Shadow Genesis · Annex - Bravo · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Arse'n'all vs Shadow Genesis · Annex - Bravo · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108089@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T211500
 DTEND;TZID=America/Edmonton:20261130T221500
 SUMMARY:⚽ Zoomies FC vs Getting Recd · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Zoomies FC vs Getting Recd · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108110@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261207T191500
 DTEND;TZID=America/Edmonton:20261207T201500
 SUMMARY:⚽ Shoot It Straight vs Getting Recd · Main - North · Indoor shoe
@@ -466,14 +605,19 @@ SUMMARY:⚽ Shoot It Straight vs Getting Recd · Main - North · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shoot It Straight vs Getting Recd · Main - North · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108111@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261207T201500
 DTEND;TZID=America/Edmonton:20261207T211500
 SUMMARY:⚽ Shadow Genesis vs F.C. Torta Pounders · Main - North · Indoor 
@@ -481,14 +625,19 @@ SUMMARY:⚽ Shadow Genesis vs F.C. Torta Pounders · Main - North · Indoor
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Shadow Genesis vs F.C. Torta Pounders · Main - North · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108112@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261207T211500
 DTEND;TZID=America/Edmonton:20261207T221500
 SUMMARY:⚽ Marky Mark and The Funky Bunch vs Arse'n'all · Main - North · 
@@ -496,42 +645,56 @@ SUMMARY:⚽ Marky Mark and The Funky Bunch vs Arse'n'all · Main - North ·
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Marky Mark and The Funky Bunch vs Arse'n'all · Main - Nort
+ h · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108109@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261207T213000
 DTEND;TZID=America/Edmonton:20261207T223000
 SUMMARY:⚽ S Wanderers FC vs Zoomies FC · Annex - Bravo · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S Wanderers FC vs Zoomies FC · Annex - Bravo · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108118@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261209T191500
 DTEND;TZID=America/Edmonton:20261209T201500
 SUMMARY:⚽ Axios FC vs Tequila FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Axios FC vs Tequila FC · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108137@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T191500
 DTEND;TZID=America/Edmonton:20261214T201500
 SUMMARY:⚽ F.C. Torta Pounders vs Marky Mark and The Funky Bunch · Main -
@@ -539,65 +702,88 @@ SUMMARY:⚽ F.C. Torta Pounders vs Marky Mark and The Funky Bunch · Main -
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ F.C. Torta Pounders vs Marky Mark and The Funky Bunch · Ma
+ in - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108140@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T191500
 DTEND;TZID=America/Edmonton:20261214T201500
 SUMMARY:⚽ Getting Recd vs S Wanderers FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Getting Recd vs S Wanderers FC · Main - South · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108138@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T201500
 DTEND;TZID=America/Edmonton:20261214T211500
 SUMMARY:⚽ Tequila FC vs Shadow Genesis · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Tequila FC vs Shadow Genesis · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108145@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T191500
 DTEND;TZID=America/Edmonton:20261216T201500
 SUMMARY:⚽ Zoomies FC vs Axios FC · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Zoomies FC vs Axios FC · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108143@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T201500
 DTEND;TZID=America/Edmonton:20261216T211500
 SUMMARY:⚽ Arse'n'all vs Shoot It Straight · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nIntermediate\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nIntermediate\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Arse'n'all vs Shoot It Straight · Main - East · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 END:VCALENDAR

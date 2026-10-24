@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707717@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T160000
 DTEND;TZID=America/Edmonton:20261025T170000
 SUMMARY:⚽ Foothills Courage 2017 at CUFC Queens 2017/18 · Annex - Bravo 
@@ -34,14 +34,19 @@ SUMMARY:⚽ Foothills Courage 2017 at CUFC Queens 2017/18 · Annex - Bravo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #3992\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #3992\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at CUFC Queens 2017/18 · Annex - Br
+ avo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707725@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T140000
 DTEND;TZID=America/Edmonton:20261101T150000
 SUMMARY:⚽ Foothills Courage 2017 vs OUSC United G16 · Annex - Alpha · In
@@ -49,28 +54,39 @@ SUMMARY:⚽ Foothills Courage 2017 vs OUSC United G16 · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4000\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4000\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs OUSC United G16 · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707730@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
 SUMMARY:⚽ Foothills Courage 2017 vs Villains Strikers 17 · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4005\nGirls U10 Dev Plus+ LARISEY\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4005\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs Villains Strikers 17 · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707733@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ Foothills Courage 2017 vs Blizzard United 17 Girls · Main - We
@@ -78,14 +94,19 @@ SUMMARY:⚽ Foothills Courage 2017 vs Blizzard United 17 Girls · Main - We
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4008\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4008\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs Blizzard United 17 Girls · Main 
+ - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707739@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:⚽ Foothills Courage 2017 at MUSC Mavericks 17 · Main - East · In
@@ -93,14 +114,19 @@ SUMMARY:⚽ Foothills Courage 2017 at MUSC Mavericks 17 · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4014\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4014\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at MUSC Mavericks 17 · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707741@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T080000
 DTEND;TZID=America/Edmonton:20261206T090000
 SUMMARY:⚽ Foothills Courage 2017 vs EMFC Spirit 17 · Main - East · Indoo
@@ -108,14 +134,19 @@ SUMMARY:⚽ Foothills Courage 2017 vs EMFC Spirit 17 · Main - East · Indoo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4016\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4016\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs EMFC Spirit 17 · Main - East · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707746@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T150000
 DTEND;TZID=America/Edmonton:20261220T160000
 SUMMARY:⚽ Foothills Courage 2017 at CNEU 2017 Sting · Indoor AT 7v7 · In
@@ -123,14 +154,19 @@ SUMMARY:⚽ Foothills Courage 2017 at CNEU 2017 Sting · Indoor AT 7v7 · In
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #4021\nGirls U10 Dev Plus+ LARISEY\n
- Schedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4021\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at CNEU 2017 Sting · Indoor AT 7v7 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707753@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T100000
 DTEND;TZID=America/Edmonton:20270103T110000
 SUMMARY:⚽ Foothills Courage 2017 vs Foothills Tides 2017 · Annex - Charl
@@ -138,14 +174,19 @@ SUMMARY:⚽ Foothills Courage 2017 vs Foothills Tides 2017 · Annex - Charl
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4028\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4028\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs Foothills Tides 2017 · Annex - C
+ harlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707757@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
 SUMMARY:⚽ Foothills Courage 2017 at Spartans Aphrodite 18/17 · Indoor AT
@@ -153,14 +194,19 @@ SUMMARY:⚽ Foothills Courage 2017 at Spartans Aphrodite 18/17 · Indoor AT
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #4032\nGirls U10 Dev Plus+ LARISEY\n
- Schedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4032\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at Spartans Aphrodite 18/17 · Indoo
+ r AT 7v7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707764@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
 SUMMARY:⚽ Foothills Courage 2017 vs CUFC Queens 2017/18 · Annex - Alpha 
@@ -168,14 +214,19 @@ SUMMARY:⚽ Foothills Courage 2017 vs CUFC Queens 2017/18 · Annex - Alpha
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4039\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4039\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs CUFC Queens 2017/18 · Annex - Al
+ pha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707767@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ Foothills Courage 2017 at OUSC United G16 · Main - West · Indo
@@ -183,14 +234,19 @@ SUMMARY:⚽ Foothills Courage 2017 at OUSC United G16 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4042\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4042\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at OUSC United G16 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707773@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T100000
 DTEND;TZID=America/Edmonton:20270207T110000
 SUMMARY:⚽ Foothills Courage 2017 at Villains Strikers 17 · Annex - Charl
@@ -198,27 +254,38 @@ SUMMARY:⚽ Foothills Courage 2017 at Villains Strikers 17 · Annex - Charl
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4048\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4048\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at Villains Strikers 17 · Annex - C
+ harlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707779@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T111500
 DTEND;TZID=America/Edmonton:20270221T121500
 SUMMARY:⚽ Foothills Courage 2017 at Blizzard United 17 Girls · Field 3 7
  v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4054\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4054\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 at Blizzard United 17 Girls · Field
+  3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707785@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T130000
 DTEND;TZID=America/Edmonton:20270228T140000
 SUMMARY:⚽ Foothills Courage 2017 vs MUSC Mavericks 17 · Annex - Delta · 
@@ -226,9 +293,14 @@ SUMMARY:⚽ Foothills Courage 2017 vs MUSC Mavericks 17 · Annex - Delta ·
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4060\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4060\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Courage 2017 vs MUSC Mavericks 17 · Annex - Delt
+ a · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

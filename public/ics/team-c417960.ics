@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107972@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T171500
 DTEND;TZID=America/Edmonton:20261101T181500
 SUMMARY:⚽ Kick and Run FC vs Shadow FC · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC vs Shadow FC · Annex - Alpha · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107998@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261106T211500
 DTEND;TZID=America/Edmonton:20261106T221500
 SUMMARY:⚽ Kick and Run FC at The Call Me Maybes · Main - North · Indoor 
@@ -48,93 +53,126 @@ SUMMARY:⚽ Kick and Run FC at The Call Me Maybes · Main - North · Indoor
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC at The Call Me Maybes · Main - North · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108015@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T160000
 DTEND;TZID=America/Edmonton:20261114T170000
 SUMMARY:⚽ Kick and Run FC vs Trojans FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC vs Trojans FC · Main - South · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108056@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T191500
 DTEND;TZID=America/Edmonton:20261123T201500
 SUMMARY:⚽ Kick and Run FC at Lager Legends · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC at Lager Legends · Main - West · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108081@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T161500
 DTEND;TZID=America/Edmonton:20261129T171500
 SUMMARY:⚽ Kick and Run FC vs Qa'Pla · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC vs Qa'Pla · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108099@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261202T191500
 DTEND;TZID=America/Edmonton:20261202T201500
 SUMMARY:⚽ Kick and Run FC at Claymores FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC at Claymores FC · Main - South · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108132@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T203000
 DTEND;TZID=America/Edmonton:20261213T213000
 SUMMARY:⚽ Kick and Run FC vs Saddleridge FC · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC vs Saddleridge FC · Main - East · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108139@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T211500
 DTEND;TZID=America/Edmonton:20261214T221500
 SUMMARY:⚽ Kick and Run FC at Renegades · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kick and Run FC at Renegades · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

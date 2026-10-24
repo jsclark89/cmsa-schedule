@@ -26,177 +26,258 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707201@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T110000
 DTEND;TZID=America/Edmonton:20261025T120000
 SUMMARY:⚽ Blizzard Rovers 17 Boys at WHU West Hills Ferraris 17 · Field 
  1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #67\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #67\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at WHU West Hills Ferraris 17 · Fi
+ eld 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707207@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs Rockies Villareal 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #73\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #73\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs Rockies Villareal 17 · Field 1 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707210@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T100000
 DTEND;TZID=America/Edmonton:20261108T110000
 SUMMARY:⚽ Blizzard Rovers 17 Boys at Rockies Vigo 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #76\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #76\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at Rockies Vigo 17 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707214@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T091500
 DTEND;TZID=America/Edmonton:20261122T101500
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs RANGERS SPORTIF 17 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #80\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #80\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs RANGERS SPORTIF 17 · Field 2 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707221@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T111500
 DTEND;TZID=America/Edmonton:20261129T121500
 SUMMARY:⚽ Blizzard Rovers 17 Boys at CNS U10B Phoenix 17 Dev · Field 2 7
  v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #87\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #87\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at CNS U10B Phoenix 17 Dev · Field
+  2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707223@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T080000
 DTEND;TZID=America/Edmonton:20261206T090000
 SUMMARY:⚽ Blizzard Rovers 17 Boys at Blizzard Wanderers 17 Boys · Field 
  3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #89\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #89\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at Blizzard Wanderers 17 Boys · Fi
+ eld 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707230@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T101500
 DTEND;TZID=America/Edmonton:20261213T111500
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs Blizzard Sporting 17 Boys · Field 4
   7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #96\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #96\nSchedule: https://jsclark8
+ 9.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs Blizzard Sporting 17 Boys · Fie
+ ld 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707236@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T110000
 DTEND;TZID=America/Edmonton:20261220T120000
 SUMMARY:⚽ Blizzard Rovers 17 Boys at Blizzard Albion 17 Boys · Field 1 7
  v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #102\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #102\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at Blizzard Albion 17 Boys · Field
+  1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707239@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T090000
 DTEND;TZID=America/Edmonton:20270103T100000
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs CWFC B2017 Green · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #105\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #105\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs CWFC B2017 Green · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707243@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T081500
 DTEND;TZID=America/Edmonton:20270117T091500
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs WHU West Hills Ferraris 17 · Field 
  1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #109\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #109\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs WHU West Hills Ferraris 17 · Fi
+ eld 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707251@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T111500
 DTEND;TZID=America/Edmonton:20270124T121500
 SUMMARY:⚽ Blizzard Rovers 17 Boys at Rockies Villareal 17 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #117\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #117\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at Rockies Villareal 17 · Field 3 
+ 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707257@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T121500
 DTEND;TZID=America/Edmonton:20270207T131500
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs Rockies Vigo 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #123\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #123\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs Rockies Vigo 17 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707261@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T111500
 DTEND;TZID=America/Edmonton:20270221T121500
 SUMMARY:⚽ Blizzard Rovers 17 Boys at RANGERS SPORTIF 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #127\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #127\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys at RANGERS SPORTIF 17 · Field 1 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707265@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T101500
 DTEND;TZID=America/Edmonton:20270228T111500
 SUMMARY:⚽ Blizzard Rovers 17 Boys vs CNS U10B Phoenix 17 Dev · Field 4 7
  v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #131\nBoys U10 Dev JEBBISON\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev JEBBISON · Game #131\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Rovers 17 Boys vs CNS U10B Phoenix 17 Dev · Field
+  4 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

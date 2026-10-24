@@ -26,31 +26,41 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707391@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T090000
 DTEND;TZID=America/Edmonton:20261018T100000
 SUMMARY:⚽ Rockies Albion 17 vs Villains Pacers 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #138\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #138\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs Villains Pacers 17 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707399@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T110000
 DTEND;TZID=America/Edmonton:20261025T120000
 SUMMARY:⚽ Rockies Albion 17 vs CNEU Skyview 2017 Lions · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #146\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #146\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs CNEU Skyview 2017 Lions · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707406@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T140000
 DTEND;TZID=America/Edmonton:20261101T150000
 SUMMARY:⚽ Rockies Albion 17 at Foothills Milan 2017 · Main - West · Indo
@@ -58,67 +68,93 @@ SUMMARY:⚽ Rockies Albion 17 at Foothills Milan 2017 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #153\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #153\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at Foothills Milan 2017 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707414@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:⚽ Rockies Albion 17 vs Blizzard United 17 Boys · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #161\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #161\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs Blizzard United 17 Boys · Field 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707420@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T170000
 DTEND;TZID=America/Edmonton:20261122T180000
 SUMMARY:⚽ Rockies Albion 17 at Airdrie F.C. Inter 17 · Field 2 · Cleats
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Airdrie Genesis — Boarded field (boards not in use for
-  7v7)\nGame #167\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #167\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at Airdrie F.C. Inter 17 · Field 2 · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707432@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
 SUMMARY:⚽ Rockies Albion 17 vs New Frontier SC 2017 Boys (Marra) · Field
   3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #179\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #179\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs New Frontier SC 2017 Boys (Marra) · F
+ ield 3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707435@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T090000
 DTEND;TZID=America/Edmonton:20261205T100000
 SUMMARY:⚽ Rockies Albion 17 at OUSC Okotoks United B17 · Blue · Cleats
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Boarded field (boards not in use for 7v7)\nGame #182\n
- Boys U10 Dev Plus+ BADWAL\nSchedule: https://jsclark89.github.io/cmsa-s
- chedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #182\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at OUSC Okotoks United B17 · Blue · Clea
+ ts
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707446@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T090000
 DTEND;TZID=America/Edmonton:20261213T100000
 SUMMARY:⚽ Rockies Albion 17 at Spartans Atromitos 17 · Main - West · Ind
@@ -126,28 +162,39 @@ SUMMARY:⚽ Rockies Albion 17 at Spartans Atromitos 17 · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #193\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #193\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at Spartans Atromitos 17 · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707458@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T120000
 DTEND;TZID=America/Edmonton:20270103T130000
 SUMMARY:⚽ Rockies Albion 17 vs WHU West Hills Chargers 17 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #205\nBoys U10 Dev Plus+ BADWAL\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #205\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs WHU West Hills Chargers 17 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707459@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T110000
 DTEND;TZID=America/Edmonton:20270110T120000
 SUMMARY:⚽ Rockies Albion 17 at EMFC Revolution 17 · Annex - Bravo · Indo
@@ -155,26 +202,36 @@ SUMMARY:⚽ Rockies Albion 17 at EMFC Revolution 17 · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #206\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #206\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at EMFC Revolution 17 · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707472@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T080000
 DTEND;TZID=America/Edmonton:20270124T090000
 SUMMARY:⚽ Rockies Albion 17 vs Foothills Roma 2017 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #219\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #219\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs Foothills Roma 2017 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707487@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T100000
 DTEND;TZID=America/Edmonton:20270207T110000
 SUMMARY:⚽ Rockies Albion 17 at CNS U10B Phantoms 17 C · Annex - Delta · 
@@ -182,35 +239,51 @@ SUMMARY:⚽ Rockies Albion 17 at CNS U10B Phantoms 17 C · Annex - Delta ·
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #234\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #234\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at CNS U10B Phantoms 17 C · Annex - Delt
+ a · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707496@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T090000
 DTEND;TZID=America/Edmonton:20270221T100000
 SUMMARY:⚽ Rockies Albion 17 at Chinooks FC Selects 2017 · Field A (7v7) 
  · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #243\nBoys U10 Dev Plus+ BADWAL\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #243\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 at Chinooks FC Selects 2017 · Field A (7
+ v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707504@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T141500
 DTEND;TZID=America/Edmonton:20270228T151500
 SUMMARY:⚽ Rockies Albion 17 vs Spartans Ares 17 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #251\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #251\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Rockies Albion 17 vs Spartans Ares 17 · Field 2 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

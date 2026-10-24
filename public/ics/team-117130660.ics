@@ -26,33 +26,44 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707972@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T140000
 DTEND;TZID=America/Edmonton:20261017T150000
 SUMMARY:⚽ NCFC 16 Sounders at SWU Lyon 16B · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #880\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #880\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at SWU Lyon 16B · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707981@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T100000
 DTEND;TZID=America/Edmonton:20261024T110000
 SUMMARY:⚽ NCFC 16 Sounders vs Airdrie F.C. Wanderers 16 · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #889\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #889\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Airdrie F.C. Wanderers 16 · Field 3 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707984@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261107T140000
 DTEND;TZID=America/Edmonton:20261107T150000
 SUMMARY:⚽ NCFC 16 Sounders at New Frontier SC 2016 Boys (Al-Asad) · Anne
@@ -60,14 +71,19 @@ SUMMARY:⚽ NCFC 16 Sounders at New Frontier SC 2016 Boys (Al-Asad) · Anne
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #892\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #892\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at New Frontier SC 2016 Boys (Al-Asad) · 
+ Annex - Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707993@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T080000
 DTEND;TZID=America/Edmonton:20261114T090000
 SUMMARY:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - East · 
@@ -75,14 +91,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #901\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #901\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Chinooks FC Premiers 2016 · Main - Eas
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708005@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T140000
 DTEND;TZID=America/Edmonton:20261121T150000
 SUMMARY:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · Indo
@@ -90,28 +111,38 @@ SUMMARY:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #913\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #913\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Rockies Dundee 16 · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708009@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T140000
 DTEND;TZID=America/Edmonton:20261128T150000
 SUMMARY:⚽ NCFC 16 Sounders vs EMFC Crew 16 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #917\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #917\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs EMFC Crew 16 · Main - East · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708022@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T120000
 DTEND;TZID=America/Edmonton:20261213T130000
 SUMMARY:⚽ NCFC 16 Sounders at Foothills Union 2016 · Annex - Bravo · Ind
@@ -119,26 +150,37 @@ SUMMARY:⚽ NCFC 16 Sounders at Foothills Union 2016 · Annex - Bravo · Ind
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #930\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #930\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at Foothills Union 2016 · Annex - Bravo ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708029@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:⚽ NCFC 16 Sounders vs WHU West Hills Mustangs 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #937\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #937\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs WHU West Hills Mustangs 16 · Field 1 7
+ v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708036@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270102T120000
 DTEND;TZID=America/Edmonton:20270102T130000
 SUMMARY:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indoor s
@@ -146,14 +188,19 @@ SUMMARY:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #944\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #944\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Rockies Albion 16 · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708047@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T150000
 DTEND;TZID=America/Edmonton:20270116T160000
 SUMMARY:⚽ NCFC 16 Sounders at CalGlen Lightning 16 · Main - West · Indoo
@@ -161,14 +208,19 @@ SUMMARY:⚽ NCFC 16 Sounders at CalGlen Lightning 16 · Main - West · Indoo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #955\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #955\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at CalGlen Lightning 16 · Main - West · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708052@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T150000
 DTEND;TZID=America/Edmonton:20270123T160000
 SUMMARY:⚽ NCFC 16 Sounders at Spartans Adamastos 16 · Annex - Bravo · In
@@ -176,14 +228,19 @@ SUMMARY:⚽ NCFC 16 Sounders at Spartans Adamastos 16 · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #960\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #960\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at Spartans Adamastos 16 · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708062@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270206T140000
 DTEND;TZID=America/Edmonton:20270206T150000
 SUMMARY:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Indoor 
@@ -191,35 +248,51 @@ SUMMARY:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #970\nBoys U11 Dev Plus+ JONES\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ JONES · Game #970\nSchedule: htt
+ ps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders vs Villains Ravens 16 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708065@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T090000
 DTEND;TZID=America/Edmonton:20270220T100000
 SUMMARY:⚽ NCFC 16 Sounders at CCFC Calgary City FC Cavalry 2016 · Field 
  A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #973\nBoys U11 Dev Plus+ JONES\nSchedule: https://
- jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ JONES · Game #973\nSchedule: https://jsclar
+ k89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at CCFC Calgary City FC Cavalry 2016 · Fi
+ eld A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708079@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T111500
 DTEND;TZID=America/Edmonton:20270227T121500
 SUMMARY:⚽ NCFC 16 Sounders at Blizzard Albion 16 Boys · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #987\nBoys U11 Dev Plus+ JONES\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ JONES · Game #987\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ NCFC 16 Sounders at Blizzard Albion 16 Boys · Field 4 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

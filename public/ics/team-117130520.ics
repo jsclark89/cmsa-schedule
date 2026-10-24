@@ -26,19 +26,24 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707391@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T090000
 DTEND;TZID=America/Edmonton:20261018T100000
 SUMMARY:⚽ Villains Pacers 17 at Rockies Albion 17 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #138\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #138\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at Rockies Albion 17 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707404@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
 SUMMARY:⚽ Villains Pacers 17 vs WHU West Hills Chargers 17 · Main - West
@@ -46,14 +51,19 @@ SUMMARY:⚽ Villains Pacers 17 vs WHU West Hills Chargers 17 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #151\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #151\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs WHU West Hills Chargers 17 · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707411@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
 SUMMARY:⚽ Villains Pacers 17 at EMFC Revolution 17 · Indoor AT 7v7 · Ind
@@ -61,52 +71,74 @@ SUMMARY:⚽ Villains Pacers 17 at EMFC Revolution 17 · Indoor AT 7v7 · Ind
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #158\nBoys U10 Dev Plus+ BADWAL\nSch
- edule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #158\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at EMFC Revolution 17 · Indoor AT 7v7 ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707426@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T110000
 DTEND;TZID=America/Edmonton:20261122T120000
 SUMMARY:⚽ Villains Pacers 17 vs Foothills Roma 2017 · Field A (7v7) · Cl
  eats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #173\nBoys U10 Dev Plus+ BADWAL\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #173\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs Foothills Roma 2017 · Field A (7v7) 
+ · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707431@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
 SUMMARY:⚽ Villains Pacers 17 at Blizzard United 17 Boys · Field 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #178\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #178\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at Blizzard United 17 Boys · Field 3 7v
+ 7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707440@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T111500
 DTEND;TZID=America/Edmonton:20261206T121500
 SUMMARY:⚽ Villains Pacers 17 at CNS U10B Phantoms 17 C · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #187\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #187\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at CNS U10B Phantoms 17 C · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707447@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T100000
 DTEND;TZID=America/Edmonton:20261213T110000
 SUMMARY:⚽ Villains Pacers 17 vs Chinooks FC Selects 2017 · Main - West ·
@@ -114,28 +146,39 @@ SUMMARY:⚽ Villains Pacers 17 vs Chinooks FC Selects 2017 · Main - West ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #194\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #194\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs Chinooks FC Selects 2017 · Main - We
+ st · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707455@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T090000
 DTEND;TZID=America/Edmonton:20270103T100000
 SUMMARY:⚽ Villains Pacers 17 vs RANGERS FC17 NAVY · Field A (7v7) · Clea
  ts
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #202\nBoys U10 Dev Plus+ BADWAL\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #202\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs RANGERS FC17 NAVY · Field A (7v7) · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707460@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T120000
 DTEND;TZID=America/Edmonton:20270110T130000
 SUMMARY:⚽ Villains Pacers 17 at Spartans Ares 17 · Annex - Bravo · Indoo
@@ -143,14 +186,19 @@ SUMMARY:⚽ Villains Pacers 17 at Spartans Ares 17 · Annex - Bravo · Indoo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #207\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #207\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at Spartans Ares 17 · Annex - Bravo · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707470@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ Villains Pacers 17 vs SWU Milan 17B · Annex - Alpha · Indoor s
@@ -158,14 +206,19 @@ SUMMARY:⚽ Villains Pacers 17 vs SWU Milan 17B · Annex - Alpha · Indoor s
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #217\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #217\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs SWU Milan 17B · Annex - Alpha · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707479@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T100000
 DTEND;TZID=America/Edmonton:20270131T110000
 SUMMARY:⚽ Villains Pacers 17 vs OUSC Okotoks United B17 · Annex - Charli
@@ -173,14 +226,19 @@ SUMMARY:⚽ Villains Pacers 17 vs OUSC Okotoks United B17 · Annex - Charli
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #226\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #226\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs OUSC Okotoks United B17 · Annex - Ch
+ arlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707486@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T090000
 DTEND;TZID=America/Edmonton:20270207T100000
 SUMMARY:⚽ Villains Pacers 17 at CNEU Skyview 2017 Lions · Annex - Delta 
@@ -188,36 +246,53 @@ SUMMARY:⚽ Villains Pacers 17 at CNEU Skyview 2017 Lions · Annex - Delta
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #233\nBoys U10 Dev Plus+ BADWAL\nSchedule: https
- ://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev Plus+ BADWAL · Game #233\nSchedule: ht
+ tps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at CNEU Skyview 2017 Lions · Annex - De
+ lta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707497@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T100000
 DTEND;TZID=America/Edmonton:20270221T110000
 SUMMARY:⚽ Villains Pacers 17 vs Foothills Milan 2017 · Field A (7v7) · C
  leats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #244\nBoys U10 Dev Plus+ BADWAL\nSchedule: https:/
- /jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ BADWAL · Game #244\nSchedule: https://jscla
+ rk89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 vs Foothills Milan 2017 · Field A (7v7)
+  · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707503@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T131500
 DTEND;TZID=America/Edmonton:20270228T141500
 SUMMARY:⚽ Villains Pacers 17 at New Frontier SC 2017 Boys (Marra) · Fiel
  d 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #250\nBoys U10 Dev Plus+ BADWAL\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U10 Dev Plus+ BADWAL · Game #250\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Pacers 17 at New Frontier SC 2017 Boys (Marra) · 
+ Field 2 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

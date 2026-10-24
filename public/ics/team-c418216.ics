@@ -26,201 +26,265 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109057@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T214500
 DTEND;TZID=America/Edmonton:20261103T224500
 SUMMARY:⚽ Scimitar FC vs Andinos O55 · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Andinos O55 · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109259@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T181500
 DTEND;TZID=America/Edmonton:20261121T191500
 SUMMARY:⚽ Scimitar FC vs Romania O55 · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Romania O55 · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109308@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261125T203000
 DTEND;TZID=America/Edmonton:20261125T213000
 SUMMARY:⚽ Scimitar FC at Euro Stars · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Euro Stars · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109380@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261201T203000
 DTEND;TZID=America/Edmonton:20261201T213000
 SUMMARY:⚽ Scimitar FC at Suns FC · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Suns FC · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109447@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T214500
 DTEND;TZID=America/Edmonton:20261208T224500
 SUMMARY:⚽ Scimitar FC at Chinooks Legends 55s · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Chinooks Legends 55s · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109556@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T203000
 DTEND;TZID=America/Edmonton:20261216T213000
 SUMMARY:⚽ Scimitar FC at Explorers · Field 2 · Cleats
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Explorers · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108177@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270105T203000
 DTEND;TZID=America/Edmonton:20270105T213000
 SUMMARY:⚽ Scimitar FC at Andinos O55 · MSC Dome NW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Andinos O55 · MSC Dome NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108384@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T181500
 DTEND;TZID=America/Edmonton:20270123T191500
 SUMMARY:⚽ Scimitar FC at Romania O55 · MSC Dome NE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Romania O55 · MSC Dome NE · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108427@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270127T203000
 DTEND;TZID=America/Edmonton:20270127T213000
 SUMMARY:⚽ Scimitar FC vs Euro Stars · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Euro Stars · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108497@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270202T203000
 DTEND;TZID=America/Edmonton:20270202T213000
 SUMMARY:⚽ Scimitar FC vs Suns FC · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Suns FC · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108584@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270209T214500
 DTEND;TZID=America/Edmonton:20270209T224500
 SUMMARY:⚽ Scimitar FC at Chinooks Legends 55s · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Chinooks Legends 55s · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108672@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T170000
 DTEND;TZID=America/Edmonton:20270220T180000
 SUMMARY:⚽ Scimitar FC vs Explorers · MSC Dome NW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Explorers · MSC Dome NW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108714@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270224T203000
 DTEND;TZID=America/Edmonton:20270224T213000
 SUMMARY:⚽ Scimitar FC vs Andinos O55 · Field 2 · Cleats
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Andinos O55 · Field 2 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108855@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270309T214500
 DTEND;TZID=America/Edmonton:20270309T224500
 SUMMARY:⚽ Scimitar FC vs Romania O55 · Field 1 · Cleats
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-sch
- edule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Romania O55 · Field 1 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108943@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270317T191500
 DTEND;TZID=America/Edmonton:20270317T201500
 SUMMARY:⚽ Scimitar FC at Euro Stars · MSC Dome SW · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC at Euro Stars · MSC Dome SW · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108982@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270322T191500
 DTEND;TZID=America/Edmonton:20270322T201500
 SUMMARY:⚽ Scimitar FC vs Suns FC · MSC Dome SE · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nOver 55\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nOver 55\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Scimitar FC vs Suns FC · MSC Dome SE · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

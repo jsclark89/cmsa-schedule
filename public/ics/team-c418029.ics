@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107754@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T213000
 DTEND;TZID=America/Edmonton:20261103T223000
 SUMMARY:⚽ AMERICA CHILE at El Salvador Over 45 · Main - West · Indoor sh
@@ -34,14 +34,19 @@ SUMMARY:⚽ AMERICA CHILE at El Salvador Over 45 · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at El Salvador Over 45 · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107615@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T201500
 DTEND;TZID=America/Edmonton:20261114T211500
 SUMMARY:⚽ AMERICA CHILE vs Calgary United Old Bhoys · Main - East · Indo
@@ -49,14 +54,19 @@ SUMMARY:⚽ AMERICA CHILE vs Calgary United Old Bhoys · Main - East · Indo
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Calgary United Old Bhoys · Main - East · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107634@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T191500
 DTEND;TZID=America/Edmonton:20261123T201500
 SUMMARY:⚽ AMERICA CHILE at Southside Rangers O45B · Main - North · Indoo
@@ -64,56 +74,73 @@ SUMMARY:⚽ AMERICA CHILE at Southside Rangers O45B · Main - North · Indoo
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Southside Rangers O45B · Main - North · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107760@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T180000
 DTEND;TZID=America/Edmonton:20261205T190000
 SUMMARY:⚽ AMERICA CHILE at Chile O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Chile O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107617@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261209T211500
 DTEND;TZID=America/Edmonton:20261209T221500
 SUMMARY:⚽ AMERICA CHILE vs Eagles O45 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Eagles O45 · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107762@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270105T203000
 DTEND;TZID=America/Edmonton:20270105T213000
 SUMMARY:⚽ AMERICA CHILE at Cafeteros · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Cafeteros · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107642@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270113T211500
 DTEND;TZID=America/Edmonton:20270113T221500
 SUMMARY:⚽ AMERICA CHILE vs White Eagles O45 · Main - North · Indoor shoe
@@ -121,42 +148,55 @@ SUMMARY:⚽ AMERICA CHILE vs White Eagles O45 · Main - North · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs White Eagles O45 · Main - North · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107656@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T174500
 DTEND;TZID=America/Edmonton:20270123T184500
 SUMMARY:⚽ AMERICA CHILE at Napoli D10S · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Napoli D10S · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107768@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270202T193000
 DTEND;TZID=America/Edmonton:20270202T203000
 SUMMARY:⚽ AMERICA CHILE vs Ismaili O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Ismaili O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107621@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270211T191500
 DTEND;TZID=America/Edmonton:20270211T201500
 SUMMARY:⚽ AMERICA CHILE vs El Salvador Over 45 · Main - East · Indoor sh
@@ -164,14 +204,19 @@ SUMMARY:⚽ AMERICA CHILE vs El Salvador Over 45 · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs El Salvador Over 45 · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107546@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270217T201500
 DTEND;TZID=America/Edmonton:20270217T211500
 SUMMARY:⚽ AMERICA CHILE at Calgary United Old Bhoys · Annex - Alpha · In
@@ -179,14 +224,19 @@ SUMMARY:⚽ AMERICA CHILE at Calgary United Old Bhoys · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Calgary United Old Bhoys · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107624@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270224T191500
 DTEND;TZID=America/Edmonton:20270224T201500
 SUMMARY:⚽ AMERICA CHILE vs Southside Rangers O45B · Main - East · Indoor
@@ -194,56 +244,73 @@ SUMMARY:⚽ AMERICA CHILE vs Southside Rangers O45B · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Southside Rangers O45B · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107780@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270301T211500
 DTEND;TZID=America/Edmonton:20270301T221500
 SUMMARY:⚽ AMERICA CHILE at Eagles O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at Eagles O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107625@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270310T191500
 DTEND;TZID=America/Edmonton:20270310T201500
 SUMMARY:⚽ AMERICA CHILE vs Chile O45 · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Chile O45 · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107644@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270315T211500
 DTEND;TZID=America/Edmonton:20270315T221500
 SUMMARY:⚽ AMERICA CHILE vs Cafeteros · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE vs Cafeteros · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107539@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270324T201500
 DTEND;TZID=America/Edmonton:20270324T211500
 SUMMARY:⚽ AMERICA CHILE at White Eagles O45 · Annex - Alpha · Indoor sho
@@ -251,9 +318,14 @@ SUMMARY:⚽ AMERICA CHILE at White Eagles O45 · Annex - Alpha · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ AMERICA CHILE at White Eagles O45 · Annex - Alpha · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

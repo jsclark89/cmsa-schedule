@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107558@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261105T191500
 DTEND;TZID=America/Edmonton:20261105T201500
 SUMMARY:⚽ Calgary United Old Bhoys vs Chile O45 · Annex - Bravo · Indoor
@@ -34,14 +34,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs Chile O45 · Annex - Bravo · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs Chile O45 · Annex - Bravo · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107615@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T201500
 DTEND;TZID=America/Edmonton:20261114T211500
 SUMMARY:⚽ Calgary United Old Bhoys at AMERICA CHILE · Main - East · Indo
@@ -49,14 +54,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at AMERICA CHILE · Main - East · Indo
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at AMERICA CHILE · Main - East · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107560@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261119T191500
 DTEND;TZID=America/Edmonton:20261119T201500
 SUMMARY:⚽ Calgary United Old Bhoys vs Ismaili O45 · Annex - Bravo · Indo
@@ -64,14 +74,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs Ismaili O45 · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs Ismaili O45 · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107757@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T211500
 DTEND;TZID=America/Edmonton:20261123T221500
 SUMMARY:⚽ Calgary United Old Bhoys vs White Eagles O45 · Main - West · I
@@ -79,14 +94,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs White Eagles O45 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs White Eagles O45 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107565@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T201500
 DTEND;TZID=America/Edmonton:20261208T211500
 SUMMARY:⚽ Calgary United Old Bhoys at Napoli D10S · Annex - Charlie · In
@@ -94,14 +114,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at Napoli D10S · Annex - Charlie · In
 LOCATION:MaxWell Soccer Centre Annex - Charlie\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at Napoli D10S · Annex - Charlie 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107764@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270107T191500
 DTEND;TZID=America/Edmonton:20270107T201500
 SUMMARY:⚽ Calgary United Old Bhoys at El Salvador Over 45 · Main - West 
@@ -109,14 +134,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at El Salvador Over 45 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at El Salvador Over 45 · Main - W
+ est · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107765@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270112T213000
 DTEND;TZID=America/Edmonton:20270112T223000
 SUMMARY:⚽ Calgary United Old Bhoys vs Cafeteros · Main - West · Indoor s
@@ -124,14 +154,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs Cafeteros · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs Cafeteros · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107654@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T154500
 DTEND;TZID=America/Edmonton:20270123T164500
 SUMMARY:⚽ Calgary United Old Bhoys vs Southside Rangers O45B · Main - So
@@ -139,14 +174,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs Southside Rangers O45B · Main - So
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs Southside Rangers O45B · Main 
+ - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107620@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270204T211500
 DTEND;TZID=America/Edmonton:20270204T221500
 SUMMARY:⚽ Calgary United Old Bhoys at Eagles O45 · Main - East · Indoor 
@@ -154,14 +194,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at Eagles O45 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at Eagles O45 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107774@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270211T201500
 DTEND;TZID=America/Edmonton:20270211T211500
 SUMMARY:⚽ Calgary United Old Bhoys at Chile O45 · Main - West · Indoor s
@@ -169,14 +214,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at Chile O45 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at Chile O45 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107546@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270217T201500
 DTEND;TZID=America/Edmonton:20270217T211500
 SUMMARY:⚽ Calgary United Old Bhoys vs AMERICA CHILE · Annex - Alpha · In
@@ -184,14 +234,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs AMERICA CHILE · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs AMERICA CHILE · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107776@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
 SUMMARY:⚽ Calgary United Old Bhoys at White Eagles O45 · Main - West · I
@@ -199,14 +254,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at White Eagles O45 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at White Eagles O45 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107779@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270301T201500
 DTEND;TZID=America/Edmonton:20270301T211500
 SUMMARY:⚽ Calgary United Old Bhoys vs Napoli D10S · Main - West · Indoor
@@ -214,14 +274,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs Napoli D10S · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs Napoli D10S · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107783@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270309T213000
 DTEND;TZID=America/Edmonton:20270309T223000
 SUMMARY:⚽ Calgary United Old Bhoys at Ismaili O45 · Main - West · Indoor
@@ -229,14 +294,19 @@ SUMMARY:⚽ Calgary United Old Bhoys at Ismaili O45 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at Ismaili O45 · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107786@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270317T201500
 DTEND;TZID=America/Edmonton:20270317T211500
 SUMMARY:⚽ Calgary United Old Bhoys vs El Salvador Over 45 · Main - West 
@@ -244,14 +314,19 @@ SUMMARY:⚽ Calgary United Old Bhoys vs El Salvador Over 45 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys vs El Salvador Over 45 · Main - W
+ est · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107831@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270323T183000
 DTEND;TZID=America/Edmonton:20270323T193000
 SUMMARY:⚽ Calgary United Old Bhoys at Cafeteros · Main - West · Indoor s
@@ -259,9 +334,14 @@ SUMMARY:⚽ Calgary United Old Bhoys at Cafeteros · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Calgary United Old Bhoys at Cafeteros · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

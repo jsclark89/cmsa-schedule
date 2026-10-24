@@ -26,114 +26,148 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107994@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261105T191500
 DTEND;TZID=America/Edmonton:20261105T201500
 SUMMARY:⚽ Kiewit FC vs Rabid Salamanders · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC vs Rabid Salamanders · Main - East · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108004@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
 SUMMARY:⚽ Kiewit FC vs Cheato's · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC vs Cheato's · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108044@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261119T211500
 DTEND;TZID=America/Edmonton:20261119T221500
 SUMMARY:⚽ Kiewit FC at Octosharks · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC at Octosharks · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108050@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T140000
 DTEND;TZID=America/Edmonton:20261121T150000
 SUMMARY:⚽ Kiewit FC at Rabid Salamanders · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC at Rabid Salamanders · Main - East · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108076@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261126T211500
 DTEND;TZID=America/Edmonton:20261126T221500
 SUMMARY:⚽ Kiewit FC vs Team Tuna · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC vs Team Tuna · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108092@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T211500
 DTEND;TZID=America/Edmonton:20261130T221500
 SUMMARY:⚽ Kiewit FC at Bronc Ballers · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC at Bronc Ballers · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108127@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
 SUMMARY:⚽ Kiewit FC vs Rat Pack · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC vs Rat Pack · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108156@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261218T211500
 DTEND;TZID=America/Edmonton:20261218T221500
 SUMMARY:⚽ Kiewit FC at Hot Danger · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nUltra Recreational\nSchedule: https://jsclark89.githu
- b.io/cmsa-schedule/
+ )\nSurface: Carpet\nUltra Recreational\nSchedule: https://jsclark89.git
+ hub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Kiewit FC at Hot Danger · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

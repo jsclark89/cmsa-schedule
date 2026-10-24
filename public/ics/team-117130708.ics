@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708143@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
 SUMMARY:⚽ Blizzard SC 16 Boys at Villains Jaguars 16 · Main - West · Ind
@@ -34,78 +34,110 @@ SUMMARY:⚽ Blizzard SC 16 Boys at Villains Jaguars 16 · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1044\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1044\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at Villains Jaguars 16 · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708150@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261024T101500
 DTEND;TZID=America/Edmonton:20261024T111500
 SUMMARY:⚽ Blizzard SC 16 Boys vs SWU Monaco 16B · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1051\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1051\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs SWU Monaco 16B · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708154@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261031T174500
 DTEND;TZID=America/Edmonton:20261031T184500
 SUMMARY:⚽ Blizzard SC 16 Boys at RANGERS FC16 BLUE · Field 4 7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1055\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1055\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at RANGERS FC16 BLUE · Field 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708157@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T081500
 DTEND;TZID=America/Edmonton:20261108T091500
 SUMMARY:⚽ Blizzard SC 16 Boys vs Rockies Celtic 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1058\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1058\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs Rockies Celtic 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708162@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T160000
 DTEND;TZID=America/Edmonton:20261114T170000
 SUMMARY:⚽ Blizzard SC 16 Boys at Rockies AFC 16 · MSC Dome SE 7v7 · Clea
  ts
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1063\nBoys U11 Dev Plus+ SALIBA\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1063\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at Rockies AFC 16 · MSC Dome SE 7v7 · 
+ Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708166@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261121T120000
 DTEND;TZID=America/Edmonton:20261121T130000
 SUMMARY:⚽ Blizzard SC 16 Boys vs Foothills FC Green 2016 · Field A (7v7)
   · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #1067\nBoys U11 Dev Plus+ SALIBA\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1067\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs Foothills FC Green 2016 · Field A (
+ 7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708167@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261205T160000
 DTEND;TZID=America/Edmonton:20261205T170000
 SUMMARY:⚽ Blizzard SC 16 Boys at New Frontier SC 2016 Boys (Petros) · An
@@ -113,39 +145,55 @@ SUMMARY:⚽ Blizzard SC 16 Boys at New Frontier SC 2016 Boys (Petros) · An
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1068\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1068\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at New Frontier SC 2016 Boys (Petros) 
+ · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708173@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261219T131500
 DTEND;TZID=America/Edmonton:20261219T141500
 SUMMARY:⚽ Blizzard SC 16 Boys vs Villains Jaguars 16 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1074\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1074\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs Villains Jaguars 16 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708178@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270109T120000
 DTEND;TZID=America/Edmonton:20270109T130000
 SUMMARY:⚽ Blizzard SC 16 Boys at SWU Monaco 16B · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #1079\nBoys U11 Dev Plus+ SALIBA\nSchedule: https:
- //jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1079\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at SWU Monaco 16B · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708180@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270116T090000
 DTEND;TZID=America/Edmonton:20270116T100000
 SUMMARY:⚽ Blizzard SC 16 Boys vs RANGERS FC16 BLUE · Main - West · Indoo
@@ -153,26 +201,36 @@ SUMMARY:⚽ Blizzard SC 16 Boys vs RANGERS FC16 BLUE · Main - West · Indoo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1081\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1081\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs RANGERS FC16 BLUE · Main - West · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708184@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T081500
 DTEND;TZID=America/Edmonton:20270124T091500
 SUMMARY:⚽ Blizzard SC 16 Boys at Rockies Celtic 16 · Field 1 7v7
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1085\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1085\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at Rockies Celtic 16 · Field 1 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708188@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270130T150000
 DTEND;TZID=America/Edmonton:20270130T160000
 SUMMARY:⚽ Blizzard SC 16 Boys vs Rockies AFC 16 · Annex - Bravo · Indoor
@@ -180,36 +238,53 @@ SUMMARY:⚽ Blizzard SC 16 Boys vs Rockies AFC 16 · Annex - Bravo · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #1089\nBoys U11 Dev Plus+ SALIBA\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U11 Dev Plus+ SALIBA · Game #1089\nSchedule: h
+ ttps://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs Rockies AFC 16 · Annex - Bravo · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708191@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270220T080000
 DTEND;TZID=America/Edmonton:20270220T090000
 SUMMARY:⚽ Blizzard SC 16 Boys at Foothills FC Green 2016 · MSC Dome SE 7
  v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #1092\nBoys U11 Dev Plus+ SALIBA\nSchedule:
-  https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U11 Dev Plus+ SALIBA · Game #1092\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys at Foothills FC Green 2016 · MSC Dome 
+ SE 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708198@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T100000
 DTEND;TZID=America/Edmonton:20270227T110000
 SUMMARY:⚽ Blizzard SC 16 Boys vs New Frontier SC 2016 Boys (Petros) · Fi
  eld 3 7v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #1099\nBoys U11 Dev Plus+ SALIBA\nSchedule: https://jsc
- lark89.github.io/cmsa-schedule/
+DESCRIPTION:Boys U11 Dev Plus+ SALIBA · Game #1099\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard SC 16 Boys vs New Frontier SC 2016 Boys (Petros) 
+ · Field 3 7v7
+END:VALARM
 END:VEVENT
 END:VCALENDAR

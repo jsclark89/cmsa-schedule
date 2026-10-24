@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701184@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T130000
 DTEND;TZID=America/Edmonton:20261018T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at SWU Napoli 17 B · Main - Wes
@@ -34,14 +34,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at SWU Napoli 17 B · Main - Wes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #3\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #3\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at SWU Napoli 17 B · Main -
+  West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701189@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T150000
 DTEND;TZID=America/Edmonton:20261025T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Spartans Helios 17 · Main - 
@@ -49,14 +54,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Spartans Helios 17 · Main -
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #8\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #8\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at Spartans Helios 17 · Mai
+ n - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701191@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main - Wes
@@ -64,14 +74,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main - Wes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #10\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #10\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main -
+  West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701196@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at S4 Athletic 17 · Main - West
@@ -79,14 +94,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at S4 Athletic 17 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #15\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #15\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at S4 Athletic 17 · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701202@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T140000
 DTEND;TZID=America/Edmonton:20261129T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · Annex 
@@ -94,14 +114,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #21\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #21\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701209@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T110000
 DTEND;TZID=America/Edmonton:20261206T120000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Foothills Pacific 2017 · Mai
@@ -109,14 +134,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Foothills Pacific 2017 · Mai
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #28\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #28\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at Foothills Pacific 2017 ·
+  Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701213@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T150000
 DTEND;TZID=America/Edmonton:20261213T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Annex -
@@ -124,28 +154,39 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #32\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #32\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Ann
+ ex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701214@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T080000
 DTEND;TZID=America/Edmonton:20261220T090000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Foothills Cavalry 2017 · MSC
   Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #33\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #33\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at Foothills Cavalry 2017 ·
+  MSC Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701219@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T150000
 DTEND;TZID=America/Edmonton:20270103T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main - Eas
@@ -153,14 +194,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main - Eas
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #38\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #38\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main -
+  East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701225@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Main - 
@@ -168,14 +214,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Main -
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #44\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #44\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Mai
+ n - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701228@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at MUSC Thunder 17 · Annex - Br
@@ -183,14 +234,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at MUSC Thunder 17 · Annex - Br
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #47\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #47\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at MUSC Thunder 17 · Annex 
+ - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701231@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex - Cha
@@ -198,14 +254,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex - Cha
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #50\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #50\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex -
+  Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701238@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T120000
 DTEND;TZID=America/Edmonton:20270221T130000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Foothills York 2017 · Main -
@@ -213,23 +274,34 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 at Foothills York 2017 · Main -
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #57\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #57\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 at Foothills York 2017 · Ma
+ in - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701243@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T090000
 DTEND;TZID=America/Edmonton:20270228T100000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills Cavalry 2017 · Fie
  ld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #62\nBoys U10 Dev BRYM\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #62\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills Cavalry 2017 ·
+  Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 END:VCALENDAR

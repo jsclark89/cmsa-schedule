@@ -26,20 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11701185@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T110000
 DTEND;TZID=America/Edmonton:20261018T120000
 SUMMARY:⚽ S4 Athletic 17 vs Foothills York 2017 · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4\nBoys U10 Dev BRYM\nSchedule: https://jsclark89
- .github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #4\nSchedule: https://jsclark89.githu
+ b.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs Foothills York 2017 · Field A (7v7) · Cl
+ eats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701183@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T120000
 DTEND;TZID=America/Edmonton:20261018T130000
 SUMMARY:⚽ Foothills Cavalry 2017 vs Foothills Pacific 2017 · Main - West
@@ -47,14 +53,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs Foothills Pacific 2017 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #2\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #2\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs Foothills Pacific 2017 · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701184@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T130000
 DTEND;TZID=America/Edmonton:20261018T140000
 SUMMARY:⚽ SWU Napoli 17 B vs RWFC Royal West FC Shakhtar 17 · Main - Wes
@@ -62,14 +73,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs RWFC Royal West FC Shakhtar 17 · Main - Wes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #3\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #3\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs RWFC Royal West FC Shakhtar 17 · Main -
+  West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701182@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261018T160000
 DTEND;TZID=America/Edmonton:20261018T170000
 SUMMARY:⚽ Spartans Helios 17 vs Villains Cobras 17 · Indoor AT 7v7 · Ind
@@ -77,14 +93,19 @@ SUMMARY:⚽ Spartans Helios 17 vs Villains Cobras 17 · Indoor AT 7v7 · Ind
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #1\nBoys U10 Dev BRYM\nSchedule: htt
- ps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #1\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs Villains Cobras 17 · Indoor AT 7v7 ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701186@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T120000
 DTEND;TZID=America/Edmonton:20261025T130000
 SUMMARY:⚽ Foothills York 2017 vs SWU Napoli 17 B · Annex - Bravo · Indoo
@@ -92,14 +113,19 @@ SUMMARY:⚽ Foothills York 2017 vs SWU Napoli 17 B · Annex - Bravo · Indoo
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #5\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #5\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs SWU Napoli 17 B · Annex - Bravo · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701187@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
@@ -107,14 +133,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #6\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #6\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills Cavalry 2017 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701188@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T140000
 DTEND;TZID=America/Edmonton:20261025T150000
 SUMMARY:⚽ MUSC Thunder 17 vs S4 Athletic 17 · Annex - Bravo · Indoor sho
@@ -122,14 +153,19 @@ SUMMARY:⚽ MUSC Thunder 17 vs S4 Athletic 17 · Annex - Bravo · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #7\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #7\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs S4 Athletic 17 · Annex - Bravo · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701189@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T150000
 DTEND;TZID=America/Edmonton:20261025T160000
 SUMMARY:⚽ Spartans Helios 17 vs RWFC Royal West FC Shakhtar 17 · Main - 
@@ -137,14 +173,19 @@ SUMMARY:⚽ Spartans Helios 17 vs RWFC Royal West FC Shakhtar 17 · Main -
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #8\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #8\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs RWFC Royal West FC Shakhtar 17 · Mai
+ n - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701190@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
 SUMMARY:⚽ S4 Athletic 17 vs Villains Cobras 17 · Main - West · Indoor sh
@@ -152,14 +193,19 @@ SUMMARY:⚽ S4 Athletic 17 vs Villains Cobras 17 · Main - West · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #9\nBoys U10 Dev BRYM\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #9\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs Villains Cobras 17 · Main - West · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701191@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main - Wes
@@ -167,14 +213,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main - Wes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #10\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #10\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs MUSC Thunder 17 · Main -
+  West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701192@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T140000
 DTEND;TZID=America/Edmonton:20261108T150000
 SUMMARY:⚽ SWU Napoli 17 B vs Foothills Pacific 2017 · Main - West · Indo
@@ -182,14 +233,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs Foothills Pacific 2017 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #11\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #11\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs Foothills Pacific 2017 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701193@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T150000
 DTEND;TZID=America/Edmonton:20261108T160000
 SUMMARY:⚽ Foothills Cavalry 2017 vs Spartans Helios 17 · Main - West · I
@@ -197,14 +253,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs Spartans Helios 17 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #12\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #12\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs Spartans Helios 17 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701194@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:⚽ Spartans Helios 17 vs Foothills Pacific 2017 · Main - West · I
@@ -212,14 +273,19 @@ SUMMARY:⚽ Spartans Helios 17 vs Foothills Pacific 2017 · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #13\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #13\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs Foothills Pacific 2017 · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701195@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T090000
 DTEND;TZID=America/Edmonton:20261115T100000
 SUMMARY:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indoor s
@@ -227,14 +293,19 @@ SUMMARY:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #14\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #14\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs SWU Napoli 17 B · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701196@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T100000
 DTEND;TZID=America/Edmonton:20261115T110000
 SUMMARY:⚽ S4 Athletic 17 vs RWFC Royal West FC Shakhtar 17 · Main - West
@@ -242,14 +313,19 @@ SUMMARY:⚽ S4 Athletic 17 vs RWFC Royal West FC Shakhtar 17 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #15\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #15\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs RWFC Royal West FC Shakhtar 17 · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701197@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T110000
 DTEND;TZID=America/Edmonton:20261115T120000
 SUMMARY:⚽ MUSC Thunder 17 vs Foothills York 2017 · Main - West · Indoor 
@@ -257,14 +333,19 @@ SUMMARY:⚽ MUSC Thunder 17 vs Foothills York 2017 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #16\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #16\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs Foothills York 2017 · Main - West · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701198@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
 SUMMARY:⚽ Foothills York 2017 vs Villains Cobras 17 · Annex - Bravo · In
@@ -272,14 +353,19 @@ SUMMARY:⚽ Foothills York 2017 vs Villains Cobras 17 · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #17\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #17\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs Villains Cobras 17 · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701199@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T090000
 DTEND;TZID=America/Edmonton:20261122T100000
 SUMMARY:⚽ Foothills Pacific 2017 vs MUSC Thunder 17 · Annex - Bravo · In
@@ -287,14 +373,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs MUSC Thunder 17 · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #18\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #18\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs MUSC Thunder 17 · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701200@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T100000
 DTEND;TZID=America/Edmonton:20261122T110000
 SUMMARY:⚽ SWU Napoli 17 B vs Spartans Helios 17 · Annex - Bravo · Indoor
@@ -302,14 +393,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs Spartans Helios 17 · Annex - Bravo · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #19\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #19\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs Spartans Helios 17 · Annex - Bravo · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701201@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261122T110000
 DTEND;TZID=America/Edmonton:20261122T120000
 SUMMARY:⚽ Foothills Cavalry 2017 vs S4 Athletic 17 · Annex - Bravo · Ind
@@ -317,14 +413,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs S4 Athletic 17 · Annex - Bravo · Ind
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #20\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #20\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs S4 Athletic 17 · Annex - Bravo ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701202@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T140000
 DTEND;TZID=America/Edmonton:20261129T150000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · Annex 
@@ -332,14 +433,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · Annex
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #21\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #21\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills York 2017 · An
+ nex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701203@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T150000
 DTEND;TZID=America/Edmonton:20261129T160000
 SUMMARY:⚽ S4 Athletic 17 vs Foothills Pacific 2017 · Annex - Alpha · Ind
@@ -347,14 +453,19 @@ SUMMARY:⚽ S4 Athletic 17 vs Foothills Pacific 2017 · Annex - Alpha · Ind
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #22\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #22\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs Foothills Pacific 2017 · Annex - Alpha ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701204@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T160000
 DTEND;TZID=America/Edmonton:20261129T170000
 SUMMARY:⚽ SWU Napoli 17 B vs Foothills Cavalry 2017 · Annex - Alpha · In
@@ -362,14 +473,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs Foothills Cavalry 2017 · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #23\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #23\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs Foothills Cavalry 2017 · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701205@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T170000
 DTEND;TZID=America/Edmonton:20261129T180000
 SUMMARY:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · Indoor
@@ -377,28 +493,38 @@ SUMMARY:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #24\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #24\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs MUSC Thunder 17 · Annex - Alpha · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701206@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T080000
 DTEND;TZID=America/Edmonton:20261206T090000
 SUMMARY:⚽ S4 Athletic 17 vs SWU Napoli 17 B · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #25\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #25\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs SWU Napoli 17 B · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701207@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T090000
 DTEND;TZID=America/Edmonton:20261206T100000
 SUMMARY:⚽ MUSC Thunder 17 vs Spartans Helios 17 · Main - West · Indoor s
@@ -406,14 +532,19 @@ SUMMARY:⚽ MUSC Thunder 17 vs Spartans Helios 17 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #26\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #26\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs Spartans Helios 17 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701208@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T100000
 DTEND;TZID=America/Edmonton:20261206T110000
 SUMMARY:⚽ Foothills Cavalry 2017 vs Foothills York 2017 · Main - West · 
@@ -421,14 +552,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs Foothills York 2017 · Main - West ·
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #27\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #27\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs Foothills York 2017 · Main - Wes
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701209@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T110000
 DTEND;TZID=America/Edmonton:20261206T120000
 SUMMARY:⚽ Foothills Pacific 2017 vs RWFC Royal West FC Shakhtar 17 · Mai
@@ -436,14 +572,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs RWFC Royal West FC Shakhtar 17 · Mai
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #28\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #28\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs RWFC Royal West FC Shakhtar 17 ·
+  Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701210@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T130000
 DTEND;TZID=America/Edmonton:20261213T140000
 SUMMARY:⚽ Spartans Helios 17 vs S4 Athletic 17 · Indoor AT 7v7 · Indoor 
@@ -451,14 +592,19 @@ SUMMARY:⚽ Spartans Helios 17 vs S4 Athletic 17 · Indoor AT 7v7 · Indoor
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #29\nBoys U10 Dev BRYM\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #29\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs S4 Athletic 17 · Indoor AT 7v7 · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701211@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T130000
 DTEND;TZID=America/Edmonton:20261213T140000
 SUMMARY:⚽ MUSC Thunder 17 vs Foothills Cavalry 2017 · Annex - Alpha · In
@@ -466,14 +612,19 @@ SUMMARY:⚽ MUSC Thunder 17 vs Foothills Cavalry 2017 · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #30\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #30\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs Foothills Cavalry 2017 · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701212@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T140000
 DTEND;TZID=America/Edmonton:20261213T150000
 SUMMARY:⚽ Foothills York 2017 vs Foothills Pacific 2017 · Annex - Alpha 
@@ -481,14 +632,19 @@ SUMMARY:⚽ Foothills York 2017 vs Foothills Pacific 2017 · Annex - Alpha
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #31\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #31\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs Foothills Pacific 2017 · Annex - Al
+ pha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701213@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T150000
 DTEND;TZID=America/Edmonton:20261213T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Annex -
@@ -496,69 +652,98 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Annex -
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #32\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #32\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Villains Cobras 17 · Ann
+ ex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701214@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T080000
 DTEND;TZID=America/Edmonton:20261220T090000
 SUMMARY:⚽ Foothills Cavalry 2017 vs RWFC Royal West FC Shakhtar 17 · MSC
   Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #33\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #33\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs RWFC Royal West FC Shakhtar 17 ·
+  MSC Dome NW 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701215@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T140000
 DTEND;TZID=America/Edmonton:20261220T150000
 SUMMARY:⚽ SWU Napoli 17 B vs MUSC Thunder 17 · MSC Dome NW 7v7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #34\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #34\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs MUSC Thunder 17 · MSC Dome NW 7v7 · Cle
+ ats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701216@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T150000
 DTEND;TZID=America/Edmonton:20261220T160000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills Pacific 2017 · MSC Dome NW 7v7
   · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #35\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #35\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills Pacific 2017 · MSC Dome NW
+  7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701217@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T160000
 DTEND;TZID=America/Edmonton:20261220T170000
 SUMMARY:⚽ Spartans Helios 17 vs Foothills York 2017 · MSC Dome NW 7v7 · 
  Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #36\nBoys U10 Dev BRYM\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #36\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs Foothills York 2017 · MSC Dome NW 7v
+ 7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701218@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T140000
 DTEND;TZID=America/Edmonton:20270103T150000
 SUMMARY:⚽ Foothills York 2017 vs S4 Athletic 17 · Main - East · Indoor s
@@ -566,14 +751,19 @@ SUMMARY:⚽ Foothills York 2017 vs S4 Athletic 17 · Main - East · Indoor s
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #37\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #37\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs S4 Athletic 17 · Main - East · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701219@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T150000
 DTEND;TZID=America/Edmonton:20270103T160000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main - Eas
@@ -581,14 +771,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main - Eas
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #38\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #38\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs SWU Napoli 17 B · Main -
+  East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701220@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T160000
 DTEND;TZID=America/Edmonton:20270103T170000
 SUMMARY:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · Indoo
@@ -596,14 +791,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · Indoo
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #39\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #39\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Spartans Helios 17 · Main - East · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701221@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T170000
 DTEND;TZID=America/Edmonton:20270103T180000
 SUMMARY:⚽ Foothills Pacific 2017 vs Foothills Cavalry 2017 · Main - East
@@ -611,14 +811,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs Foothills Cavalry 2017 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #40\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #40\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs Foothills Cavalry 2017 · Main - 
+ East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701224@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T150000
 DTEND;TZID=America/Edmonton:20270110T160000
 SUMMARY:⚽ SWU Napoli 17 B vs Foothills York 2017 · Main - East · Indoor 
@@ -626,14 +831,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs Foothills York 2017 · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #43\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #43\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs Foothills York 2017 · Main - East · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701222@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:⚽ Foothills Cavalry 2017 vs Villains Cobras 17 · Annex - Bravo ·
@@ -641,14 +851,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs Villains Cobras 17 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #41\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #41\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs Villains Cobras 17 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701225@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Main - 
@@ -656,14 +871,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Main -
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #44\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #44\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Spartans Helios 17 · Mai
+ n - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701223@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T170000
 DTEND;TZID=America/Edmonton:20270110T180000
 SUMMARY:⚽ S4 Athletic 17 vs MUSC Thunder 17 · Annex - Bravo · Indoor sho
@@ -671,14 +891,19 @@ SUMMARY:⚽ S4 Athletic 17 vs MUSC Thunder 17 · Annex - Bravo · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #42\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #42\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs MUSC Thunder 17 · Annex - Bravo · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701226@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
 SUMMARY:⚽ Spartans Helios 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
@@ -686,14 +911,19 @@ SUMMARY:⚽ Spartans Helios 17 vs Foothills Cavalry 2017 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #45\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #45\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs Foothills Cavalry 2017 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701227@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
 SUMMARY:⚽ Foothills Pacific 2017 vs SWU Napoli 17 B · Annex - Bravo · In
@@ -701,14 +931,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs SWU Napoli 17 B · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #46\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #46\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs SWU Napoli 17 B · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701228@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:⚽ MUSC Thunder 17 vs RWFC Royal West FC Shakhtar 17 · Annex - Br
@@ -716,14 +951,19 @@ SUMMARY:⚽ MUSC Thunder 17 vs RWFC Royal West FC Shakhtar 17 · Annex - Br
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #47\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #47\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs RWFC Royal West FC Shakhtar 17 · Annex 
+ - Bravo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701229@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Indoor 
@@ -731,14 +971,19 @@ SUMMARY:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #48\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #48\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs S4 Athletic 17 · Annex - Bravo · Ind
+ oor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701230@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ SWU Napoli 17 B vs Villains Cobras 17 · Annex - Charlie · Indo
@@ -746,14 +991,19 @@ SUMMARY:⚽ SWU Napoli 17 B vs Villains Cobras 17 · Annex - Charlie · Indo
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #49\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #49\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ SWU Napoli 17 B vs Villains Cobras 17 · Annex - Charlie · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701232@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ Foothills Pacific 2017 vs Spartans Helios 17 · Annex - Delta ·
@@ -761,14 +1011,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs Spartans Helios 17 · Annex - Delta ·
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #51\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #51\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs Spartans Helios 17 · Annex - Del
+ ta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701231@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex - Cha
@@ -776,14 +1031,19 @@ SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex - Cha
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #50\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #50\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs S4 Athletic 17 · Annex -
+  Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701233@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:⚽ Foothills York 2017 vs MUSC Thunder 17 · Annex - Delta · Indoo
@@ -791,14 +1051,19 @@ SUMMARY:⚽ Foothills York 2017 vs MUSC Thunder 17 · Annex - Delta · Indoo
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #52\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #52\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs MUSC Thunder 17 · Annex - Delta · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701234@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T150000
 DTEND;TZID=America/Edmonton:20270131T160000
 SUMMARY:⚽ Spartans Helios 17 vs SWU Napoli 17 B · Main - West · Indoor s
@@ -806,14 +1071,19 @@ SUMMARY:⚽ Spartans Helios 17 vs SWU Napoli 17 B · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #53\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #53\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Spartans Helios 17 vs SWU Napoli 17 B · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701235@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T160000
 DTEND;TZID=America/Edmonton:20270131T170000
 SUMMARY:⚽ MUSC Thunder 17 vs Foothills Pacific 2017 · Main - West · Indo
@@ -821,28 +1091,39 @@ SUMMARY:⚽ MUSC Thunder 17 vs Foothills Pacific 2017 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #54\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #54\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs Foothills Pacific 2017 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701237@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T160000
 DTEND;TZID=America/Edmonton:20270131T170000
 SUMMARY:⚽ S4 Athletic 17 vs Foothills Cavalry 2017 · Field A (7v7) · Cle
  ats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #56\nBoys U10 Dev BRYM\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #56\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ S4 Athletic 17 vs Foothills Cavalry 2017 · Field A (7v7) ·
+  Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701236@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270131T170000
 DTEND;TZID=America/Edmonton:20270131T180000
 SUMMARY:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · Indo
@@ -850,14 +1131,19 @@ SUMMARY:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #55\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #55\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Villains Cobras 17 vs Foothills York 2017 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701238@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T120000
 DTEND;TZID=America/Edmonton:20270221T130000
 SUMMARY:⚽ Foothills York 2017 vs RWFC Royal West FC Shakhtar 17 · Main -
@@ -865,14 +1151,19 @@ SUMMARY:⚽ Foothills York 2017 vs RWFC Royal West FC Shakhtar 17 · Main -
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #57\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #57\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs RWFC Royal West FC Shakhtar 17 · Ma
+ in - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701239@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:⚽ Foothills Cavalry 2017 vs MUSC Thunder 17 · Main - West · Indo
@@ -880,14 +1171,19 @@ SUMMARY:⚽ Foothills Cavalry 2017 vs MUSC Thunder 17 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #58\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #58\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Cavalry 2017 vs MUSC Thunder 17 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701240@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T140000
 DTEND;TZID=America/Edmonton:20270221T150000
 SUMMARY:⚽ Foothills Pacific 2017 vs S4 Athletic 17 · Main - West · Indoo
@@ -895,14 +1191,19 @@ SUMMARY:⚽ Foothills Pacific 2017 vs S4 Athletic 17 · Main - West · Indoo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #59\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #59\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs S4 Athletic 17 · Main - West · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701241@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T080000
 DTEND;TZID=America/Edmonton:20270228T090000
 SUMMARY:⚽ Foothills York 2017 vs Spartans Helios 17 · Annex - Bravo · In
@@ -910,14 +1211,19 @@ SUMMARY:⚽ Foothills York 2017 vs Spartans Helios 17 · Annex - Bravo · In
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #60\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #60\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills York 2017 vs Spartans Helios 17 · Annex - Bravo 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701242@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T090000
 DTEND;TZID=America/Edmonton:20270228T100000
 SUMMARY:⚽ Foothills Pacific 2017 vs Villains Cobras 17 · Annex - Bravo ·
@@ -925,36 +1231,53 @@ SUMMARY:⚽ Foothills Pacific 2017 vs Villains Cobras 17 · Annex - Bravo ·
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #61\nBoys U10 Dev BRYM\nSchedule: https://jsclar
- k89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nBoys U10 Dev BRYM · Game #61\nSchedule: https://jsc
+ lark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Pacific 2017 vs Villains Cobras 17 · Annex - Bra
+ vo · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701243@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T090000
 DTEND;TZID=America/Edmonton:20270228T100000
 SUMMARY:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills Cavalry 2017 · Fie
  ld A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #62\nBoys U10 Dev BRYM\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #62\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ RWFC Royal West FC Shakhtar 17 vs Foothills Cavalry 2017 ·
+  Field A (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11701244@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T100000
 DTEND;TZID=America/Edmonton:20270228T110000
 SUMMARY:⚽ MUSC Thunder 17 vs SWU Napoli 17 B · Field A (7v7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #63\nBoys U10 Dev BRYM\nSchedule: https://jsclark8
- 9.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev BRYM · Game #63\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ MUSC Thunder 17 vs SWU Napoli 17 B · Field A (7v7) · Cleat
+ s
+END:VALARM
 END:VEVENT
 END:VCALENDAR

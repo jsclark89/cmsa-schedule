@@ -26,77 +26,97 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107987@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T201500
 DTEND;TZID=America/Edmonton:20261103T211500
 SUMMARY:⚽ Ryenose vs Ball Sacks FC · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose vs Ball Sacks FC · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108017@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T180000
 DTEND;TZID=America/Edmonton:20261114T190000
 SUMMARY:⚽ Ryenose vs Royals Gold · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose vs Royals Gold · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108041@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261119T211500
 DTEND;TZID=America/Edmonton:20261119T221500
 SUMMARY:⚽ Ryenose at Crushenbru · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose at Crushenbru · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108064@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261125T211500
 DTEND;TZID=America/Edmonton:20261125T221500
 SUMMARY:⚽ Ryenose vs Royals Purple · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose vs Royals Purple · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108103@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261203T201500
 DTEND;TZID=America/Edmonton:20261203T211500
 SUMMARY:⚽ Ryenose at Eggplants · Main - East · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose at Eggplants · Main - East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108113@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261207T191500
 DTEND;TZID=America/Edmonton:20261207T201500
 SUMMARY:⚽ Ryenose vs Swift Kick in the Grass · Main - South · Indoor sho
@@ -104,37 +124,50 @@ SUMMARY:⚽ Ryenose vs Swift Kick in the Grass · Main - South · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose vs Swift Kick in the Grass · Main - South · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108133@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261213T140000
 DTEND;TZID=America/Edmonton:20261213T150000
 SUMMARY:⚽ Ryenose vs Timberhawks · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose vs Timberhawks · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108149@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T201500
 DTEND;TZID=America/Edmonton:20261216T211500
 SUMMARY:⚽ Ryenose at Jimmy Kick-Its · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nRecreational\nSchedule: https://jsclark89.github.io/c
- msa-schedule/
+ )\nSurface: Carpet\nRecreational\nSchedule: https://jsclark89.github.io
+ /cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Ryenose at Jimmy Kick-Its · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

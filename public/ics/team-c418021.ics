@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107553@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T211500
 DTEND;TZID=America/Edmonton:20261103T221500
 SUMMARY:⚽ El Salvador O35 at NAIJA-YYC FC · Annex - Bravo · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at NAIJA-YYC FC · Annex - Bravo · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107700@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261113T201500
 DTEND;TZID=America/Edmonton:20261113T211500
 SUMMARY:⚽ El Salvador O35 at YYC Chieftains O35 · Main - West · Indoor s
@@ -48,42 +53,57 @@ SUMMARY:⚽ El Salvador O35 at YYC Chieftains O35 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at YYC Chieftains O35 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107704@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261120T201500
 DTEND;TZID=America/Edmonton:20261120T211500
 SUMMARY:⚽ El Salvador O35 vs Neighbourhoods · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs Neighbourhoods · Main - West · Indoor s
+ hoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107709@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261130T211500
 DTEND;TZID=America/Edmonton:20261130T221500
 SUMMARY:⚽ El Salvador O35 vs Romania O35 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs Romania O35 · Main - West · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107715@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T193000
 DTEND;TZID=America/Edmonton:20261208T203000
 SUMMARY:⚽ El Salvador O35 at Southside Rangers O45A · Main - West · Indo
@@ -91,28 +111,37 @@ SUMMARY:⚽ El Salvador O35 at Southside Rangers O45A · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at Southside Rangers O45A · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107718@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261214T201500
 DTEND;TZID=America/Edmonton:20261214T211500
 SUMMARY:⚽ El Salvador O35 vs Lads Club · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs Lads Club · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107723@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270105T193000
 DTEND;TZID=America/Edmonton:20270105T203000
 SUMMARY:⚽ El Salvador O35 at Atl?tico Cuervos 035 · Main - West · Indoor
@@ -120,42 +149,56 @@ SUMMARY:⚽ El Salvador O35 at Atl?tico Cuervos 035 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at Atl?tico Cuervos 035 · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107724@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270111T191500
 DTEND;TZID=America/Edmonton:20270111T201500
 SUMMARY:⚽ El Salvador O35 vs Fooz FC · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs Fooz FC · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107730@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270118T201500
 DTEND;TZID=America/Edmonton:20270118T211500
 SUMMARY:⚽ El Salvador O35 vs NAIJA-YYC FC · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs NAIJA-YYC FC · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107734@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270128T191500
 DTEND;TZID=America/Edmonton:20270128T201500
 SUMMARY:⚽ El Salvador O35 vs YYC Chieftains O35 · Main - West · Indoor s
@@ -163,14 +206,19 @@ SUMMARY:⚽ El Salvador O35 vs YYC Chieftains O35 · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs YYC Chieftains O35 · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107557@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270202T211500
 DTEND;TZID=America/Edmonton:20270202T221500
 SUMMARY:⚽ El Salvador O35 at Neighbourhoods · Annex - Bravo · Indoor sho
@@ -178,42 +226,56 @@ SUMMARY:⚽ El Salvador O35 at Neighbourhoods · Annex - Bravo · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at Neighbourhoods · Annex - Bravo · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107736@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270209T193000
 DTEND;TZID=America/Edmonton:20270209T203000
 SUMMARY:⚽ El Salvador O35 vs CJSC TKB · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs CJSC TKB · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107737@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270216T193000
 DTEND;TZID=America/Edmonton:20270216T203000
 SUMMARY:⚽ El Salvador O35 at Romania O35 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at Romania O35 · Main - West · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107612@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270227T201500
 DTEND;TZID=America/Edmonton:20270227T211500
 SUMMARY:⚽ El Salvador O35 vs Southside Rangers O45A · Main - East · Indo
@@ -221,37 +283,50 @@ SUMMARY:⚽ El Salvador O35 vs Southside Rangers O45A · Main - East · Indo
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 vs Southside Rangers O45A · Main - East · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107744@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270308T211500
 DTEND;TZID=America/Edmonton:20270308T221500
 SUMMARY:⚽ El Salvador O35 at Lads Club · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at Lads Club · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107751@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270316T193000
 DTEND;TZID=America/Edmonton:20270316T203000
 SUMMARY:⚽ El Salvador O35 at CJSC TKB · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nMasters O35\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nMasters O35\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ El Salvador O35 at CJSC TKB · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

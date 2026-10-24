@@ -26,19 +26,25 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707718@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T081500
 DTEND;TZID=America/Edmonton:20261025T091500
 SUMMARY:⚽ Foothills Tides 2017 at Blizzard United 17 Girls · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #3993\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #3993\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at Blizzard United 17 Girls · Field 2
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707723@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
 SUMMARY:⚽ Foothills Tides 2017 vs MUSC Mavericks 17 · Annex - Alpha · In
@@ -46,28 +52,39 @@ SUMMARY:⚽ Foothills Tides 2017 vs MUSC Mavericks 17 · Annex - Alpha · In
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #3998\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #3998\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs MUSC Mavericks 17 · Annex - Alpha 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707728@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T100000
 DTEND;TZID=America/Edmonton:20261108T110000
 SUMMARY:⚽ Foothills Tides 2017 at EMFC Spirit 17 · Field A (7v7) · Cleat
  s
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4003\nGirls U10 Dev Plus+ LARISEY\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4003\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at EMFC Spirit 17 · Field A (7v7) · C
+ leats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707734@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
 SUMMARY:⚽ Foothills Tides 2017 vs CNEU 2017 Sting · Main - West · Indoor
@@ -75,28 +92,37 @@ SUMMARY:⚽ Foothills Tides 2017 vs CNEU 2017 Sting · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4009\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4009\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs CNEU 2017 Sting · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707736@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261128T090000
 DTEND;TZID=America/Edmonton:20261128T100000
 SUMMARY:⚽ Foothills Tides 2017 at OUSC United G16 · Blue · Cleats
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Boarded field (boards not in use for 7v7)\nGame #4011\
- nGirls U10 Dev Plus+ LARISEY\nSchedule: https://jsclark89.github.io/cms
- a-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4011\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at OUSC United G16 · Blue · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707742@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T090000
 DTEND;TZID=America/Edmonton:20261206T100000
 SUMMARY:⚽ Foothills Tides 2017 at Spartans Aphrodite 18/17 · Main - East
@@ -104,28 +130,39 @@ SUMMARY:⚽ Foothills Tides 2017 at Spartans Aphrodite 18/17 · Main - East
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4017\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4017\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at Spartans Aphrodite 18/17 · Main - 
+ East · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707750@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T130000
 DTEND;TZID=America/Edmonton:20261220T140000
 SUMMARY:⚽ Foothills Tides 2017 vs CUFC Queens 2017/18 · MSC Dome NW 7v7 
  · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4025\nGirls U10 Dev Plus+ LARISEY\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4025\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs CUFC Queens 2017/18 · MSC Dome NW 
+ 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707753@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T100000
 DTEND;TZID=America/Edmonton:20270103T110000
 SUMMARY:⚽ Foothills Tides 2017 at Foothills Courage 2017 · Annex - Charl
@@ -133,14 +170,19 @@ SUMMARY:⚽ Foothills Tides 2017 at Foothills Courage 2017 · Annex - Charl
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4028\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4028\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at Foothills Courage 2017 · Annex - C
+ harlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707759@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T090000
 DTEND;TZID=America/Edmonton:20270110T100000
 SUMMARY:⚽ Foothills Tides 2017 vs Villains Strikers 17 · Annex - Charlie
@@ -148,14 +190,19 @@ SUMMARY:⚽ Foothills Tides 2017 vs Villains Strikers 17 · Annex - Charlie
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4034\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4034\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs Villains Strikers 17 · Annex - Cha
+ rlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707765@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
 SUMMARY:⚽ Foothills Tides 2017 vs Blizzard United 17 Girls · Main - West
@@ -163,14 +210,19 @@ SUMMARY:⚽ Foothills Tides 2017 vs Blizzard United 17 Girls · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4040\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4040\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs Blizzard United 17 Girls · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707766@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
 SUMMARY:⚽ Foothills Tides 2017 at MUSC Mavericks 17 · Main - West · Indo
@@ -178,14 +230,19 @@ SUMMARY:⚽ Foothills Tides 2017 at MUSC Mavericks 17 · Main - West · Indo
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4041\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4041\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at MUSC Mavericks 17 · Main - West · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707774@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T110000
 DTEND;TZID=America/Edmonton:20270207T120000
 SUMMARY:⚽ Foothills Tides 2017 vs EMFC Spirit 17 · Annex - Charlie · Ind
@@ -193,14 +250,19 @@ SUMMARY:⚽ Foothills Tides 2017 vs EMFC Spirit 17 · Annex - Charlie · Ind
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4049\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4049\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs EMFC Spirit 17 · Annex - Charlie ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707778@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T160000
 DTEND;TZID=America/Edmonton:20270221T170000
 SUMMARY:⚽ Foothills Tides 2017 at CNEU 2017 Sting · Indoor AT 7v7 · Indo
@@ -208,14 +270,19 @@ SUMMARY:⚽ Foothills Tides 2017 at CNEU 2017 Sting · Indoor AT 7v7 · Indo
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #4053\nGirls U10 Dev Plus+ LARISEY\n
- Schedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4053\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 at CNEU 2017 Sting · Indoor AT 7v7 · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707784@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
 SUMMARY:⚽ Foothills Tides 2017 vs OUSC United G16 · Annex - Delta · Indo
@@ -223,9 +290,14 @@ SUMMARY:⚽ Foothills Tides 2017 vs OUSC United G16 · Annex - Delta · Indo
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4059\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4059\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Foothills Tides 2017 vs OUSC United G16 · Annex - Delta · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

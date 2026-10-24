@@ -26,35 +26,43 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107752@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T193000
 DTEND;TZID=America/Edmonton:20261103T203000
 SUMMARY:⚽ Napoli D10S vs Cafeteros · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Cafeteros · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107755@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:⚽ Napoli D10S vs Ismaili O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Ismaili O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107653@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T191500
 DTEND;TZID=America/Edmonton:20261123T201500
 SUMMARY:⚽ Napoli D10S at El Salvador Over 45 · Main - South · Indoor sho
@@ -62,14 +70,19 @@ SUMMARY:⚽ Napoli D10S at El Salvador Over 45 · Main - South · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at El Salvador Over 45 · Main - South · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107758@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261127T201500
 DTEND;TZID=America/Edmonton:20261127T211500
 SUMMARY:⚽ Napoli D10S at Southside Rangers O45B · Main - West · Indoor s
@@ -77,14 +90,19 @@ SUMMARY:⚽ Napoli D10S at Southside Rangers O45B · Main - West · Indoor s
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Southside Rangers O45B · Main - West · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107565@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261208T201500
 DTEND;TZID=America/Edmonton:20261208T211500
 SUMMARY:⚽ Napoli D10S vs Calgary United Old Bhoys · Annex - Charlie · In
@@ -92,98 +110,128 @@ SUMMARY:⚽ Napoli D10S vs Calgary United Old Bhoys · Annex - Charlie · In
 LOCATION:MaxWell Soccer Centre Annex - Charlie\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Calgary United Old Bhoys · Annex - Charlie 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107639@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270106T201500
 DTEND;TZID=America/Edmonton:20270106T211500
 SUMMARY:⚽ Napoli D10S vs Eagles O45 · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Eagles O45 · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107641@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270113T201500
 DTEND;TZID=America/Edmonton:20270113T211500
 SUMMARY:⚽ Napoli D10S at Chile O45 · Main - North · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Chile O45 · Main - North · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107656@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T174500
 DTEND;TZID=America/Edmonton:20270123T184500
 SUMMARY:⚽ Napoli D10S vs AMERICA CHILE · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs AMERICA CHILE · Main - South · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107769@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270202T203000
 DTEND;TZID=America/Edmonton:20270202T213000
 SUMMARY:⚽ Napoli D10S at White Eagles O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at White Eagles O45 · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107771@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270209T203000
 DTEND;TZID=America/Edmonton:20270209T213000
 SUMMARY:⚽ Napoli D10S at Cafeteros · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Cafeteros · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107572@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270216T201500
 DTEND;TZID=America/Edmonton:20270216T211500
 SUMMARY:⚽ Napoli D10S at Ismaili O45 · Annex - Delta · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Ismaili O45 · Annex - Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107775@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T193000
 DTEND;TZID=America/Edmonton:20270223T203000
 SUMMARY:⚽ Napoli D10S vs El Salvador Over 45 · Main - West · Indoor shoe
@@ -191,14 +239,19 @@ SUMMARY:⚽ Napoli D10S vs El Salvador Over 45 · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs El Salvador Over 45 · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107779@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270301T201500
 DTEND;TZID=America/Edmonton:20270301T211500
 SUMMARY:⚽ Napoli D10S at Calgary United Old Bhoys · Main - West · Indoor
@@ -206,14 +259,19 @@ SUMMARY:⚽ Napoli D10S at Calgary United Old Bhoys · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Calgary United Old Bhoys · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107574@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270310T201500
 DTEND;TZID=America/Edmonton:20270310T211500
 SUMMARY:⚽ Napoli D10S vs Southside Rangers O45B · Annex - Delta · Indoor
@@ -221,37 +279,50 @@ SUMMARY:⚽ Napoli D10S vs Southside Rangers O45B · Annex - Delta · Indoor
 LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Southside Rangers O45B · Annex - Delta · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107784@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
 SUMMARY:⚽ Napoli D10S at Eagles O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S at Eagles O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107538@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270324T191500
 DTEND;TZID=America/Edmonton:20270324T201500
 SUMMARY:⚽ Napoli D10S vs Chile O45 · Annex - Alpha · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Napoli D10S vs Chile O45 · Annex - Alpha · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

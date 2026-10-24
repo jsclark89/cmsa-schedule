@@ -26,21 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107753@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261103T203000
 DTEND;TZID=America/Edmonton:20261103T213000
 SUMMARY:⚽ White Eagles O45 at Ismaili O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Ismaili O45 · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107756@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T201500
 DTEND;TZID=America/Edmonton:20261114T211500
 SUMMARY:⚽ White Eagles O45 vs El Salvador Over 45 · Main - West · Indoor
@@ -48,14 +53,19 @@ SUMMARY:⚽ White Eagles O45 vs El Salvador Over 45 · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs El Salvador Over 45 · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107757@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261123T211500
 DTEND;TZID=America/Edmonton:20261123T221500
 SUMMARY:⚽ White Eagles O45 at Calgary United Old Bhoys · Main - West · I
@@ -63,28 +73,38 @@ SUMMARY:⚽ White Eagles O45 at Calgary United Old Bhoys · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Calgary United Old Bhoys · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107759@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261201T193000
 DTEND;TZID=America/Edmonton:20261201T203000
 SUMMARY:⚽ White Eagles O45 at Eagles O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Eagles O45 · Main - West · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107638@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261209T211500
 DTEND;TZID=America/Edmonton:20261209T221500
 SUMMARY:⚽ White Eagles O45 vs Southside Rangers O45B · Main - North · In
@@ -92,28 +112,37 @@ SUMMARY:⚽ White Eagles O45 vs Southside Rangers O45B · Main - North · In
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Southside Rangers O45B · Main - North 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107763@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270105T213000
 DTEND;TZID=America/Edmonton:20270105T223000
 SUMMARY:⚽ White Eagles O45 vs Chile O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Chile O45 · Main - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107642@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270113T211500
 DTEND;TZID=America/Edmonton:20270113T221500
 SUMMARY:⚽ White Eagles O45 at AMERICA CHILE · Main - North · Indoor shoe
@@ -121,56 +150,76 @@ SUMMARY:⚽ White Eagles O45 at AMERICA CHILE · Main - North · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at AMERICA CHILE · Main - North · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107655@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270123T164500
 DTEND;TZID=America/Edmonton:20270123T174500
 SUMMARY:⚽ White Eagles O45 at Cafeteros · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Cafeteros · Main - South · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107769@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270202T203000
 DTEND;TZID=America/Edmonton:20270202T213000
 SUMMARY:⚽ White Eagles O45 vs Napoli D10S · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Napoli D10S · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107772@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270209T213000
 DTEND;TZID=America/Edmonton:20270209T223000
 SUMMARY:⚽ White Eagles O45 vs Ismaili O45 · Main - West · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Ismaili O45 · Main - West · Indoor sho
+ es
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107643@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270217T201500
 DTEND;TZID=America/Edmonton:20270217T211500
 SUMMARY:⚽ White Eagles O45 at El Salvador Over 45 · Main - North · Indoo
@@ -178,14 +227,19 @@ SUMMARY:⚽ White Eagles O45 at El Salvador Over 45 · Main - North · Indoo
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at El Salvador Over 45 · Main - North · I
+ ndoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107776@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
 SUMMARY:⚽ White Eagles O45 vs Calgary United Old Bhoys · Main - West · I
@@ -193,14 +247,19 @@ SUMMARY:⚽ White Eagles O45 vs Calgary United Old Bhoys · Main - West · I
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Calgary United Old Bhoys · Main - West
+  · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107778@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270301T191500
 DTEND;TZID=America/Edmonton:20270301T201500
 SUMMARY:⚽ White Eagles O45 at Southside Rangers O45B · Main - West · Ind
@@ -208,42 +267,57 @@ SUMMARY:⚽ White Eagles O45 at Southside Rangers O45B · Main - West · Ind
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Southside Rangers O45B · Main - West ·
+  Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107575@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270310T211500
 DTEND;TZID=America/Edmonton:20270310T221500
 SUMMARY:⚽ White Eagles O45 vs Eagles O45 · Annex - Delta · Indoor shoes
 LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs Eagles O45 · Annex - Delta · Indoor sh
+ oes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107657@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270319T193000
 DTEND;TZID=America/Edmonton:20270319T203000
 SUMMARY:⚽ White Eagles O45 at Chile O45 · Main - South · Indoor shoes
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 at Chile O45 · Main - South · Indoor shoe
+ s
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107539@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270324T201500
 DTEND;TZID=America/Edmonton:20270324T211500
 SUMMARY:⚽ White Eagles O45 vs AMERICA CHILE · Annex - Alpha · Indoor sho
@@ -251,9 +325,14 @@ SUMMARY:⚽ White Eagles O45 vs AMERICA CHILE · Annex - Alpha · Indoor sho
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
+ )\nSurface: Carpet\nOver 45B\nSchedule: https://jsclark89.github.io/cms
+ a-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ White Eagles O45 vs AMERICA CHILE · Annex - Alpha · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

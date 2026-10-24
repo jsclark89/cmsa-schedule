@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107665@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261105T211500
 DTEND;TZID=America/Edmonton:20261105T221500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs Rangers Sportif FC · Main - West · 
@@ -34,14 +34,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs Rangers Sportif FC · Main - West ·
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs Rangers Sportif FC · Main - Wes
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107541@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261114T171500
 DTEND;TZID=America/Edmonton:20261114T181500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at Palestino United · Annex - Alpha · 
@@ -49,14 +54,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at Palestino United · Annex - Alpha ·
 LOCATION:MaxWell Soccer Centre Annex - Alpha\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at Palestino United · Annex - Alph
+ a · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107583@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261118T201500
 DTEND;TZID=America/Edmonton:20261118T211500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs White Eagles · Main - East · Indoor
@@ -64,14 +74,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs White Eagles · Main - East · Indoor
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs White Eagles · Main - East · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107632@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261124T191500
 DTEND;TZID=America/Edmonton:20261124T201500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at Weston FC · Main - North · Indoor s
@@ -79,14 +94,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at Weston FC · Main - North · Indoor s
 LOCATION:MaxWell Soccer Centre Main - North\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at Weston FC · Main - North · Indo
+ or shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107673@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261210T211500
 DTEND;TZID=America/Edmonton:20261210T221500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at Aces FC · Main - West · Indoor shoe
@@ -94,14 +114,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at Aces FC · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at Aces FC · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107585@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261216T191500
 DTEND;TZID=America/Edmonton:20261216T201500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at FC Tryzub · Main - East · Indoor sh
@@ -109,14 +134,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at FC Tryzub · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at FC Tryzub · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107677@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270107T201500
 DTEND;TZID=America/Edmonton:20270107T211500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs CJSC Azzurri · Main - West · Indoor
@@ -124,14 +154,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs CJSC Azzurri · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs CJSC Azzurri · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107646@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270114T201500
 DTEND;TZID=America/Edmonton:20270114T211500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs La Roja · Main - South · Indoor sho
@@ -139,14 +174,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs La Roja · Main - South · Indoor sho
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs La Roja · Main - South · Indoor
+  shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107590@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270120T191500
 DTEND;TZID=America/Edmonton:20270120T201500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at Rangers Sportif FC · Main - East · 
@@ -154,14 +194,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at Rangers Sportif FC · Main - East ·
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at Rangers Sportif FC · Main - Eas
+ t · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107594@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270127T201500
 DTEND;TZID=America/Edmonton:20270127T211500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs Palestino United · Main - East · In
@@ -169,14 +214,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs Palestino United · Main - East · In
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs Palestino United · Main - East 
+ · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107550@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270205T191500
 DTEND;TZID=America/Edmonton:20270205T201500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at White Eagles · Annex - Bravo · Indo
@@ -184,14 +234,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at White Eagles · Annex - Bravo · Indo
 LOCATION:MaxWell Soccer Centre Annex - Bravo\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at White Eagles · Annex - Bravo · 
+ Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107600@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270210T211500
 DTEND;TZID=America/Edmonton:20270210T221500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs Weston FC · Main - East · Indoor sh
@@ -199,14 +254,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs Weston FC · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs Weston FC · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107568@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270226T211500
 DTEND;TZID=America/Edmonton:20270226T221500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs Aces FC · Annex - Delta · Indoor sh
@@ -214,14 +274,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs Aces FC · Annex - Delta · Indoor sh
 LOCATION:MaxWell Soccer Centre Annex - Delta\, 7000 48 Street Southeast 
  Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs Aces FC · Annex - Delta · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107602@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270303T191500
 DTEND;TZID=America/Edmonton:20270303T201500
 SUMMARY:⚽ Punjab Eagles ATHLETICO vs FC Tryzub · Main - East · Indoor sh
@@ -229,14 +294,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO vs FC Tryzub · Main - East · Indoor sh
 LOCATION:MaxWell Soccer Centre Main - East\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO vs FC Tryzub · Main - East · Indoo
+ r shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107690@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270311T211500
 DTEND;TZID=America/Edmonton:20270311T221500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at CJSC Azzurri · Main - West · Indoor
@@ -244,14 +314,19 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at CJSC Azzurri · Main - West · Indoor
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at CJSC Azzurri · Main - West · In
+ door shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107694@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270318T201500
 DTEND;TZID=America/Edmonton:20270318T211500
 SUMMARY:⚽ Punjab Eagles ATHLETICO at La Roja · Main - West · Indoor shoe
@@ -259,9 +334,14 @@ SUMMARY:⚽ Punjab Eagles ATHLETICO at La Roja · Main - West · Indoor shoe
 LOCATION:MaxWell Soccer Centre Main - West\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nCompetitive\nSchedule: https://jsclark89.github.io/cm
- sa-schedule/
+ )\nSurface: Carpet\nCompetitive\nSchedule: https://jsclark89.github.io/
+ cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Punjab Eagles ATHLETICO at La Roja · Main - West · Indoor 
+ shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR

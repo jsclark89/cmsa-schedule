@@ -26,19 +26,25 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707718@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261025T081500
 DTEND;TZID=America/Edmonton:20261025T091500
 SUMMARY:⚽ Blizzard United 17 Girls vs Foothills Tides 2017 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #3993\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #3993\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs Foothills Tides 2017 · Field 2
+  7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707722@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:⚽ Blizzard United 17 Girls at Spartans Aphrodite 18/17 · Indoor 
@@ -46,28 +52,39 @@ SUMMARY:⚽ Blizzard United 17 Girls at Spartans Aphrodite 18/17 · Indoor
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #3997\nGirls U10 Dev Plus+ LARISEY\n
- Schedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #3997\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at Spartans Aphrodite 18/17 · Ind
+ oor AT 7v7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707729@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261108T110000
 DTEND;TZID=America/Edmonton:20261108T120000
 SUMMARY:⚽ Blizzard United 17 Girls vs CUFC Queens 2017/18 · Field A (7v7
  ) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4004\nGirls U10 Dev Plus+ LARISEY\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4004\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs CUFC Queens 2017/18 · Field A 
+ (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707733@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
 SUMMARY:⚽ Blizzard United 17 Girls at Foothills Courage 2017 · Main - We
@@ -75,68 +92,96 @@ SUMMARY:⚽ Blizzard United 17 Girls at Foothills Courage 2017 · Main - We
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4008\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4008\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at Foothills Courage 2017 · Main 
+ - West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707740@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
 SUMMARY:⚽ Blizzard United 17 Girls vs Villains Strikers 17 · Field A (7v
  7) · Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4015\nGirls U10 Dev Plus+ LARISEY\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4015\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs Villains Strikers 17 · Field A
+  (7v7) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707745@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
 SUMMARY:⚽ Blizzard United 17 Girls vs OUSC United G16 · Field A (7v7) · 
  Cleats
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf\nGame #4020\nGirls U10 Dev Plus+ LARISEY\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4020\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs OUSC United G16 · Field A (7v7
+ ) · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707749@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20261220T120000
 DTEND;TZID=America/Edmonton:20261220T130000
 SUMMARY:⚽ Blizzard United 17 Girls at MUSC Mavericks 17 · MSC Dome NW 7v
  7 · Cleats
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nField:
-  Cleats · Turf · Dome\nGame #4024\nGirls U10 Dev Plus+ LARISEY\nSchedul
- e: https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nGirls U10 Dev Plus+ LARISEY · Game #4024\nSchedule: https://js
+ clark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at MUSC Mavericks 17 · MSC Dome N
+ W 7v7 · Cleats
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707755@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270103T131500
 DTEND;TZID=America/Edmonton:20270103T141500
 SUMMARY:⚽ Blizzard United 17 Girls vs EMFC Spirit 17 · Field 2 7v7
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4030\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4030\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs EMFC Spirit 17 · Field 2 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707756@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270110T130000
 DTEND;TZID=America/Edmonton:20270110T140000
 SUMMARY:⚽ Blizzard United 17 Girls at CNEU 2017 Sting · Indoor AT 7v7 · 
@@ -144,14 +189,19 @@ SUMMARY:⚽ Blizzard United 17 Girls at CNEU 2017 Sting · Indoor AT 7v7 ·
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Indoor Season Genesis — Boarded field
-  (boards not in use for 7v7)\nGame #4031\nGirls U10 Dev Plus+ LARISEY\n
- Schedule: https://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4031\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at CNEU 2017 Sting · Indoor AT 7v
+ 7 · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707765@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
 SUMMARY:⚽ Blizzard United 17 Girls at Foothills Tides 2017 · Main - West
@@ -159,27 +209,38 @@ SUMMARY:⚽ Blizzard United 17 Girls at Foothills Tides 2017 · Main - West
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4040\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4040\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at Foothills Tides 2017 · Main - 
+ West · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707770@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270124T100000
 DTEND;TZID=America/Edmonton:20270124T110000
 SUMMARY:⚽ Blizzard United 17 Girls vs Spartans Aphrodite 18/17 · Field 4
   7v7
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4045\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4045\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs Spartans Aphrodite 18/17 · Fie
+ ld 4 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707772@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270207T090000
 DTEND;TZID=America/Edmonton:20270207T100000
 SUMMARY:⚽ Blizzard United 17 Girls at CUFC Queens 2017/18 · Annex - Char
@@ -187,27 +248,38 @@ SUMMARY:⚽ Blizzard United 17 Girls at CUFC Queens 2017/18 · Annex - Char
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4047\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4047\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at CUFC Queens 2017/18 · Annex - 
+ Charlie · Indoor shoes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707779@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270221T111500
 DTEND;TZID=America/Edmonton:20270221T121500
 SUMMARY:⚽ Blizzard United 17 Girls vs Foothills Courage 2017 · Field 3 7
  v7
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Game #4054\nGirls U10 Dev Plus+ LARISEY\nSchedule: https://j
- sclark89.github.io/cmsa-schedule/
+DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4054\nSchedule: https://
+ jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls vs Foothills Courage 2017 · Field
+  3 7v7
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707783@cmsa-schedule
-DTSTAMP:20261024T220241Z
+DTSTAMP:20261024T220601Z
 DTSTART;TZID=America/Edmonton:20270228T110000
 DTEND;TZID=America/Edmonton:20270228T120000
 SUMMARY:⚽ Blizzard United 17 Girls at Villains Strikers 17 · Annex - Del
@@ -215,9 +287,14 @@ SUMMARY:⚽ Blizzard United 17 Girls at Villains Strikers 17 · Annex - Del
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
- )\nField: Indoor shoes · Carpet · Main/Annex: Boarded field (boards not
-  in use for 7v7)\nGame #4058\nGirls U10 Dev Plus+ LARISEY\nSchedule: ht
- tps://jsclark89.github.io/cmsa-schedule/
+ )\nSurface: Carpet\nGirls U10 Dev Plus+ LARISEY · Game #4058\nSchedule:
+  https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard United 17 Girls at Villains Strikers 17 · Annex -
+  Delta · Indoor shoes
+END:VALARM
 END:VEVENT
 END:VCALENDAR
