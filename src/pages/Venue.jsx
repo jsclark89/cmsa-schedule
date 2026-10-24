@@ -22,7 +22,7 @@ export default function Venue({ season, favs, venue }) {
               <li key={i}>
                 <FootwearTag kind={a.kind} />
                 {a.area ? <b> {a.area}</b> : null}
-                <span className="muted"> {[a.footwear ? null : a.footwearDetail, a.surface, ...a.other.filter((o) => !a.area || !o.startsWith(a.area))].filter(Boolean).join(' · ')}</span>
+                <span className="muted"> {[a.footwear ? null : a.footwearDetail, a.surface].filter(Boolean).join(' · ')}</span>
               </li>
             ))}
           </ul>

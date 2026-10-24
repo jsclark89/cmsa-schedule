@@ -2,7 +2,7 @@
 // Games are stored as local Calgary wall-clock strings, so events carry a
 // VTIMEZONE for America/Edmonton rather than UTC offsets.
 
-import { footwearFor, bringLine, noteLine } from './venueNote.js'
+import { footwearFor, bringLine } from './venueNote.js'
 
 const TZ = 'America/Edmonton'
 
@@ -93,6 +93,10 @@ export function buildIcs({ name, events, now = new Date() }) {
     if (ev.location) lines.push(`LOCATION:${esc(ev.location)}`)
     if (ev.description) lines.push(`DESCRIPTION:${esc(ev.description)}`)
     if (ev.url) lines.push(`URL:${ev.url}`)
+    if (ev.alarmMinutes) {
+      // A lock-screen alert ahead of kickoff, with the field and shoes in it.
+      lines.push('BEGIN:VALARM', 'ACTION:DISPLAY', `TRIGGER:-PT${ev.alarmMinutes}M`, `DESCRIPTION:${esc(ev.summary)}`, 'END:VALARM')
+    }
     lines.push('END:VEVENT')
   }
   lines.push('END:VCALENDAR')
@@ -121,16 +125,14 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
   const field = game.field || venue?.name || ''
   const location = [field, venue?.address].filter(Boolean).join(', ')
   const wear = footwearFor(venue, game.field)
-  const line = noteLine(venue, game.field)
   // Title carries the field and the shoes, so a glance at the lock screen says where to walk and what to wear.
   const shortField = shortFieldName(game.field, venue)
   if (shortField) summary += ` · ${shortField}`
   if (wear?.footwear) summary += ` · ${wear.footwear}`
   const description = [
     wear?.footwear ? `Bring: ${bringLine(venue, game.field)}` : null,
-    line ? `Field: ${line}` : null,
-    game.code ? `Game #${game.code}` : null,
-    division ? division.name : null,
+    wear?.surface ? `Surface: ${wear.surface}` : null,
+    [division?.name, game.code ? `Game #${game.code}` : null].filter(Boolean).join(' · ') || null,
     siteUrl ? `Schedule: ${siteUrl}` : null,
   ].filter(Boolean).join('\n')
   return {
@@ -142,6 +144,7 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
     location,
     description,
     url: siteUrl,
+    alarmMinutes: 60,
   }
 }
 
@@ -177,8 +180,9 @@ export function trainingToEvent(t, team, index, siteUrl, venue = null) {
     durationMin: t.end ? minutesBetween(t.start, t.end) : 60,
     summary: `⚽ ${team.name} training` + (t.field ? ` · ${t.field}` : '') + (wear?.footwear ? ` · ${wear.footwear}` : ''),
     location: [where, address].filter(Boolean).join(', '),
-    description: [wear?.footwear ? `Bring: ${bringLine(venue, where)}` : null, t.label, t.note, t.source ? `Source: ${t.source}` : null, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
+    description: [wear?.footwear ? `Bring: ${bringLine(venue, where)}` : null, wear?.surface ? `Surface: ${wear.surface}` : null, t.note, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
     url: siteUrl,
+    alarmMinutes: 60,
     rrule,
     exdates: t.skip || [],
   }
