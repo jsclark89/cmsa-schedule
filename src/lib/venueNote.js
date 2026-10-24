@@ -6,6 +6,18 @@
 //   "Maxwell soccer centre (Main/Annex) Boarded field (boards not in use for 7v7) | Flat-sole shoes (runners) | Carpet"
 // The field name ("MaxWell Soccer Centre Main - East Field") tells us which applies.
 
+/**
+ * The two kinds of indoor footwear, in the words players and parents use.
+ * The league's own notes say "Flat-sole shoes (runners)" for carpet and
+ * "Regular cleats" for turf; the detail keeps those words so nobody is confused.
+ */
+export const FOOTWEAR = {
+  indoor: { kind: 'indoor', label: 'Indoor shoes', detail: 'flat-sole court shoes; runners are fine', icon: '👟', cls: 'runners' },
+  cleats: { kind: 'cleats', label: 'Cleats', detail: 'regular cleats; turf shoes also work', icon: '⚽', cls: 'cleats' },
+}
+
+export const footwearInfo = (kind) => FOOTWEAR[kind] || null
+
 const STOP = new Set(['soccer', 'centre', 'center', 'field', 'the', 'and', 'for', 'not', 'use', 'boarded', 'boards', 'regular', 'cleats', 'turf', 'carpet', 'shoes', 'runners', 'flat', 'sole', 'indoor', 'season', 'dome'])
 
 /** The raw note that applies to this field, or all notes joined when none can be matched. */
@@ -32,18 +44,20 @@ export function parseNote(note, venue) {
   if (!note) return null
   const parts = note.split('|').map((s) => s.trim()).filter(Boolean)
   const name = (venue?.name || '').toLowerCase()
-  const out = { footwear: null, footwearDetail: null, surface: null, other: [] }
+  const out = { footwear: null, kind: null, footwearDetail: null, surface: null, other: [] }
   for (let i = 0; i < parts.length; i++) {
     let p = parts[i]
     if (i === 0 && name && p.toLowerCase().startsWith(name)) p = p.slice(name.length).replace(/^[\s:-]+/, '')
     p = p.replace(/^\(([^)]*)\)\s*/, '$1: ').replace(/-\s*$/, '').trim()
     if (!p) continue
     const l = p.toLowerCase()
-    if (/flat-?sole|runners|indoor shoes/.test(l)) {
-      out.footwear = 'Runners'
+    if (/flat-?sole|runners|indoor shoes|court shoes/.test(l)) {
+      out.kind = 'indoor'
+      out.footwear = FOOTWEAR.indoor.label
       out.footwearDetail = p
-    } else if (/cleats/.test(l) && !out.footwear) {
-      out.footwear = 'Cleats'
+    } else if (/cleats|turf shoes/.test(l) && !out.footwear) {
+      out.kind = 'cleats'
+      out.footwear = FOOTWEAR.cleats.label
       out.footwearDetail = p
     } else if (/^(turf|carpet|grass|artificial)/.test(l)) {
       out.surface = p
@@ -58,7 +72,10 @@ export function footwearFor(venue, field) {
   const note = noteFor(venue, field)
   if (!note) return null
   const out = parseNote(note, venue)
-  if (note.includes(' / ')) out.footwear = null // ambiguous: several areas, none matched
+  if (note.includes(' / ')) {
+    out.footwear = null // ambiguous: several areas, none matched
+    out.kind = null
+  }
   return out
 }
 
@@ -71,19 +88,15 @@ export function areasFor(venue) {
   })
 }
 
-/** "Runners (flat-sole shoes)" or "Cleats": the label plus any detail that adds something. */
+/** "Indoor shoes (flat-sole court shoes; runners are fine)" or "Cleats (regular cleats; turf shoes also work)". */
 export function bringLine(venue, field) {
   const f = footwearFor(venue, field)
-  if (!f?.footwear) return null
-  const detail = (f.footwearDetail || '')
-    .toLowerCase()
-    .replace(/\(?\b(runners|regular cleats|cleats)\b\)?/g, '')
-    .replace(/\s+/g, ' ')
-    .trim()
-  return detail ? `${f.footwear} (${detail})` : f.footwear
+  if (!f?.kind) return null
+  const info = FOOTWEAR[f.kind]
+  return `${info.label} (${info.detail})`
 }
 
-/** One readable line: "Runners · Carpet · Main/Annex: Boarded field (boards not in use for 7v7)" */
+/** One readable line: "Indoor shoes · Carpet · Main/Annex: Boarded field (boards not in use for 7v7)" */
 export function noteLine(venue, field) {
   const f = footwearFor(venue, field)
   if (!f) return null

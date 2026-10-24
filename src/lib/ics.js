@@ -99,6 +99,15 @@ export function buildIcs({ name, events, now = new Date() }) {
   return lines.map(fold).join('\r\n') + '\r\n'
 }
 
+/** "MaxWell Soccer Centre Main - East Field" at MaxWell -> "Main - East"; a venue with one field -> null. */
+export function shortFieldName(field, venue) {
+  if (!field) return null
+  let f = field
+  if (venue?.name && f.toLowerCase().startsWith(venue.name.toLowerCase())) f = f.slice(venue.name.length).replace(/^[\s:-]+/, '')
+  f = f.replace(/\s+Field$/i, '').trim()
+  return f || null
+}
+
 /** Turn a stored game plus lookups into an ICS event, from one team's point of view. */
 export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl }) {
   const home = teams[game.homeId]?.name || game.homeName
@@ -106,13 +115,16 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
   const venue = venues[game.venueId]
   const division = divisions[game.divisionId]
   let summary
-  if (teamId && game.homeId === teamId) summary = `${home} vs ${away} (home)`
-  else if (teamId && game.awayId === teamId) summary = `${away} at ${home} (away)`
+  if (teamId && game.homeId === teamId) summary = `${home} vs ${away}`
+  else if (teamId && game.awayId === teamId) summary = `${away} at ${home}`
   else summary = `${home} vs ${away}`
   const field = game.field || venue?.name || ''
   const location = [field, venue?.address].filter(Boolean).join(', ')
   const wear = footwearFor(venue, game.field)
   const line = noteLine(venue, game.field)
+  // Title carries the field and the shoes, so a glance at the lock screen says where to walk and what to wear.
+  const shortField = shortFieldName(game.field, venue)
+  if (shortField) summary += ` · ${shortField}`
   if (wear?.footwear) summary += ` · ${wear.footwear}`
   const description = [
     wear?.footwear ? `Bring: ${bringLine(venue, game.field)}` : null,
@@ -163,7 +175,7 @@ export function trainingToEvent(t, team, index, siteUrl, venue = null) {
     date: firstSessionDate(t),
     time: t.start,
     durationMin: t.end ? minutesBetween(t.start, t.end) : 60,
-    summary: `⚽ ${team.name} training` + (wear?.footwear ? ` · ${wear.footwear}` : ''),
+    summary: `⚽ ${team.name} training` + (t.field ? ` · ${t.field}` : '') + (wear?.footwear ? ` · ${wear.footwear}` : ''),
     location: [where, address].filter(Boolean).join(', '),
     description: [wear?.footwear ? `Bring: ${bringLine(venue, where)}` : null, t.label, t.note, t.source ? `Source: ${t.source}` : null, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
     url: siteUrl,

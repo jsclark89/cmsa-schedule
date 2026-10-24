@@ -3,6 +3,7 @@ import { href } from '../lib/router.js'
 import { fmtDate, relDay, isPast, groupBy } from '../lib/data.js'
 import GameRow from './GameRow.jsx'
 import { areasFor } from '../lib/venueNote.js'
+import { FootwearTag } from './Bring.jsx'
 
 export default function Venue({ season, favs, venue }) {
   const games = season.byVenue[venue.id] || []
@@ -19,7 +20,7 @@ export default function Venue({ season, favs, venue }) {
           <ul className="notes">
             {areasFor(venue).map((a, i) => (
               <li key={i}>
-                {a.footwear ? <span className={`bring ${a.footwear === 'Runners' ? 'runners' : 'cleats'}`}>{a.footwear === 'Runners' ? '👟' : '⚽'} {a.footwear}</span> : null}
+                <FootwearTag kind={a.kind} />
                 {a.area ? <b> {a.area}</b> : null}
                 <span className="muted"> {[a.footwear ? null : a.footwearDetail, a.surface, ...a.other.filter((o) => !a.area || !o.startsWith(a.area))].filter(Boolean).join(' · ')}</span>
               </li>
