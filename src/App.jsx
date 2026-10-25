@@ -24,6 +24,7 @@ export default function App() {
   }, [])
   useEffect(() => {
     window.scrollTo(0, 0)
+    favourites.sync()
   }, [route.page, route.id])
 
   const isHome = route.page === 'home'

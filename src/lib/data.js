@@ -46,31 +46,87 @@ function indexSeason(s) {
   return { ...s, byTeam, byDivision, byVenue, byDate, teamList, gameDays }
 }
 
-// ---------- favourites (per device) ----------
+// ---------- favourites ----------
+//
+// Starred teams live in two places so iPhone cannot lose them:
+//   1. localStorage, which Safari clears after about a week without a visit,
+//      and which is separate for Safari, a home screen icon and in-app browsers.
+//   2. The page address (?my=id,id), kept in step on every change. A bookmark or
+//      home screen icon saved from any page carries the teams, and a visit with
+//      an empty localStorage restores them from it.
+// Shared links (the Share button, calendar links) never carry ?my=, so one
+// person's stars do not appear on another person's phone.
 
-function readFavs() {
+const MY_PARAM = 'my'
+const ID_RE = /^c?\d{3,12}$/
+let current = null
+
+function readStored() {
   try {
     const v = JSON.parse(localStorage.getItem(FAV_KEY) || '[]')
-    return Array.isArray(v) ? v : []
+    return Array.isArray(v) ? v.filter((id) => ID_RE.test(id)) : []
   } catch {
     return []
   }
 }
 
-export const favourites = {
-  get: readFavs,
-  has: (id) => readFavs().includes(id),
-  toggle(id) {
-    const cur = readFavs()
-    const next = cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id]
-    try {
-      localStorage.setItem(FAV_KEY, JSON.stringify(next))
-    } catch {
-      /* private mode: favourites just do not persist */
+function readUrl() {
+  try {
+    const v = new URLSearchParams(window.location.search).get(MY_PARAM)
+    return v ? [...new Set(v.split(',').filter((id) => ID_RE.test(id)))].slice(0, 20) : []
+  } catch {
+    return []
+  }
+}
+
+function store(ids) {
+  try {
+    localStorage.setItem(FAV_KEY, JSON.stringify(ids))
+  } catch {
+    /* private mode or blocked storage: the address still carries them */
+  }
+}
+
+function writeUrl(ids) {
+  try {
+    const params = new URLSearchParams(window.location.search)
+    params.delete(MY_PARAM)
+    params.delete('r')
+    const rest = params.toString()
+    const search = [rest, ids.length ? `${MY_PARAM}=${ids.join(',')}` : ''].filter(Boolean).join('&')
+    const url = window.location.pathname + (search ? `?${search}` : '') + window.location.hash
+    if (url !== window.location.pathname + window.location.search + window.location.hash) {
+      window.history.replaceState(window.history.state, '', url)
     }
+  } catch {
+    /* address bar sync is a convenience */
+  }
+}
+
+function load() {
+  if (current) return current
+  const stored = readStored()
+  const fromUrl = readUrl()
+  current = stored.length ? stored : fromUrl
+  if (!stored.length && fromUrl.length) store(fromUrl)
+  writeUrl(current)
+  return current
+}
+
+export const favourites = {
+  get: () => load(),
+  has: (id) => load().includes(id),
+  toggle(id) {
+    const cur = load()
+    const next = cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id]
+    current = next
+    store(next)
+    writeUrl(next)
     window.dispatchEvent(new Event('cmsa:favs'))
     return next
   },
+  /** Re-apply ?my= after a navigation that rebuilt the address. */
+  sync: () => writeUrl(load()),
 }
 
 // ---------- dates ----------

@@ -139,7 +139,7 @@ export function CalendarPanel({ kind, id, name }) {
         <button className="btn" onClick={copy}>{copied ? 'Copied' : 'Copy address'}</button>
       </div>
       <p className="muted small">
-        iPhone: the first button works directly. Google Calendar: Settings, Add calendar, From URL, paste the copied address.
+        iPhone: tap the first button, then Subscribe. Google Calendar: tap Copy address, then in Google Calendar go to Settings, Add calendar, From URL, and paste it.
         {window.location.hostname === 'localhost' ? ' (Subscriptions only work once the site is published, not from localhost.)' : ''}
       </p>
     </div>

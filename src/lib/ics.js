@@ -141,7 +141,8 @@ function shoesTag(wear) {
 }
 
 /** Turn a stored game plus lookups into an ICS event, from one team's point of view. */
-export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl }) {
+export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl: baseUrl }) {
+  const siteUrl = baseUrl ? `${baseUrl}#/${teamId ? `team/${teamId}` : `division/${game.divisionId}`}` : ''
   const home = teams[game.homeId]?.name || game.homeName
   const away = teams[game.awayId]?.name || game.awayName
   const venue = venues[game.venueId]
@@ -199,7 +200,8 @@ export function firstSessionDate(t) {
 }
 
 /** A weekly training session as one recurring calendar event. */
-export function trainingToEvent(t, team, index, siteUrl, venue = null, divisions = null) {
+export function trainingToEvent(t, team, index, baseUrl, venue = null, divisions = null) {
+  const siteUrl = baseUrl ? `${baseUrl}#/team/${team.id}` : ''
   const until = t.until ? t.until.replace(/-/g, '') + 'T235959Z' : null
   const rrule = `FREQ=WEEKLY;BYDAY=${t.weekday}` + (until ? `;UNTIL=${until}` : '')
   const where = [t.venue, t.field].filter(Boolean).join(' ')

@@ -210,3 +210,7 @@ a.card:hover { text-decoration: none; border-color: var(--accent); }
 .training { border-left: 4px solid var(--home); }
 .training-when { font-size: 18px; font-weight: 700; margin: 2px 0 6px; }
 .trainline { margin-top: 6px; }
+
+.tip { display: flex; gap: 10px; align-items: flex-start; font-size: 14px; }
+.tip > div { flex: 1; }
+.iconbtn.small { width: 28px; height: 28px; font-size: 18px; }

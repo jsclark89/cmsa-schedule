@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import HomeScreenTip from './HomeScreenTip.jsx'
 import { href } from '../lib/router.js'
 import { nextGame, fmtDate, fmtTime, relDay, opponentOf, fieldOnly, trainingFor, nextSession, weekdayName, venueByName } from '../lib/data.js'
 import Bring from './Bring.jsx'
@@ -18,11 +19,14 @@ export default function Home({ season, favs }) {
         <h2 className="h">My teams</h2>
         {myTeams.length === 0 ? (
           <div className="card soft">
-            <p><b>Star a team once</b> and its next game, field and address are here every time you open this.</p>
+            <p><b>Find your team below and tap ☆ Star.</b> Its next game, field, address and shoes then show here every time you open this page.</p>
             <p className="muted">Search below by team name. Youth divisions (CMSA) end in the coach's surname, like "Dev MILLER"; adult leagues (CUSA) are listed by division.</p>
           </div>
         ) : (
-          myTeams.map((t) => <TeamCard key={t.id} team={t} season={season} />)
+          <>
+            {myTeams.map((t) => <TeamCard key={t.id} team={t} season={season} />)}
+            <HomeScreenTip />
+          </>
         )}
       </section>
 
