@@ -1,6 +1,8 @@
 // Loads public/data/season.json once and exposes lookups plus date helpers.
 // All game dates and times are Calgary wall-clock strings (YYYY-MM-DD, HH:MM).
 
+import { mergeExtraVenues, applyTeamShortNames } from './venues.js'
+
 const BASE = import.meta.env.BASE_URL
 const TZ = 'America/Edmonton'
 const FAV_KEY = 'cmsa.myTeams'
@@ -14,8 +16,9 @@ export function loadSeason() {
       return r.json()
     })
     const optional = (name) => fetch(`${BASE}data/${name}`, { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
-    seasonPromise = Promise.all([season, optional('training.json'), optional('venues.json')]).then(([s, t, extra]) => {
+    seasonPromise = Promise.all([season, optional('training.json'), optional('venues.json'), optional('teams.json')]).then(([s, t, extra, shortNames]) => {
       mergeExtraVenues(s.venues, extra)
+      applyTeamShortNames(s.teams, shortNames)
       return indexSeason({ ...s, training: t })
     })
   }
@@ -169,29 +172,6 @@ export function icsUrl(kind, id) {
 
 export function webcalUrl(kind, id) {
   return icsUrl(kind, id).replace(/^https?:/, 'webcal:')
-}
-
-/** Hand-kept venues (see public/data/venues.json): added when the league lacks them, notes filled when blank. */
-export function mergeExtraVenues(venues, extra) {
-  for (const [name, v] of Object.entries(extra || {})) {
-    if (name.startsWith('_') || name === 'arenaAliases') continue
-    const existing = Object.values(venues).find((x) => x.name === name)
-    if (existing) {
-      if (!existing.notes?.length && v.notes?.length) existing.notes = v.notes
-      if (!existing.address && v.address) existing.address = v.address
-      continue
-    }
-    const id = 'x-' + name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
-    venues[id] = {
-      id,
-      name,
-      address: v.address || null,
-      notes: v.notes || [],
-      mapsUrl: v.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ', ' + v.address)}` : null,
-      manual: true,
-    }
-  }
-  return venues
 }
 
 export function venueByName(season, name) {

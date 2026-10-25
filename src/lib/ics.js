@@ -2,7 +2,7 @@
 // Games are stored as local Calgary wall-clock strings, so events carry a
 // VTIMEZONE for America/Edmonton rather than UTC offsets.
 
-import { footwearFor, bringLine } from './venueNote.js'
+import { footwearFor, bringLine, footwearInfo } from './venueNote.js'
 
 const TZ = 'America/Edmonton'
 
@@ -103,13 +103,41 @@ export function buildIcs({ name, events, now = new Date() }) {
   return lines.map(fold).join('\r\n') + '\r\n'
 }
 
-/** "MaxWell Soccer Centre Main - East Field" at MaxWell -> "Main - East"; a venue with one field -> null. */
+/** "MaxWell Soccer Centre Annex - Alpha Field" at MaxWell -> "Annex Alpha"; "MSC Dome NW 7v7" -> "Dome NW". */
 export function shortFieldName(field, venue) {
   if (!field) return null
   let f = field
-  if (venue?.name && f.toLowerCase().startsWith(venue.name.toLowerCase())) f = f.slice(venue.name.length).replace(/^[\s:-]+/, '')
-  f = f.replace(/\s+Field$/i, '').trim()
+  if (venue?.name && f.toLowerCase().startsWith(venue.name.toLowerCase())) f = f.slice(venue.name.length)
+  f = f
+    .replace(/\(?\b\d+v\d+\b\)?/gi, '')
+    .replace(/^\s*MSC\s+/i, '')
+    .replace(/\s+Field$/i, '')
+    .replace(/\s+-\s+/g, ' ')
+    .replace(/^[\s:-]+|[\s:-]+$/g, '')
+    .replace(/\s+/g, ' ')
   return f || null
+}
+
+/** Where to walk to, as short as it can be: "Annex Alpha", "Genesis Indoor AT", "Skills Centre Field 4". */
+export function titleLocation(field, venue) {
+  const f = shortFieldName(field, venue)
+  const v = venue ? (venue.short ?? venue.name) : null
+  return [v, f].filter(Boolean).join(' ') || null
+}
+
+/** "U11 Forest" from the hand-kept list, else age group plus the name without its birth year. */
+export function teamTitle(team, divisions) {
+  if (!team) return null
+  if (team.short) return team.short
+  const division = divisions?.[team.divisionId]
+  const age = division?.org === 'CUSA' ? null : division?.ageSlug?.toUpperCase()
+  const name = team.name.replace(/\s+(?:20\d{2}(?:\/\d{2,4})?|\d{2}(?:\/\d{2})?[A-Z]?)$/, '').trim() || team.name
+  return [age, name].filter(Boolean).join(' ')
+}
+
+function shoesTag(wear) {
+  const info = footwearInfo(wear?.kind)
+  return info ? `(👟 ${info.kind === 'indoor' ? 'indoor' : 'cleats'})` : null
 }
 
 /** Turn a stored game plus lookups into an ICS event, from one team's point of view. */
@@ -118,17 +146,21 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
   const away = teams[game.awayId]?.name || game.awayName
   const venue = venues[game.venueId]
   const division = divisions[game.divisionId]
-  let summary
-  if (teamId && game.homeId === teamId) summary = `${home} vs ${away}`
-  else if (teamId && game.awayId === teamId) summary = `${away} at ${home}`
-  else summary = `${home} vs ${away}`
   const field = game.field || venue?.name || ''
   const location = [field, venue?.address].filter(Boolean).join(', ')
   const wear = footwearFor(venue, game.field)
-  // Title carries the field and the shoes, so a glance at the lock screen says where to walk and what to wear.
-  const shortField = shortFieldName(game.field, venue)
-  if (shortField) summary += ` · ${shortField}`
-  if (wear?.footwear) summary += ` · ${wear.footwear}`
+  // Title order: who, where to walk, what to wear, then the matchup.
+  //   U11 Forest - Annex Alpha (👟 indoor) - Home vs SWU Olympique 16B
+  const where = [titleLocation(game.field, venue), shoesTag(wear)].filter(Boolean).join(' ')
+  let parts
+  if (teamId && (game.homeId === teamId || game.awayId === teamId)) {
+    const isHome = game.homeId === teamId
+    const me = teamTitle(teams[teamId], divisions) || (isHome ? home : away)
+    parts = [me, where, isHome ? `Home vs ${away}` : `Away at ${home}`]
+  } else {
+    parts = [where, `${home} vs ${away}`]
+  }
+  const summary = parts.filter(Boolean).join(' - ')
   const description = [
     wear?.footwear ? `Bring: ${bringLine(venue, game.field)}` : null,
     wear?.surface ? `Surface: ${wear.surface}` : null,
@@ -140,7 +172,7 @@ export function gameToEvent(game, { teamId, teams, venues, divisions, siteUrl })
     date: game.date,
     time: game.time,
     durationMin: 60,
-    summary: `⚽ ${summary}`,
+    summary,
     location,
     description,
     url: siteUrl,
@@ -167,18 +199,19 @@ export function firstSessionDate(t) {
 }
 
 /** A weekly training session as one recurring calendar event. */
-export function trainingToEvent(t, team, index, siteUrl, venue = null) {
+export function trainingToEvent(t, team, index, siteUrl, venue = null, divisions = null) {
   const until = t.until ? t.until.replace(/-/g, '') + 'T235959Z' : null
   const rrule = `FREQ=WEEKLY;BYDAY=${t.weekday}` + (until ? `;UNTIL=${until}` : '')
   const where = [t.venue, t.field].filter(Boolean).join(' ')
   const address = t.address || venue?.address || null
   const wear = venue ? footwearFor(venue, where) : null
+  const titleWhere = [titleLocation(where, venue || { name: t.venue }), shoesTag(wear)].filter(Boolean).join(' ')
   return {
     uid: `training-${team.id}-${index}@cmsa-schedule`,
     date: firstSessionDate(t),
     time: t.start,
     durationMin: t.end ? minutesBetween(t.start, t.end) : 60,
-    summary: `⚽ ${team.name} training` + (t.field ? ` · ${t.field}` : '') + (wear?.footwear ? ` · ${wear.footwear}` : ''),
+    summary: [teamTitle(team, divisions), titleWhere, 'Training'].filter(Boolean).join(' - '),
     location: [where, address].filter(Boolean).join(', '),
     description: [wear?.footwear ? `Bring: ${bringLine(venue, where)}` : null, wear?.surface ? `Surface: ${wear.surface}` : null, t.note, siteUrl ? `Schedule: ${siteUrl}` : null].filter(Boolean).join('\n'),
     url: siteUrl,

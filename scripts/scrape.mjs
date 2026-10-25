@@ -13,6 +13,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildIcs, gameToEvent, trainingToEvent } from '../src/lib/ics.js'
 import { scrapeCusa } from './cusa.mjs'
+import { mergeExtraVenues, applyTeamShortNames } from '../src/lib/venues.js'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DATA_DIR = path.join(ROOT, 'public', 'data')
@@ -265,29 +266,6 @@ async function readJson(file) {
   }
 }
 
-/** Hand-kept venues: add the ones the league does not list, and fill in notes the league left blank. */
-export function mergeExtraVenues(venues, extra) {
-  for (const [name, v] of Object.entries(extra || {})) {
-    if (name.startsWith('_') || name === 'arenaAliases') continue
-    const existing = Object.values(venues).find((x) => x.name === name)
-    if (existing) {
-      if (!existing.notes?.length && v.notes?.length) existing.notes = v.notes
-      if (!existing.address && v.address) existing.address = v.address
-      continue
-    }
-    const id = 'x-' + name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
-    venues[id] = {
-      id,
-      name,
-      address: v.address || null,
-      notes: v.notes || [],
-      mapsUrl: v.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name + ', ' + v.address)}` : null,
-      manual: true,
-    }
-  }
-  return venues
-}
-
 // ---------- change log ----------
 
 const FIELDS = ['date', 'time', 'homeId', 'awayId', 'venueId', 'field']
@@ -390,6 +368,8 @@ async function main() {
     games.push(...(previous?.games?.filter((x) => x.key.startsWith('c')) || []))
   }
 
+  applyTeamShortNames(teams, await readJson(path.join(DATA_DIR, 'teams.json')))
+
   games.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')) || String(a.code || a.key).localeCompare(String(b.code || b.key), undefined, { numeric: true }))
 
   const generatedAt = new Date().toISOString()
@@ -427,7 +407,7 @@ async function main() {
     const events = mine.map((g) => gameToEvent(g, { ...ctx, teamId: t.id }))
     for (const [i, session] of (Array.isArray(training[t.id]) ? training[t.id] : []).entries()) {
       const venue = Object.values(venues).find((v) => v.name === session.venue) || null
-      events.push(trainingToEvent(session, t, i, SITE_URL, venue))
+      events.push(trainingToEvent(session, t, i, SITE_URL, venue, divisions))
     }
     const ics = buildIcs({ name: `${t.name} (${t.org || 'CMSA'})`, now, events })
     await writeFile(path.join(ICS_DIR, `team-${t.id}.ics`), ics)

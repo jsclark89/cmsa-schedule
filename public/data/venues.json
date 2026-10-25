@@ -1,5 +1,5 @@
 {
-  "_readme": "Venues the league site does not list (training grounds) or lists without footwear notes. Keyed by exact venue name. notes use the league's own 'area | footwear | surface' shape so the same parser reads them. A scraped venue with the same name keeps its league address and gains these notes when it has none. arenaAliases rewrites CUSA (RAMP) arena names into the league field wording so the same venue and footwear rules apply.",
+  "_readme": "Venues the league site does not list (training grounds) or lists without footwear notes. Keyed by exact venue name. notes use the league's own 'area | footwear | surface' shape so the same parser reads them. A scraped venue with the same name keeps its league address and gains these notes when it has none. arenaAliases rewrites CUSA (RAMP) arena names into the league field wording so the same venue and footwear rules apply. titleNames gives each venue the short name used in calendar titles; an empty string means the field name alone is enough (MaxWell, where most games are).",
   "arenaAliases": {
     "Maxwell Soccer Centre Dome Quarter ": "MaxWell Soccer Centre MSC Dome ",
     "Maxwell Soccer Centre Annex - ": "MaxWell Soccer Centre Annex - ",
@@ -9,6 +9,18 @@
     "Shane Homes West Soccer Dome - ": "Shane Homes West Soccer Dome Field ",
     "Villains Dome - ": "Villains Dome ",
     "Genesis Centre - ": "Genesis Centre "
+  },
+  "titleNames": {
+    "MaxWell Soccer Centre": "",
+    "Genesis Centre": "Genesis",
+    "Villains Dome": "Villains",
+    "Foothills Macron Centre": "Macron",
+    "Shouldice Athletic Park": "Shouldice",
+    "Shane Homes West Soccer Dome": "Shane Homes",
+    "10Fold Regional Fieldhouse": "10Fold",
+    "Airdrie Genesis Place": "Airdrie Genesis",
+    "Foothills Skills Centre": "Skills Centre",
+    "Seven Chiefs Sportsplex": "Seven Chiefs"
   },
   "Foothills Skills Centre": {
     "address": "3916 56 Ave SE, Calgary, AB T2C 2B5",
