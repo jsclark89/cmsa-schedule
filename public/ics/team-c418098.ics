@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109044@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261103T214500
 DTEND;TZID=America/Edmonton:20261103T224500
 SUMMARY:CWFC Colts - Villains Field 2 (👟 cleats) - Away at SC Athletic 
@@ -34,8 +34,8 @@ SUMMARY:CWFC Colts - Villains Field 2 (👟 cleats) - Away at SC Athletic
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109104@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261109T220000
 DTEND;TZID=America/Edmonton:20261109T230000
 SUMMARY:CWFC Colts - Shouldice Encana NE (👟 cleats) - Home vs Foothills
@@ -54,8 +54,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -65,15 +65,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109212@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
 SUMMARY:CWFC Colts - Shane Homes Field 4 - Away at Blizzard SC5
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -82,15 +82,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109279@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T213000
 DTEND;TZID=America/Edmonton:20261124T223000
 SUMMARY:CWFC Colts - Shane Homes Field 2 - Home vs Al Salam FC
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -99,15 +99,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109366@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T213000
 DTEND;TZID=America/Edmonton:20261201T223000
 SUMMARY:CWFC Colts - Shane Homes Field 3 - Home vs FC Wizards
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109557@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T221500
 DTEND;TZID=America/Edmonton:20261217T231500
 SUMMARY:CWFC Colts - Shouldice Encana SE (👟 cleats) - Home vs Eldorado 
@@ -125,8 +125,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108163@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270104T213000
 DTEND;TZID=America/Edmonton:20270104T223000
 SUMMARY:CWFC Colts - Macron Aspen Air (👟 cleats) - Away at Calgary Vill
@@ -145,8 +145,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108233@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270111T214500
 DTEND;TZID=America/Edmonton:20270111T224500
 SUMMARY:CWFC Colts - Dome NW (👟 cleats) - Away at Richmond's Pub FC
@@ -164,8 +164,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108322@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T221500
 DTEND;TZID=America/Edmonton:20270119T231500
 SUMMARY:CWFC Colts - Shouldice Encana NE (👟 cleats) - Home vs SC Athlet
@@ -183,8 +183,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -194,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108403@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
 SUMMARY:CWFC Colts - Dome SE (👟 cleats) - Away at Foothills Fire
@@ -202,8 +202,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -212,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108512@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270204T221500
 DTEND;TZID=America/Edmonton:20270204T231500
 SUMMARY:CWFC Colts - Shouldice Encana NE (👟 cleats) - Home vs Blizzard 
@@ -221,8 +221,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -232,15 +232,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108570@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T213000
 DTEND;TZID=America/Edmonton:20270209T223000
 SUMMARY:CWFC Colts - Shane Homes Field 4 - Home vs Calgary Villains FC
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -250,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108736@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T193000
 DTEND;TZID=America/Edmonton:20270227T203000
 SUMMARY:CWFC Colts - Dome NE (👟 cleats) - Away at Al Salam FC
@@ -258,8 +258,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -268,15 +268,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108791@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
 SUMMARY:CWFC Colts - Shane Homes Field 4 - Home vs Richmond's Pub FC
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -285,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108885@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270313T211500
 DTEND;TZID=America/Edmonton:20270313T221500
 SUMMARY:CWFC Colts - Shouldice Encana SE (👟 cleats) - Away at FC Wizard
@@ -294,8 +294,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -305,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108988@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270323T203000
 DTEND;TZID=America/Edmonton:20270323T213000
 SUMMARY:CWFC Colts - Villains Field 2 (👟 cleats) - Away at Eldorado Kic
@@ -313,8 +313,8 @@ SUMMARY:CWFC Colts - Villains Field 2 (👟 cleats) - Away at Eldorado Kic
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418098
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418098
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

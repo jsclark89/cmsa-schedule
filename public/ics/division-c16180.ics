@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109062@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
 SUMMARY:Shane Homes Field 3 - Blizzard SC4 vs New Frontier Mens
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109073@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261106T203000
 DTEND;TZID=America/Edmonton:20261106T213000
 SUMMARY:Dome NE (👟 cleats) - Calglen Inter United vs Legends FC
@@ -51,8 +51,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109075@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261106T203000
 DTEND;TZID=America/Edmonton:20261106T213000
 SUMMARY:Dome SE (👟 cleats) - Lads Club 2 vs Nostalgia FC
@@ -69,8 +69,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109072@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261106T213000
 DTEND;TZID=America/Edmonton:20261106T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - FC Phoenix UA vs Condor FC B
@@ -87,8 +87,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109074@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261106T214500
 DTEND;TZID=America/Edmonton:20261106T224500
 SUMMARY:Dome NW (👟 cleats) - Dragon FC vs CalGlen Crusaders FC2
@@ -105,8 +105,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -115,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109090@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T170000
 DTEND;TZID=America/Edmonton:20261107T180000
 SUMMARY:Dome SW (👟 cleats) - Aces FC Academy vs Calgary Warriors Footba
@@ -124,8 +124,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -135,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109091@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T170000
 DTEND;TZID=America/Edmonton:20261107T180000
 SUMMARY:Dome NE (👟 cleats) - Rangers Athletics vs Croatia Torcida
@@ -143,8 +143,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109102@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T210000
 DTEND;TZID=America/Edmonton:20261108T220000
 SUMMARY:Macron Aspen Air (👟 cleats) - NorthStar FC vs United Nova FC2
@@ -161,8 +161,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109122@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Dome NW (👟 cleats) - Condor FC B vs Calglen Inter United
@@ -180,8 +180,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109123@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Dome SE (👟 cleats) - Calgary Warriors Football Academy vs Blizz
@@ -199,8 +199,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -210,15 +210,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109124@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
 SUMMARY:Shane Homes Field 2 - Legends FC vs Aces FC Academy
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -227,15 +227,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109125@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
 SUMMARY:Shane Homes Field 3 - New Frontier Mens vs United Nova Yazidi
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109144@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T221500
 DTEND;TZID=America/Edmonton:20261112T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - CalGlen Crusaders FC2 vs North
@@ -254,8 +254,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -265,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109148@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261113T204500
 DTEND;TZID=America/Edmonton:20261113T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - United Nova FC2 vs Rangers Athlet
@@ -274,8 +274,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -285,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109150@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261113T204500
 DTEND;TZID=America/Edmonton:20261113T214500
 SUMMARY:Macron Field Safe (👟 cleats) - Nostalgia FC vs Foothills FC2
@@ -293,8 +293,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -304,7 +304,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109149@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261113T220000
 DTEND;TZID=America/Edmonton:20261113T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - Croatia Torcida vs Lads Club 2
@@ -312,8 +312,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -323,7 +323,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109186@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261116T214500
 DTEND;TZID=America/Edmonton:20261116T224500
 SUMMARY:Dome SW (👟 cleats) - FC Phoenix UA vs Calgary Warriors Football
@@ -332,8 +332,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -343,7 +343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109195@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T203000
 DTEND;TZID=America/Edmonton:20261117T213000
 SUMMARY:Dome NW (👟 cleats) - Condor FC B vs Legends FC
@@ -351,8 +351,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -361,7 +361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109196@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T214500
 DTEND;TZID=America/Edmonton:20261117T224500
 SUMMARY:Dome SE (👟 cleats) - Calglen Inter United vs New Frontier Mens
@@ -369,8 +369,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -380,7 +380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109197@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T221500
 DTEND;TZID=America/Edmonton:20261117T231500
 SUMMARY:Shouldice Encana SW (👟 cleats) - Rangers Athletics vs Foothills
@@ -389,8 +389,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -400,7 +400,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109198@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T221500
 DTEND;TZID=America/Edmonton:20261117T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - NorthStar FC vs Nostalgia FC
@@ -408,8 +408,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -419,7 +419,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109199@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T221500
 DTEND;TZID=America/Edmonton:20261117T231500
 SUMMARY:Shouldice Encana NE (👟 cleats) - Dragon FC vs Croatia Torcida
@@ -427,8 +427,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -438,7 +438,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109213@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
 SUMMARY:Macron Foothills (👟 cleats) - Aces FC Academy vs United Nova Ya
@@ -447,8 +447,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -458,7 +458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109214@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - CalGlen Crusaders FC2 vs United N
@@ -467,8 +467,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -478,7 +478,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109274@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T203000
 DTEND;TZID=America/Edmonton:20261123T213000
 SUMMARY:Dome SW (👟 cleats) - United Nova FC2 vs Dragon FC
@@ -486,8 +486,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -496,7 +496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109268@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T213000
 DTEND;TZID=America/Edmonton:20261123T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - Calgary Warriors Football Academy
@@ -505,8 +505,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -516,7 +516,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109269@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T213000
 DTEND;TZID=America/Edmonton:20261123T223000
 SUMMARY:Macron Foothills (👟 cleats) - United Nova Yazidi vs Blizzard SC
@@ -525,8 +525,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -536,7 +536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109272@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T214500
 DTEND;TZID=America/Edmonton:20261123T224500
 SUMMARY:Dome NW (👟 cleats) - Nostalgia FC vs Rangers Athletics
@@ -544,8 +544,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -554,7 +554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109273@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T214500
 DTEND;TZID=America/Edmonton:20261123T224500
 SUMMARY:Dome SE (👟 cleats) - Foothills FC2 vs Lads Club 2
@@ -562,8 +562,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -572,7 +572,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109275@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T214500
 DTEND;TZID=America/Edmonton:20261123T224500
 SUMMARY:Dome SW (👟 cleats) - Croatia Torcida vs NorthStar FC
@@ -580,8 +580,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -590,7 +590,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109270@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T220000
 DTEND;TZID=America/Edmonton:20261123T230000
 SUMMARY:Shouldice Encana NW (👟 cleats) - Legends FC vs FC Phoenix UA
@@ -598,8 +598,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -609,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109271@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261123T221500
 DTEND;TZID=America/Edmonton:20261123T231500
 SUMMARY:Shouldice Encana SW (👟 cleats) - New Frontier Mens vs Aces FC A
@@ -618,8 +618,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -629,7 +629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109319@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T203000
 DTEND;TZID=America/Edmonton:20261127T213000
 SUMMARY:Dome NW (👟 cleats) - New Frontier Mens vs Legends FC
@@ -637,8 +637,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -647,7 +647,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109349@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T210000
 DTEND;TZID=America/Edmonton:20261129T220000
 SUMMARY:Macron Aspen Air (👟 cleats) - Nostalgia FC vs Dragon FC
@@ -655,8 +655,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -665,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109395@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261203T220000
 DTEND;TZID=America/Edmonton:20261203T230000
 SUMMARY:Shouldice Encana NE (👟 cleats) - Dragon FC vs Foothills FC2
@@ -673,8 +673,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -683,7 +683,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109394@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261203T221500
 DTEND;TZID=America/Edmonton:20261203T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - NorthStar FC vs Lads Club 2
@@ -691,8 +691,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -702,7 +702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109405@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T201500
 DTEND;TZID=America/Edmonton:20261204T211500
 SUMMARY:Macron Foothills (👟 cleats) - CalGlen Crusaders FC2 vs Nostalgi
@@ -711,8 +711,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -722,7 +722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109401@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T204500
 DTEND;TZID=America/Edmonton:20261204T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - Calglen Inter United vs Blizzard 
@@ -731,8 +731,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -742,7 +742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109403@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T204500
 DTEND;TZID=America/Edmonton:20261204T214500
 SUMMARY:Macron Field Safe (👟 cleats) - Condor FC B vs New Frontier Mens
@@ -750,8 +750,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -761,7 +761,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109406@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T213000
 DTEND;TZID=America/Edmonton:20261204T223000
 SUMMARY:Macron Foothills (👟 cleats) - United Nova FC2 vs Croatia Torcid
@@ -770,8 +770,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -781,7 +781,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109402@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T220000
 DTEND;TZID=America/Edmonton:20261204T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - FC Phoenix UA vs United Nova Yazi
@@ -790,8 +790,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -801,7 +801,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109404@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261204T220000
 DTEND;TZID=America/Edmonton:20261204T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Legends FC vs Calgary Warriors
@@ -810,8 +810,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -821,7 +821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109496@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T170000
 DTEND;TZID=America/Edmonton:20261212T180000
 SUMMARY:Dome NE (👟 cleats) - Calgary Warriors Football Academy vs Condo
@@ -830,8 +830,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -841,7 +841,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109497@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
 SUMMARY:Dome NE (👟 cleats) - United Nova Yazidi vs Calglen Inter United
@@ -849,8 +849,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -860,7 +860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109500@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T193000
 DTEND;TZID=America/Edmonton:20261212T203000
 SUMMARY:Dome NE (👟 cleats) - Croatia Torcida vs CalGlen Crusaders FC2
@@ -868,8 +868,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -879,7 +879,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109501@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T204500
 DTEND;TZID=America/Edmonton:20261212T214500
 SUMMARY:Dome NE (👟 cleats) - Lads Club 2 vs Rangers Athletics
@@ -887,8 +887,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -897,7 +897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109498@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T220000
 DTEND;TZID=America/Edmonton:20261212T230000
 SUMMARY:Shouldice Encana NW (👟 cleats) - New Frontier Mens vs FC Phoeni
@@ -906,8 +906,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -917,7 +917,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109499@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T220000
 DTEND;TZID=America/Edmonton:20261212T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Blizzard SC4 vs Aces FC Academ
@@ -926,8 +926,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -937,7 +937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109509@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261213T210000
 DTEND;TZID=America/Edmonton:20261213T220000
 SUMMARY:Macron Aspen Air (👟 cleats) - Foothills FC2 vs NorthStar FC
@@ -945,8 +945,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -955,7 +955,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109517@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261214T214500
 DTEND;TZID=America/Edmonton:20261214T224500
 SUMMARY:Dome NW (👟 cleats) - Croatia Torcida vs Nostalgia FC
@@ -963,8 +963,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -973,7 +973,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109526@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T220000
 DTEND;TZID=America/Edmonton:20261215T230000
 SUMMARY:Shouldice Encana NE (👟 cleats) - Dragon FC vs Rangers Athletics
@@ -981,8 +981,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -992,7 +992,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109558@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T220000
 DTEND;TZID=America/Edmonton:20261217T230000
 SUMMARY:Shouldice Encana NE (👟 cleats) - Blizzard SC4 vs FC Phoenix UA
@@ -1000,8 +1000,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1011,7 +1011,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109563@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261218T204500
 DTEND;TZID=America/Edmonton:20261218T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - United Nova Yazidi vs Condor FC B
@@ -1019,8 +1019,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1030,7 +1030,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109565@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261218T204500
 DTEND;TZID=America/Edmonton:20261218T214500
 SUMMARY:Macron Field Safe (👟 cleats) - CalGlen Crusaders FC2 vs Lads Cl
@@ -1039,8 +1039,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1050,7 +1050,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109564@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261218T220000
 DTEND;TZID=America/Edmonton:20261218T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - Aces FC Academy vs Calglen Inter 
@@ -1059,8 +1059,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1070,7 +1070,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109566@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261218T220000
 DTEND;TZID=America/Edmonton:20261218T230000
 SUMMARY:Macron Field Safe (👟 cleats) - United Nova FC2 vs Foothills FC2
@@ -1078,8 +1078,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1089,7 +1089,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108199@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T203000
 DTEND;TZID=America/Edmonton:20270108T213000
 SUMMARY:Dome NE (👟 cleats) - Nostalgia FC vs United Nova FC2
@@ -1097,8 +1097,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1107,7 +1107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108201@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T203000
 DTEND;TZID=America/Edmonton:20270108T213000
 SUMMARY:Dome NW (👟 cleats) - Lads Club 2 vs Dragon FC
@@ -1115,8 +1115,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1125,7 +1125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108200@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T214500
 DTEND;TZID=America/Edmonton:20270108T224500
 SUMMARY:Dome NE (👟 cleats) - Foothills FC2 vs CalGlen Crusaders FC2
@@ -1133,8 +1133,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1143,7 +1143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108216@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T170000
 DTEND;TZID=America/Edmonton:20270109T180000
 SUMMARY:Dome NE (👟 cleats) - FC Phoenix UA vs Aces FC Academy
@@ -1151,8 +1151,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1161,7 +1161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108218@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T170000
 DTEND;TZID=America/Edmonton:20270109T180000
 SUMMARY:Dome NW (👟 cleats) - Calgary Warriors Football Academy vs New F
@@ -1170,8 +1170,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1181,7 +1181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108217@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T181500
 DTEND;TZID=America/Edmonton:20270109T191500
 SUMMARY:Dome NE (👟 cleats) - Condor FC B vs Blizzard SC4
@@ -1189,8 +1189,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1199,7 +1199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108219@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T181500
 DTEND;TZID=America/Edmonton:20270109T191500
 SUMMARY:Dome NW (👟 cleats) - Rangers Athletics vs NorthStar FC
@@ -1207,8 +1207,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1217,7 +1217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108249@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270112T220000
 DTEND;TZID=America/Edmonton:20270112T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Legends FC vs United Nova Yazi
@@ -1226,8 +1226,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1237,7 +1237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108275@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270114T220000
 DTEND;TZID=America/Edmonton:20270114T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Rangers Athletics vs CalGlen C
@@ -1246,8 +1246,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1257,7 +1257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108276@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270114T220000
 DTEND;TZID=America/Edmonton:20270114T230000
 SUMMARY:Shouldice Encana SE (👟 cleats) - NorthStar FC vs Dragon FC
@@ -1265,8 +1265,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1275,7 +1275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108279@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270115T204500
 DTEND;TZID=America/Edmonton:20270115T214500
 SUMMARY:Macron Field Safe (👟 cleats) - Foothills FC2 vs Croatia Torcida
@@ -1283,8 +1283,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1294,7 +1294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108280@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270115T220000
 DTEND;TZID=America/Edmonton:20270115T230000
 SUMMARY:Macron Field Safe (👟 cleats) - Lads Club 2 vs United Nova FC2
@@ -1302,8 +1302,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1313,7 +1313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108320@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270118T203000
 DTEND;TZID=America/Edmonton:20270118T213000
 SUMMARY:Dome NE (👟 cleats) - Calglen Inter United vs FC Phoenix UA
@@ -1321,8 +1321,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1331,7 +1331,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108318@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270118T213000
 DTEND;TZID=America/Edmonton:20270118T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - United Nova Yazidi vs Calgary War
@@ -1340,8 +1340,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1351,7 +1351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108319@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270118T213000
 DTEND;TZID=America/Edmonton:20270118T223000
 SUMMARY:Macron Foothills (👟 cleats) - Blizzard SC4 vs Legends FC
@@ -1359,8 +1359,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1369,7 +1369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108321@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270118T214500
 DTEND;TZID=America/Edmonton:20270118T224500
 SUMMARY:Dome NE (👟 cleats) - Aces FC Academy vs Condor FC B
@@ -1377,8 +1377,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1387,7 +1387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108326@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T203000
 DTEND;TZID=America/Edmonton:20270119T213000
 SUMMARY:Dome NE (👟 cleats) - Nostalgia FC vs Lads Club 2
@@ -1395,8 +1395,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1405,7 +1405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108328@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T203000
 DTEND;TZID=America/Edmonton:20270119T213000
 SUMMARY:Dome NW (👟 cleats) - United Nova FC2 vs NorthStar FC
@@ -1413,8 +1413,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1423,7 +1423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108327@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T214500
 DTEND;TZID=America/Edmonton:20270119T224500
 SUMMARY:Dome NE (👟 cleats) - Croatia Torcida vs Rangers Athletics
@@ -1431,8 +1431,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1441,7 +1441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108329@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T214500
 DTEND;TZID=America/Edmonton:20270119T224500
 SUMMARY:Dome NW (👟 cleats) - CalGlen Crusaders FC2 vs Dragon FC
@@ -1449,8 +1449,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1459,7 +1459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108397@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270125T214500
 DTEND;TZID=America/Edmonton:20270125T224500
 SUMMARY:Dome SW (👟 cleats) - Calgary Warriors Football Academy vs Aces 
@@ -1468,8 +1468,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1479,7 +1479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108405@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
 SUMMARY:Dome SW (👟 cleats) - Condor FC B vs FC Phoenix UA
@@ -1487,8 +1487,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1497,7 +1497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108406@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T220000
 DTEND;TZID=America/Edmonton:20270126T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Legends FC vs Calglen Inter Un
@@ -1506,8 +1506,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1517,7 +1517,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108407@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T220000
 DTEND;TZID=America/Edmonton:20270126T230000
 SUMMARY:Shouldice Encana SE (👟 cleats) - New Frontier Mens vs Blizzard 
@@ -1526,8 +1526,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1537,7 +1537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108439@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270129T204500
 DTEND;TZID=America/Edmonton:20270129T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - Foothills FC2 vs Nostalgia FC
@@ -1545,8 +1545,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1555,7 +1555,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108438@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270129T213000
 DTEND;TZID=America/Edmonton:20270129T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - Lads Club 2 vs Croatia Torcida
@@ -1563,8 +1563,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1574,7 +1574,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108468@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270131T220000
 DTEND;TZID=America/Edmonton:20270131T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Rangers Athletics vs United No
@@ -1583,8 +1583,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1594,7 +1594,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108469@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270131T220000
 DTEND;TZID=America/Edmonton:20270131T230000
 SUMMARY:Shouldice Encana SE (👟 cleats) - NorthStar FC vs CalGlen Crusad
@@ -1603,8 +1603,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1614,7 +1614,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108516@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T201500
 DTEND;TZID=America/Edmonton:20270205T211500
 SUMMARY:Macron Foothills (👟 cleats) - Calglen Inter United vs Condor FC
@@ -1623,8 +1623,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1634,7 +1634,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108520@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T201500
 DTEND;TZID=America/Edmonton:20270205T211500
 SUMMARY:Macron Aspen Air (👟 cleats) - Foothills FC2 vs Rangers Athletic
@@ -1643,8 +1643,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1654,7 +1654,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108518@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T203000
 DTEND;TZID=America/Edmonton:20270205T213000
 SUMMARY:Dome NE (👟 cleats) - United Nova Yazidi vs New Frontier Mens
@@ -1662,8 +1662,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1673,7 +1673,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108522@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T204500
 DTEND;TZID=America/Edmonton:20270205T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - Croatia Torcida vs Dragon FC
@@ -1681,8 +1681,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1691,7 +1691,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108517@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T213000
 DTEND;TZID=America/Edmonton:20270205T223000
 SUMMARY:Macron Foothills (👟 cleats) - Aces FC Academy vs Legends FC
@@ -1699,8 +1699,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1709,7 +1709,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108521@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T213000
 DTEND;TZID=America/Edmonton:20270205T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - Nostalgia FC vs NorthStar FC
@@ -1717,8 +1717,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1727,7 +1727,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108519@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T220000
 DTEND;TZID=America/Edmonton:20270205T230000
 SUMMARY:Shouldice Encana NE (👟 cleats) - Blizzard SC4 vs Calgary Warrio
@@ -1736,8 +1736,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1747,7 +1747,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108523@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T220000
 DTEND;TZID=America/Edmonton:20270205T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - United Nova FC2 vs CalGlen Crusad
@@ -1756,8 +1756,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1767,7 +1767,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108572@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T214500
 DTEND;TZID=America/Edmonton:20270209T224500
 SUMMARY:Dome NW (👟 cleats) - Lads Club 2 vs Foothills FC2
@@ -1775,8 +1775,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1785,7 +1785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108573@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T220000
 DTEND;TZID=America/Edmonton:20270209T230000
 SUMMARY:Shouldice Encana SW (👟 cleats) - Dragon FC vs United Nova FC2
@@ -1793,8 +1793,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1804,7 +1804,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108574@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T220000
 DTEND;TZID=America/Edmonton:20270209T230000
 SUMMARY:Shouldice Encana SE (👟 cleats) - NorthStar FC vs Croatia Torcid
@@ -1813,8 +1813,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1824,7 +1824,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108575@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T220000
 DTEND;TZID=America/Edmonton:20270209T230000
 SUMMARY:Shouldice Encana NE (👟 cleats) - Rangers Athletics vs Nostalgia
@@ -1833,8 +1833,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1844,7 +1844,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108589@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - United Nova Yazidi vs Aces FC Aca
@@ -1853,8 +1853,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1864,7 +1864,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108590@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
 SUMMARY:Macron Foothills (👟 cleats) - Calgary Warriors Football Academy
@@ -1873,8 +1873,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1884,15 +1884,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108591@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
 SUMMARY:Shane Homes Field 3 - New Frontier Mens vs Calglen Inter United
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1902,15 +1902,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108592@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
 SUMMARY:Shane Homes Field 4 - Legends FC vs Condor FC B
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1919,7 +1919,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108630@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
 SUMMARY:Macron Foothills (👟 cleats) - Lads Club 2 vs NorthStar FC
@@ -1927,8 +1927,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1937,7 +1937,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108645@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270219T214500
 DTEND;TZID=America/Edmonton:20270219T224500
 SUMMARY:Dome NE (👟 cleats) - FC Phoenix UA vs Legends FC
@@ -1945,8 +1945,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1955,7 +1955,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108663@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T181500
 DTEND;TZID=America/Edmonton:20270220T191500
 SUMMARY:Dome NW (👟 cleats) - Calglen Inter United vs Calgary Warriors F
@@ -1964,8 +1964,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1975,7 +1975,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108665@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T181500
 DTEND;TZID=America/Edmonton:20270220T191500
 SUMMARY:Dome SE (👟 cleats) - Foothills FC2 vs Dragon FC
@@ -1983,8 +1983,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1993,7 +1993,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108664@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T193000
 DTEND;TZID=America/Edmonton:20270220T203000
 SUMMARY:Dome NW (👟 cleats) - Blizzard SC4 vs United Nova Yazidi
@@ -2001,8 +2001,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2011,7 +2011,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108666@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T193000
 DTEND;TZID=America/Edmonton:20270220T203000
 SUMMARY:Dome SE (👟 cleats) - Nostalgia FC vs CalGlen Crusaders FC2
@@ -2019,8 +2019,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2029,7 +2029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108667@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T204500
 DTEND;TZID=America/Edmonton:20270220T214500
 SUMMARY:Dome SE (👟 cleats) - Croatia Torcida vs United Nova FC2
@@ -2037,8 +2037,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2047,7 +2047,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108676@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T213000
 DTEND;TZID=America/Edmonton:20270221T223000
 SUMMARY:Macron Foothills (👟 cleats) - Aces FC Academy vs New Frontier M
@@ -2056,8 +2056,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2067,7 +2067,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108688@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270223T221500
 DTEND;TZID=America/Edmonton:20270223T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - Rangers Athletics vs Lads Club
@@ -2076,8 +2076,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2087,7 +2087,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108706@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270224T213000
 DTEND;TZID=America/Edmonton:20270224T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - CalGlen Crusaders FC2 vs Croatia 
@@ -2096,8 +2096,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2107,15 +2107,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108707@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270224T213000
 DTEND;TZID=America/Edmonton:20270224T223000
 SUMMARY:Shane Homes Field 3 - Dragon FC vs Nostalgia FC
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2124,15 +2124,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108708@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270224T213000
 DTEND;TZID=America/Edmonton:20270224T223000
 SUMMARY:Shane Homes Field 4 - NorthStar FC vs Foothills FC2
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2141,7 +2141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108716@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270225T221500
 DTEND;TZID=America/Edmonton:20270225T231500
 SUMMARY:Shouldice Encana NW (👟 cleats) - Blizzard SC4 vs Calglen Inter 
@@ -2150,8 +2150,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2161,7 +2161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108717@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270225T221500
 DTEND;TZID=America/Edmonton:20270225T231500
 SUMMARY:Shouldice Encana SW (👟 cleats) - New Frontier Mens vs Condor FC
@@ -2170,8 +2170,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2181,7 +2181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108726@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270226T204500
 DTEND;TZID=America/Edmonton:20270226T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - Calgary Warriors Football Academy
@@ -2190,8 +2190,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2201,7 +2201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108727@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270226T220000
 DTEND;TZID=America/Edmonton:20270226T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - United Nova Yazidi vs FC Phoenix 
@@ -2210,8 +2210,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2221,7 +2221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108765@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270301T203000
 DTEND;TZID=America/Edmonton:20270301T213000
 SUMMARY:Dome SW (👟 cleats) - Aces FC Academy vs Blizzard SC4
@@ -2229,8 +2229,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2239,7 +2239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108774@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270302T203000
 DTEND;TZID=America/Edmonton:20270302T213000
 SUMMARY:Dome SE (👟 cleats) - FC Phoenix UA vs New Frontier Mens
@@ -2247,8 +2247,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2257,7 +2257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108775@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270302T203000
 DTEND;TZID=America/Edmonton:20270302T213000
 SUMMARY:Dome SW (👟 cleats) - Calglen Inter United vs United Nova Yazidi
@@ -2265,8 +2265,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2276,7 +2276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108773@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270302T214500
 DTEND;TZID=America/Edmonton:20270302T224500
 SUMMARY:Dome NW (👟 cleats) - Condor FC B vs Calgary Warriors Football A
@@ -2285,8 +2285,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2296,7 +2296,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108801@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270304T221500
 DTEND;TZID=America/Edmonton:20270304T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - Rangers Athletics vs Dragon FC
@@ -2304,8 +2304,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2315,7 +2315,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108805@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270305T204500
 DTEND;TZID=America/Edmonton:20270305T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - Foothills FC2 vs United Nova FC2
@@ -2323,8 +2323,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2334,7 +2334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108804@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270305T213000
 DTEND;TZID=America/Edmonton:20270305T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - Lads Club 2 vs CalGlen Crusaders 
@@ -2343,8 +2343,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2354,7 +2354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108806@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270305T220000
 DTEND;TZID=America/Edmonton:20270305T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - Nostalgia FC vs Croatia Torcida
@@ -2362,8 +2362,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2373,7 +2373,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108838@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T203000
 DTEND;TZID=America/Edmonton:20270309T213000
 SUMMARY:Dome SW (👟 cleats) - United Nova Yazidi vs Legends FC
@@ -2381,8 +2381,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2391,7 +2391,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108841@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T203000
 DTEND;TZID=America/Edmonton:20270309T213000
 SUMMARY:Dome NE (👟 cleats) - United Nova FC2 vs Nostalgia FC
@@ -2399,8 +2399,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2409,7 +2409,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108837@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T214500
 DTEND;TZID=America/Edmonton:20270309T224500
 SUMMARY:Dome SE (👟 cleats) - Aces FC Academy vs FC Phoenix UA
@@ -2417,8 +2417,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2427,7 +2427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108842@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T214500
 DTEND;TZID=America/Edmonton:20270309T224500
 SUMMARY:Dome NE (👟 cleats) - CalGlen Crusaders FC2 vs Foothills FC2
@@ -2435,8 +2435,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2445,7 +2445,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108839@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T224500
 DTEND;TZID=America/Edmonton:20270309T234500
 SUMMARY:Shane Homes Field 3 - New Frontier Mens vs Calgary Warriors Foot
@@ -2453,8 +2453,8 @@ SUMMARY:Shane Homes Field 3 - New Frontier Mens vs Calgary Warriors Foot
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2464,15 +2464,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108840@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T224500
 DTEND;TZID=America/Edmonton:20270309T234500
 SUMMARY:Shane Homes Field 4 - Blizzard SC4 vs Condor FC B
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2481,7 +2481,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108863@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
 SUMMARY:Macron Foothills (👟 cleats) - Dragon FC vs Lads Club 2
@@ -2489,8 +2489,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2499,15 +2499,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108864@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
 SUMMARY:Shane Homes Field 4 - NorthStar FC vs Rangers Athletics
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2516,7 +2516,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108906@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270315T191500
 DTEND;TZID=America/Edmonton:20270315T201500
 SUMMARY:Dome SE (👟 cleats) - Condor FC B vs United Nova Yazidi
@@ -2524,8 +2524,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2534,7 +2534,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108907@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270315T203000
 DTEND;TZID=America/Edmonton:20270315T213000
 SUMMARY:Dome SE (👟 cleats) - FC Phoenix UA vs Blizzard SC4
@@ -2542,8 +2542,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2552,7 +2552,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108905@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270315T214500
 DTEND;TZID=America/Edmonton:20270315T224500
 SUMMARY:Dome NW (👟 cleats) - Legends FC vs New Frontier Mens
@@ -2560,8 +2560,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2570,7 +2570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108908@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270315T214500
 DTEND;TZID=America/Edmonton:20270315T224500
 SUMMARY:Dome SE (👟 cleats) - Calglen Inter United vs Aces FC Academy
@@ -2578,8 +2578,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2589,7 +2589,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108933@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270317T221500
 DTEND;TZID=America/Edmonton:20270317T231500
 SUMMARY:Shouldice Encana SE (👟 cleats) - Dragon FC vs NorthStar FC
@@ -2597,8 +2597,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2607,7 +2607,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108955@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270319T204500
 DTEND;TZID=America/Edmonton:20270319T214500
 SUMMARY:Macron Boardwalk (👟 cleats) - United Nova FC2 vs Lads Club 2
@@ -2615,8 +2615,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2626,7 +2626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108954@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270319T213000
 DTEND;TZID=America/Edmonton:20270319T223000
 SUMMARY:Macron Aspen Air (👟 cleats) - Croatia Torcida vs Foothills FC2
@@ -2634,8 +2634,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2645,7 +2645,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108956@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270319T220000
 DTEND;TZID=America/Edmonton:20270319T230000
 SUMMARY:Macron Boardwalk (👟 cleats) - CalGlen Crusaders FC2 vs Rangers 
@@ -2654,8 +2654,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2665,7 +2665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108965@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270320T220000
 DTEND;TZID=America/Edmonton:20270320T230000
 SUMMARY:Shouldice Encana NW (👟 cleats) - Calgary Warriors Football Acad
@@ -2674,8 +2674,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2685,7 +2685,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108970@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270321T191500
 DTEND;TZID=America/Edmonton:20270321T201500
 SUMMARY:Shouldice Encana SW (👟 cleats) - Legends FC vs Blizzard SC4
@@ -2693,8 +2693,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2703,7 +2703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108968@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270321T210000
 DTEND;TZID=America/Edmonton:20270321T220000
 SUMMARY:Macron Aspen Air (👟 cleats) - Condor FC B vs Aces FC Academy
@@ -2711,8 +2711,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -2722,7 +2722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108969@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270321T213000
 DTEND;TZID=America/Edmonton:20270321T223000
 SUMMARY:Macron Foothills (👟 cleats) - FC Phoenix UA vs Calglen Inter Un
@@ -2731,8 +2731,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 2\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/division/c16180
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/c16180
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

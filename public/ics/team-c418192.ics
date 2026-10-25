@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109068@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T203000
 DTEND;TZID=America/Edmonton:20261104T213000
 SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Golden Falc
@@ -34,7 +34,8 @@ SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Golden Falc
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,14 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109131@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Away at Bohemians
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109332@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T220000
 DTEND;TZID=America/Edmonton:20261127T230000
 SUMMARY:Andinos O45 - Shouldice Encana SW (👟 cleats) - Away at Rangers 
@@ -70,7 +72,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -80,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109392@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
 SUMMARY:Andinos O45 - Villains Field 1 (👟 cleats) - Away at Chinooks FC
@@ -88,7 +91,8 @@ SUMMARY:Andinos O45 - Villains Field 1 (👟 cleats) - Away at Chinooks FC
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -98,14 +102,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109468@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261209T203000
 DTEND;TZID=America/Edmonton:20261209T213000
 SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Blue Steele
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -115,15 +120,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109551@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261216T213000
 DTEND;TZID=America/Edmonton:20261216T223000
 SUMMARY:Andinos O45 - Shane Homes Field 2 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -132,14 +137,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108194@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T203000
 DTEND;TZID=America/Edmonton:20270106T213000
 SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Napoli D10S
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -149,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108291@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270115T214500
 DTEND;TZID=America/Edmonton:20270115T224500
 SUMMARY:Andinos O45 - Dome SE (👟 cleats) - Home vs Argentina Social Clu
@@ -158,7 +164,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -168,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108417@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
 SUMMARY:Andinos O45 - Villains Field 1 (👟 cleats) - Away at Golden Falc
@@ -176,7 +183,8 @@ SUMMARY:Andinos O45 - Villains Field 1 (👟 cleats) - Away at Golden Falc
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -186,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108525@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T220000
 DTEND;TZID=America/Edmonton:20270205T230000
 SUMMARY:Andinos O45 - Macron Field Safe (👟 cleats) - Home vs Bohemians
@@ -194,7 +202,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -204,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108639@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
 SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Rangers FC 
@@ -212,7 +221,8 @@ SUMMARY:Andinos O45 - Villains Field 2 (👟 cleats) - Home vs Rangers FC
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108749@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T170000
 DTEND;TZID=America/Edmonton:20270227T180000
 SUMMARY:Andinos O45 - Dome SE (👟 cleats) - Home vs Chinooks FC 1974
@@ -230,7 +240,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -239,15 +250,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108799@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
 SUMMARY:Andinos O45 - Shane Homes Field 3 - Away at Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -256,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108830@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270308T203000
 DTEND;TZID=America/Edmonton:20270308T213000
 SUMMARY:Andinos O45 - Dome SE (👟 cleats) - Home vs Storm Dacia O45
@@ -264,7 +275,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -273,15 +285,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108924@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
 SUMMARY:Andinos O45 - Shane Homes Field 2 - Away at Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -290,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109007@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T201500
 DTEND;TZID=America/Edmonton:20270324T211500
 SUMMARY:Andinos O45 - Dome SW (👟 cleats) - Away at Argentina Social Clu
@@ -299,7 +311,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418192
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418192
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

@@ -26,13 +26,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107918@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T200000
 DTEND;TZID=America/Edmonton:20261105T210000
 SUMMARY:FC Tryzub - Seven Chiefs - Home vs Callies Futsal
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -41,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107930@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T190000
 DTEND;TZID=America/Edmonton:20261115T200000
 SUMMARY:FC Tryzub - Genesis Field House 2 (👟 indoor) - Away at Elevate 
@@ -50,8 +51,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107938@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T200000
 DTEND;TZID=America/Edmonton:20261122T210000
 SUMMARY:FC Tryzub - Genesis Field House 2 (👟 indoor) - Away at Union Fu
@@ -70,8 +71,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -81,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107946@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261126T213000
 DTEND;TZID=America/Edmonton:20261126T223000
 SUMMARY:FC Tryzub - Genesis Field House 2 (👟 indoor) - Home vs AU Lions
@@ -89,8 +90,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -100,13 +101,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107953@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261203T220000
 DTEND;TZID=America/Edmonton:20261203T230000
 SUMMARY:FC Tryzub - Seven Chiefs - Away at Calgary Rangers FC
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -115,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107962@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261213T200000
 DTEND;TZID=America/Edmonton:20261213T210000
 SUMMARY:FC Tryzub - Genesis Field House 2 (👟 indoor) - Home vs CUFC Fut
@@ -124,8 +126,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -135,13 +137,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107967@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T210000
 DTEND;TZID=America/Edmonton:20261217T220000
 SUMMARY:FC Tryzub - Seven Chiefs - Away at Elite Football Academy
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -150,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107839@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270110T190000
 DTEND;TZID=America/Edmonton:20270110T200000
 SUMMARY:FC Tryzub - Genesis Field House 2 (👟 indoor) - Home vs Vanguard
@@ -159,8 +162,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -170,13 +173,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107847@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270114T210000
 DTEND;TZID=America/Edmonton:20270114T220000
 SUMMARY:FC Tryzub - Seven Chiefs - Away at 1UP United
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -185,13 +189,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107858@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T160000
 DTEND;TZID=America/Edmonton:20270124T170000
 SUMMARY:FC Tryzub - Seven Chiefs - Home vs Impero FC PRIMO
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -200,13 +205,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107866@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T220000
 DTEND;TZID=America/Edmonton:20270128T230000
 SUMMARY:FC Tryzub - Seven Chiefs - Away at Impero FC Dinamo
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417997
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417997
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

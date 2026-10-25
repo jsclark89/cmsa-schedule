@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709599@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261018T154500
 DTEND;TZID=America/Edmonton:20261018T164500
 SUMMARY:U13 OUSC United B14 Green - Shane Homes Field 4 - Away at MUSC I
@@ -34,8 +34,8 @@ SUMMARY:U13 OUSC United B14 Green - Shane Homes Field 4 - Away at MUSC I
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U13 Tier 3 · Game #2038\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/team/117129568
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129568
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

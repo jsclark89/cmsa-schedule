@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107915@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261103T200000
 DTEND;TZID=America/Edmonton:20261103T210000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs Reign FC
@@ -34,8 +34,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -45,13 +45,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107927@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T200000
 DTEND;TZID=America/Edmonton:20261112T210000
 SUMMARY:EMFC SWAT - Seven Chiefs - Away at Calgary Blizzard WSC
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -60,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107943@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T210000
 DTEND;TZID=America/Edmonton:20261124T220000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Away at CJSC
@@ -68,8 +69,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -78,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107956@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261208T200000
 DTEND;TZID=America/Edmonton:20261208T210000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Away at CJSC Old
@@ -87,8 +88,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -98,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107834@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270105T200000
 DTEND;TZID=America/Edmonton:20270105T210000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs Impero W
@@ -107,8 +108,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -118,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107843@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270112T210000
 DTEND;TZID=America/Edmonton:20270112T220000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs Impero F
@@ -127,8 +128,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -138,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107860@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T200000
 DTEND;TZID=America/Edmonton:20270126T210000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Away at Reign FC
@@ -146,8 +147,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -157,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107868@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270202T210000
 DTEND;TZID=America/Edmonton:20270202T220000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs Calgary 
@@ -166,8 +167,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -177,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107885@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270216T220000
 DTEND;TZID=America/Edmonton:20270216T230000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs CJSC
@@ -185,8 +186,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -195,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107892@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270223T200000
 DTEND;TZID=America/Edmonton:20270223T210000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Away at CJSC Old
@@ -204,8 +205,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -215,7 +216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107904@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270302T220000
 DTEND;TZID=America/Edmonton:20270302T230000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Away at Impero W
@@ -224,8 +225,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -235,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107909@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T210000
 DTEND;TZID=America/Edmonton:20270309T220000
 SUMMARY:EMFC SWAT - Genesis Field House 2 (👟 indoor) - Home vs Impero F
@@ -244,8 +245,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418005
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

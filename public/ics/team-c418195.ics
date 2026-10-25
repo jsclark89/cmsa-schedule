@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109064@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
 SUMMARY:Bohemians - Shane Homes Field 2 - Away at Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -43,14 +43,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109131@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Bohemians - Villains Field 2 (👟 cleats) - Home vs Andinos O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -60,15 +61,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109207@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
 SUMMARY:Bohemians - Shane Homes Field 2 - Away at Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -77,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109343@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261128T181500
 DTEND;TZID=America/Edmonton:20261128T191500
 SUMMARY:Bohemians - Dome NE (👟 cleats) - Home vs Chinooks FC 1974
@@ -85,7 +86,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -94,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109393@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
 SUMMARY:Bohemians - Villains Field 2 (👟 cleats) - Away at Argentina Soc
@@ -102,7 +104,8 @@ SUMMARY:Bohemians - Villains Field 2 (👟 cleats) - Away at Argentina Soc
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -112,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109466@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261209T203000
 DTEND;TZID=America/Edmonton:20261209T213000
 SUMMARY:Bohemians - Villains Field 1 (👟 cleats) - Home vs Storm Dacia O
@@ -120,7 +123,8 @@ SUMMARY:Bohemians - Villains Field 1 (👟 cleats) - Home vs Storm Dacia O
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -130,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109529@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T203000
 DTEND;TZID=America/Edmonton:20261215T213000
 SUMMARY:Bohemians - Dome NW (👟 cleats) - Home vs Golden Falcons
@@ -138,7 +142,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -147,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108309@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T211500
 DTEND;TZID=America/Edmonton:20270116T221500
 SUMMARY:Bohemians - Shouldice Encana SE (👟 cleats) - Away at Rangers FC
@@ -156,7 +161,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -166,14 +172,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108418@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
 SUMMARY:Bohemians - Villains Field 1 (👟 cleats) - Home vs Blue Steele
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -183,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108525@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T220000
 DTEND;TZID=America/Edmonton:20270205T230000
 SUMMARY:Bohemians - Macron Field Safe (👟 cleats) - Away at Andinos O45
@@ -191,7 +198,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -201,14 +209,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108596@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T203000
 DTEND;TZID=America/Edmonton:20270210T213000
 SUMMARY:Bohemians - Villains Field 2 (👟 cleats) - Home vs Napoli D10S
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -218,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108637@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
 SUMMARY:Bohemians - Villains Field 1 (👟 cleats) - Away at Chinooks FC 1
@@ -226,7 +235,8 @@ SUMMARY:Bohemians - Villains Field 1 (👟 cleats) - Away at Chinooks FC 1
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -236,7 +246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108750@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T193000
 DTEND;TZID=America/Edmonton:20270227T203000
 SUMMARY:Bohemians - Dome SE (👟 cleats) - Home vs Argentina Social Club 
@@ -245,7 +255,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -255,15 +266,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108797@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
 SUMMARY:Bohemians - Shane Homes Field 1 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -272,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108829@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270308T191500
 DTEND;TZID=America/Edmonton:20270308T201500
 SUMMARY:Bohemians - Dome SE (👟 cleats) - Away at Golden Falcons
@@ -280,7 +291,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -289,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109006@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T190000
 DTEND;TZID=America/Edmonton:20270324T200000
 SUMMARY:Bohemians - Dome SW (👟 cleats) - Home vs Rangers FC O45
@@ -297,7 +309,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418195
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418195
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

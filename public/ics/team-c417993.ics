@@ -26,13 +26,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107918@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T200000
 DTEND;TZID=America/Edmonton:20261105T210000
 SUMMARY:Callies Futsal - Seven Chiefs - Away at FC Tryzub
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -41,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107924@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T200000
 DTEND;TZID=America/Edmonton:20261110T210000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Home vs Uni
@@ -50,8 +51,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107939@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T210000
 DTEND;TZID=America/Edmonton:20261122T220000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Away at Van
@@ -70,8 +71,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -81,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107945@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261126T203000
 DTEND;TZID=America/Edmonton:20261126T213000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Home vs Cal
@@ -90,8 +91,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -101,13 +102,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107951@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261203T200000
 DTEND;TZID=America/Edmonton:20261203T210000
 SUMMARY:Callies Futsal - Seven Chiefs - Away at Impero FC PRIMO
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -116,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107961@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261213T190000
 DTEND;TZID=America/Edmonton:20261213T200000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Home vs Eli
@@ -125,8 +127,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -136,13 +138,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107965@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T190000
 DTEND;TZID=America/Edmonton:20261217T200000
 SUMMARY:Callies Futsal - Seven Chiefs - Away at Elevate Soccer Academy
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -152,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107838@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270107T213000
 DTEND;TZID=America/Edmonton:20270107T223000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Home vs 1UP
@@ -161,8 +164,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -172,13 +175,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107850@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T170000
 DTEND;TZID=America/Edmonton:20270117T180000
 SUMMARY:Callies Futsal - Seven Chiefs - Away at AU Lions
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -187,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107851@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T200000
 DTEND;TZID=America/Edmonton:20270119T210000
 SUMMARY:Callies Futsal - Genesis Field House 2 (👟 indoor) - Away at CUF
@@ -196,8 +200,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -207,13 +211,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107857@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T150000
 DTEND;TZID=America/Edmonton:20270124T160000
 SUMMARY:Callies Futsal - Seven Chiefs - Home vs Impero FC Dinamo
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417993
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417993
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

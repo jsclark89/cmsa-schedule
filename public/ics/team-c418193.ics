@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109066@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T203000
 DTEND;TZID=America/Edmonton:20261104T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Away 
@@ -34,7 +34,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Away
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109129@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home 
@@ -52,7 +53,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -62,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109208@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
 SUMMARY:Argentina Social Club O45 - Shane Homes Field 3 - Away at Storm 
@@ -70,8 +72,8 @@ SUMMARY:Argentina Social Club O45 - Shane Homes Field 3 - Away at Storm
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -81,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109331@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T214500
 DTEND;TZID=America/Edmonton:20261127T224500
 SUMMARY:Argentina Social Club O45 - Dome SW (👟 cleats) - Home vs Napoli
@@ -90,7 +92,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -100,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109393@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 2 (👟 cleats) - Home 
@@ -108,7 +111,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 2 (👟 cleats) - Home
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -118,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109527@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T203000
 DTEND;TZID=America/Edmonton:20261215T213000
 SUMMARY:Argentina Social Club O45 - Dome NE (👟 cleats) - Home vs Ranger
@@ -127,7 +131,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -137,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108192@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T203000
 DTEND;TZID=America/Edmonton:20270106T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Away 
@@ -145,7 +150,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Away
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -155,7 +161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108291@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270115T214500
 DTEND;TZID=America/Edmonton:20270115T224500
 SUMMARY:Argentina Social Club O45 - Dome SE (👟 cleats) - Away at Andino
@@ -164,7 +170,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -174,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108419@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 2 (👟 cleats) - Home 
@@ -182,7 +189,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 2 (👟 cleats) - Home
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -192,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108529@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T214500
 DTEND;TZID=America/Edmonton:20270205T224500
 SUMMARY:Argentina Social Club O45 - Dome SE (👟 cleats) - Away at Blue S
@@ -201,7 +209,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -211,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108595@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T214500
 DTEND;TZID=America/Edmonton:20270210T224500
 SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home 
@@ -219,7 +228,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -229,7 +239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108636@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
 SUMMARY:Argentina Social Club O45 - Shane Homes Field 4 - Away at Napoli
@@ -237,8 +247,8 @@ SUMMARY:Argentina Social Club O45 - Shane Homes Field 4 - Away at Napoli
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -248,7 +258,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108750@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T193000
 DTEND;TZID=America/Edmonton:20270227T203000
 SUMMARY:Argentina Social Club O45 - Dome SE (👟 cleats) - Away at Bohemi
@@ -257,7 +267,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -267,7 +278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108832@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
 SUMMARY:Argentina Social Club O45 - Shouldice Encana NE (👟 cleats) - Aw
@@ -276,7 +287,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -286,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108927@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
 SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home 
@@ -294,7 +306,8 @@ SUMMARY:Argentina Social Club O45 - Villains Field 1 (👟 cleats) - Home
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -304,7 +317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109007@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T201500
 DTEND;TZID=America/Edmonton:20270324T211500
 SUMMARY:Argentina Social Club O45 - Dome SW (👟 cleats) - Home vs Andino
@@ -313,7 +326,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418193
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418193
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

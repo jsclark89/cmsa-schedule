@@ -26,14 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107917@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T190000
 DTEND;TZID=America/Edmonton:20261105T200000
 SUMMARY:Elevate Soccer Academy - Seven Chiefs - Away at Calgary Rangers 
  FC
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -43,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107930@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T190000
 DTEND;TZID=America/Edmonton:20261115T200000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Hom
@@ -52,8 +53,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -63,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107937@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T190000
 DTEND;TZID=America/Edmonton:20261122T200000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Awa
@@ -72,8 +73,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -83,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107947@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T200000
 DTEND;TZID=America/Edmonton:20261129T210000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Hom
@@ -92,8 +93,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -103,13 +104,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107954@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T150000
 DTEND;TZID=America/Edmonton:20261206T160000
 SUMMARY:Elevate Soccer Academy - Seven Chiefs - Away at CUFC Futsal
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -118,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107959@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261210T203000
 DTEND;TZID=America/Edmonton:20261210T213000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Hom
@@ -127,8 +129,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -138,13 +140,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107965@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T190000
 DTEND;TZID=America/Edmonton:20261217T200000
 SUMMARY:Elevate Soccer Academy - Seven Chiefs - Home vs Callies Futsal
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -154,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107835@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270105T210000
 DTEND;TZID=America/Edmonton:20270105T220000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Awa
@@ -163,8 +166,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -174,13 +177,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107849@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T160000
 DTEND;TZID=America/Edmonton:20270117T170000
 SUMMARY:Elevate Soccer Academy - Seven Chiefs - Home vs Impero FC Dinamo
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -190,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107852@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T210000
 DTEND;TZID=America/Edmonton:20270119T220000
 SUMMARY:Elevate Soccer Academy - Genesis Field House 2 (👟 indoor) - Hom
@@ -199,8 +203,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -210,13 +214,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107853@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T190000
 DTEND;TZID=America/Edmonton:20270121T200000
 SUMMARY:Elevate Soccer Academy - Seven Chiefs - Away at 1UP United
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417995
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417995
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

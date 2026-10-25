@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109130@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T214500
 DTEND;TZID=America/Edmonton:20261110T224500
 SUMMARY:Rangers FC O45 - Villains Field 1 (👟 cleats) - Away at Golden F
@@ -34,7 +34,8 @@ SUMMARY:Rangers FC O45 - Villains Field 1 (👟 cleats) - Away at Golden F
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,15 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109206@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 1 - Away at Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109332@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T220000
 DTEND;TZID=America/Edmonton:20261127T230000
 SUMMARY:Rangers FC O45 - Shouldice Encana SW (👟 cleats) - Home vs Andin
@@ -70,7 +71,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -80,15 +82,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109390@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 1 - Away at Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -97,15 +99,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109465@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 4 - Home vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -115,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109527@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T203000
 DTEND;TZID=America/Edmonton:20261215T213000
 SUMMARY:Rangers FC O45 - Dome NE (👟 cleats) - Away at Argentina Social 
@@ -124,7 +126,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -134,15 +137,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108188@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 1 - Home vs Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -152,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108309@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T211500
 DTEND;TZID=America/Edmonton:20270116T221500
 SUMMARY:Rangers FC O45 - Shouldice Encana SE (👟 cleats) - Home vs Bohem
@@ -161,7 +164,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -171,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108531@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T203000
 DTEND;TZID=America/Edmonton:20270205T213000
 SUMMARY:Rangers FC O45 - Dome SW (👟 cleats) - Home vs Golden Falcons
@@ -179,7 +183,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -189,15 +194,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108593@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 1 - Home vs Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -206,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108639@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
 SUMMARY:Rangers FC O45 - Villains Field 2 (👟 cleats) - Away at Andinos 
@@ -214,7 +219,8 @@ SUMMARY:Rangers FC O45 - Villains Field 2 (👟 cleats) - Away at Andinos
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -224,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108753@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T220000
 DTEND;TZID=America/Edmonton:20270227T230000
 SUMMARY:Rangers FC O45 - Shouldice Encana SE (👟 cleats) - Home vs Napol
@@ -233,7 +239,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -243,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108800@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T203000
 DTEND;TZID=America/Edmonton:20270303T213000
 SUMMARY:Rangers FC O45 - Villains Field 1 (👟 cleats) - Away at Chinooks
@@ -251,7 +258,8 @@ SUMMARY:Rangers FC O45 - Villains Field 1 (👟 cleats) - Away at Chinooks
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -261,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108832@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
 SUMMARY:Rangers FC O45 - Shouldice Encana NE (👟 cleats) - Home vs Argen
@@ -270,7 +278,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -280,15 +289,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108923@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
 SUMMARY:Rangers FC O45 - Shane Homes Field 1 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -298,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109006@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T190000
 DTEND;TZID=America/Edmonton:20270324T200000
 SUMMARY:Rangers FC O45 - Dome SW (👟 cleats) - Away at Bohemians
@@ -306,7 +315,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418199
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418199
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

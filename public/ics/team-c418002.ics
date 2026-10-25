@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107916@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261103T210000
 DTEND;TZID=America/Edmonton:20261103T220000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -35,8 +35,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -46,13 +46,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107927@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T200000
 DTEND;TZID=America/Edmonton:20261112T210000
 SUMMARY:Calgary Blizzard WSC - Seven Chiefs - Home vs EMFC SWAT
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -61,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107934@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T220000
 DTEND;TZID=America/Edmonton:20261117T230000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -70,8 +71,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -81,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107941@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T190000
 DTEND;TZID=America/Edmonton:20261124T200000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Home 
@@ -90,8 +91,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -101,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107958@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261208T220000
 DTEND;TZID=America/Edmonton:20261208T230000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Home 
@@ -110,8 +111,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -121,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107842@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270112T200000
 DTEND;TZID=America/Edmonton:20270112T210000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -130,8 +131,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -141,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107861@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T210000
 DTEND;TZID=America/Edmonton:20270126T220000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Home 
@@ -150,8 +151,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -161,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107868@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270202T210000
 DTEND;TZID=America/Edmonton:20270202T220000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -170,8 +171,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -181,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107876@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T220000
 DTEND;TZID=America/Edmonton:20270209T230000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Home 
@@ -190,8 +191,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -201,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107883@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270216T200000
 DTEND;TZID=America/Edmonton:20270216T210000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -210,8 +211,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -221,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107894@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270223T220000
 DTEND;TZID=America/Edmonton:20270223T230000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Away 
@@ -230,8 +231,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -241,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107908@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T200000
 DTEND;TZID=America/Edmonton:20270309T210000
 SUMMARY:Calgary Blizzard WSC - Genesis Field House 2 (👟 indoor) - Home 
@@ -250,8 +251,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nWomens\nSchedule: https://jsclark89.github.io/cmsa-
- schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ schedule/#/team/c418002
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708202@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
 SUMMARY:Shane Homes Field 3 - Chinooks FC United 2016 vs MUSC Impact 16
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1103\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708201@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T110000
 DTEND;TZID=America/Edmonton:20261017T120000
 SUMMARY:Main West (👟 indoor) - CNEU 2016 Champions vs SWU Paris FC 16B
@@ -52,8 +52,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1102\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708199@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T120000
 DTEND;TZID=America/Edmonton:20261017T130000
 SUMMARY:Main East (👟 indoor) - Spartans Invaders 16 vs RANGERS FC16 YEL
@@ -72,8 +72,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1100\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708200@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
 SUMMARY:Main East (👟 indoor) - Foothills FH 2016 vs Villains Prospects 
@@ -92,8 +92,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1101\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708203@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T080000
 DTEND;TZID=America/Edmonton:20261024T090000
 SUMMARY:Main East (👟 indoor) - MUSC Impact 16 vs CNEU 2016 Champions
@@ -111,8 +111,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1104\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708204@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T100000
 DTEND;TZID=America/Edmonton:20261024T110000
 SUMMARY:Main East (👟 indoor) - Foothills FH 2016 vs SWU Paris FC 16B
@@ -130,8 +130,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1105\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708205@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T110000
 DTEND;TZID=America/Edmonton:20261024T120000
 SUMMARY:Main East (👟 indoor) - Villains Prospects 16 vs Spartans Invade
@@ -150,8 +150,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1106\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -161,7 +161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708206@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T110000
 DTEND;TZID=America/Edmonton:20261024T120000
 SUMMARY:Shane Homes Field 3 - Blizzard United 16 Boys vs Chinooks FC Uni
@@ -169,8 +169,8 @@ SUMMARY:Shane Homes Field 3 - Blizzard United 16 Boys vs Chinooks FC Uni
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1107\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -180,7 +180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708210@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T110000
 DTEND;TZID=America/Edmonton:20261101T120000
 SUMMARY:Shane Homes Field 3 - Chinooks FC United 2016 vs Villains Prospe
@@ -188,8 +188,8 @@ SUMMARY:Shane Homes Field 3 - Chinooks FC United 2016 vs Villains Prospe
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1111\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -199,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708209@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T130000
 DTEND;TZID=America/Edmonton:20261101T140000
 SUMMARY:Shane Homes Field 1 - SWU Paris FC 16B vs Blizzard United 16 Boy
@@ -207,8 +207,8 @@ SUMMARY:Shane Homes Field 1 - SWU Paris FC 16B vs Blizzard United 16 Boy
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1110\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -218,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708207@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T140000
 DTEND;TZID=America/Edmonton:20261101T150000
 SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Invaders 16 vs Foothill
@@ -227,8 +227,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1108\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -238,7 +238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708208@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T170000
 DTEND;TZID=America/Edmonton:20261101T180000
 SUMMARY:Main East (👟 indoor) - CNEU 2016 Champions vs RANGERS FC16 YELL
@@ -247,8 +247,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1109\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -258,7 +258,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708212@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T120000
 DTEND;TZID=America/Edmonton:20261107T130000
 SUMMARY:Villains Field A (👟 cleats) - Foothills FH 2016 vs RANGERS FC16
@@ -267,8 +267,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1113\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -278,7 +278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708213@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T130000
 DTEND;TZID=America/Edmonton:20261107T140000
 SUMMARY:Villains Field A (👟 cleats) - Villains Prospects 16 vs CNEU 201
@@ -287,8 +287,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1114\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -298,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708211@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T140000
 DTEND;TZID=America/Edmonton:20261107T150000
 SUMMARY:Main East (👟 indoor) - Blizzard United 16 Boys vs MUSC Impact 1
@@ -307,8 +307,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1112\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -318,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708214@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T140000
 DTEND;TZID=America/Edmonton:20261107T150000
 SUMMARY:Villains Field A (👟 cleats) - Chinooks FC United 2016 vs SWU Pa
@@ -327,8 +327,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1115\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -338,7 +338,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708215@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T110000
 DTEND;TZID=America/Edmonton:20261114T120000
 SUMMARY:Main East (👟 indoor) - Spartans Invaders 16 vs Chinooks FC Unit
@@ -347,8 +347,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1116\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -358,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708216@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T120000
 DTEND;TZID=America/Edmonton:20261114T130000
 SUMMARY:Main East (👟 indoor) - CNEU 2016 Champions vs Foothills FH 2016
@@ -366,8 +366,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1117\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -377,7 +377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708217@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T130000
 DTEND;TZID=America/Edmonton:20261114T140000
 SUMMARY:Main East (👟 indoor) - MUSC Impact 16 vs Villains Prospects 16
@@ -385,8 +385,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1118\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -396,7 +396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708218@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T140000
 DTEND;TZID=America/Edmonton:20261114T150000
 SUMMARY:Main East (👟 indoor) - RANGERS FC16 YELLOW vs Blizzard United 1
@@ -405,8 +405,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1119\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -416,7 +416,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708219@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T140000
 DTEND;TZID=America/Edmonton:20261122T150000
 SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 Champions vs Spartans 
@@ -425,8 +425,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1120\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -436,7 +436,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708220@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T140000
 DTEND;TZID=America/Edmonton:20261122T150000
 SUMMARY:Annex Alpha (👟 indoor) - SWU Paris FC 16B vs MUSC Impact 16
@@ -444,8 +444,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1121\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -454,7 +454,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708221@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T150000
 DTEND;TZID=America/Edmonton:20261122T160000
 SUMMARY:Annex Alpha (👟 indoor) - Villains Prospects 16 vs Blizzard Unit
@@ -463,8 +463,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1122\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -474,7 +474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708222@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T150000
 DTEND;TZID=America/Edmonton:20261122T160000
 SUMMARY:Villains Field A (👟 cleats) - Chinooks FC United 2016 vs RANGER
@@ -483,8 +483,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1123\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -494,15 +494,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708224@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T100000
 DTEND;TZID=America/Edmonton:20261129T110000
 SUMMARY:Shane Homes Field 1 - RANGERS FC16 YELLOW vs SWU Paris FC 16B
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1125\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -512,7 +512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708225@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T110000
 DTEND;TZID=America/Edmonton:20261129T120000
 SUMMARY:Shane Homes Field 1 - Blizzard United 16 Boys vs Foothills FH 20
@@ -520,8 +520,8 @@ SUMMARY:Shane Homes Field 1 - Blizzard United 16 Boys vs Foothills FH 20
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1126\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -531,7 +531,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708226@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
 SUMMARY:Shane Homes Field 1 - Chinooks FC United 2016 vs CNEU 2016 Champ
@@ -539,8 +539,8 @@ SUMMARY:Shane Homes Field 1 - Chinooks FC United 2016 vs CNEU 2016 Champ
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1127\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -550,7 +550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708223@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T160000
 DTEND;TZID=America/Edmonton:20261129T170000
 SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Invaders 16 vs MUSC Imp
@@ -559,8 +559,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1124\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -570,7 +570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708227@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T090000
 DTEND;TZID=America/Edmonton:20261205T100000
 SUMMARY:Dome SE (👟 cleats) - MUSC Impact 16 vs RANGERS FC16 YELLOW
@@ -578,8 +578,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1128\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -588,7 +588,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708228@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T100000
 DTEND;TZID=America/Edmonton:20261205T110000
 SUMMARY:Dome SE (👟 cleats) - Foothills FH 2016 vs Chinooks FC United 20
@@ -597,8 +597,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1129\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -608,7 +608,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708229@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T110000
 DTEND;TZID=America/Edmonton:20261205T120000
 SUMMARY:Dome SE (👟 cleats) - SWU Paris FC 16B vs Villains Prospects 16
@@ -616,8 +616,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1130\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -627,7 +627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708230@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T174500
 DTEND;TZID=America/Edmonton:20261205T184500
 SUMMARY:Shane Homes Field 4 - Blizzard United 16 Boys vs Spartans Invade
@@ -635,8 +635,8 @@ SUMMARY:Shane Homes Field 4 - Blizzard United 16 Boys vs Spartans Invade
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1131\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -646,7 +646,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708233@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T120000
 DTEND;TZID=America/Edmonton:20261212T130000
 SUMMARY:Main West (👟 indoor) - Villains Prospects 16 vs RANGERS FC16 YE
@@ -655,8 +655,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1134\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -666,7 +666,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708231@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T130000
 DTEND;TZID=America/Edmonton:20261212T140000
 SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 Champions vs Blizzard 
@@ -675,8 +675,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1132\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -686,7 +686,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708234@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T130000
 DTEND;TZID=America/Edmonton:20261212T140000
 SUMMARY:Main West (👟 indoor) - Foothills FH 2016 vs MUSC Impact 16
@@ -694,8 +694,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1135\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -704,7 +704,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708232@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T140000
 DTEND;TZID=America/Edmonton:20261212T150000
 SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Invaders 16 vs SWU Pari
@@ -713,8 +713,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1133\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -724,7 +724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708235@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:Annex Delta (👟 indoor) - MUSC Impact 16 vs Chinooks FC United 2
@@ -733,8 +733,8 @@ LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1136\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -744,7 +744,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708236@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T110000
 DTEND;TZID=America/Edmonton:20261219T120000
 SUMMARY:Annex Delta (👟 indoor) - Villains Prospects 16 vs Foothills FH 
@@ -753,8 +753,8 @@ LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1137\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -764,7 +764,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708237@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T120000
 DTEND;TZID=America/Edmonton:20261219T130000
 SUMMARY:Annex Delta (👟 indoor) - SWU Paris FC 16B vs CNEU 2016 Champion
@@ -773,8 +773,8 @@ LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1138\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -784,7 +784,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708238@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T131500
 DTEND;TZID=America/Edmonton:20261219T141500
 SUMMARY:Shane Homes Field 4 - RANGERS FC16 YELLOW vs Spartans Invaders 1
@@ -792,8 +792,8 @@ SUMMARY:Shane Homes Field 4 - RANGERS FC16 YELLOW vs Spartans Invaders 1
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1139\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -803,7 +803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708239@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T160000
 DTEND;TZID=America/Edmonton:20270109T170000
 SUMMARY:Annex Bravo (👟 indoor) - SWU Paris FC 16B vs Foothills FH 2016
@@ -811,8 +811,8 @@ LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1140\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -822,7 +822,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708240@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T170000
 DTEND;TZID=America/Edmonton:20270109T180000
 SUMMARY:Annex Bravo (👟 indoor) - Chinooks FC United 2016 vs Blizzard Un
@@ -831,8 +831,8 @@ LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1141\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -842,7 +842,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708241@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270110T150000
 DTEND;TZID=America/Edmonton:20270110T160000
 SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Invaders 16 vs Villains
@@ -851,8 +851,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1142\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -862,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708242@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270110T160000
 DTEND;TZID=America/Edmonton:20270110T170000
 SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 Champions vs MUSC Impa
@@ -871,8 +871,8 @@ LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1143\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -882,7 +882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708244@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:Main West (👟 indoor) - Villains Prospects 16 vs Chinooks FC Uni
@@ -891,8 +891,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1145\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -902,7 +902,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708245@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:Dome NE (👟 cleats) - Blizzard United 16 Boys vs SWU Paris FC 16
@@ -911,8 +911,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1146\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -922,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708243@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:Main East (👟 indoor) - RANGERS FC16 YELLOW vs CNEU 2016 Champio
@@ -931,8 +931,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1144\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -942,7 +942,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708246@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
 SUMMARY:Dome NE (👟 cleats) - Foothills FH 2016 vs Spartans Invaders 16
@@ -950,8 +950,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1147\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -961,15 +961,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708250@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T111500
 DTEND;TZID=America/Edmonton:20270124T121500
 SUMMARY:Shane Homes Field 1 - RANGERS FC16 YELLOW vs Foothills FH 2016
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1151\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -979,7 +979,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708247@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T150000
 DTEND;TZID=America/Edmonton:20270124T160000
 SUMMARY:Annex Alpha (👟 indoor) - MUSC Impact 16 vs Blizzard United 16 B
@@ -988,8 +988,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1148\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -999,7 +999,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708248@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T160000
 DTEND;TZID=America/Edmonton:20270124T170000
 SUMMARY:Annex Alpha (👟 indoor) - CNEU 2016 Champions vs Villains Prospe
@@ -1008,8 +1008,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1149\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1019,7 +1019,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708249@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T170000
 DTEND;TZID=America/Edmonton:20270124T180000
 SUMMARY:Annex Alpha (👟 indoor) - SWU Paris FC 16B vs Chinooks FC United
@@ -1028,8 +1028,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1150\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1039,7 +1039,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708253@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T080000
 DTEND;TZID=America/Edmonton:20270130T090000
 SUMMARY:Dome SE (👟 cleats) - Chinooks FC United 2016 vs Spartans Invade
@@ -1048,8 +1048,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1154\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1059,7 +1059,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708254@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T090000
 DTEND;TZID=America/Edmonton:20270130T100000
 SUMMARY:Dome SE (👟 cleats) - Foothills FH 2016 vs CNEU 2016 Champions
@@ -1067,8 +1067,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1155\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1078,7 +1078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708251@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T100000
 DTEND;TZID=America/Edmonton:20270130T110000
 SUMMARY:Dome NE (👟 cleats) - Villains Prospects 16 vs MUSC Impact 16
@@ -1086,8 +1086,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1152\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1097,7 +1097,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708252@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T110000
 DTEND;TZID=America/Edmonton:20270130T120000
 SUMMARY:Dome NE (👟 cleats) - Blizzard United 16 Boys vs RANGERS FC16 YE
@@ -1106,8 +1106,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1153\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1117,7 +1117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708256@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T080000
 DTEND;TZID=America/Edmonton:20270221T090000
 SUMMARY:Dome SE (👟 cleats) - MUSC Impact 16 vs SWU Paris FC 16B
@@ -1125,8 +1125,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1157\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1135,7 +1135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708257@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T090000
 DTEND;TZID=America/Edmonton:20270221T100000
 SUMMARY:Dome SE (👟 cleats) - RANGERS FC16 YELLOW vs Chinooks FC United 
@@ -1144,8 +1144,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U11 Dev Plus+ SIROIS · Game #1158\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1155,7 +1155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708255@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T160000
 DTEND;TZID=America/Edmonton:20270221T170000
 SUMMARY:Annex Alpha (👟 indoor) - Spartans Invaders 16 vs Blizzard Unite
@@ -1164,8 +1164,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1156\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1175,7 +1175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708260@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T091500
 DTEND;TZID=America/Edmonton:20270227T101500
 SUMMARY:Shane Homes Field 4 - Blizzard United 16 Boys vs CNEU 2016 Champ
@@ -1183,8 +1183,8 @@ SUMMARY:Shane Homes Field 4 - Blizzard United 16 Boys vs CNEU 2016 Champ
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1161\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1194,7 +1194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708261@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T101500
 DTEND;TZID=America/Edmonton:20270227T111500
 SUMMARY:Shane Homes Field 4 - RANGERS FC16 YELLOW vs Villains Prospects 
@@ -1202,8 +1202,8 @@ SUMMARY:Shane Homes Field 4 - RANGERS FC16 YELLOW vs Villains Prospects
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ SIROIS · Game #1162\nSchedule: https://js
- clark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ clark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1213,7 +1213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708258@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T120000
 DTEND;TZID=America/Edmonton:20270227T130000
 SUMMARY:Annex Alpha (👟 indoor) - SWU Paris FC 16B vs Spartans Invaders 
@@ -1222,8 +1222,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1159\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1233,7 +1233,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708259@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T130000
 DTEND;TZID=America/Edmonton:20270227T140000
 SUMMARY:Annex Alpha (👟 indoor) - MUSC Impact 16 vs Foothills FH 2016
@@ -1241,8 +1241,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U11 Dev Plus+ SIROIS · Game #1160\nSchedule: h
- ttps://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ttps://jsclark89.github.io/cmsa-schedule/#/division/117130402
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130402
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

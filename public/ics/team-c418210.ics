@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109035@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261102T203000
 DTEND;TZID=America/Edmonton:20261102T213000
 SUMMARY:Stoked City FC - Dome NE (👟 cleats) - Away at Calsea United
@@ -34,7 +34,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -43,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109135@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261111T213000
 DTEND;TZID=America/Edmonton:20261111T223000
 SUMMARY:Stoked City FC - Shane Homes Field 1 - Home vs Rangers Athletics
@@ -51,8 +52,8 @@ SUMMARY:Stoked City FC - Shane Homes Field 1 - Home vs Rangers Athletics
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -62,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109188@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261116T203000
 DTEND;TZID=America/Edmonton:20261116T213000
 SUMMARY:Stoked City FC - Dome NE (👟 cleats) - Away at Croatia Generals
@@ -70,7 +71,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -80,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109312@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261126T220000
 DTEND;TZID=America/Edmonton:20261126T230000
 SUMMARY:Stoked City FC - Shouldice Encana NW (👟 cleats) - Home vs Reneg
@@ -89,7 +91,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -99,15 +102,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109454@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261208T213000
 DTEND;TZID=America/Edmonton:20261208T223000
 SUMMARY:Stoked City FC - Shane Homes Field 3 - Away at Fusion FC O45
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -116,15 +119,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109538@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T213000
 DTEND;TZID=America/Edmonton:20261215T223000
 SUMMARY:Stoked City FC - Shane Homes Field 2 - Home vs SD Serbia
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -133,15 +136,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108180@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270105T213000
 DTEND;TZID=America/Edmonton:20270105T223000
 SUMMARY:Stoked City FC - Shane Homes Field 2 - Away at Hoods United
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -150,15 +153,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108268@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270113T213000
 DTEND;TZID=America/Edmonton:20270113T223000
 SUMMARY:Stoked City FC - Shane Homes Field 2 - Home vs Stars FC
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -167,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108340@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T203000
 DTEND;TZID=America/Edmonton:20270119T213000
 SUMMARY:Stoked City FC - Villains Field 2 (👟 cleats) - Away at Neighbou
@@ -175,7 +178,8 @@ SUMMARY:Stoked City FC - Villains Field 2 (👟 cleats) - Away at Neighbou
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -185,15 +189,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108414@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T213000
 DTEND;TZID=America/Edmonton:20270126T223000
 SUMMARY:Stoked City FC - Shane Homes Field 2 - Home vs Calsea United
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -202,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108548@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T214500
 DTEND;TZID=America/Edmonton:20270206T224500
 SUMMARY:Stoked City FC - Shouldice Encana SW (👟 cleats) - Away at Range
@@ -211,7 +215,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -221,15 +226,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108625@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270216T213000
 DTEND;TZID=America/Edmonton:20270216T223000
 SUMMARY:Stoked City FC - Shane Homes Field 4 - Home vs Croatia Generals
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -239,7 +244,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108687@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270222T203000
 DTEND;TZID=America/Edmonton:20270222T213000
 SUMMARY:Stoked City FC - Dome SW (👟 cleats) - Away at Renegade Hoods
@@ -247,7 +252,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -257,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108760@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270228T220000
 DTEND;TZID=America/Edmonton:20270228T230000
 SUMMARY:Stoked City FC - Shouldice Encana SE (👟 cleats) - Home vs Fusio
@@ -266,7 +272,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -276,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108875@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270310T203000
 DTEND;TZID=America/Edmonton:20270310T213000
 SUMMARY:Stoked City FC - Villains Field 2 (👟 cleats) - Away at SD Serbi
@@ -284,7 +291,8 @@ SUMMARY:Stoked City FC - Villains Field 2 (👟 cleats) - Away at SD Serbi
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -294,15 +302,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108925@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
 SUMMARY:Stoked City FC - Shane Homes Field 3 - Home vs Hoods United
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418210
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418210
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

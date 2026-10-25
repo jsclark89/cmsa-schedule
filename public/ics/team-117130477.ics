@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707273@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T091500
 DTEND;TZID=America/Edmonton:20261017T101500
 SUMMARY:U10 MUSC Wolves - Shane Homes Field 2 - Away at Rockies AFC 17
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev Plus+ KERR · Game #356\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ rk89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707280@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T110000
 DTEND;TZID=America/Edmonton:20261024T120000
 SUMMARY:U10 MUSC Wolves - Main West (👟 indoor) - Home vs Villains FC 17
@@ -52,8 +52,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #363\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707292@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T100000
 DTEND;TZID=America/Edmonton:20261114T110000
 SUMMARY:U10 MUSC Wolves - Airdrie Genesis Field 2 (👟 cleats) - Away at 
@@ -72,8 +72,8 @@ LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #375\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707300@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261121T080000
 DTEND;TZID=America/Edmonton:20261121T090000
 SUMMARY:U10 MUSC Wolves - Main East (👟 indoor) - Home vs EMFC Galaxy 17
@@ -91,8 +91,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #383\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -102,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707309@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261128T080000
 DTEND;TZID=America/Edmonton:20261128T090000
 SUMMARY:U10 MUSC Wolves - Main East (👟 indoor) - Home vs RANGERS FC17 Y
@@ -111,8 +111,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #392\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707321@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T100000
 DTEND;TZID=America/Edmonton:20261205T110000
 SUMMARY:U10 MUSC Wolves - Main West (👟 indoor) - Away at Foothills Benf
@@ -131,8 +131,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #404\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -142,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707329@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T110000
 DTEND;TZID=America/Edmonton:20261219T120000
 SUMMARY:U10 MUSC Wolves - Villains Field A (👟 cleats) - Home vs CNEU 20
@@ -151,8 +151,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #412\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -162,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707335@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270102T140000
 DTEND;TZID=America/Edmonton:20270102T150000
 SUMMARY:U10 MUSC Wolves - Annex Bravo (👟 indoor) - Away at CalGlen Cava
@@ -171,8 +171,8 @@ LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #418\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -182,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707347@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T110000
 DTEND;TZID=America/Edmonton:20270109T120000
 SUMMARY:U10 MUSC Wolves - Main West (👟 indoor) - Home vs CUFC Avengers 
@@ -191,8 +191,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #430\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -202,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707350@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270123T110000
 DTEND;TZID=America/Edmonton:20270123T120000
 SUMMARY:U10 MUSC Wolves - Main East (👟 indoor) - Away at Villains Rapto
@@ -211,8 +211,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #433\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707360@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T120000
 DTEND;TZID=America/Edmonton:20270130T130000
 SUMMARY:U10 MUSC Wolves - Main West (👟 indoor) - Home vs Blizzard Allia
@@ -231,8 +231,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #443\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707366@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T130000
 DTEND;TZID=America/Edmonton:20270206T140000
 SUMMARY:U10 MUSC Wolves - Main West (👟 indoor) - Away at SWU Juventus 1
@@ -251,8 +251,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #449\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -262,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707379@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T150000
 DTEND;TZID=America/Edmonton:20270220T160000
 SUMMARY:U10 MUSC Wolves - Main East (👟 indoor) - Home vs Foothills PSG 
@@ -271,8 +271,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #462\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -282,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707386@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T120000
 DTEND;TZID=America/Edmonton:20270227T130000
 SUMMARY:U10 MUSC Wolves - Villains Field A (👟 cleats) - Away at Foothil
@@ -291,8 +291,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #469\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130477
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130477
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

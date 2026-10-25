@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109063@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
 SUMMARY:Napoli D10S - Shane Homes Field 1 - Home vs Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -43,15 +43,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109207@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
 SUMMARY:Napoli D10S - Shane Homes Field 2 - Home vs Bohemians
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109331@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T214500
 DTEND;TZID=America/Edmonton:20261127T224500
 SUMMARY:Napoli D10S - Dome SW (👟 cleats) - Away at Argentina Social Clu
@@ -69,7 +69,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -79,15 +80,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109390@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
 SUMMARY:Napoli D10S - Shane Homes Field 1 - Home vs Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -96,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109467@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261209T214500
 DTEND;TZID=America/Edmonton:20261209T224500
 SUMMARY:Napoli D10S - Villains Field 1 (👟 cleats) - Away at Golden Falc
@@ -104,7 +105,8 @@ SUMMARY:Napoli D10S - Villains Field 1 (👟 cleats) - Away at Golden Falc
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -114,15 +116,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109539@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T213000
 DTEND;TZID=America/Edmonton:20261215T223000
 SUMMARY:Napoli D10S - Shane Homes Field 4 - Home vs Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -131,14 +133,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108194@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T203000
 DTEND;TZID=America/Edmonton:20270106T213000
 SUMMARY:Napoli D10S - Villains Field 2 (👟 cleats) - Away at Andinos O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -148,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108305@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T170000
 DTEND;TZID=America/Edmonton:20270116T180000
 SUMMARY:Napoli D10S - Dome NE (👟 cleats) - Away at Chinooks FC 1974
@@ -156,7 +159,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -165,15 +169,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108413@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T213000
 DTEND;TZID=America/Edmonton:20270126T223000
 SUMMARY:Napoli D10S - Shane Homes Field 1 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -182,14 +186,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108596@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T203000
 DTEND;TZID=America/Edmonton:20270210T213000
 SUMMARY:Napoli D10S - Villains Field 2 (👟 cleats) - Away at Bohemians
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -199,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108636@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
 SUMMARY:Napoli D10S - Shane Homes Field 4 - Home vs Argentina Social Clu
@@ -207,8 +212,8 @@ SUMMARY:Napoli D10S - Shane Homes Field 4 - Home vs Argentina Social Clu
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -218,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108753@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T220000
 DTEND;TZID=America/Edmonton:20270227T230000
 SUMMARY:Napoli D10S - Shouldice Encana SE (👟 cleats) - Away at Rangers 
@@ -227,7 +232,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -237,15 +243,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108798@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
 SUMMARY:Napoli D10S - Shane Homes Field 2 - Home vs Golden Falcons
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -254,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108831@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
 SUMMARY:Napoli D10S - Shouldice Encana NW (👟 cleats) - Away at Blue Ste
@@ -263,7 +269,8 @@ LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -273,15 +280,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108924@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
 SUMMARY:Napoli D10S - Shane Homes Field 2 - Home vs Andinos O45
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -290,15 +297,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109009@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
 SUMMARY:Napoli D10S - Shane Homes Field 2 - Home vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418198
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418198
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

@@ -26,13 +26,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107922@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T180000
 DTEND;TZID=America/Edmonton:20261108T190000
 SUMMARY:1UP United - Seven Chiefs - Home vs Impero FC Dinamo
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -41,13 +42,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107928@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T210000
 DTEND;TZID=America/Edmonton:20261112T220000
 SUMMARY:1UP United - Seven Chiefs - Away at CUFC Futsal
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -56,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107936@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261119T213000
 DTEND;TZID=America/Edmonton:20261119T223000
 SUMMARY:1UP United - Genesis Field House 2 (👟 indoor) - Home vs Elite F
@@ -65,8 +67,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -76,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107944@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T220000
 DTEND;TZID=America/Edmonton:20261124T230000
 SUMMARY:1UP United - Genesis Field House 2 (👟 indoor) - Away at Union F
@@ -85,8 +87,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -96,13 +98,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107955@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T160000
 DTEND;TZID=America/Edmonton:20261206T170000
 SUMMARY:1UP United - Seven Chiefs - Home vs Vanguard FC
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -111,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107960@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261210T213000
 DTEND;TZID=America/Edmonton:20261210T223000
 SUMMARY:1UP United - Genesis Field House 2 (👟 indoor) - Home vs Calgary
@@ -120,8 +123,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -131,13 +134,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107966@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T200000
 DTEND;TZID=America/Edmonton:20261217T210000
 SUMMARY:1UP United - Seven Chiefs - Away at Impero FC PRIMO
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -146,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107838@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270107T213000
 DTEND;TZID=America/Edmonton:20270107T223000
 SUMMARY:1UP United - Genesis Field House 2 (👟 indoor) - Away at Callies
@@ -155,8 +159,8 @@ LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nMens\nSchedule: https://jsclark89.github.io/cmsa-sc
- hedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ hedule/#/team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -166,13 +170,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107847@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270114T210000
 DTEND;TZID=America/Edmonton:20270114T220000
 SUMMARY:1UP United - Seven Chiefs - Home vs FC Tryzub
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -181,13 +186,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107853@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T190000
 DTEND;TZID=America/Edmonton:20270121T200000
 SUMMARY:1UP United - Seven Chiefs - Home vs Elevate Soccer Academy
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -196,13 +202,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107863@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T190000
 DTEND;TZID=America/Edmonton:20270128T200000
 SUMMARY:1UP United - Seven Chiefs - Away at AU Lions
 LOCATION:Seven Chiefs Sportsplex
-DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/#/
+ team/c417990
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417990
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

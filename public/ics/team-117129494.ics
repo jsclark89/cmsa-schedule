@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709358@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261025T130000
 DTEND;TZID=America/Edmonton:20261025T140000
 SUMMARY:U13 Foothills FC - Shane Homes Field 3 - Away at RANGERS FC14
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U13 Tier 1 · Game #1797\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709365@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T133000
 DTEND;TZID=America/Edmonton:20261101T143000
 SUMMARY:U13 Foothills FC - Macron Field B (👟 cleats) - Home vs CNEU 201
@@ -53,8 +53,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1804\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709374@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T153000
 DTEND;TZID=America/Edmonton:20261108T163000
 SUMMARY:U13 Foothills FC - Shane Homes Field 3 - Away at New Frontier SC
@@ -72,8 +72,8 @@ SUMMARY:U13 Foothills FC - Shane Homes Field 3 - Away at New Frontier SC
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U13 Tier 1 · Game #1815\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709378@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T121500
 DTEND;TZID=America/Edmonton:20261115T131500
 SUMMARY:U13 Foothills FC - Macron Field A (👟 cleats) - Home vs Blizzard
@@ -92,8 +92,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1817\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709387@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T080000
 DTEND;TZID=America/Edmonton:20261122T090000
 SUMMARY:U13 Foothills FC - Dome NE (👟 cleats) - Away at SWU Deportivo 1
@@ -112,8 +112,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1826\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709394@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
 SUMMARY:U13 Foothills FC - Shouldice #01/NW (👟 cleats) - Home vs CWFC B
@@ -132,8 +132,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1833\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709402@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261213T080000
 DTEND;TZID=America/Edmonton:20261213T090000
 SUMMARY:U13 Foothills FC - Macron Field C (👟 cleats) - Away at Villains
@@ -152,8 +152,8 @@ LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1841\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -163,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709410@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261220T120000
 DTEND;TZID=America/Edmonton:20261220T130000
 SUMMARY:U13 Foothills FC - Macron Field D (👟 cleats) - Home vs CUFC Kni
@@ -172,8 +172,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1849\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -183,7 +183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709422@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270103T183000
 DTEND;TZID=America/Edmonton:20270103T193000
 SUMMARY:U13 Foothills FC - Dome SW (👟 cleats) - Away at SWU Bilbao 14 B
@@ -191,8 +191,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1861\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -202,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709428@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270110T121500
 DTEND;TZID=America/Edmonton:20270110T131500
 SUMMARY:U13 Foothills FC - Macron Field A (👟 cleats) - Home vs OUSC Uni
@@ -211,8 +211,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1867\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709435@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270124T093000
 DTEND;TZID=America/Edmonton:20270124T103000
 SUMMARY:U13 Foothills FC - Dome NW (👟 cleats) - Away at S4 Athletic Cit
@@ -231,8 +231,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1874\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709445@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270131T114500
 DTEND;TZID=America/Edmonton:20270131T124500
 SUMMARY:U13 Foothills FC - Dome SE (👟 cleats) - Home vs Chinooks FC Uni
@@ -251,8 +251,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1884\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -262,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709453@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:U13 Foothills FC - Dome NW (👟 cleats) - Away at MUSC Blues 14 B
@@ -271,8 +271,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1892\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -282,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709458@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270228T093000
 DTEND;TZID=America/Edmonton:20270228T103000
 SUMMARY:U13 Foothills FC - Dome NE (👟 cleats) - Home vs Rockies AFC 14
@@ -290,8 +290,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U13 Tier 1 · Game #1897\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/team/117129494
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129494
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

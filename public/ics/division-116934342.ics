@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11711192@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261015T180000
 DTEND;TZID=America/Edmonton:20261015T190000
 SUMMARY:Dome SE (👟 cleats) - CNEU 2009 Hurricane vs Airdrie F.C. Union 
@@ -35,8 +35,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3865\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711204@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261015T180000
 DTEND;TZID=America/Edmonton:20261015T190000
 SUMMARY:Dome SW (👟 cleats) - CalGlen Crusaders 09 vs RANGERS ATHLETICS 
@@ -55,8 +55,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3867\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711199@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261015T191500
 DTEND;TZID=America/Edmonton:20261015T201500
 SUMMARY:Dome SE (👟 cleats) - RANGERS FC09 vs CWFC B2009/2008 Green
@@ -74,8 +74,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3866\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711214@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261015T191500
 DTEND;TZID=America/Edmonton:20261015T201500
 SUMMARY:Dome SW (👟 cleats) - Foothills FC 2009 vs Blizzard United 08/09
@@ -93,8 +93,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3868\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -104,15 +104,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711221@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261022T190000
 DTEND;TZID=America/Edmonton:20261022T200000
 SUMMARY:Shane Homes Field 2 - Blizzard United 08/09 Boys vs RANGERS FC09
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3869\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711229@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261022T190000
 DTEND;TZID=America/Edmonton:20261022T200000
 SUMMARY:Shane Homes Field 4 - Foothills FC 2009 vs Airdrie F.C. Union 09
@@ -130,8 +130,8 @@ SUMMARY:Shane Homes Field 4 - Foothills FC 2009 vs Airdrie F.C. Union 09
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3871\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711225@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261022T201500
 DTEND;TZID=America/Edmonton:20261022T211500
 SUMMARY:Shane Homes Field 2 - RANGERS ATHLETICS 08/09 vs CNEU 2009 Hurri
@@ -149,8 +149,8 @@ SUMMARY:Shane Homes Field 2 - RANGERS ATHLETICS 08/09 vs CNEU 2009 Hurri
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3870\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -160,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711230@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261022T201500
 DTEND;TZID=America/Edmonton:20261022T211500
 SUMMARY:Shane Homes Field 4 - RWFC Royal West United 08 vs CalGlen Crusa
@@ -168,8 +168,8 @@ SUMMARY:Shane Homes Field 4 - RWFC Royal West United 08 vs CalGlen Crusa
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3872\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -179,7 +179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711234@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261029T190000
 DTEND;TZID=America/Edmonton:20261029T200000
 SUMMARY:Shane Homes Field 2 - Airdrie F.C. Union 09/10 vs RWFC Royal Wes
@@ -187,8 +187,8 @@ SUMMARY:Shane Homes Field 2 - Airdrie F.C. Union 09/10 vs RWFC Royal Wes
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3873\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -198,15 +198,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711242@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261029T190000
 DTEND;TZID=America/Edmonton:20261029T200000
 SUMMARY:Shane Homes Field 4 - RANGERS FC09 vs Foothills FC 2009
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3875\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711238@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261029T201500
 DTEND;TZID=America/Edmonton:20261029T211500
 SUMMARY:Shane Homes Field 2 - CalGlen Crusaders 09 vs Blizzard United 08
@@ -223,8 +223,8 @@ SUMMARY:Shane Homes Field 2 - CalGlen Crusaders 09 vs Blizzard United 08
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3874\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -234,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711249@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261029T201500
 DTEND;TZID=America/Edmonton:20261029T211500
 SUMMARY:Shane Homes Field 4 - CNEU 2009 Hurricane vs CWFC B2009/2008 Gre
@@ -242,8 +242,8 @@ SUMMARY:Shane Homes Field 4 - CNEU 2009 Hurricane vs CWFC B2009/2008 Gre
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3876\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -253,7 +253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711252@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T190000
 DTEND;TZID=America/Edmonton:20261105T200000
 SUMMARY:Shane Homes Field 2 - CalGlen Crusaders 09 vs Airdrie F.C. Union
@@ -261,8 +261,8 @@ SUMMARY:Shane Homes Field 2 - CalGlen Crusaders 09 vs Airdrie F.C. Union
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3877\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -272,15 +272,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711260@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T190000
 DTEND;TZID=America/Edmonton:20261105T200000
 SUMMARY:Shane Homes Field 4 - Foothills FC 2009 vs CWFC B2009/2008 Green
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3879\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -290,7 +290,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711257@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T201500
 DTEND;TZID=America/Edmonton:20261105T211500
 SUMMARY:Shane Homes Field 2 - Blizzard United 08/09 Boys vs CNEU 2009 Hu
@@ -298,8 +298,8 @@ SUMMARY:Shane Homes Field 2 - Blizzard United 08/09 Boys vs CNEU 2009 Hu
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3878\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711264@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261105T201500
 DTEND;TZID=America/Edmonton:20261105T211500
 SUMMARY:Shane Homes Field 4 - RWFC Royal West United 08 vs RANGERS ATHLE
@@ -317,8 +317,8 @@ SUMMARY:Shane Homes Field 4 - RWFC Royal West United 08 vs RANGERS ATHLE
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3880\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -328,15 +328,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711266@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T190000
 DTEND;TZID=America/Edmonton:20261112T200000
 SUMMARY:Shane Homes Field 2 - CNEU 2009 Hurricane vs Foothills FC 2009
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3881\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -346,7 +346,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711271@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T190000
 DTEND;TZID=America/Edmonton:20261112T200000
 SUMMARY:Shane Homes Field 4 - CWFC B2009/2008 Green vs RWFC Royal West U
@@ -354,8 +354,8 @@ SUMMARY:Shane Homes Field 4 - CWFC B2009/2008 Green vs RWFC Royal West U
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3883\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -365,15 +365,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711270@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T201500
 DTEND;TZID=America/Edmonton:20261112T211500
 SUMMARY:Shane Homes Field 2 - RANGERS FC09 vs CalGlen Crusaders 09
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3882\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -382,7 +382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711275@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261112T201500
 DTEND;TZID=America/Edmonton:20261112T211500
 SUMMARY:Shane Homes Field 4 - RANGERS ATHLETICS 08/09 vs Blizzard United
@@ -390,8 +390,8 @@ SUMMARY:Shane Homes Field 4 - RANGERS ATHLETICS 08/09 vs Blizzard United
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3884\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -401,7 +401,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711277@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T193000
 DTEND;TZID=America/Edmonton:20261124T203000
 SUMMARY:Shouldice #01/NW (👟 cleats) - Airdrie F.C. Union 09/10 vs RANGE
@@ -410,8 +410,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3885\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -421,7 +421,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711288@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T193000
 DTEND;TZID=America/Edmonton:20261124T203000
 SUMMARY:Shouldice #04/NE (👟 cleats) - CalGlen Crusaders 09 vs CWFC B200
@@ -430,8 +430,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3887\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -441,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711284@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T204500
 DTEND;TZID=America/Edmonton:20261124T214500
 SUMMARY:Shouldice #01/NW (👟 cleats) - Blizzard United 08/09 Boys vs RWF
@@ -450,8 +450,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3886\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -461,7 +461,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711293@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T204500
 DTEND;TZID=America/Edmonton:20261124T214500
 SUMMARY:Shouldice #04/NE (👟 cleats) - CNEU 2009 Hurricane vs RANGERS FC
@@ -470,8 +470,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3888\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -481,7 +481,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711295@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T193000
 DTEND;TZID=America/Edmonton:20261201T203000
 SUMMARY:Shouldice #01/NW (👟 cleats) - RWFC Royal West United 08 vs Foot
@@ -490,8 +490,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3889\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -501,7 +501,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711300@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T193000
 DTEND;TZID=America/Edmonton:20261201T203000
 SUMMARY:Shouldice #04/NE (👟 cleats) - RANGERS FC09 vs RANGERS ATHLETICS
@@ -510,8 +510,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3891\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -521,7 +521,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711298@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T204500
 DTEND;TZID=America/Edmonton:20261201T214500
 SUMMARY:Shouldice #01/NW (👟 cleats) - CalGlen Crusaders 09 vs CNEU 2009
@@ -530,8 +530,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3890\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -541,7 +541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711302@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T204500
 DTEND;TZID=America/Edmonton:20261201T214500
 SUMMARY:Shouldice #04/NE (👟 cleats) - CWFC B2009/2008 Green vs Airdrie 
@@ -550,8 +550,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3892\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -561,15 +561,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711303@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T154500
 DTEND;TZID=America/Edmonton:20261206T164500
 SUMMARY:Shane Homes Field 3 - Foothills FC 2009 vs CalGlen Crusaders 09
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3893\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -579,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711304@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T170000
 DTEND;TZID=America/Edmonton:20261206T180000
 SUMMARY:Shane Homes Field 3 - RANGERS ATHLETICS 08/09 vs CWFC B2009/2008
@@ -587,8 +587,8 @@ SUMMARY:Shane Homes Field 3 - RANGERS ATHLETICS 08/09 vs CWFC B2009/2008
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3894\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -598,7 +598,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711305@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T181500
 DTEND;TZID=America/Edmonton:20261206T191500
 SUMMARY:Shane Homes Field 3 - Airdrie F.C. Union 09/10 vs Blizzard Unite
@@ -606,8 +606,8 @@ SUMMARY:Shane Homes Field 3 - Airdrie F.C. Union 09/10 vs Blizzard Unite
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3895\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -617,15 +617,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711306@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T193000
 DTEND;TZID=America/Edmonton:20261206T203000
 SUMMARY:Shane Homes Field 3 - RWFC Royal West United 08 vs RANGERS FC09
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3896\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -635,7 +635,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711307@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T193000
 DTEND;TZID=America/Edmonton:20261217T203000
 SUMMARY:Shouldice #01/NW (👟 cleats) - Foothills FC 2009 vs RANGERS ATHL
@@ -644,8 +644,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3897\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -655,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711309@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T193000
 DTEND;TZID=America/Edmonton:20261217T203000
 SUMMARY:Shouldice #04/NE (👟 cleats) - RANGERS FC09 vs Airdrie F.C. Unio
@@ -664,8 +664,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3899\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -675,7 +675,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711308@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T204500
 DTEND;TZID=America/Edmonton:20261217T214500
 SUMMARY:Shouldice #01/NW (👟 cleats) - CNEU 2009 Hurricane vs RWFC Royal
@@ -684,8 +684,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3898\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -695,7 +695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711310@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261217T204500
 DTEND;TZID=America/Edmonton:20261217T214500
 SUMMARY:Shouldice #04/NE (👟 cleats) - Blizzard United 08/09 Boys vs CWF
@@ -704,8 +704,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3900\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -715,7 +715,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711311@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T193000
 DTEND;TZID=America/Edmonton:20270108T203000
 SUMMARY:Shouldice #01/NW (👟 cleats) - CWFC B2009/2008 Green vs RANGERS 
@@ -724,8 +724,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3901\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -735,7 +735,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711313@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T193000
 DTEND;TZID=America/Edmonton:20270108T203000
 SUMMARY:Shouldice #04/NE (👟 cleats) - RANGERS ATHLETICS 08/09 vs CalGle
@@ -744,8 +744,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3903\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -755,7 +755,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711312@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T204500
 DTEND;TZID=America/Edmonton:20270108T214500
 SUMMARY:Shouldice #01/NW (👟 cleats) - Blizzard United 08/09 Boys vs Foo
@@ -764,8 +764,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3902\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -775,7 +775,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711314@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270108T204500
 DTEND;TZID=America/Edmonton:20270108T214500
 SUMMARY:Shouldice #04/NE (👟 cleats) - Airdrie F.C. Union 09/10 vs CNEU 
@@ -784,8 +784,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3904\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -795,7 +795,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711315@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T104500
 DTEND;TZID=America/Edmonton:20270116T114500
 SUMMARY:Dome NW (👟 cleats) - Airdrie F.C. Union 09/10 vs Foothills FC 2
@@ -804,8 +804,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3905\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -815,7 +815,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711316@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T120000
 DTEND;TZID=America/Edmonton:20270116T130000
 SUMMARY:Dome NW (👟 cleats) - CNEU 2009 Hurricane vs RANGERS ATHLETICS 0
@@ -824,8 +824,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3906\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -835,7 +835,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711317@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T164500
 DTEND;TZID=America/Edmonton:20270116T174500
 SUMMARY:Shouldice #02/SW (👟 cleats) - RANGERS FC09 vs Blizzard United 0
@@ -844,8 +844,8 @@ LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3907\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -855,7 +855,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711318@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T180000
 DTEND;TZID=America/Edmonton:20270116T190000
 SUMMARY:Shouldice #02/SW (👟 cleats) - CalGlen Crusaders 09 vs RWFC Roya
@@ -864,8 +864,8 @@ LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3908\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -875,7 +875,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711319@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T180000
 DTEND;TZID=America/Edmonton:20270121T190000
 SUMMARY:Dome NW (👟 cleats) - Foothills FC 2009 vs RANGERS FC09
@@ -883,8 +883,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3909\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -893,7 +893,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711320@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T190000
 DTEND;TZID=America/Edmonton:20270121T200000
 SUMMARY:Shane Homes Field 4 - Blizzard United 08/09 Boys vs CalGlen Crus
@@ -901,8 +901,8 @@ SUMMARY:Shane Homes Field 4 - Blizzard United 08/09 Boys vs CalGlen Crus
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3911\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -912,7 +912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711321@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T201500
 DTEND;TZID=America/Edmonton:20270121T211500
 SUMMARY:Shane Homes Field 4 - CWFC B2009/2008 Green vs CNEU 2009 Hurrica
@@ -920,8 +920,8 @@ SUMMARY:Shane Homes Field 4 - CWFC B2009/2008 Green vs CNEU 2009 Hurrica
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U19 Tier 2 · Game #3912\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -931,7 +931,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711322@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270121T210000
 DTEND;TZID=America/Edmonton:20270121T220000
 SUMMARY:Shouldice #01/NW (👟 cleats) - RWFC Royal West United 08 vs Aird
@@ -940,8 +940,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3910\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -951,7 +951,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711323@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T180000
 DTEND;TZID=America/Edmonton:20270128T190000
 SUMMARY:Dome NW (👟 cleats) - CNEU 2009 Hurricane vs Blizzard United 08/
@@ -960,8 +960,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3913\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -971,7 +971,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711324@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T191500
 DTEND;TZID=America/Edmonton:20270128T201500
 SUMMARY:Dome NW (👟 cleats) - Airdrie F.C. Union 09/10 vs CalGlen Crusad
@@ -980,8 +980,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3914\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -991,7 +991,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711325@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T194500
 DTEND;TZID=America/Edmonton:20270128T204500
 SUMMARY:Shouldice #01/NW (👟 cleats) - CWFC B2009/2008 Green vs Foothill
@@ -1000,8 +1000,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3915\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1011,7 +1011,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711326@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270128T210000
 DTEND;TZID=America/Edmonton:20270128T220000
 SUMMARY:Shouldice #01/NW (👟 cleats) - RANGERS ATHLETICS 08/09 vs RWFC R
@@ -1020,8 +1020,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3916\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1031,7 +1031,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711327@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270204T194500
 DTEND;TZID=America/Edmonton:20270204T204500
 SUMMARY:Shouldice #01/NW (👟 cleats) - Foothills FC 2009 vs CNEU 2009 Hu
@@ -1040,8 +1040,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3917\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1051,7 +1051,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711329@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270204T194500
 DTEND;TZID=America/Edmonton:20270204T204500
 SUMMARY:Shouldice #04/NE (👟 cleats) - CalGlen Crusaders 09 vs RANGERS F
@@ -1060,8 +1060,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3919\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1071,7 +1071,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711328@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270204T210000
 DTEND;TZID=America/Edmonton:20270204T220000
 SUMMARY:Shouldice #01/NW (👟 cleats) - Blizzard United 08/09 Boys vs RAN
@@ -1080,8 +1080,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3918\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1091,7 +1091,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711331@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270204T210000
 DTEND;TZID=America/Edmonton:20270204T220000
 SUMMARY:Shouldice #04/NE (👟 cleats) - RWFC Royal West United 08 vs CWFC
@@ -1100,8 +1100,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3920\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1111,7 +1111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711332@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T180000
 DTEND;TZID=America/Edmonton:20270220T190000
 SUMMARY:Macron Field A (👟 cleats) - RANGERS FC09 vs RWFC Royal West Uni
@@ -1120,8 +1120,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3921\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1131,7 +1131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711333@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T133000
 DTEND;TZID=America/Edmonton:20270221T143000
 SUMMARY:Macron Field A (👟 cleats) - RANGERS ATHLETICS 08/09 vs Airdrie 
@@ -1140,8 +1140,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3922\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1151,7 +1151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711335@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270221T133000
 DTEND;TZID=America/Edmonton:20270221T143000
 SUMMARY:Macron Field B (👟 cleats) - CWFC B2009/2008 Green vs CalGlen Cr
@@ -1160,8 +1160,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3923\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1171,7 +1171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711338@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T080000
 DTEND;TZID=America/Edmonton:20270227T090000
 SUMMARY:Macron Field B (👟 cleats) - RWFC Royal West United 08 vs CNEU 2
@@ -1180,8 +1180,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3925\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1191,7 +1191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711340@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T091500
 DTEND;TZID=America/Edmonton:20270227T101500
 SUMMARY:Macron Field B (👟 cleats) - Airdrie F.C. Union 09/10 vs RANGERS
@@ -1200,8 +1200,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3926\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1211,7 +1211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711341@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T103000
 DTEND;TZID=America/Edmonton:20270227T113000
 SUMMARY:Macron Field B (👟 cleats) - CWFC B2009/2008 Green vs Blizzard U
@@ -1220,8 +1220,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3927\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1231,7 +1231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11711336@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T184500
 DTEND;TZID=America/Edmonton:20270227T194500
 SUMMARY:Macron Field A (👟 cleats) - RANGERS ATHLETICS 08/09 vs Foothill
@@ -1240,8 +1240,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U19 Tier 2 · Game #3924\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934342
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934342
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

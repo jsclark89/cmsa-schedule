@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109031@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T210000
 DTEND;TZID=America/Edmonton:20261101T220000
 SUMMARY:1UP United - Macron Aspen Air (👟 cleats) - Home vs Callies Bhoy
@@ -35,8 +35,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109115@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261109T203000
 DTEND;TZID=America/Edmonton:20261109T213000
 SUMMARY:1UP United - Dome SW (👟 cleats) - Away at Uhuru Centaurs FC 1
@@ -54,8 +54,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109326@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261127T203000
 DTEND;TZID=America/Edmonton:20261127T213000
 SUMMARY:1UP United - Dome NE (👟 cleats) - Away at Rogues
@@ -73,8 +73,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109377@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T203000
 DTEND;TZID=America/Edmonton:20261201T213000
 SUMMARY:1UP United - Dome SW (👟 cleats) - Away at NextGen Academy
@@ -91,8 +91,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109485@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261211T214500
 DTEND;TZID=America/Edmonton:20261211T224500
 SUMMARY:1UP United - Dome NW (👟 cleats) - Home vs Calgary Afghan FC-B
@@ -109,8 +109,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -120,15 +120,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109550@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261216T213000
 DTEND;TZID=America/Edmonton:20261216T223000
 SUMMARY:1UP United - Shane Homes Field 1 - Away at FC Union
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 1\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108178@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270105T203000
 DTEND;TZID=America/Edmonton:20270105T213000
 SUMMARY:1UP United - Dome SE (👟 cleats) - Home vs New West Manor F.C
@@ -145,8 +145,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108285@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270115T204500
 DTEND;TZID=America/Edmonton:20270115T214500
 SUMMARY:1UP United - Macron Boardwalk (👟 cleats) - Home vs Eri Star FC
@@ -164,8 +164,8 @@ LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108401@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270125T214500
 DTEND;TZID=America/Edmonton:20270125T224500
 SUMMARY:1UP United - Dome NW (👟 cleats) - Away at Callies Bhoys Premier
@@ -183,8 +183,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -194,15 +194,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108495@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270202T213000
 DTEND;TZID=America/Edmonton:20270202T223000
 SUMMARY:1UP United - Shane Homes Field 1 - Home vs Uhuru Centaurs FC 1
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 1\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -212,7 +212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108654@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270219T201500
 DTEND;TZID=America/Edmonton:20270219T211500
 SUMMARY:1UP United - Macron Foothills (👟 cleats) - Home vs Rogues
@@ -220,8 +220,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -230,15 +230,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108710@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270224T213000
 DTEND;TZID=America/Edmonton:20270224T223000
 SUMMARY:1UP United - Shane Homes Field 1 - Home vs NextGen Academy
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 1\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -247,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108770@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270301T203000
 DTEND;TZID=America/Edmonton:20270301T213000
 SUMMARY:1UP United - Dome SE (👟 cleats) - Away at Calgary Afghan FC-B
@@ -255,8 +255,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -266,15 +266,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108848@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270309T224500
 DTEND;TZID=America/Edmonton:20270309T234500
 SUMMARY:1UP United - Shane Homes Field 1 - Home vs FC Union
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 1\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108928@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T214500
 DTEND;TZID=America/Edmonton:20270316T224500
 SUMMARY:1UP United - Villains Field 1 (👟 cleats) - Away at New West Man
@@ -291,8 +291,8 @@ SUMMARY:1UP United - Villains Field 1 (👟 cleats) - Away at New West Man
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -302,15 +302,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109011@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T214500
 DTEND;TZID=America/Edmonton:20270324T224500
 SUMMARY:1UP United - Villains Field 1 (👟 cleats) - Away at Eri Star FC
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 1\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418048
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418048
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

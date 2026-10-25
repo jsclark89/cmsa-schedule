@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109039@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261102T203000
 DTEND;TZID=America/Edmonton:20261102T213000
 SUMMARY:Lions - Ship and Anchor - Dome SE (👟 cleats) - Away at El Dorad
@@ -35,8 +35,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109175@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T204500
 DTEND;TZID=America/Edmonton:20261114T214500
 SUMMARY:Lions - Ship and Anchor - Dome NE (👟 cleats) - Away at Neighbou
@@ -55,8 +55,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109223@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
 SUMMARY:Lions - Ship and Anchor - Shane Homes Field 3 - Home vs Vipers D
@@ -74,8 +74,8 @@ SUMMARY:Lions - Ship and Anchor - Shane Homes Field 3 - Home vs Vipers D
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
- le/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ le/#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109286@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T213000
 DTEND;TZID=America/Edmonton:20261124T223000
 SUMMARY:Lions - Ship and Anchor - Shane Homes Field 1 - Home vs FC Unite
@@ -93,8 +93,8 @@ SUMMARY:Lions - Ship and Anchor - Shane Homes Field 1 - Home vs FC Unite
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
- le/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ le/#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109375@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261201T203000
 DTEND;TZID=America/Edmonton:20261201T213000
 SUMMARY:Lions - Ship and Anchor - Dome SE (👟 cleats) - Away at Redstar 
@@ -113,8 +113,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109506@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T220000
 DTEND;TZID=America/Edmonton:20261212T230000
 SUMMARY:Lions - Ship and Anchor - Shouldice Encana SE (👟 cleats) - Home
@@ -133,8 +133,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109535@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261215T221500
 DTEND;TZID=America/Edmonton:20261215T231500
 SUMMARY:Lions - Ship and Anchor - Shouldice Encana SW (👟 cleats) - Home
@@ -153,8 +153,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -164,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108193@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T214500
 DTEND;TZID=America/Edmonton:20270106T224500
 SUMMARY:Lions - Ship and Anchor - Villains Field 1 (👟 cleats) - Away at
@@ -172,8 +172,8 @@ SUMMARY:Lions - Ship and Anchor - Villains Field 1 (👟 cleats) - Away at
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -183,7 +183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108308@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T181500
 DTEND;TZID=America/Edmonton:20270116T191500
 SUMMARY:Lions - Ship and Anchor - Dome SE (👟 cleats) - Away at Eldorado
@@ -192,8 +192,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -203,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108351@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270120T213000
 DTEND;TZID=America/Edmonton:20270120T223000
 SUMMARY:Lions - Ship and Anchor - Shane Homes Field 3 - Home vs Calgary 
@@ -211,8 +211,8 @@ SUMMARY:Lions - Ship and Anchor - Shane Homes Field 3 - Home vs Calgary
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
- le/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ le/#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108412@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T220000
 DTEND;TZID=America/Edmonton:20270126T230000
 SUMMARY:Lions - Ship and Anchor - Shouldice Encana NE (👟 cleats) - Home
@@ -231,8 +231,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108554@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270207T214500
 DTEND;TZID=America/Edmonton:20270207T224500
 SUMMARY:Lions - Ship and Anchor - Shouldice Encana SW (👟 cleats) - Home
@@ -251,8 +251,8 @@ LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -262,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108577@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270209T214500
 DTEND;TZID=America/Edmonton:20270209T224500
 SUMMARY:Lions - Ship and Anchor - Dome NE (👟 cleats) - Away at CFC Dyna
@@ -271,8 +271,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -282,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108633@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
 SUMMARY:Lions - Ship and Anchor - Shane Homes Field 1 - Home vs Callies 
@@ -290,8 +290,8 @@ SUMMARY:Lions - Ship and Anchor - Shane Homes Field 1 - Home vs Callies
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
- le/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ le/#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -301,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108699@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
 SUMMARY:Lions - Ship and Anchor - Dome SW (👟 cleats) - Away at Neighbou
@@ -310,8 +310,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -321,7 +321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108898@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270314T191500
 DTEND;TZID=America/Edmonton:20270314T201500
 SUMMARY:Lions - Ship and Anchor - Dome SE (👟 cleats) - Away at FC Unite
@@ -330,8 +330,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
- /
-URL:https://jsclark89.github.io/cmsa-schedule/
+ /#/team/c418177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

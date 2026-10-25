@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109066@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261104T203000
 DTEND;TZID=America/Edmonton:20261104T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Argent
@@ -34,7 +34,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Argent
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,15 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109128@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
 SUMMARY:Chinooks FC 1974 - Shane Homes Field 1 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -62,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109201@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T203000
 DTEND;TZID=America/Edmonton:20261117T213000
 SUMMARY:Chinooks FC 1974 - Dome NE (👟 cleats) - Home vs Golden Falcons
@@ -70,7 +71,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -80,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109343@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261128T181500
 DTEND;TZID=America/Edmonton:20261128T191500
 SUMMARY:Chinooks FC 1974 - Dome NE (👟 cleats) - Away at Bohemians
@@ -88,7 +90,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -97,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109392@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Andino
@@ -105,7 +108,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Andino
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -115,15 +119,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109465@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
 SUMMARY:Chinooks FC 1974 - Shane Homes Field 4 - Away at Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -133,15 +137,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108189@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
 SUMMARY:Chinooks FC 1974 - Shane Homes Field 2 - Away at Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -150,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108305@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T170000
 DTEND;TZID=America/Edmonton:20270116T180000
 SUMMARY:Chinooks FC 1974 - Dome NE (👟 cleats) - Home vs Napoli D10S
@@ -158,7 +162,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -167,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108419@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 2 (👟 cleats) - Away at Argent
@@ -175,7 +180,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 2 (👟 cleats) - Away at Argent
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -185,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108524@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T204500
 DTEND;TZID=America/Edmonton:20270205T214500
 SUMMARY:Chinooks FC 1974 - Macron Field Safe (👟 cleats) - Home vs Storm
@@ -194,7 +200,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -204,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108594@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T203000
 DTEND;TZID=America/Edmonton:20270210T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Away at Golden
@@ -212,7 +219,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Away at Golden
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108637@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Bohemi
@@ -230,7 +238,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Bohemi
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -240,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108749@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T170000
 DTEND;TZID=America/Edmonton:20270227T180000
 SUMMARY:Chinooks FC 1974 - Dome SE (👟 cleats) - Away at Andinos O45
@@ -248,7 +257,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -257,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108800@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270303T203000
 DTEND;TZID=America/Edmonton:20270303T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Ranger
@@ -265,7 +275,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 1 (👟 cleats) - Home vs Ranger
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -275,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108929@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
 SUMMARY:Chinooks FC 1974 - Villains Field 2 (👟 cleats) - Home vs Blue S
@@ -283,7 +294,8 @@ SUMMARY:Chinooks FC 1974 - Villains Field 2 (👟 cleats) - Home vs Blue S
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ #/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -293,15 +305,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109009@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
 SUMMARY:Chinooks FC 1974 - Shane Homes Field 2 - Away at Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418196
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418196
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

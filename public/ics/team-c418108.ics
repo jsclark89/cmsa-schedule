@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109044@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261103T214500
 DTEND;TZID=America/Edmonton:20261103T224500
 SUMMARY:SC Athletic City U23 - Villains Field 2 (👟 cleats) - Home vs CW
@@ -34,8 +34,8 @@ SUMMARY:SC Athletic City U23 - Villains Field 2 (👟 cleats) - Home vs CW
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109103@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261109T220000
 DTEND;TZID=America/Edmonton:20261109T230000
 SUMMARY:SC Athletic City U23 - Shouldice Encana SE (👟 cleats) - Away at
@@ -54,8 +54,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109192@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T214500
 DTEND;TZID=America/Edmonton:20261117T224500
 SUMMARY:SC Athletic City U23 - Dome SW (👟 cleats) - Home vs Calgary Vil
@@ -74,8 +74,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -85,15 +85,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109280@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261124T213000
 DTEND;TZID=America/Edmonton:20261124T223000
 SUMMARY:SC Athletic City U23 - Shane Homes Field 3 - Away at FC Wizards
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109351@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261130T203000
 DTEND;TZID=America/Edmonton:20261130T213000
 SUMMARY:SC Athletic City U23 - Dome SE (👟 cleats) - Home vs Richmond's 
@@ -112,8 +112,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109475@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261211T214500
 DTEND;TZID=America/Edmonton:20261211T224500
 SUMMARY:SC Athletic City U23 - Dome SE (👟 cleats) - Away at Eldorado Ki
@@ -132,8 +132,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108164@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270104T213000
 DTEND;TZID=America/Edmonton:20270104T223000
 SUMMARY:SC Athletic City U23 - Macron Foothills (👟 cleats) - Away at Fo
@@ -152,8 +152,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -163,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108246@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270112T214500
 DTEND;TZID=America/Edmonton:20270112T224500
 SUMMARY:SC Athletic City U23 - Villains Field 2 (👟 cleats) - Home vs Al
@@ -171,8 +171,8 @@ SUMMARY:SC Athletic City U23 - Villains Field 2 (👟 cleats) - Home vs Al
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -182,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108322@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270119T221500
 DTEND;TZID=America/Edmonton:20270119T231500
 SUMMARY:SC Athletic City U23 - Shouldice Encana NE (👟 cleats) - Away at
@@ -191,8 +191,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -202,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108421@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270127T213000
 DTEND;TZID=America/Edmonton:20270127T223000
 SUMMARY:SC Athletic City U23 - Macron Foothills (👟 cleats) - Home vs Bl
@@ -211,8 +211,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -222,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108515@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270205T214500
 DTEND;TZID=America/Edmonton:20270205T224500
 SUMMARY:SC Athletic City U23 - Dome SW (👟 cleats) - Away at Calgary Vil
@@ -231,8 +231,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108556@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270208T214500
 DTEND;TZID=America/Edmonton:20270208T224500
 SUMMARY:SC Athletic City U23 - Dome SE (👟 cleats) - Home vs Foothills F
@@ -251,8 +251,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -262,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108737@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T204500
 DTEND;TZID=America/Edmonton:20270227T214500
 SUMMARY:SC Athletic City U23 - Dome NE (👟 cleats) - Home vs FC Wizards
@@ -270,8 +270,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -281,7 +281,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108816@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270307T213000
 DTEND;TZID=America/Edmonton:20270307T223000
 SUMMARY:SC Athletic City U23 - Macron Foothills (👟 cleats) - Away at Al
@@ -290,8 +290,8 @@ LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -301,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108857@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
 SUMMARY:SC Athletic City U23 - Macron Aspen Air (👟 cleats) - Away at Ri
@@ -310,8 +310,8 @@ LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -321,7 +321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108914@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270316T214500
 DTEND;TZID=America/Edmonton:20270316T224500
 SUMMARY:SC Athletic City U23 - Dome SW (👟 cleats) - Home vs Eldorado Ki
@@ -330,8 +330,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418108
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418108
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

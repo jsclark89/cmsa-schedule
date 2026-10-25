@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109086@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T181500
 DTEND;TZID=America/Edmonton:20261107T191500
 SUMMARY:Shambles FC - Dome SW (👟 cleats) - Home vs Inter Cairo FC
@@ -34,8 +34,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109120@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
 SUMMARY:Shambles FC - Dome SW (👟 cleats) - Away at YYC UNITED
@@ -52,8 +52,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -62,15 +62,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109194@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
 SUMMARY:Shambles FC - Shane Homes Field 4 - Home vs Maggum fc
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109337@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261128T170000
 DTEND;TZID=America/Edmonton:20261128T180000
 SUMMARY:Shambles FC - Dome NE (👟 cleats) - Away at Villains Alumni 2
@@ -87,8 +87,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109490@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
 SUMMARY:Shambles FC - Dome SE (👟 cleats) - Away at Rivals FC Calgary
@@ -106,8 +106,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109512@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261214T220000
 DTEND;TZID=America/Edmonton:20261214T230000
 SUMMARY:Shambles FC - Shouldice Encana NE (👟 cleats) - Away at Leones F
@@ -126,8 +126,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108213@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T181500
 DTEND;TZID=America/Edmonton:20270109T191500
 SUMMARY:Shambles FC - Dome SW (👟 cleats) - Home vs Frauds FC
@@ -145,8 +145,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108263@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270113T220000
 DTEND;TZID=America/Edmonton:20270113T230000
 SUMMARY:Shambles FC - Shouldice Encana NE (👟 cleats) - Away at DULARI F
@@ -164,8 +164,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108314@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270118T220000
 DTEND;TZID=America/Edmonton:20270118T230000
 SUMMARY:Shambles FC - Shouldice Encana SE (👟 cleats) - Home vs Leones F
@@ -184,8 +184,8 @@ LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -195,7 +195,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108359@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270122T220000
 DTEND;TZID=America/Edmonton:20270122T230000
 SUMMARY:Shambles FC - Macron Field Safe (👟 cleats) - Away at Bolby Cird
@@ -204,8 +204,8 @@ LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108392@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270125T220000
 DTEND;TZID=America/Edmonton:20270125T230000
 SUMMARY:Shambles FC - Shouldice Encana NE (👟 cleats) - Home vs Uhuru Ce
@@ -224,8 +224,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -235,15 +235,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108502@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270203T213000
 DTEND;TZID=America/Edmonton:20270203T223000
 SUMMARY:Shambles FC - Shane Homes Field 1 - Away at Inter Cairo FC
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -252,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108587@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270210T220000
 DTEND;TZID=America/Edmonton:20270210T230000
 SUMMARY:Shambles FC - Shouldice Encana NE (👟 cleats) - Home vs YYC UNIT
@@ -261,8 +261,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -272,7 +272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108613@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270216T220000
 DTEND;TZID=America/Edmonton:20270216T230000
 SUMMARY:Shambles FC - Shouldice Encana NE (👟 cleats) - Away at Maggum f
@@ -281,8 +281,8 @@ LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -292,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108742@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T181500
 DTEND;TZID=America/Edmonton:20270227T191500
 SUMMARY:Shambles FC - Dome SW (👟 cleats) - Home vs Villains Alumni 2
@@ -300,8 +300,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ e/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -311,15 +311,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109003@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
 SUMMARY:Shambles FC - Shane Homes Field 3 - Home vs Rivals FC Calgary
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
- ule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ule/#/team/c418130
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418130
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

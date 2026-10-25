@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11710901@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261025T193000
 DTEND;TZID=America/Edmonton:20261025T203000
 SUMMARY:Shane Homes Field 4 - Blizzard Sporting 11 Boys vs Villains Wolv
@@ -34,8 +34,8 @@ SUMMARY:Shane Homes Field 4 - Blizzard Sporting 11 Boys vs Villains Wolv
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3544\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -45,15 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710898@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261025T204500
 DTEND;TZID=America/Edmonton:20261025T214500
 SUMMARY:Shane Homes Field 3 - MUSC Royals 11 vs Foothills Warriors
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3543\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710903@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261025T204500
 DTEND;TZID=America/Edmonton:20261025T214500
 SUMMARY:Shane Homes Field 4 - Rockies Flamengo 10/11 vs Foothills Knight
@@ -70,8 +70,8 @@ SUMMARY:Shane Homes Field 4 - Rockies Flamengo 10/11 vs Foothills Knight
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3545\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710905@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T103000
 DTEND;TZID=America/Edmonton:20261101T113000
 SUMMARY:Macron Field D (👟 cleats) - Foothills Warriors vs CNS U16B Falc
@@ -90,8 +90,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3546\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710907@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T114500
 DTEND;TZID=America/Edmonton:20261101T124500
 SUMMARY:Macron Field D (👟 cleats) - Foothills Knights 2011 vs Blizzard 
@@ -110,8 +110,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3547\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -121,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710909@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261101T141500
 DTEND;TZID=America/Edmonton:20261101T151500
 SUMMARY:Dome SE (👟 cleats) - Villains Wolves 11 vs MUSC Royals 11
@@ -129,8 +129,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3548\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -139,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710912@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
 SUMMARY:Dome NE (👟 cleats) - Foothills Warriors vs Villains Wolves 11
@@ -147,8 +147,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3549\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -158,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710914@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T141500
 DTEND;TZID=America/Edmonton:20261108T151500
 SUMMARY:Dome NE (👟 cleats) - MUSC Royals 11 vs Foothills Knights 2011
@@ -166,8 +166,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3550\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -177,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710915@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261108T180000
 DTEND;TZID=America/Edmonton:20261108T190000
 SUMMARY:Shane Homes Field 1 - CNS U16B Falcons 11 vs Rockies Flamengo 10
@@ -185,8 +185,8 @@ SUMMARY:Shane Homes Field 1 - CNS U16B Falcons 11 vs Rockies Flamengo 10
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3551\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -196,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710917@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T181500
 DTEND;TZID=America/Edmonton:20261115T191500
 SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Rockies Flame
@@ -204,8 +204,8 @@ SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Rockies Flame
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3552\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710919@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T193000
 DTEND;TZID=America/Edmonton:20261115T203000
 SUMMARY:Shane Homes Field 3 - Foothills Knights 2011 vs Foothills Warrio
@@ -223,8 +223,8 @@ SUMMARY:Shane Homes Field 3 - Foothills Knights 2011 vs Foothills Warrio
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3553\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -234,15 +234,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710922@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261115T204500
 DTEND;TZID=America/Edmonton:20261115T214500
 SUMMARY:Shane Homes Field 3 - Villains Wolves 11 vs CNS U16B Falcons 11
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3554\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -252,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710927@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T164500
 DTEND;TZID=America/Edmonton:20261122T174500
 SUMMARY:Shouldice #03/SE (👟 cleats) - CNS U16B Falcons 11 vs Blizzard S
@@ -261,8 +261,8 @@ LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3555\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -272,15 +272,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710923@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T193000
 DTEND;TZID=America/Edmonton:20261122T203000
 SUMMARY:Shane Homes Field 2 - Rockies Flamengo 10/11 vs MUSC Royals 11
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3556\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -290,7 +290,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710925@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261122T204500
 DTEND;TZID=America/Edmonton:20261122T214500
 SUMMARY:Shane Homes Field 2 - Foothills Knights 2011 vs Villains Wolves 
@@ -298,8 +298,8 @@ SUMMARY:Shane Homes Field 2 - Foothills Knights 2011 vs Villains Wolves
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3557\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710930@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
 SUMMARY:Dome NE (👟 cleats) - CNS U16B Falcons 11 vs Foothills Knights 2
@@ -318,8 +318,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3558\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -329,7 +329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710931@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T091500
 DTEND;TZID=America/Edmonton:20261129T101500
 SUMMARY:Dome NE (👟 cleats) - Foothills Warriors vs Rockies Flamengo 10/
@@ -338,8 +338,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3559\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -349,7 +349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710933@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261129T204500
 DTEND;TZID=America/Edmonton:20261129T214500
 SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs MUSC Royals 1
@@ -357,8 +357,8 @@ SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs MUSC Royals 1
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3560\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -368,7 +368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710934@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T180000
 DTEND;TZID=America/Edmonton:20261206T190000
 SUMMARY:Shouldice #04/NE (👟 cleats) - MUSC Royals 11 vs CNS U16B Falcon
@@ -377,8 +377,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3561\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -388,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710937@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T191500
 DTEND;TZID=America/Edmonton:20261206T201500
 SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Flamengo 10/11 vs Villain
@@ -397,8 +397,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3562\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -408,7 +408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710939@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261206T203000
 DTEND;TZID=America/Edmonton:20261206T213000
 SUMMARY:Shouldice #04/NE (👟 cleats) - Blizzard Sporting 11 Boys vs Foot
@@ -417,8 +417,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3563\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -428,7 +428,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710941@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T080000
 DTEND;TZID=America/Edmonton:20261212T090000
 SUMMARY:Macron Field A (👟 cleats) - Foothills Warriors vs MUSC Royals 1
@@ -437,8 +437,8 @@ LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3564\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -448,7 +448,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710944@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T114500
 DTEND;TZID=America/Edmonton:20261212T124500
 SUMMARY:Dome NW (👟 cleats) - Villains Wolves 11 vs Blizzard Sporting 11
@@ -457,8 +457,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3566\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -468,7 +468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710942@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261212T130000
 DTEND;TZID=America/Edmonton:20261212T140000
 SUMMARY:Macron Field B (👟 cleats) - Foothills Knights 2011 vs Rockies F
@@ -477,8 +477,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3565\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -488,15 +488,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710947@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261220T130000
 DTEND;TZID=America/Edmonton:20261220T140000
 SUMMARY:Shane Homes Field 3 - MUSC Royals 11 vs Villains Wolves 11
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3567\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -505,15 +505,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710948@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261220T141500
 DTEND;TZID=America/Edmonton:20261220T151500
 SUMMARY:Shane Homes Field 3 - CNS U16B Falcons 11 vs Foothills Warriors
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3568\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -523,7 +523,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710950@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261220T153000
 DTEND;TZID=America/Edmonton:20261220T163000
 SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Foothills Kni
@@ -531,8 +531,8 @@ SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Foothills Kni
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3569\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -542,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710952@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270103T183000
 DTEND;TZID=America/Edmonton:20270103T193000
 SUMMARY:Dome SE (👟 cleats) - Foothills Knights 2011 vs MUSC Royals 11
@@ -550,8 +550,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3570\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -561,7 +561,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710954@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270103T194500
 DTEND;TZID=America/Edmonton:20270103T204500
 SUMMARY:Dome SE (👟 cleats) - Villains Wolves 11 vs Foothills Warriors
@@ -569,8 +569,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3571\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -580,7 +580,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710957@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270103T210000
 DTEND;TZID=America/Edmonton:20270103T220000
 SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Flamengo 10/11 vs CNS U16
@@ -589,8 +589,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3572\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -600,7 +600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710960@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T083000
 DTEND;TZID=America/Edmonton:20270109T093000
 SUMMARY:Shouldice #01/NW (👟 cleats) - CNS U16B Falcons 11 vs Villains W
@@ -609,8 +609,8 @@ LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3574\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -620,7 +620,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710963@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T083000
 DTEND;TZID=America/Edmonton:20270109T093000
 SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Flamengo 10/11 vs Blizzar
@@ -629,8 +629,8 @@ LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3575\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -640,7 +640,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710959@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T153000
 DTEND;TZID=America/Edmonton:20270109T163000
 SUMMARY:Dome NW (👟 cleats) - Foothills Warriors vs Foothills Knights 20
@@ -649,8 +649,8 @@ LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3573\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -660,7 +660,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710965@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T144500
 DTEND;TZID=America/Edmonton:20270116T154500
 SUMMARY:Macron Field D (👟 cleats) - Blizzard Sporting 11 Boys vs CNS U1
@@ -669,8 +669,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3576\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -680,7 +680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710966@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T160000
 DTEND;TZID=America/Edmonton:20270116T170000
 SUMMARY:Macron Field D (👟 cleats) - MUSC Royals 11 vs Rockies Flamengo 
@@ -689,8 +689,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3577\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -700,7 +700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710969@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270116T171500
 DTEND;TZID=America/Edmonton:20270116T181500
 SUMMARY:Macron Field D (👟 cleats) - Villains Wolves 11 vs Foothills Kni
@@ -709,8 +709,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3578\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -720,7 +720,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710971@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270123T141500
 DTEND;TZID=America/Edmonton:20270123T151500
 SUMMARY:Macron Field B (👟 cleats) - Foothills Knights 2011 vs CNS U16B 
@@ -729,8 +729,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3579\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -740,7 +740,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710973@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270123T153000
 DTEND;TZID=America/Edmonton:20270123T163000
 SUMMARY:Macron Field B (👟 cleats) - MUSC Royals 11 vs Blizzard Sporting
@@ -749,8 +749,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3580\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -760,7 +760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710974@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270123T164500
 DTEND;TZID=America/Edmonton:20270123T174500
 SUMMARY:Macron Field B (👟 cleats) - Rockies Flamengo 10/11 vs Foothills
@@ -769,8 +769,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3581\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -780,7 +780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710977@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T130000
 DTEND;TZID=America/Edmonton:20270130T140000
 SUMMARY:Macron Field B (👟 cleats) - Foothills Warriors vs Blizzard Spor
@@ -789,8 +789,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3582\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -800,7 +800,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710979@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T141500
 DTEND;TZID=America/Edmonton:20270130T151500
 SUMMARY:Macron Field B (👟 cleats) - CNS U16B Falcons 11 vs MUSC Royals 
@@ -809,8 +809,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3583\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -820,7 +820,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710980@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T153000
 DTEND;TZID=America/Edmonton:20270130T163000
 SUMMARY:Macron Field B (👟 cleats) - Villains Wolves 11 vs Rockies Flame
@@ -829,8 +829,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3584\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -840,7 +840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710985@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T163000
 DTEND;TZID=America/Edmonton:20270206T173000
 SUMMARY:Shane Homes Field 4 - Rockies Flamengo 10/11 vs Foothills Knight
@@ -848,8 +848,8 @@ SUMMARY:Shane Homes Field 4 - Rockies Flamengo 10/11 vs Foothills Knight
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3586\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -859,7 +859,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710983@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T174500
 DTEND;TZID=America/Edmonton:20270206T184500
 SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Villains Wolv
@@ -867,8 +867,8 @@ SUMMARY:Shane Homes Field 3 - Blizzard Sporting 11 Boys vs Villains Wolv
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3585\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -878,15 +878,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710986@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T174500
 DTEND;TZID=America/Edmonton:20270206T184500
 SUMMARY:Shane Homes Field 4 - MUSC Royals 11 vs Foothills Warriors
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U16 Tier 4 · Game #3587\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ thub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -895,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710990@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T163000
 DTEND;TZID=America/Edmonton:20270220T173000
 SUMMARY:Macron Field D (👟 cleats) - Villains Wolves 11 vs MUSC Royals 1
@@ -904,8 +904,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3589\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -915,7 +915,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710993@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T174500
 DTEND;TZID=America/Edmonton:20270220T184500
 SUMMARY:Macron Field D (👟 cleats) - Foothills Warriors vs CNS U16B Falc
@@ -924,8 +924,8 @@ LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3590\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -935,7 +935,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710988@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T180000
 DTEND;TZID=America/Edmonton:20270220T190000
 SUMMARY:Macron Field B (👟 cleats) - Foothills Knights 2011 vs Blizzard 
@@ -944,8 +944,8 @@ LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3588\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -955,7 +955,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710995@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270227T203000
 DTEND;TZID=America/Edmonton:20270227T213000
 SUMMARY:Shouldice #03/SE (👟 cleats) - CNS U16B Falcons 11 vs Rockies Fl
@@ -964,8 +964,8 @@ LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U16 Tier 4 · Game #3591\nSchedule: https://jsclark89.gith
- ub.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ ub.io/cmsa-schedule/#/division/116934336
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/116934336
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M

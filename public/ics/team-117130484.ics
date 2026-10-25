@@ -26,15 +26,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707273@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261017T091500
 DTEND;TZID=America/Edmonton:20261017T101500
 SUMMARY:U10 Rockies AFC - Shane Homes Field 2 - Home vs MUSC Wolves 17
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev Plus+ KERR · Game #356\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ rk89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707277@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261024T080000
 DTEND;TZID=America/Edmonton:20261024T090000
 SUMMARY:U10 Rockies AFC - Main West (👟 indoor) - Away at Foothills Benf
@@ -53,8 +53,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #360\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707290@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261107T100000
 DTEND;TZID=America/Edmonton:20261107T110000
 SUMMARY:U10 Rockies AFC - Villains Field A (👟 cleats) - Away at CNEU 20
@@ -73,8 +73,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #373\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707297@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261114T090000
 DTEND;TZID=America/Edmonton:20261114T100000
 SUMMARY:U10 Rockies AFC - Main West (👟 indoor) - Home vs CalGlen Cavalr
@@ -93,8 +93,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #380\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707306@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261121T110000
 DTEND;TZID=America/Edmonton:20261121T120000
 SUMMARY:U10 Rockies AFC - Main West (👟 indoor) - Away at CUFC Avengers 
@@ -113,8 +113,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #389\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707315@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261128T100000
 DTEND;TZID=America/Edmonton:20261128T110000
 SUMMARY:U10 Rockies AFC - Villains Field A (👟 cleats) - Home vs Villain
@@ -133,8 +133,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #398\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707318@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261205T150000
 DTEND;TZID=America/Edmonton:20261205T160000
 SUMMARY:U10 Rockies AFC - Annex Alpha (👟 indoor) - Away at Blizzard All
@@ -153,8 +153,8 @@ LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #401\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -164,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707328@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20261219T100000
 DTEND;TZID=America/Edmonton:20261219T110000
 SUMMARY:U10 Rockies AFC - Villains Field A (👟 cleats) - Home vs SWU Juv
@@ -173,8 +173,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #411\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -184,7 +184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707337@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270102T160000
 DTEND;TZID=America/Edmonton:20270102T170000
 SUMMARY:U10 Rockies AFC - Annex Bravo (👟 indoor) - Away at Foothills PS
@@ -193,8 +193,8 @@ LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #420\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -204,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707345@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270109T090000
 DTEND;TZID=America/Edmonton:20270109T100000
 SUMMARY:U10 Rockies AFC - Main West (👟 indoor) - Home vs New Frontier S
@@ -213,8 +213,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #428\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -224,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707349@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270123T100000
 DTEND;TZID=America/Edmonton:20270123T110000
 SUMMARY:U10 Rockies AFC - Main East (👟 indoor) - Away at Foothills Lazi
@@ -233,8 +233,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #432\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -244,7 +244,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707359@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270130T110000
 DTEND;TZID=America/Edmonton:20270130T120000
 SUMMARY:U10 Rockies AFC - Main West (👟 indoor) - Home vs RANGERS FC17 Y
@@ -253,8 +253,8 @@ LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #442\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -264,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707370@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270206T150000
 DTEND;TZID=America/Edmonton:20270206T160000
 SUMMARY:U10 Rockies AFC - Villains Field A (👟 cleats) - Away at Chinook
@@ -273,8 +273,8 @@ LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nBoys U10 Dev Plus+ KERR · Game #453\nSchedule: https://jsclark
- 89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ 89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -284,7 +284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707377@cmsa-schedule
-DTSTAMP:20261025T210727Z
+DTSTAMP:20261025T220340Z
 DTSTART;TZID=America/Edmonton:20270220T130000
 DTEND;TZID=America/Edmonton:20270220T140000
 SUMMARY:U10 Rockies AFC - Main East (👟 indoor) - Home vs Villains FC 17
@@ -292,8 +292,8 @@ LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
  )\nSurface: Carpet\nBoys U10 Dev Plus+ KERR · Game #460\nSchedule: http
- s://jsclark89.github.io/cmsa-schedule/
-URL:https://jsclark89.github.io/cmsa-schedule/
+ s://jsclark89.github.io/cmsa-schedule/#/team/117130484
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130484
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
