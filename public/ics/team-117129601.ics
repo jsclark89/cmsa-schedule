@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709829@cmsa-schedule
-DTSTAMP:20261025T162030Z
+DTSTAMP:20261025T205211Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
 SUMMARY:⚽ Blizzard Albion 14 Boys at LSCA B PSG 2014 · MSC Dome NE 7v7 ·
@@ -42,6 +42,23 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:⚽ Blizzard Albion 14 Boys at LSCA B PSG 2014 · MSC Dome NE 7
  v7 · Cleats
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709852@cmsa-schedule
+DTSTAMP:20261025T205211Z
+DTSTART;TZID=America/Edmonton:20261024T153000
+DTEND;TZID=America/Edmonton:20261024T163000
+SUMMARY:⚽ Blizzard Albion 14 Boys vs RANGERS ROYALS 14 · Field 4 7v7
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2179\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/
+URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:⚽ Blizzard Albion 14 Boys vs RANGERS ROYALS 14 · Field 4 7v7
 END:VALARM
 END:VEVENT
 END:VCALENDAR
