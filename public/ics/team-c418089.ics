@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109046@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261103T203000
 DTEND;TZID=America/Edmonton:20261103T213000
-SUMMARY:⚽ Rockies vs FC Tryzub UA · MSC Dome NW · Cleats
+SUMMARY:Rockies - Dome NW (👟 cleats) - Home vs FC Tryzub UA
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs FC Tryzub UA · MSC Dome NW · Cleats
+DESCRIPTION:Rockies - Dome NW (👟 cleats) - Home vs FC Tryzub UA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109109@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261109T220000
 DTEND;TZID=America/Edmonton:20261109T230000
-SUMMARY:⚽ Rockies vs Rangers United · Encana NW · Cleats
+SUMMARY:Rockies - Shouldice Encana NW (👟 cleats) - Home vs Rangers Unit
+ ed
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +58,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs Rangers United · Encana NW · Cleats
+DESCRIPTION:Rockies - Shouldice Encana NW (👟 cleats) - Home vs Rangers 
+ United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109298@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T214500
 DTEND;TZID=America/Edmonton:20261125T224500
-SUMMARY:⚽ Rockies at Unc City FC · MSC Dome SW · Cleats
+SUMMARY:Rockies - Dome SW (👟 cleats) - Away at Unc City FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,15 +77,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at Unc City FC · MSC Dome SW · Cleats
+DESCRIPTION:Rockies - Dome SW (👟 cleats) - Away at Unc City FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109359@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261130T214500
 DTEND;TZID=America/Edmonton:20261130T224500
-SUMMARY:⚽ Rockies at FK Radnicki Kalgari · MSC Dome NE · Cleats
+SUMMARY:Rockies - Dome NE (👟 cleats) - Away at FK Radnicki Kalgari
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -93,15 +95,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at FK Radnicki Kalgari · MSC Dome NE · Cleats
+DESCRIPTION:Rockies - Dome NE (👟 cleats) - Away at FK Radnicki Kalgari
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109445@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261208T203000
 DTEND;TZID=America/Edmonton:20261208T213000
-SUMMARY:⚽ Rockies at Real Sasquatch SC · Field 2 · Cleats
+SUMMARY:Rockies - Villains Field 2 (👟 cleats) - Away at Real Sasquatch 
+ SC
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -110,15 +113,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at Real Sasquatch SC · Field 2 · Cleats
+DESCRIPTION:Rockies - Villains Field 2 (👟 cleats) - Away at Real Sasqua
+ tch SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109559@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261217T221500
 DTEND;TZID=America/Edmonton:20261217T231500
-SUMMARY:⚽ Rockies at New Western Motors · Encana SW · Cleats
+SUMMARY:Rockies - Shouldice Encana SW (👟 cleats) - Away at New Western 
+ Motors
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -128,15 +133,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at New Western Motors · Encana SW · Cleats
+DESCRIPTION:Rockies - Shouldice Encana SW (👟 cleats) - Away at New West
+ ern Motors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108205@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T214500
 DTEND;TZID=America/Edmonton:20270108T224500
-SUMMARY:⚽ Rockies vs Olimpico · MSC Dome SE · Cleats
+SUMMARY:Rockies - Dome SE (👟 cleats) - Home vs Olimpico
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -146,15 +152,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs Olimpico · MSC Dome SE · Cleats
+DESCRIPTION:Rockies - Dome SE (👟 cleats) - Home vs Olimpico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108304@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T204500
 DTEND;TZID=America/Edmonton:20270116T214500
-SUMMARY:⚽ Rockies vs Titans FC · MSC Dome NW · Cleats
+SUMMARY:Rockies - Dome NW (👟 cleats) - Home vs Titans FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -164,15 +170,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs Titans FC · MSC Dome NW · Cleats
+DESCRIPTION:Rockies - Dome NW (👟 cleats) - Home vs Titans FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108356@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270121T220000
 DTEND;TZID=America/Edmonton:20270121T230000
-SUMMARY:⚽ Rockies at FC Tryzub UA · Encana SE · Cleats
+SUMMARY:Rockies - Shouldice Encana SE (👟 cleats) - Away at FC Tryzub UA
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -182,15 +188,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at FC Tryzub UA · Encana SE · Cleats
+DESCRIPTION:Rockies - Shouldice Encana SE (👟 cleats) - Away at FC Tryzu
+ b UA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108490@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270202T213000
 DTEND;TZID=America/Edmonton:20270202T223000
-SUMMARY:⚽ Rockies vs Real Sasquatch SC · Field 3
+SUMMARY:Rockies - Shane Homes Field 3 - Home vs Real Sasquatch SC
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 3\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -199,15 +206,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs Real Sasquatch SC · Field 3
+DESCRIPTION:Rockies - Shane Homes Field 3 - Home vs Real Sasquatch SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108642@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270218T221500
 DTEND;TZID=America/Edmonton:20270218T231500
-SUMMARY:⚽ Rockies vs Unc City FC · Encana SE · Cleats
+SUMMARY:Rockies - Shouldice Encana SE (👟 cleats) - Home vs Unc City FC
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -217,15 +224,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs Unc City FC · Encana SE · Cleats
+DESCRIPTION:Rockies - Shouldice Encana SE (👟 cleats) - Home vs Unc City
+  FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108689@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
-SUMMARY:⚽ Rockies vs FK Radnicki Kalgari · Field 1 · Cleats
+SUMMARY:Rockies - Villains Field 1 (👟 cleats) - Home vs FK Radnicki Kal
+ gari
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -234,15 +243,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs FK Radnicki Kalgari · Field 1 · Cleats
+DESCRIPTION:Rockies - Villains Field 1 (👟 cleats) - Home vs FK Radnicki
+  Kalgari
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108767@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270301T220000
 DTEND;TZID=America/Edmonton:20270301T230000
-SUMMARY:⚽ Rockies at Rangers United · Encana NE · Cleats
+SUMMARY:Rockies - Shouldice Encana NE (👟 cleats) - Away at Rangers Unit
+ ed
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -252,15 +263,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at Rangers United · Encana NE · Cleats
+DESCRIPTION:Rockies - Shouldice Encana NE (👟 cleats) - Away at Rangers 
+ United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108890@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270314T194500
 DTEND;TZID=America/Edmonton:20270314T204500
-SUMMARY:⚽ Rockies vs New Western Motors · Encana SW · Cleats
+SUMMARY:Rockies - Shouldice Encana SW (👟 cleats) - Home vs New Western 
+ Motors
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -270,15 +283,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies vs New Western Motors · Encana SW · Cleats
+DESCRIPTION:Rockies - Shouldice Encana SW (👟 cleats) - Home vs New West
+ ern Motors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108938@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T221500
 DTEND;TZID=America/Edmonton:20270317T231500
-SUMMARY:⚽ Rockies at Olimpico · Encana SW · Cleats
+SUMMARY:Rockies - Shouldice Encana SW (👟 cleats) - Away at Olimpico
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -288,15 +302,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at Olimpico · Encana SW · Cleats
+DESCRIPTION:Rockies - Shouldice Encana SW (👟 cleats) - Away at Olimpico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108992@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T203000
 DTEND;TZID=America/Edmonton:20270323T213000
-SUMMARY:⚽ Rockies at Titans FC · MSC Dome SW · Cleats
+SUMMARY:Rockies - Dome SW (👟 cleats) - Away at Titans FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -306,7 +320,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies at Titans FC · MSC Dome SW · Cleats
+DESCRIPTION:Rockies - Dome SW (👟 cleats) - Away at Titans FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,11 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109079@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T214500
 DTEND;TZID=America/Edmonton:20261106T224500
-SUMMARY:⚽ Kingsmen FC vs New West Manor F.C Reserves · MSC Dome SW · Cle
- ats
+SUMMARY:Kingsmen FC - Dome SW (👟 cleats) - Home vs New West Manor F.C R
+ eserves
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -40,16 +40,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs New West Manor F.C Reserves · MSC Dome SW ·
-  Cleats
+DESCRIPTION:Kingsmen FC - Dome SW (👟 cleats) - Home vs New West Manor F
+ .C Reserves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109151@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261113T220000
 DTEND;TZID=America/Edmonton:20261113T230000
-SUMMARY:⚽ Kingsmen FC at C-Town FC · Field Safe · Cleats
+SUMMARY:Kingsmen FC - Macron Field Safe (👟 cleats) - Away at C-Town FC
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -59,15 +59,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at C-Town FC · Field Safe · Cleats
+DESCRIPTION:Kingsmen FC - Macron Field Safe (👟 cleats) - Away at C-Town
+  FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109216@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261118T214500
 DTEND;TZID=America/Edmonton:20261118T224500
-SUMMARY:⚽ Kingsmen FC vs Airdrie United 1 · Field 1 · Cleats
+SUMMARY:Kingsmen FC - Villains Field 1 (👟 cleats) - Home vs Airdrie Uni
+ ted 1
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -76,15 +78,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs Airdrie United 1 · Field 1 · Cleats
+DESCRIPTION:Kingsmen FC - Villains Field 1 (👟 cleats) - Home vs Airdrie
+  United 1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109277@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261123T214500
 DTEND;TZID=America/Edmonton:20261123T224500
-SUMMARY:⚽ Kingsmen FC at Bordo Turks FC · MSC Dome NE · Cleats
+SUMMARY:Kingsmen FC - Dome NE (👟 cleats) - Away at Bordo Turks FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -94,15 +97,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at Bordo Turks FC · MSC Dome NE · Cleats
+DESCRIPTION:Kingsmen FC - Dome NE (👟 cleats) - Away at Bordo Turks FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109407@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261204T203000
 DTEND;TZID=America/Edmonton:20261204T213000
-SUMMARY:⚽ Kingsmen FC vs FC United Juniors · MSC Dome NE · Cleats
+SUMMARY:Kingsmen FC - Dome NE (👟 cleats) - Home vs FC United Juniors
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -112,70 +115,73 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs FC United Juniors · MSC Dome NE · Cleats
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-c2109440@cmsa-schedule
-DTSTAMP:20261025T205211Z
-DTSTART;TZID=America/Edmonton:20261208T214500
-DTEND;TZID=America/Edmonton:20261208T224500
-SUMMARY:⚽ Kingsmen FC at Worldwide FC · MSC Dome SW · Cleats
-LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
- lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at Worldwide FC · MSC Dome SW · Cleats
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-c2108174@cmsa-schedule
-DTSTAMP:20261025T205211Z
-DTSTART;TZID=America/Edmonton:20270105T214500
-DTEND;TZID=America/Edmonton:20270105T224500
-SUMMARY:⚽ Kingsmen FC at Avalanche FC1 · MSC Dome SW · Cleats
-LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
- lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at Avalanche FC1 · MSC Dome SW · Cleats
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-c2108301@cmsa-schedule
-DTSTAMP:20261025T205211Z
-DTSTART;TZID=America/Edmonton:20270116T204500
-DTEND;TZID=America/Edmonton:20270116T214500
-SUMMARY:⚽ Kingsmen FC vs Neighbourhoods United · MSC Dome NE · Cleats
-LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
- lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/
-URL:https://jsclark89.github.io/cmsa-schedule/
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs Neighbourhoods United · MSC Dome NE · Cleat
+DESCRIPTION:Kingsmen FC - Dome NE (👟 cleats) - Home vs FC United Junior
  s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-c2109440@cmsa-schedule
+DTSTAMP:20261025T210727Z
+DTSTART;TZID=America/Edmonton:20261208T214500
+DTEND;TZID=America/Edmonton:20261208T224500
+SUMMARY:Kingsmen FC - Dome SW (👟 cleats) - Away at Worldwide FC
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
+ e/
+URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Kingsmen FC - Dome SW (👟 cleats) - Away at Worldwide FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108174@cmsa-schedule
+DTSTAMP:20261025T210727Z
+DTSTART;TZID=America/Edmonton:20270105T214500
+DTEND;TZID=America/Edmonton:20270105T224500
+SUMMARY:Kingsmen FC - Dome SW (👟 cleats) - Away at Avalanche FC1
+LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
+ e/
+URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Kingsmen FC - Dome SW (👟 cleats) - Away at Avalanche FC1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-c2108301@cmsa-schedule
+DTSTAMP:20261025T210727Z
+DTSTART;TZID=America/Edmonton:20270116T204500
+DTEND;TZID=America/Edmonton:20270116T214500
+SUMMARY:Kingsmen FC - Dome NE (👟 cleats) - Home vs Neighbourhoods Unite
+ d
+LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
+ lgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
+ e/
+URL:https://jsclark89.github.io/cmsa-schedule/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Kingsmen FC - Dome NE (👟 cleats) - Home vs Neighbourhoods U
+ nited
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-c2108345@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270120T203000
 DTEND;TZID=America/Edmonton:20270120T213000
-SUMMARY:⚽ Kingsmen FC at New West Manor F.C Reserves · Field 2 · Cleats
+SUMMARY:Kingsmen FC - Villains Field 2 (👟 cleats) - Away at New West Ma
+ nor F.C Reserves
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -184,16 +190,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at New West Manor F.C Reserves · Field 2 · Cle
- ats
+DESCRIPTION:Kingsmen FC - Villains Field 2 (👟 cleats) - Away at New Wes
+ t Manor F.C Reserves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108440@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270129T203000
 DTEND;TZID=America/Edmonton:20270129T213000
-SUMMARY:⚽ Kingsmen FC vs C-Town FC · MSC Dome NE · Cleats
+SUMMARY:Kingsmen FC - Dome NE (👟 cleats) - Home vs C-Town FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -203,15 +209,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs C-Town FC · MSC Dome NE · Cleats
+DESCRIPTION:Kingsmen FC - Dome NE (👟 cleats) - Home vs C-Town FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108487@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270202T203000
 DTEND;TZID=America/Edmonton:20270202T213000
-SUMMARY:⚽ Kingsmen FC at Airdrie United 1 · MSC Dome SE · Cleats
+SUMMARY:Kingsmen FC - Dome SE (👟 cleats) - Away at Airdrie United 1
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -221,15 +227,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at Airdrie United 1 · MSC Dome SE · Cleats
+DESCRIPTION:Kingsmen FC - Dome SE (👟 cleats) - Away at Airdrie United 1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108615@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270216T214500
 DTEND;TZID=America/Edmonton:20270216T224500
-SUMMARY:⚽ Kingsmen FC vs Bordo Turks FC · MSC Dome SE · Cleats
+SUMMARY:Kingsmen FC - Dome SE (👟 cleats) - Home vs Bordo Turks FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -239,15 +245,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs Bordo Turks FC · MSC Dome SE · Cleats
+DESCRIPTION:Kingsmen FC - Dome SE (👟 cleats) - Home vs Bordo Turks FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108680@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270222T213000
 DTEND;TZID=America/Edmonton:20270222T223000
-SUMMARY:⚽ Kingsmen FC at FC United Juniors · Aspen Air · Cleats
+SUMMARY:Kingsmen FC - Macron Aspen Air (👟 cleats) - Away at FC United J
+ uniors
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -257,15 +264,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at FC United Juniors · Aspen Air · Cleats
+DESCRIPTION:Kingsmen FC - Macron Aspen Air (👟 cleats) - Away at FC Unit
+ ed Juniors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108794@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T214500
 DTEND;TZID=America/Edmonton:20270303T224500
-SUMMARY:⚽ Kingsmen FC vs Worldwide FC · Field 2 · Cleats
+SUMMARY:Kingsmen FC - Villains Field 2 (👟 cleats) - Home vs Worldwide F
+ C
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -274,15 +283,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs Worldwide FC · Field 2 · Cleats
+DESCRIPTION:Kingsmen FC - Villains Field 2 (👟 cleats) - Home vs Worldwi
+ de FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108937@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T214500
 DTEND;TZID=America/Edmonton:20270317T224500
-SUMMARY:⚽ Kingsmen FC vs Avalanche FC1 · Field 2 · Cleats
+SUMMARY:Kingsmen FC - Villains Field 2 (👟 cleats) - Home vs Avalanche F
+ C1
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -291,15 +302,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC vs Avalanche FC1 · Field 2 · Cleats
+DESCRIPTION:Kingsmen FC - Villains Field 2 (👟 cleats) - Home vs Avalanc
+ he FC1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109022@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270326T204500
 DTEND;TZID=America/Edmonton:20270326T214500
-SUMMARY:⚽ Kingsmen FC at Neighbourhoods United · Field Safe · Cleats
+SUMMARY:Kingsmen FC - Macron Field Safe (👟 cleats) - Away at Neighbourh
+ oods United
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -309,7 +322,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Kingsmen FC at Neighbourhoods United · Field Safe · Cleats
+DESCRIPTION:Kingsmen FC - Macron Field Safe (👟 cleats) - Away at Neighb
+ ourhoods United
 END:VALARM
 END:VEVENT
 END:VCALENDAR

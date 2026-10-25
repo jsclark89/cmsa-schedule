@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109054@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261103T213000
 DTEND;TZID=America/Edmonton:20261103T223000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Calgary Afghan FC · Field 3
+SUMMARY:VALIANT SOCCER CLUB - Shane Homes Field 3 - Away at Calgary Afgh
+ an FC
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Premier\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -38,15 +39,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Calgary Afghan FC · Field 3
+DESCRIPTION:VALIANT SOCCER CLUB - Shane Homes Field 3 - Away at Calgary 
+ Afghan FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109137@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261111T213000
 DTEND;TZID=America/Edmonton:20261111T223000
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Rangers Magic · Field 3
+SUMMARY:VALIANT SOCCER CLUB - Shane Homes Field 3 - Home vs Rangers Magi
+ c
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Premier\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -55,15 +58,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Rangers Magic · Field 3
+DESCRIPTION:VALIANT SOCCER CLUB - Shane Homes Field 3 - Home vs Rangers 
+ Magic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109238@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261120T213000
 DTEND;TZID=America/Edmonton:20261120T223000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Lads Club United · Aspen Air · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Macron Aspen Air (👟 cleats) - Away at Lad
+ s Club United
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -72,16 +77,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Lads Club United · Aspen Air · Clea
- ts
+DESCRIPTION:VALIANT SOCCER CLUB - Macron Aspen Air (👟 cleats) - Away at
+  Lads Club United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109283@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261124T221500
 DTEND;TZID=America/Edmonton:20261124T231500
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Rangers FC · Encana SW · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana SW (👟 cleats) - Home vs 
+ Rangers FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -90,16 +96,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Rangers FC · Encana SW · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana SW (👟 cleats) - Home
+  vs Rangers FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109421@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T193000
 DTEND;TZID=America/Edmonton:20261205T203000
-SUMMARY:⚽ VALIANT SOCCER CLUB at United Nova Elites · MSC Dome NE · Clea
- ts
+SUMMARY:VALIANT SOCCER CLUB - Dome NE (👟 cleats) - Away at United Nova 
+ Elites
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -108,16 +115,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at United Nova Elites · MSC Dome NE · 
- Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Dome NE (👟 cleats) - Away at United N
+ ova Elites
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109470@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261210T221500
 DTEND;TZID=America/Edmonton:20261210T231500
-SUMMARY:⚽ VALIANT SOCCER CLUB vs MAC United · Encana SW · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana SW (👟 cleats) - Home vs 
+ MAC United
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -126,15 +134,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs MAC United · Encana SW · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana SW (👟 cleats) - Home
+  vs MAC United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109534@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T220000
 DTEND;TZID=America/Edmonton:20261215T230000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Blizzard SC2 · Encana NW · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away at 
+ Blizzard SC2
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -143,15 +153,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Blizzard SC2 · Encana NW · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away
+  at Blizzard SC2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108190@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Condor FC A · Field 3
+SUMMARY:VALIANT SOCCER CLUB - Shane Homes Field 3 - Home vs Condor FC A
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Premier\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -160,15 +171,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Condor FC A · Field 3
+DESCRIPTION:VALIANT SOCCER CLUB - Shane Homes Field 3 - Home vs Condor F
+ C A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108366@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270122T220000
 DTEND;TZID=America/Edmonton:20270122T230000
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Calgary Afghan FC · Boardwalk · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Macron Boardwalk (👟 cleats) - Home vs Cal
+ gary Afghan FC
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -177,16 +190,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Calgary Afghan FC · Boardwalk · Cle
- ats
+DESCRIPTION:VALIANT SOCCER CLUB - Macron Boardwalk (👟 cleats) - Home vs
+  Calgary Afghan FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108467@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T220000
 DTEND;TZID=America/Edmonton:20270130T230000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Rangers Magic · Encana NE · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana NE (👟 cleats) - Away at 
+ Rangers Magic
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -195,15 +209,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Rangers Magic · Encana NE · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana NE (👟 cleats) - Away
+  at Rangers Magic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108509@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270203T220000
 DTEND;TZID=America/Edmonton:20270203T230000
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Lads Club United · Encana NE · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana NE (👟 cleats) - Home vs 
+ Lads Club United
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -212,16 +228,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Lads Club United · Encana NE · Clea
- ts
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana NE (👟 cleats) - Home
+  vs Lads Club United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108620@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270216T220000
 DTEND;TZID=America/Edmonton:20270216T230000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Rangers FC · Encana NW · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away at 
+ Rangers FC
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -230,16 +247,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Rangers FC · Encana NW · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away
+  at Rangers FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108747@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T181500
 DTEND;TZID=America/Edmonton:20270227T191500
-SUMMARY:⚽ VALIANT SOCCER CLUB vs United Nova Elites · MSC Dome NW · Clea
- ts
+SUMMARY:VALIANT SOCCER CLUB - Dome NW (👟 cleats) - Home vs United Nova 
+ Elites
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -248,16 +266,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs United Nova Elites · MSC Dome NW · 
- Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Dome NW (👟 cleats) - Home vs United N
+ ova Elites
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108782@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270302T221500
 DTEND;TZID=America/Edmonton:20270302T231500
-SUMMARY:⚽ VALIANT SOCCER CLUB at MAC United · Encana NW · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away at 
+ MAC United
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -266,15 +285,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at MAC United · Encana NW · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Shouldice Encana NW (👟 cleats) - Away
+  at MAC United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108872@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
-SUMMARY:⚽ VALIANT SOCCER CLUB vs Blizzard SC2 · Field 2
+SUMMARY:VALIANT SOCCER CLUB - Shane Homes Field 2 - Home vs Blizzard SC2
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Premier\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -283,15 +303,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB vs Blizzard SC2 · Field 2
+DESCRIPTION:VALIANT SOCCER CLUB - Shane Homes Field 2 - Home vs Blizzard
+  SC2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108942@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T210000
 DTEND;TZID=America/Edmonton:20270317T220000
-SUMMARY:⚽ VALIANT SOCCER CLUB at Condor FC A · MSC Dome SE · Cleats
+SUMMARY:VALIANT SOCCER CLUB - Dome SE (👟 cleats) - Away at Condor FC A
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -300,7 +321,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ VALIANT SOCCER CLUB at Condor FC A · MSC Dome SE · Cleats
+DESCRIPTION:VALIANT SOCCER CLUB - Dome SE (👟 cleats) - Away at Condor F
+ C A
 END:VALARM
 END:VEVENT
 END:VCALENDAR

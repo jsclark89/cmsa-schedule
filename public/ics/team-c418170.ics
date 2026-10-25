@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109065@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
-SUMMARY:⚽ Calgary Gunners O35 at Vipers DC O35 · Field 4
+SUMMARY:Calgary Gunners O35 - Shane Homes Field 4 - Away at Vipers DC O3
+ 5
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
@@ -38,15 +39,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Vipers DC O35 · Field 4
+DESCRIPTION:Calgary Gunners O35 - Shane Homes Field 4 - Away at Vipers D
+ C O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109156@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261113T213000
 DTEND;TZID=America/Edmonton:20261113T223000
-SUMMARY:⚽ Calgary Gunners O35 vs FC United · Foothills · Cleats
+SUMMARY:Calgary Gunners O35 - Macron Foothills (👟 cleats) - Home vs FC 
+ United
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -56,15 +59,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs FC United · Foothills · Cleats
+DESCRIPTION:Calgary Gunners O35 - Macron Foothills (👟 cleats) - Home vs
+  FC United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109204@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T203000
 DTEND;TZID=America/Edmonton:20261117T213000
-SUMMARY:⚽ Calgary Gunners O35 vs Redstar FC · MSC Dome SW · Cleats
+SUMMARY:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs Redstar FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -74,15 +78,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs Redstar FC · MSC Dome SW · Cleats
+DESCRIPTION:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs Redstar 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109290@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261124T214500
 DTEND;TZID=America/Edmonton:20261124T224500
-SUMMARY:⚽ Calgary Gunners O35 at Rogues Masters · Field 2 · Cleats
+SUMMARY:Calgary Gunners O35 - Villains Field 2 (👟 cleats) - Away at Rog
+ ues Masters
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -91,15 +97,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Rogues Masters · Field 2 · Cleats
+DESCRIPTION:Calgary Gunners O35 - Villains Field 2 (👟 cleats) - Away at
+  Rogues Masters
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109372@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261201T214500
 DTEND;TZID=America/Edmonton:20261201T224500
-SUMMARY:⚽ Calgary Gunners O35 vs SD Serbia · MSC Dome NE · Cleats
+SUMMARY:Calgary Gunners O35 - Dome NE (👟 cleats) - Home vs SD Serbia
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -109,15 +116,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs SD Serbia · MSC Dome NE · Cleats
+DESCRIPTION:Calgary Gunners O35 - Dome NE (👟 cleats) - Home vs SD Serbi
+ a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109503@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
-SUMMARY:⚽ Calgary Gunners O35 at Callies Volts · MSC Dome NW · Cleats
+SUMMARY:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at Callies Volt
+ s
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -127,16 +136,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Callies Volts · MSC Dome NW · Cleat
- s
+DESCRIPTION:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at Callies 
+ Volts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109541@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T214500
 DTEND;TZID=America/Edmonton:20261215T224500
-SUMMARY:⚽ Calgary Gunners O35 vs Eldorado Kickers · Field 1 · Cleats
+SUMMARY:Calgary Gunners O35 - Villains Field 1 (👟 cleats) - Home vs Eld
+ orado Kickers
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -145,15 +155,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs Eldorado Kickers · Field 1 · Cleats
+DESCRIPTION:Calgary Gunners O35 - Villains Field 1 (👟 cleats) - Home vs
+  Eldorado Kickers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108183@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270105T203000
 DTEND;TZID=America/Edmonton:20270105T213000
-SUMMARY:⚽ Calgary Gunners O35 vs Inter Furia FC · Field 1 · Cleats
+SUMMARY:Calgary Gunners O35 - Villains Field 1 (👟 cleats) - Home vs Int
+ er Furia FC
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -162,16 +174,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs Inter Furia FC · Field 1 · Cleats
+DESCRIPTION:Calgary Gunners O35 - Villains Field 1 (👟 cleats) - Home vs
+  Inter Furia FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108312@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T210000
 DTEND;TZID=America/Edmonton:20270117T220000
-SUMMARY:⚽ Calgary Gunners O35 vs Southside Rangers O35 · Aspen Air · Cle
- ats
+SUMMARY:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Home vs Sou
+ thside Rangers O35
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -181,16 +194,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs Southside Rangers O35 · Aspen Air ·
-  Cleats
+DESCRIPTION:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Home vs
+  Southside Rangers O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108351@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270120T213000
 DTEND;TZID=America/Edmonton:20270120T223000
-SUMMARY:⚽ Calgary Gunners O35 at Lions - Ship and Anchor · Field 3
+SUMMARY:Calgary Gunners O35 - Shane Homes Field 3 - Away at Lions - Ship
+  and Anchor
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
@@ -199,15 +213,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Lions - Ship and Anchor · Field 3
+DESCRIPTION:Calgary Gunners O35 - Shane Homes Field 3 - Away at Lions - 
+ Ship and Anchor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108424@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270127T213000
 DTEND;TZID=America/Edmonton:20270127T223000
-SUMMARY:⚽ Calgary Gunners O35 at CFC Dynamos · Aspen Air · Cleats
+SUMMARY:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Away at CFC
+  Dynamos
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -217,15 +233,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at CFC Dynamos · Aspen Air · Cleats
+DESCRIPTION:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Away at
+  CFC Dynamos
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108546@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270206T193000
 DTEND;TZID=America/Edmonton:20270206T203000
-SUMMARY:⚽ Calgary Gunners O35 vs El Dorado FC · MSC Dome SW · Cleats
+SUMMARY:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs El Dorado FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -235,16 +252,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs El Dorado FC · MSC Dome SW · Cleats
+DESCRIPTION:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs El Dorad
+ o FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108580@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270209T214500
 DTEND;TZID=America/Edmonton:20270209T224500
-SUMMARY:⚽ Calgary Gunners O35 vs Neighbourhoods O35 · MSC Dome SW · Clea
- ts
+SUMMARY:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs Neighbourhoo
+ ds O35
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -254,16 +272,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 vs Neighbourhoods O35 · MSC Dome SW · 
- Cleats
+DESCRIPTION:Calgary Gunners O35 - Dome SW (👟 cleats) - Home vs Neighbou
+ rhoods O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108677@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T210000
 DTEND;TZID=America/Edmonton:20270221T220000
-SUMMARY:⚽ Calgary Gunners O35 at Inter Furia FC · Aspen Air · Cleats
+SUMMARY:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Away at Int
+ er Furia FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -273,15 +292,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Inter Furia FC · Aspen Air · Cleats
+DESCRIPTION:Calgary Gunners O35 - Macron Aspen Air (👟 cleats) - Away at
+  Inter Furia FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108685@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270222T214500
 DTEND;TZID=America/Edmonton:20270222T224500
-SUMMARY:⚽ Calgary Gunners O35 at FC United · MSC Dome NW · Cleats
+SUMMARY:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at FC United
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -291,15 +311,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at FC United · MSC Dome NW · Cleats
+DESCRIPTION:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at FC Unite
+ d
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108897@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270314T203000
 DTEND;TZID=America/Edmonton:20270314T213000
-SUMMARY:⚽ Calgary Gunners O35 at Rogues Masters · MSC Dome NW · Cleats
+SUMMARY:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at Rogues Maste
+ rs
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -309,8 +331,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Gunners O35 at Rogues Masters · MSC Dome NW · Clea
- ts
+DESCRIPTION:Calgary Gunners O35 - Dome NW (👟 cleats) - Away at Rogues M
+ asters
 END:VALARM
 END:VEVENT
 END:VCALENDAR

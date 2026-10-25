@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109080@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T201500
 DTEND;TZID=America/Edmonton:20261106T211500
-SUMMARY:⚽ SWU Avo vs Aces FC Borussia · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs Aces FC Borussia
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -38,15 +38,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Aces FC Borussia · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109084@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T203000
 DTEND;TZID=America/Edmonton:20261106T213000
-SUMMARY:⚽ United Nova FC vs CalGlen Crusaders FC · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - United Nova FC vs CalGlen Crusaders FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -55,16 +55,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs CalGlen Crusaders FC · MSC Dome NW · Cle
- ats
+DESCRIPTION:Dome NW (👟 cleats) - United Nova FC vs CalGlen Crusaders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109081@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T204500
 DTEND;TZID=America/Edmonton:20261106T214500
-SUMMARY:⚽ Croatia Dinamo vs Blizzard SC · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs Blizzard SC
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -73,15 +72,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs Blizzard SC · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109082@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T220000
 DTEND;TZID=America/Edmonton:20261106T230000
-SUMMARY:⚽ Aces FC vs Callies Major · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - Aces FC vs Callies Major
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -90,15 +89,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs Callies Major · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - Aces FC vs Callies Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109146@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261112T221500
 DTEND;TZID=America/Edmonton:20261112T231500
-SUMMARY:⚽ Blizzard SC vs United Nova FC · Encana SW · Cleats
+SUMMARY:Shouldice Encana SW (👟 cleats) - Blizzard SC vs United Nova FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -107,15 +106,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs United Nova FC · Encana SW · Cleats
+DESCRIPTION:Shouldice Encana SW (👟 cleats) - Blizzard SC vs United Nova
+  FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109154@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261113T201500
 DTEND;TZID=America/Edmonton:20261113T211500
-SUMMARY:⚽ Callies Major vs Croatia Dinamo · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Callies Major vs Croatia Dinamo
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -124,15 +124,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs Croatia Dinamo · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Callies Major vs Croatia Dina
+ mo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109155@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261113T213000
 DTEND;TZID=America/Edmonton:20261113T223000
-SUMMARY:⚽ CalGlen Crusaders FC vs Foothills FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - CalGlen Crusaders FC vs Foothills
+  FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -141,15 +143,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Foothills FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - CalGlen Crusaders FC vs Footh
+ ills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109163@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261113T220000
 DTEND;TZID=America/Edmonton:20261113T230000
-SUMMARY:⚽ Aces FC Borussia vs Aces FC · Encana SW · Cleats
+SUMMARY:Shouldice Encana SW (👟 cleats) - Aces FC Borussia vs Aces FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -158,15 +161,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs Aces FC · Encana SW · Cleats
+DESCRIPTION:Shouldice Encana SW (👟 cleats) - Aces FC Borussia vs Aces F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109202@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T214500
 DTEND;TZID=America/Edmonton:20261117T224500
-SUMMARY:⚽ Croatia Dinamo vs Foothills FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Croatia Dinamo vs Foothills FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -175,15 +179,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs Foothills FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Croatia Dinamo vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109203@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T214500
 DTEND;TZID=America/Edmonton:20261117T224500
-SUMMARY:⚽ Aces FC vs CalGlen Crusaders FC · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Aces FC vs CalGlen Crusaders FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -192,15 +196,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs CalGlen Crusaders FC · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Aces FC vs CalGlen Crusaders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109205@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T221500
 DTEND;TZID=America/Edmonton:20261117T231500
-SUMMARY:⚽ Aces FC Borussia vs Callies Major · Encana NW · Cleats
+SUMMARY:Shouldice Encana NW (👟 cleats) - Aces FC Borussia vs Callies Ma
+ jor
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -209,15 +214,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs Callies Major · Encana NW · Cleats
+DESCRIPTION:Shouldice Encana NW (👟 cleats) - Aces FC Borussia vs Callie
+ s Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109260@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T204500
 DTEND;TZID=America/Edmonton:20261121T214500
-SUMMARY:⚽ SWU Avo vs Blizzard SC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - SWU Avo vs Blizzard SC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -226,15 +232,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Blizzard SC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - SWU Avo vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109303@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T203000
 DTEND;TZID=America/Edmonton:20261125T213000
-SUMMARY:⚽ CalGlen Crusaders FC vs Croatia Dinamo · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - CalGlen Crusaders FC vs Croatia Dinamo
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -243,16 +249,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Croatia Dinamo · MSC Dome NW · Cle
- ats
+DESCRIPTION:Dome NW (👟 cleats) - CalGlen Crusaders FC vs Croatia Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109304@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T214500
 DTEND;TZID=America/Edmonton:20261125T224500
-SUMMARY:⚽ Foothills FC vs United Nova FC · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Foothills FC vs United Nova FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -261,15 +266,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs United Nova FC · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Foothills FC vs United Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109315@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261126T220000
 DTEND;TZID=America/Edmonton:20261126T230000
-SUMMARY:⚽ Blizzard SC vs Aces FC · Encana NE · Cleats
+SUMMARY:Shouldice Encana NE (👟 cleats) - Blizzard SC vs Aces FC
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -278,15 +283,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs Aces FC · Encana NE · Cleats
+DESCRIPTION:Shouldice Encana NE (👟 cleats) - Blizzard SC vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109324@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261127T201500
 DTEND;TZID=America/Edmonton:20261127T211500
-SUMMARY:⚽ Callies Major vs SWU Avo · Foothills · Cleats
+SUMMARY:Macron Foothills (👟 cleats) - Callies Major vs SWU Avo
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -295,15 +300,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs SWU Avo · Foothills · Cleats
+DESCRIPTION:Macron Foothills (👟 cleats) - Callies Major vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109389@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
-SUMMARY:⚽ Aces FC vs United Nova FC · Foothills · Cleats
+SUMMARY:Macron Foothills (👟 cleats) - Aces FC vs United Nova FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -312,15 +317,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs United Nova FC · Foothills · Cleats
+DESCRIPTION:Macron Foothills (👟 cleats) - Aces FC vs United Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109397@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261203T221500
 DTEND;TZID=America/Edmonton:20261203T231500
-SUMMARY:⚽ Aces FC Borussia vs CalGlen Crusaders FC · Encana SW · Cleats
+SUMMARY:Shouldice Encana SW (👟 cleats) - Aces FC Borussia vs CalGlen Cr
+ usaders FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -329,16 +335,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs CalGlen Crusaders FC · Encana SW · Cle
- ats
+DESCRIPTION:Shouldice Encana SW (👟 cleats) - Aces FC Borussia vs CalGle
+ n Crusaders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109411@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261204T201500
 DTEND;TZID=America/Edmonton:20261204T211500
-SUMMARY:⚽ Callies Major vs Blizzard SC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Callies Major vs Blizzard SC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -347,15 +353,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs Blizzard SC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Callies Major vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109412@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261204T213000
 DTEND;TZID=America/Edmonton:20261204T223000
-SUMMARY:⚽ SWU Avo vs Foothills FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs Foothills FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -364,15 +370,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Foothills FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109460@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
-SUMMARY:⚽ United Nova FC vs Croatia Dinamo · Foothills · Cleats
+SUMMARY:Macron Foothills (👟 cleats) - United Nova FC vs Croatia Dinamo
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -381,15 +387,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Croatia Dinamo · Foothills · Cleats
+DESCRIPTION:Macron Foothills (👟 cleats) - United Nova FC vs Croatia Din
+ amo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109463@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
-SUMMARY:⚽ Blizzard SC vs Aces FC Borussia · Field 1
+SUMMARY:Shane Homes Field 1 - Blizzard SC vs Aces FC Borussia
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -397,15 +404,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs Aces FC Borussia · Field 1
+DESCRIPTION:Shane Homes Field 1 - Blizzard SC vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109478@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261211T204500
 DTEND;TZID=America/Edmonton:20261211T214500
-SUMMARY:⚽ CalGlen Crusaders FC vs SWU Avo · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - CalGlen Crusaders FC vs SWU Avo
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -414,15 +421,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs SWU Avo · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - CalGlen Crusaders FC vs SWU A
+ vo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109479@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261211T220000
 DTEND;TZID=America/Edmonton:20261211T230000
-SUMMARY:⚽ Foothills FC vs Aces FC · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - Foothills FC vs Aces FC
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -431,15 +439,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs Aces FC · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - Foothills FC vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109533@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T214500
 DTEND;TZID=America/Edmonton:20261215T224500
-SUMMARY:⚽ Callies Major vs Foothills FC · MSC Dome SW · Cleats
+SUMMARY:Dome SW (👟 cleats) - Callies Major vs Foothills FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -448,15 +456,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs Foothills FC · MSC Dome SW · Cleats
+DESCRIPTION:Dome SW (👟 cleats) - Callies Major vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109548@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261216T220000
 DTEND;TZID=America/Edmonton:20261216T230000
-SUMMARY:⚽ Blizzard SC vs CalGlen Crusaders FC · Encana SE · Cleats
+SUMMARY:Shouldice Encana SE (👟 cleats) - Blizzard SC vs CalGlen Crusade
+ rs FC
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -465,15 +474,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs CalGlen Crusaders FC · Encana SE · Cleats
+DESCRIPTION:Shouldice Encana SE (👟 cleats) - Blizzard SC vs CalGlen Cru
+ saders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109560@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261217T220000
 DTEND;TZID=America/Edmonton:20261217T230000
-SUMMARY:⚽ Aces FC Borussia vs United Nova FC · Encana NW · Cleats
+SUMMARY:Shouldice Encana NW (👟 cleats) - Aces FC Borussia vs United Nov
+ a FC
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -482,15 +493,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs United Nova FC · Encana NW · Cleats
+DESCRIPTION:Shouldice Encana NW (👟 cleats) - Aces FC Borussia vs United
+  Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109571@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261218T201500
 DTEND;TZID=America/Edmonton:20261218T211500
-SUMMARY:⚽ SWU Avo vs Croatia Dinamo · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs Croatia Dinamo
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -499,15 +511,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Croatia Dinamo · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs Croatia Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108207@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T204500
 DTEND;TZID=America/Edmonton:20270108T214500
-SUMMARY:⚽ United Nova FC vs SWU Avo · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - United Nova FC vs SWU Avo
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -516,15 +528,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs SWU Avo · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - United Nova FC vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108206@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T213000
 DTEND;TZID=America/Edmonton:20270108T223000
-SUMMARY:⚽ Foothills FC vs Aces FC Borussia · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Foothills FC vs Aces FC Borussia
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -533,15 +545,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs Aces FC Borussia · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Foothills FC vs Aces FC Borus
+ sia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108208@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T220000
 DTEND;TZID=America/Edmonton:20270108T230000
-SUMMARY:⚽ Croatia Dinamo vs Aces FC · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs Aces FC
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -550,15 +563,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs Aces FC · Boardwalk · Cleats
+DESCRIPTION:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108210@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T220000
 DTEND;TZID=America/Edmonton:20270108T230000
-SUMMARY:⚽ CalGlen Crusaders FC vs Callies Major · Field Safe · Cleats
+SUMMARY:Macron Field Safe (👟 cleats) - CalGlen Crusaders FC vs Callies 
+ Major
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -567,16 +581,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Callies Major · Field Safe · Cleat
- s
+DESCRIPTION:Macron Field Safe (👟 cleats) - CalGlen Crusaders FC vs Call
+ ies Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108250@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270112T203000
 DTEND;TZID=America/Edmonton:20270112T213000
-SUMMARY:⚽ Foothills FC vs Blizzard SC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Foothills FC vs Blizzard SC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -585,15 +599,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs Blizzard SC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Foothills FC vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108252@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270112T203000
 DTEND;TZID=America/Edmonton:20270112T213000
-SUMMARY:⚽ Croatia Dinamo vs Aces FC Borussia · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Croatia Dinamo vs Aces FC Borussia
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -602,15 +616,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs Aces FC Borussia · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Croatia Dinamo vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108251@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270112T214500
 DTEND;TZID=America/Edmonton:20270112T224500
-SUMMARY:⚽ United Nova FC vs Callies Major · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - United Nova FC vs Callies Major
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -619,15 +633,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Callies Major · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - United Nova FC vs Callies Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108284@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270115T213000
 DTEND;TZID=America/Edmonton:20270115T223000
-SUMMARY:⚽ Aces FC vs SWU Avo · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Aces FC vs SWU Avo
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -636,15 +650,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs SWU Avo · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Aces FC vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108385@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T193000
 DTEND;TZID=America/Edmonton:20270123T203000
-SUMMARY:⚽ Callies Major vs Aces FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Callies Major vs Aces FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -653,15 +667,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs Aces FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Callies Major vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108386@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T204500
 DTEND;TZID=America/Edmonton:20270123T214500
-SUMMARY:⚽ CalGlen Crusaders FC vs United Nova FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - CalGlen Crusaders FC vs United Nova FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -670,16 +684,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs United Nova FC · MSC Dome NE · Cle
- ats
+DESCRIPTION:Dome NE (👟 cleats) - CalGlen Crusaders FC vs United Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108389@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T214500
 DTEND;TZID=America/Edmonton:20270123T224500
-SUMMARY:⚽ Blizzard SC vs Croatia Dinamo · Encana SW · Cleats
+SUMMARY:Shouldice Encana SW (👟 cleats) - Blizzard SC vs Croatia Dinamo
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -688,15 +701,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs Croatia Dinamo · Encana SW · Cleats
+DESCRIPTION:Shouldice Encana SW (👟 cleats) - Blizzard SC vs Croatia Din
+ amo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108390@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T214500
 DTEND;TZID=America/Edmonton:20270123T224500
-SUMMARY:⚽ Aces FC Borussia vs SWU Avo · Encana SE · Cleats
+SUMMARY:Shouldice Encana SE (👟 cleats) - Aces FC Borussia vs SWU Avo
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -705,15 +719,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs SWU Avo · Encana SE · Cleats
+DESCRIPTION:Shouldice Encana SE (👟 cleats) - Aces FC Borussia vs SWU Av
+ o
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108408@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
-SUMMARY:⚽ Foothills FC vs Croatia Dinamo · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Foothills FC vs Croatia Dinamo
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -722,15 +737,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs Croatia Dinamo · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Foothills FC vs Croatia Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108410@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
-SUMMARY:⚽ Callies Major vs Aces FC Borussia · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Callies Major vs Aces FC Borussia
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -739,15 +754,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs Aces FC Borussia · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Callies Major vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108409@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
-SUMMARY:⚽ CalGlen Crusaders FC vs Aces FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - CalGlen Crusaders FC vs Aces FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -756,15 +771,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Aces FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - CalGlen Crusaders FC vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108426@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270127T213000
 DTEND;TZID=America/Edmonton:20270127T223000
-SUMMARY:⚽ Blizzard SC vs SWU Avo · Field 2
+SUMMARY:Shane Homes Field 2 - Blizzard SC vs SWU Avo
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -772,15 +787,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs SWU Avo · Field 2
+DESCRIPTION:Shane Homes Field 2 - Blizzard SC vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108470@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270131T210000
 DTEND;TZID=America/Edmonton:20270131T220000
-SUMMARY:⚽ Croatia Dinamo vs Callies Major · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs Callies Major
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -789,15 +804,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs Callies Major · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs Callies Maj
+ or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108477@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270201T203000
 DTEND;TZID=America/Edmonton:20270201T213000
-SUMMARY:⚽ United Nova FC vs Blizzard SC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - United Nova FC vs Blizzard SC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -806,15 +822,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Blizzard SC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - United Nova FC vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108476@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270201T213000
 DTEND;TZID=America/Edmonton:20270201T223000
-SUMMARY:⚽ Foothills FC vs CalGlen Crusaders FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Foothills FC vs CalGlen Crusaders
+  FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -823,15 +840,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs CalGlen Crusaders FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Foothills FC vs CalGlen Crusa
+ ders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108478@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270201T214500
 DTEND;TZID=America/Edmonton:20270201T224500
-SUMMARY:⚽ Aces FC vs Aces FC Borussia · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Aces FC vs Aces FC Borussia
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -840,15 +858,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs Aces FC Borussia · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Aces FC vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108648@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270219T201500
 DTEND;TZID=America/Edmonton:20270219T211500
-SUMMARY:⚽ SWU Avo vs Callies Major · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs Callies Major
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -857,15 +875,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Callies Major · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs Callies Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108651@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270219T204500
 DTEND;TZID=America/Edmonton:20270219T214500
-SUMMARY:⚽ Croatia Dinamo vs CalGlen Crusaders FC · Boardwalk · Cleats
+SUMMARY:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs CalGlen Crusade
+ rs FC
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -874,16 +893,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs CalGlen Crusaders FC · Boardwalk · Cleat
- s
+DESCRIPTION:Macron Boardwalk (👟 cleats) - Croatia Dinamo vs CalGlen Cru
+ saders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108649@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270219T213000
 DTEND;TZID=America/Edmonton:20270219T223000
-SUMMARY:⚽ United Nova FC vs Foothills FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - United Nova FC vs Foothills FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -892,15 +911,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Foothills FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - United Nova FC vs Foothills F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108670@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T204500
 DTEND;TZID=America/Edmonton:20270220T214500
-SUMMARY:⚽ Aces FC vs Blizzard SC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Aces FC vs Blizzard SC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -909,15 +929,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs Blizzard SC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Aces FC vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108693@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
-SUMMARY:⚽ United Nova FC vs Aces FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - United Nova FC vs Aces FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -926,16 +946,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Aces FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - United Nova FC vs Aces FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108695@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T203000
 DTEND;TZID=America/Edmonton:20270223T213000
-SUMMARY:⚽ CalGlen Crusaders FC vs Aces FC Borussia · MSC Dome NW · Cleat
- s
+SUMMARY:Dome NW (👟 cleats) - CalGlen Crusaders FC vs Aces FC Borussia
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -944,16 +963,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Aces FC Borussia · MSC Dome NW · C
- leats
+DESCRIPTION:Dome NW (👟 cleats) - CalGlen Crusaders FC vs Aces FC Boruss
+ ia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108694@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T214500
 DTEND;TZID=America/Edmonton:20270223T224500
-SUMMARY:⚽ Foothills FC vs SWU Avo · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Foothills FC vs SWU Avo
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -962,15 +981,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs SWU Avo · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Foothills FC vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108701@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T221500
 DTEND;TZID=America/Edmonton:20270223T231500
-SUMMARY:⚽ Blizzard SC vs Callies Major · Encana NW · Cleats
+SUMMARY:Shouldice Encana NW (👟 cleats) - Blizzard SC vs Callies Major
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -979,15 +998,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs Callies Major · Encana NW · Cleats
+DESCRIPTION:Shouldice Encana NW (👟 cleats) - Blizzard SC vs Callies Maj
+ or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108784@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270302T213000
 DTEND;TZID=America/Edmonton:20270302T223000
-SUMMARY:⚽ Aces FC Borussia vs Blizzard SC · Field 2
+SUMMARY:Shane Homes Field 2 - Aces FC Borussia vs Blizzard SC
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -995,15 +1015,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs Blizzard SC · Field 2
+DESCRIPTION:Shane Homes Field 2 - Aces FC Borussia vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108778@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270302T214500
 DTEND;TZID=America/Edmonton:20270302T224500
-SUMMARY:⚽ Aces FC vs Foothills FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Aces FC vs Foothills FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1012,15 +1032,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs Foothills FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Aces FC vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108795@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Croatia Dinamo vs United Nova FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs United Nova FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1029,15 +1049,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs United Nova FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs United Nova
+  FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108808@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270305T201500
 DTEND;TZID=America/Edmonton:20270305T211500
-SUMMARY:⚽ SWU Avo vs CalGlen Crusaders FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs CalGlen Crusaders FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1046,15 +1067,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs CalGlen Crusaders FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs CalGlen Crusaders 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108870@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T194500
 DTEND;TZID=America/Edmonton:20270310T204500
-SUMMARY:⚽ CalGlen Crusaders FC vs Blizzard SC · MSC Dome SW · Cleats
+SUMMARY:Dome SW (👟 cleats) - CalGlen Crusaders FC vs Blizzard SC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1063,15 +1085,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Crusaders FC vs Blizzard SC · MSC Dome SW · Cleats
+DESCRIPTION:Dome SW (👟 cleats) - CalGlen Crusaders FC vs Blizzard SC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108868@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T203000
 DTEND;TZID=America/Edmonton:20270310T213000
-SUMMARY:⚽ United Nova FC vs Aces FC Borussia · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - United Nova FC vs Aces FC Borussia
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1080,15 +1102,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ United Nova FC vs Aces FC Borussia · MSC Dome SE · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - United Nova FC vs Aces FC Borussia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108869@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T214500
 DTEND;TZID=America/Edmonton:20270310T224500
-SUMMARY:⚽ Foothills FC vs Callies Major · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - Foothills FC vs Callies Major
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1097,15 +1119,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FC vs Callies Major · MSC Dome SE · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - Foothills FC vs Callies Major
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108882@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270312T201500
 DTEND;TZID=America/Edmonton:20270312T211500
-SUMMARY:⚽ Croatia Dinamo vs SWU Avo · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs SWU Avo
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1114,15 +1136,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Croatia Dinamo vs SWU Avo · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Croatia Dinamo vs SWU Avo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108918@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Callies Major vs CalGlen Crusaders FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Callies Major vs CalGlen Crusaders FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1131,16 +1153,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs CalGlen Crusaders FC · MSC Dome NE · Clea
- ts
+DESCRIPTION:Dome NE (👟 cleats) - Callies Major vs CalGlen Crusaders FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108919@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Aces FC vs Croatia Dinamo · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Aces FC vs Croatia Dinamo
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1149,15 +1170,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC vs Croatia Dinamo · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Aces FC vs Croatia Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108946@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T224500
 DTEND;TZID=America/Edmonton:20270317T234500
-SUMMARY:⚽ Aces FC Borussia vs Foothills FC · Field 1
+SUMMARY:Shane Homes Field 1 - Aces FC Borussia vs Foothills FC
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -1165,15 +1186,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs Foothills FC · Field 1
+DESCRIPTION:Shane Homes Field 1 - Aces FC Borussia vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108960@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270319T201500
 DTEND;TZID=America/Edmonton:20270319T211500
-SUMMARY:⚽ SWU Avo vs United Nova FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs United Nova FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1182,15 +1203,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs United Nova FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs United Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108995@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T203000
 DTEND;TZID=America/Edmonton:20270323T213000
-SUMMARY:⚽ Callies Major vs United Nova FC · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Callies Major vs United Nova FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1199,15 +1220,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Callies Major vs United Nova FC · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Callies Major vs United Nova FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108997@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T213000
 DTEND;TZID=America/Edmonton:20270323T223000
-SUMMARY:⚽ Blizzard SC vs Foothills FC · Field 1
+SUMMARY:Shane Homes Field 1 - Blizzard SC vs Foothills FC
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -1215,15 +1236,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC vs Foothills FC · Field 1
+DESCRIPTION:Shane Homes Field 1 - Blizzard SC vs Foothills FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108998@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T213000
 DTEND;TZID=America/Edmonton:20270323T223000
-SUMMARY:⚽ Aces FC Borussia vs Croatia Dinamo · Field 2
+SUMMARY:Shane Homes Field 2 - Aces FC Borussia vs Croatia Dinamo
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Major\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -1231,15 +1252,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Borussia vs Croatia Dinamo · Field 2
+DESCRIPTION:Shane Homes Field 2 - Aces FC Borussia vs Croatia Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109023@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270326T201500
 DTEND;TZID=America/Edmonton:20270326T211500
-SUMMARY:⚽ SWU Avo vs Aces FC · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - SWU Avo vs Aces FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1248,7 +1269,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Avo vs Aces FC · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - SWU Avo vs Aces FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

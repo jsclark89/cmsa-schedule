@@ -26,11 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109090@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T170000
 DTEND;TZID=America/Edmonton:20261107T180000
-SUMMARY:⚽ Aces FC Academy vs Calgary Warriors Football Academy · MSC Dom
- e SW · Cleats
+SUMMARY:Aces FC Academy - Dome SW (👟 cleats) - Home vs Calgary Warriors
+  Football Academy
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -40,16 +40,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs Calgary Warriors Football Academy · MSC
-  Dome SW · Cleats
+DESCRIPTION:Aces FC Academy - Dome SW (👟 cleats) - Home vs Calgary Warr
+ iors Football Academy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109124@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
-SUMMARY:⚽ Aces FC Academy at Legends FC · Field 2
+SUMMARY:Aces FC Academy - Shane Homes Field 2 - Away at Legends FC
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 2\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -58,15 +58,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at Legends FC · Field 2
+DESCRIPTION:Aces FC Academy - Shane Homes Field 2 - Away at Legends FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109213@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
-SUMMARY:⚽ Aces FC Academy vs United Nova Yazidi · Foothills · Cleats
+SUMMARY:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs United 
+ Nova Yazidi
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -76,15 +77,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs United Nova Yazidi · Foothills · Cleats
+DESCRIPTION:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs Uni
+ ted Nova Yazidi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109271@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261123T221500
 DTEND;TZID=America/Edmonton:20261123T231500
-SUMMARY:⚽ Aces FC Academy at New Frontier Mens · Encana SW · Cleats
+SUMMARY:Aces FC Academy - Shouldice Encana SW (👟 cleats) - Away at New 
+ Frontier Mens
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -94,15 +97,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at New Frontier Mens · Encana SW · Cleats
+DESCRIPTION:Aces FC Academy - Shouldice Encana SW (👟 cleats) - Away at 
+ New Frontier Mens
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109499@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T220000
 DTEND;TZID=America/Edmonton:20261212T230000
-SUMMARY:⚽ Aces FC Academy at Blizzard SC4 · Encana SW · Cleats
+SUMMARY:Aces FC Academy - Shouldice Encana SW (👟 cleats) - Away at Bliz
+ zard SC4
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -112,15 +117,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at Blizzard SC4 · Encana SW · Cleats
+DESCRIPTION:Aces FC Academy - Shouldice Encana SW (👟 cleats) - Away at 
+ Blizzard SC4
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109564@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261218T220000
 DTEND;TZID=America/Edmonton:20261218T230000
-SUMMARY:⚽ Aces FC Academy vs Calglen Inter United · Boardwalk · Cleats
+SUMMARY:Aces FC Academy - Macron Boardwalk (👟 cleats) - Home vs Calglen
+  Inter United
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -130,16 +137,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs Calglen Inter United · Boardwalk · Clea
- ts
+DESCRIPTION:Aces FC Academy - Macron Boardwalk (👟 cleats) - Home vs Cal
+ glen Inter United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108216@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T170000
 DTEND;TZID=America/Edmonton:20270109T180000
-SUMMARY:⚽ Aces FC Academy at FC Phoenix UA · MSC Dome NE · Cleats
+SUMMARY:Aces FC Academy - Dome NE (👟 cleats) - Away at FC Phoenix UA
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -149,15 +156,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at FC Phoenix UA · MSC Dome NE · Cleats
+DESCRIPTION:Aces FC Academy - Dome NE (👟 cleats) - Away at FC Phoenix U
+ A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108321@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270118T214500
 DTEND;TZID=America/Edmonton:20270118T224500
-SUMMARY:⚽ Aces FC Academy vs Condor FC B · MSC Dome NE · Cleats
+SUMMARY:Aces FC Academy - Dome NE (👟 cleats) - Home vs Condor FC B
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -167,16 +175,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs Condor FC B · MSC Dome NE · Cleats
+DESCRIPTION:Aces FC Academy - Dome NE (👟 cleats) - Home vs Condor FC B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108397@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270125T214500
 DTEND;TZID=America/Edmonton:20270125T224500
-SUMMARY:⚽ Aces FC Academy at Calgary Warriors Football Academy · MSC Dom
- e SW · Cleats
+SUMMARY:Aces FC Academy - Dome SW (👟 cleats) - Away at Calgary Warriors
+  Football Academy
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -186,16 +194,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at Calgary Warriors Football Academy · MSC
-  Dome SW · Cleats
+DESCRIPTION:Aces FC Academy - Dome SW (👟 cleats) - Away at Calgary Warr
+ iors Football Academy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108517@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T213000
 DTEND;TZID=America/Edmonton:20270205T223000
-SUMMARY:⚽ Aces FC Academy vs Legends FC · Foothills · Cleats
+SUMMARY:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs Legends
+  FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -205,15 +214,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs Legends FC · Foothills · Cleats
+DESCRIPTION:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs Leg
+ ends FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108589@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
-SUMMARY:⚽ Aces FC Academy at United Nova Yazidi · Aspen Air · Cleats
+SUMMARY:Aces FC Academy - Macron Aspen Air (👟 cleats) - Away at United 
+ Nova Yazidi
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -223,15 +234,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at United Nova Yazidi · Aspen Air · Cleats
+DESCRIPTION:Aces FC Academy - Macron Aspen Air (👟 cleats) - Away at Uni
+ ted Nova Yazidi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108676@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T213000
 DTEND;TZID=America/Edmonton:20270221T223000
-SUMMARY:⚽ Aces FC Academy vs New Frontier Mens · Foothills · Cleats
+SUMMARY:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs New Fro
+ ntier Mens
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -241,15 +254,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs New Frontier Mens · Foothills · Cleats
+DESCRIPTION:Aces FC Academy - Macron Foothills (👟 cleats) - Home vs New
+  Frontier Mens
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108765@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270301T203000
 DTEND;TZID=America/Edmonton:20270301T213000
-SUMMARY:⚽ Aces FC Academy vs Blizzard SC4 · MSC Dome SW · Cleats
+SUMMARY:Aces FC Academy - Dome SW (👟 cleats) - Home vs Blizzard SC4
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -259,15 +273,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs Blizzard SC4 · MSC Dome SW · Cleats
+DESCRIPTION:Aces FC Academy - Dome SW (👟 cleats) - Home vs Blizzard SC4
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108837@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270309T214500
 DTEND;TZID=America/Edmonton:20270309T224500
-SUMMARY:⚽ Aces FC Academy vs FC Phoenix UA · MSC Dome SE · Cleats
+SUMMARY:Aces FC Academy - Dome SE (👟 cleats) - Home vs FC Phoenix UA
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -277,15 +291,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy vs FC Phoenix UA · MSC Dome SE · Cleats
+DESCRIPTION:Aces FC Academy - Dome SE (👟 cleats) - Home vs FC Phoenix U
+ A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108908@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270315T214500
 DTEND;TZID=America/Edmonton:20270315T224500
-SUMMARY:⚽ Aces FC Academy at Calglen Inter United · MSC Dome SE · Cleats
+SUMMARY:Aces FC Academy - Dome SE (👟 cleats) - Away at Calglen Inter Un
+ ited
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -295,16 +311,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at Calglen Inter United · MSC Dome SE · Cl
- eats
+DESCRIPTION:Aces FC Academy - Dome SE (👟 cleats) - Away at Calglen Inte
+ r United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108968@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270321T210000
 DTEND;TZID=America/Edmonton:20270321T220000
-SUMMARY:⚽ Aces FC Academy at Condor FC B · Aspen Air · Cleats
+SUMMARY:Aces FC Academy - Macron Aspen Air (👟 cleats) - Away at Condor 
+ FC B
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -314,7 +331,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Aces FC Academy at Condor FC B · Aspen Air · Cleats
+DESCRIPTION:Aces FC Academy - Macron Aspen Air (👟 cleats) - Away at Con
+ dor FC B
 END:VALARM
 END:VEVENT
 END:VCALENDAR

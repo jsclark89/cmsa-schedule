@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707198@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T080000
 DTEND;TZID=America/Edmonton:20261025T090000
-SUMMARY:⚽ Rockies Villareal 17 vs RANGERS SPORTIF 17 · Field 1 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Home vs RANGERS SP
+ ORTIF 17
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #64\nSchedule: https://jsclark8
@@ -38,15 +39,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs RANGERS SPORTIF 17 · Field 1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Home vs RANGER
+ S SPORTIF 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707207@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
-SUMMARY:⚽ Rockies Villareal 17 at Blizzard Rovers 17 Boys · Field 1 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Away at Blizzard R
+ overs 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #73\nSchedule: https://jsclark8
@@ -55,17 +58,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at Blizzard Rovers 17 Boys · Field 1 
- 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Away at Blizza
+ rd Rovers 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707209@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T090000
 DTEND;TZID=America/Edmonton:20261108T100000
-SUMMARY:⚽ Rockies Villareal 17 vs Blizzard Wanderers 17 Boys · Field 1 7
- v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Home vs Blizzard W
+ anderers 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #75\nSchedule: https://jsclark8
@@ -74,17 +77,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs Blizzard Wanderers 17 Boys · Field
-  1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Home vs Blizza
+ rd Wanderers 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707213@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261122T081500
 DTEND;TZID=America/Edmonton:20261122T091500
-SUMMARY:⚽ Rockies Villareal 17 at Blizzard Sporting 17 Boys · Field 2 7v
- 7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 2 - Away at Blizzard S
+ porting 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #79\nSchedule: https://jsclark8
@@ -93,16 +96,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at Blizzard Sporting 17 Boys · Field 
- 2 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 2 - Away at Blizza
+ rd Sporting 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707218@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T081500
 DTEND;TZID=America/Edmonton:20261129T091500
-SUMMARY:⚽ Rockies Villareal 17 vs Blizzard Albion 17 Boys · Field 2 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 2 - Home vs Blizzard A
+ lbion 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #84\nSchedule: https://jsclark8
@@ -111,16 +115,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs Blizzard Albion 17 Boys · Field 2 
- 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 2 - Home vs Blizza
+ rd Albion 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707225@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T100000
 DTEND;TZID=America/Edmonton:20261206T110000
-SUMMARY:⚽ Rockies Villareal 17 at CWFC B2017 Green · Field 3 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 3 - Away at CWFC B2017
+  Green
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #91\nSchedule: https://jsclark8
@@ -129,16 +134,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at CWFC B2017 Green · Field 3 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 3 - Away at CWFC B
+ 2017 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707229@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261213T091500
 DTEND;TZID=America/Edmonton:20261213T101500
-SUMMARY:⚽ Rockies Villareal 17 vs WHU West Hills Ferraris 17 · Field 4 7
- v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 4 - Home vs WHU West H
+ ills Ferraris 17
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #95\nSchedule: https://jsclark8
@@ -147,16 +153,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs WHU West Hills Ferraris 17 · Field
-  4 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 4 - Home vs WHU We
+ st Hills Ferraris 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707237@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T120000
 DTEND;TZID=America/Edmonton:20261220T130000
-SUMMARY:⚽ Rockies Villareal 17 vs CNS U10B Phoenix 17 Dev · Field 1 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Home vs CNS U10B P
+ hoenix 17 Dev
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #103\nSchedule: https://jsclark
@@ -165,16 +172,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs CNS U10B Phoenix 17 Dev · Field 1 
- 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Home vs CNS U1
+ 0B Phoenix 17 Dev
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707238@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T080000
 DTEND;TZID=America/Edmonton:20270103T090000
-SUMMARY:⚽ Rockies Villareal 17 at Rockies Vigo 17 · Field 1 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Away at Rockies Vi
+ go 17
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #104\nSchedule: https://jsclark
@@ -183,15 +191,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at Rockies Vigo 17 · Field 1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Away at Rockie
+ s Vigo 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707246@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T111500
 DTEND;TZID=America/Edmonton:20270117T121500
-SUMMARY:⚽ Rockies Villareal 17 at RANGERS SPORTIF 17 · Field 1 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Away at RANGERS SP
+ ORTIF 17
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #112\nSchedule: https://jsclark
@@ -200,15 +210,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at RANGERS SPORTIF 17 · Field 1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Away at RANGER
+ S SPORTIF 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707251@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T111500
 DTEND;TZID=America/Edmonton:20270124T121500
-SUMMARY:⚽ Rockies Villareal 17 vs Blizzard Rovers 17 Boys · Field 3 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 3 - Home vs Blizzard R
+ overs 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #117\nSchedule: https://jsclark
@@ -217,17 +229,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs Blizzard Rovers 17 Boys · Field 3 
- 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 3 - Home vs Blizza
+ rd Rovers 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707253@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T081500
 DTEND;TZID=America/Edmonton:20270207T091500
-SUMMARY:⚽ Rockies Villareal 17 at Blizzard Wanderers 17 Boys · Field 1 7
- v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Away at Blizzard W
+ anderers 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #119\nSchedule: https://jsclark
@@ -236,17 +248,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at Blizzard Wanderers 17 Boys · Field
-  1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Away at Blizza
+ rd Wanderers 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707258@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T081500
 DTEND;TZID=America/Edmonton:20270221T091500
-SUMMARY:⚽ Rockies Villareal 17 vs Blizzard Sporting 17 Boys · Field 1 7v
- 7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 1 - Home vs Blizzard S
+ porting 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #124\nSchedule: https://jsclark
@@ -255,16 +267,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 vs Blizzard Sporting 17 Boys · Field 
- 1 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 1 - Home vs Blizza
+ rd Sporting 17 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707263@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T081500
 DTEND;TZID=America/Edmonton:20270228T091500
-SUMMARY:⚽ Rockies Villareal 17 at Blizzard Albion 17 Boys · Field 4 7v7
+SUMMARY:U10 Rockies Villareal - Shane Homes Field 4 - Away at Blizzard A
+ lbion 17 Boys
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U10 Dev JEBBISON · Game #129\nSchedule: https://jsclark
@@ -273,8 +286,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Villareal 17 at Blizzard Albion 17 Boys · Field 4 
- 7v7
+DESCRIPTION:U10 Rockies Villareal - Shane Homes Field 4 - Away at Blizza
+ rd Albion 17 Boys
 END:VALARM
 END:VEVENT
 END:VCALENDAR

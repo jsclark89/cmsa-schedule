@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707718@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T081500
 DTEND;TZID=America/Edmonton:20261025T091500
-SUMMARY:⚽ Blizzard United 17 Girls vs Foothills Tides 2017 · Field 2 7v7
+SUMMARY:Shane Homes Field 2 - Blizzard United 17 Girls vs Foothills Tide
+ s 2017
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #3993\nSchedule: https://
@@ -38,16 +39,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs Foothills Tides 2017 · Field 2
-  7v7
+DESCRIPTION:Shane Homes Field 2 - Blizzard United 17 Girls vs Foothills 
+ Tides 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707719@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T100000
 DTEND;TZID=America/Edmonton:20261025T110000
-SUMMARY:⚽ MUSC Mavericks 17 vs CNEU 2017 Sting · Field A (7v7) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs CNEU 2017 St
+ ing
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,16 +59,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs CNEU 2017 Sting · Field A (7v7) · Cle
- ats
+DESCRIPTION:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs CNEU 201
+ 7 Sting
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707720@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T110000
 DTEND;TZID=America/Edmonton:20261025T120000
-SUMMARY:⚽ OUSC United G16 vs EMFC Spirit 17 · Field A (7v7) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - OUSC United G16 vs EMFC Spirit 17
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -76,16 +78,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs EMFC Spirit 17 · Field A (7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - OUSC United G16 vs EMFC Spiri
+ t 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707716@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T150000
 DTEND;TZID=America/Edmonton:20261025T160000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs Villains Strikers 17 · Annex - Bra
- vo · Indoor shoes
+SUMMARY:Annex Bravo (👟 indoor) - Spartans Aphrodite 18/17 vs Villains S
+ trikers 17
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -95,17 +98,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs Villains Strikers 17 · Annex -
-  Bravo · Indoor shoes
+DESCRIPTION:Annex Bravo (👟 indoor) - Spartans Aphrodite 18/17 vs Villai
+ ns Strikers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707717@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261025T160000
 DTEND;TZID=America/Edmonton:20261025T170000
-SUMMARY:⚽ CUFC Queens 2017/18 vs Foothills Courage 2017 · Annex - Bravo 
- · Indoor shoes
+SUMMARY:Annex Bravo (👟 indoor) - CUFC Queens 2017/18 vs Foothills Coura
+ ge 2017
 LOCATION:MaxWell Soccer Centre Annex - Bravo Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -115,17 +118,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs Foothills Courage 2017 · Annex - Br
- avo · Indoor shoes
+DESCRIPTION:Annex Bravo (👟 indoor) - CUFC Queens 2017/18 vs Foothills C
+ ourage 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707723@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
-SUMMARY:⚽ Foothills Tides 2017 vs MUSC Mavericks 17 · Annex - Alpha · In
- door shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Tides 2017 vs MUSC Mavericks
+  17
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -135,17 +138,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs MUSC Mavericks 17 · Annex - Alpha 
- · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Tides 2017 vs MUSC Maver
+ icks 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707724@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T130000
 DTEND;TZID=America/Edmonton:20261101T140000
-SUMMARY:⚽ Villains Strikers 17 vs CUFC Queens 2017/18 · Annex - Alpha · 
- Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Villains Strikers 17 vs CUFC Queens 20
+ 17/18
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -155,17 +158,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs CUFC Queens 2017/18 · Annex - Alph
- a · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Villains Strikers 17 vs CUFC Queen
+ s 2017/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707725@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T140000
 DTEND;TZID=America/Edmonton:20261101T150000
-SUMMARY:⚽ Foothills Courage 2017 vs OUSC United G16 · Annex - Alpha · In
- door shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Courage 2017 vs OUSC United 
+ G16
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -175,17 +178,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs OUSC United G16 · Annex - Alpha 
- · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Courage 2017 vs OUSC Uni
+ ted G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707721@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T150000
 DTEND;TZID=America/Edmonton:20261101T160000
-SUMMARY:⚽ CNEU 2017 Sting vs EMFC Spirit 17 · Indoor AT 7v7 · Indoor sho
- es
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs EMFC Spirit 1
+ 7
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -195,17 +198,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs EMFC Spirit 17 · Indoor AT 7v7 · Indoor
-  shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs EMFC Spir
+ it 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707722@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs Blizzard United 17 Girls · Indoor 
- AT 7v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs Bliz
+ zard United 17 Girls
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -215,16 +218,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs Blizzard United 17 Girls · Ind
- oor AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs 
+ Blizzard United 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707726@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T090000
 DTEND;TZID=America/Edmonton:20261107T100000
-SUMMARY:⚽ OUSC United G16 vs CNEU 2017 Sting · Blue · Cleats
+SUMMARY:10Fold Blue (👟 cleats) - OUSC United G16 vs CNEU 2017 Sting
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -234,16 +237,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs CNEU 2017 Sting · Blue · Cleats
+DESCRIPTION:10Fold Blue (👟 cleats) - OUSC United G16 vs CNEU 2017 Sting
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707727@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T090000
 DTEND;TZID=America/Edmonton:20261108T100000
-SUMMARY:⚽ MUSC Mavericks 17 vs Spartans Aphrodite 18/17 · Field A (7v7) 
- · Cleats
+SUMMARY:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs Spartans Aph
+ rodite 18/17
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -253,17 +256,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs Spartans Aphrodite 18/17 · Field A (7
- v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs Spartans
+  Aphrodite 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707728@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T100000
 DTEND;TZID=America/Edmonton:20261108T110000
-SUMMARY:⚽ EMFC Spirit 17 vs Foothills Tides 2017 · Field A (7v7) · Cleat
- s
+SUMMARY:Villains Field A (👟 cleats) - EMFC Spirit 17 vs Foothills Tides
+  2017
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -273,17 +276,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs Foothills Tides 2017 · Field A (7v7) · C
- leats
+DESCRIPTION:Villains Field A (👟 cleats) - EMFC Spirit 17 vs Foothills T
+ ides 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707729@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T110000
 DTEND;TZID=America/Edmonton:20261108T120000
-SUMMARY:⚽ Blizzard United 17 Girls vs CUFC Queens 2017/18 · Field A (7v7
- ) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs CUFC 
+ Queens 2017/18
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -293,17 +296,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs CUFC Queens 2017/18 · Field A 
- (7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs C
+ UFC Queens 2017/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707730@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T120000
 DTEND;TZID=America/Edmonton:20261108T130000
-SUMMARY:⚽ Foothills Courage 2017 vs Villains Strikers 17 · Field A (7v7)
-  · Cleats
+SUMMARY:Villains Field A (👟 cleats) - Foothills Courage 2017 vs Villain
+ s Strikers 17
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -313,17 +316,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs Villains Strikers 17 · Field A (
- 7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Foothills Courage 2017 vs Vil
+ lains Strikers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707731@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs EMFC Spirit 17 · Annex - Charlie ·
-  Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Spartans Aphrodite 18/17 vs EMFC Spi
+ rit 17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -333,17 +336,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs EMFC Spirit 17 · Annex - Charl
- ie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Spartans Aphrodite 18/17 vs EMFC
+  Spirit 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707732@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T120000
 DTEND;TZID=America/Edmonton:20261115T130000
-SUMMARY:⚽ CUFC Queens 2017/18 vs MUSC Mavericks 17 · Main - West · Indoo
- r shoes
+SUMMARY:Main West (👟 indoor) - CUFC Queens 2017/18 vs MUSC Mavericks 17
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -353,17 +355,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs MUSC Mavericks 17 · Main - West · I
- ndoor shoes
+DESCRIPTION:Main West (👟 indoor) - CUFC Queens 2017/18 vs MUSC Maverick
+ s 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707733@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T130000
 DTEND;TZID=America/Edmonton:20261115T140000
-SUMMARY:⚽ Foothills Courage 2017 vs Blizzard United 17 Girls · Main - We
- st · Indoor shoes
+SUMMARY:Main West (👟 indoor) - Foothills Courage 2017 vs Blizzard Unite
+ d 17 Girls
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -373,17 +375,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs Blizzard United 17 Girls · Main 
- - West · Indoor shoes
+DESCRIPTION:Main West (👟 indoor) - Foothills Courage 2017 vs Blizzard U
+ nited 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707734@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T140000
 DTEND;TZID=America/Edmonton:20261115T150000
-SUMMARY:⚽ Foothills Tides 2017 vs CNEU 2017 Sting · Main - West · Indoor
-  shoes
+SUMMARY:Main West (👟 indoor) - Foothills Tides 2017 vs CNEU 2017 Sting
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -393,17 +394,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs CNEU 2017 Sting · Main - West · In
- door shoes
+DESCRIPTION:Main West (👟 indoor) - Foothills Tides 2017 vs CNEU 2017 St
+ ing
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707735@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T150000
 DTEND;TZID=America/Edmonton:20261115T160000
-SUMMARY:⚽ Villains Strikers 17 vs OUSC United G16 · Main - West · Indoor
-  shoes
+SUMMARY:Main West (👟 indoor) - Villains Strikers 17 vs OUSC United G16
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -413,16 +413,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs OUSC United G16 · Main - West · In
- door shoes
+DESCRIPTION:Main West (👟 indoor) - Villains Strikers 17 vs OUSC United 
+ G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707736@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T090000
 DTEND;TZID=America/Edmonton:20261128T100000
-SUMMARY:⚽ OUSC United G16 vs Foothills Tides 2017 · Blue · Cleats
+SUMMARY:10Fold Blue (👟 cleats) - OUSC United G16 vs Foothills Tides 201
+ 7
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -432,16 +433,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs Foothills Tides 2017 · Blue · Cleats
+DESCRIPTION:10Fold Blue (👟 cleats) - OUSC United G16 vs Foothills Tides
+  2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707740@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
-SUMMARY:⚽ Blizzard United 17 Girls vs Villains Strikers 17 · Field A (7v
- 7) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs Villa
+ ins Strikers 17
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -451,17 +453,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs Villains Strikers 17 · Field A
-  (7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs V
+ illains Strikers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707737@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T100000
 DTEND;TZID=America/Edmonton:20261129T110000
-SUMMARY:⚽ CNEU 2017 Sting vs Spartans Aphrodite 18/17 · Main - East · In
- door shoes
+SUMMARY:Main East (👟 indoor) - CNEU 2017 Sting vs Spartans Aphrodite 18
+ /17
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -471,17 +473,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs Spartans Aphrodite 18/17 · Main - East 
- · Indoor shoes
+DESCRIPTION:Main East (👟 indoor) - CNEU 2017 Sting vs Spartans Aphrodit
+ e 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707738@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T110000
 DTEND;TZID=America/Edmonton:20261129T120000
-SUMMARY:⚽ EMFC Spirit 17 vs CUFC Queens 2017/18 · Main - East · Indoor s
- hoes
+SUMMARY:Main East (👟 indoor) - EMFC Spirit 17 vs CUFC Queens 2017/18
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -491,17 +492,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs CUFC Queens 2017/18 · Main - East · Indo
- or shoes
+DESCRIPTION:Main East (👟 indoor) - EMFC Spirit 17 vs CUFC Queens 2017/1
+ 8
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707739@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T120000
 DTEND;TZID=America/Edmonton:20261129T130000
-SUMMARY:⚽ MUSC Mavericks 17 vs Foothills Courage 2017 · Main - East · In
- door shoes
+SUMMARY:Main East (👟 indoor) - MUSC Mavericks 17 vs Foothills Courage 2
+ 017
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -511,17 +512,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs Foothills Courage 2017 · Main - East 
- · Indoor shoes
+DESCRIPTION:Main East (👟 indoor) - MUSC Mavericks 17 vs Foothills Coura
+ ge 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707741@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T080000
 DTEND;TZID=America/Edmonton:20261206T090000
-SUMMARY:⚽ Foothills Courage 2017 vs EMFC Spirit 17 · Main - East · Indoo
- r shoes
+SUMMARY:Main East (👟 indoor) - Foothills Courage 2017 vs EMFC Spirit 17
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -531,17 +531,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs EMFC Spirit 17 · Main - East · I
- ndoor shoes
+DESCRIPTION:Main East (👟 indoor) - Foothills Courage 2017 vs EMFC Spiri
+ t 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707742@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T090000
 DTEND;TZID=America/Edmonton:20261206T100000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs Foothills Tides 2017 · Main - East
-  · Indoor shoes
+SUMMARY:Main East (👟 indoor) - Spartans Aphrodite 18/17 vs Foothills Ti
+ des 2017
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -551,17 +551,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs Foothills Tides 2017 · Main - 
- East · Indoor shoes
+DESCRIPTION:Main East (👟 indoor) - Spartans Aphrodite 18/17 vs Foothill
+ s Tides 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707743@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T100000
 DTEND;TZID=America/Edmonton:20261206T110000
-SUMMARY:⚽ CUFC Queens 2017/18 vs CNEU 2017 Sting · Main - East · Indoor 
- shoes
+SUMMARY:Main East (👟 indoor) - CUFC Queens 2017/18 vs CNEU 2017 Sting
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -571,17 +570,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs CNEU 2017 Sting · Main - East · Ind
- oor shoes
+DESCRIPTION:Main East (👟 indoor) - CUFC Queens 2017/18 vs CNEU 2017 Sti
+ ng
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707744@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T130000
 DTEND;TZID=America/Edmonton:20261206T140000
-SUMMARY:⚽ Villains Strikers 17 vs MUSC Mavericks 17 · Field A (7v7) · Cl
- eats
+SUMMARY:Villains Field A (👟 cleats) - Villains Strikers 17 vs MUSC Mave
+ ricks 17
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -591,17 +590,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs MUSC Mavericks 17 · Field A (7v7) 
- · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Villains Strikers 17 vs MUSC 
+ Mavericks 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707745@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
-SUMMARY:⚽ Blizzard United 17 Girls vs OUSC United G16 · Field A (7v7) · 
- Cleats
+SUMMARY:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs OUSC 
+ United G16
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -611,17 +610,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs OUSC United G16 · Field A (7v7
- ) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Blizzard United 17 Girls vs O
+ USC United G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707748@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T110000
 DTEND;TZID=America/Edmonton:20261220T120000
-SUMMARY:⚽ OUSC United G16 vs Spartans Aphrodite 18/17 · MSC Dome NW 7v7 
- · Cleats
+SUMMARY:Dome NW (👟 cleats) - OUSC United G16 vs Spartans Aphrodite 18/1
+ 7
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -631,17 +630,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs Spartans Aphrodite 18/17 · MSC Dome NW 
- 7v7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - OUSC United G16 vs Spartans Aphrodite 
+ 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707749@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T120000
 DTEND;TZID=America/Edmonton:20261220T130000
-SUMMARY:⚽ MUSC Mavericks 17 vs Blizzard United 17 Girls · MSC Dome NW 7v
- 7 · Cleats
+SUMMARY:Dome NW (👟 cleats) - MUSC Mavericks 17 vs Blizzard United 17 Gi
+ rls
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -651,17 +650,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs Blizzard United 17 Girls · MSC Dome N
- W 7v7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - MUSC Mavericks 17 vs Blizzard United 1
+ 7 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707750@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T130000
 DTEND;TZID=America/Edmonton:20261220T140000
-SUMMARY:⚽ Foothills Tides 2017 vs CUFC Queens 2017/18 · MSC Dome NW 7v7 
- · Cleats
+SUMMARY:Dome NW (👟 cleats) - Foothills Tides 2017 vs CUFC Queens 2017/1
+ 8
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -671,17 +670,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs CUFC Queens 2017/18 · MSC Dome NW 
- 7v7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Foothills Tides 2017 vs CUFC Queens 20
+ 17/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707746@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T150000
 DTEND;TZID=America/Edmonton:20261220T160000
-SUMMARY:⚽ CNEU 2017 Sting vs Foothills Courage 2017 · Indoor AT 7v7 · In
- door shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Foothills Cou
+ rage 2017
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -691,17 +690,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs Foothills Courage 2017 · Indoor AT 7v7 
- · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Foothills
+  Courage 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707747@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T160000
 DTEND;TZID=America/Edmonton:20261220T170000
-SUMMARY:⚽ EMFC Spirit 17 vs Villains Strikers 17 · Indoor AT 7v7 · Indoo
- r shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs Villains Strik
+ ers 17
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -711,17 +710,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs Villains Strikers 17 · Indoor AT 7v7 · I
- ndoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs Villains S
+ trikers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707751@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T080000
 DTEND;TZID=America/Edmonton:20270103T090000
-SUMMARY:⚽ CUFC Queens 2017/18 vs Spartans Aphrodite 18/17 · Annex - Char
- lie · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - CUFC Queens 2017/18 vs Spartans Aphr
+ odite 18/17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -731,17 +730,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs Spartans Aphrodite 18/17 · Annex - 
- Charlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - CUFC Queens 2017/18 vs Spartans 
+ Aphrodite 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707752@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T090000
 DTEND;TZID=America/Edmonton:20270103T100000
-SUMMARY:⚽ Villains Strikers 17 vs CNEU 2017 Sting · Annex - Charlie · In
- door shoes
+SUMMARY:Annex Charlie (👟 indoor) - Villains Strikers 17 vs CNEU 2017 St
+ ing
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -751,17 +750,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs CNEU 2017 Sting · Annex - Charlie 
- · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Villains Strikers 17 vs CNEU 201
+ 7 Sting
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707753@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T100000
 DTEND;TZID=America/Edmonton:20270103T110000
-SUMMARY:⚽ Foothills Courage 2017 vs Foothills Tides 2017 · Annex - Charl
- ie · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Foothills Courage 2017 vs Foothills 
+ Tides 2017
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -771,17 +770,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs Foothills Tides 2017 · Annex - C
- harlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Foothills Courage 2017 vs Foothi
+ lls Tides 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707754@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T110000
 DTEND;TZID=America/Edmonton:20270103T120000
-SUMMARY:⚽ MUSC Mavericks 17 vs OUSC United G16 · Annex - Charlie · Indoo
- r shoes
+SUMMARY:Annex Charlie (👟 indoor) - MUSC Mavericks 17 vs OUSC United G16
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -791,16 +789,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs OUSC United G16 · Annex - Charlie · I
- ndoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - MUSC Mavericks 17 vs OUSC United
+  G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707755@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T131500
 DTEND;TZID=America/Edmonton:20270103T141500
-SUMMARY:⚽ Blizzard United 17 Girls vs EMFC Spirit 17 · Field 2 7v7
+SUMMARY:Shane Homes Field 2 - Blizzard United 17 Girls vs EMFC Spirit 17
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4030\nSchedule: https://
@@ -809,16 +807,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs EMFC Spirit 17 · Field 2 7v7
+DESCRIPTION:Shane Homes Field 2 - Blizzard United 17 Girls vs EMFC Spiri
+ t 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707758@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T080000
 DTEND;TZID=America/Edmonton:20270110T090000
-SUMMARY:⚽ EMFC Spirit 17 vs MUSC Mavericks 17 · Annex - Charlie · Indoor
-  shoes
+SUMMARY:Annex Charlie (👟 indoor) - EMFC Spirit 17 vs MUSC Mavericks 17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -828,17 +826,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs MUSC Mavericks 17 · Annex - Charlie · In
- door shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - EMFC Spirit 17 vs MUSC Mavericks
+  17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707759@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T090000
 DTEND;TZID=America/Edmonton:20270110T100000
-SUMMARY:⚽ Foothills Tides 2017 vs Villains Strikers 17 · Annex - Charlie
-  · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Foothills Tides 2017 vs Villains Str
+ ikers 17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -848,17 +846,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs Villains Strikers 17 · Annex - Cha
- rlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Foothills Tides 2017 vs Villains
+  Strikers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707760@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T100000
 DTEND;TZID=America/Edmonton:20270110T110000
-SUMMARY:⚽ OUSC United G16 vs CUFC Queens 2017/18 · Annex - Charlie · Ind
- oor shoes
+SUMMARY:Annex Charlie (👟 indoor) - OUSC United G16 vs CUFC Queens 2017/
+ 18
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -868,17 +866,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs CUFC Queens 2017/18 · Annex - Charlie ·
-  Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - OUSC United G16 vs CUFC Queens 2
+ 017/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707756@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T130000
 DTEND;TZID=America/Edmonton:20270110T140000
-SUMMARY:⚽ CNEU 2017 Sting vs Blizzard United 17 Girls · Indoor AT 7v7 · 
- Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Blizzard Unit
+ ed 17 Girls
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -888,17 +886,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs Blizzard United 17 Girls · Indoor AT 7v
- 7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Blizzard 
+ United 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707757@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs Foothills Courage 2017 · Indoor AT
-  7v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs Foot
+ hills Courage 2017
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -908,17 +906,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs Foothills Courage 2017 · Indoo
- r AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs 
+ Foothills Courage 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707763@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
-SUMMARY:⚽ Villains Strikers 17 vs Spartans Aphrodite 18/17 · Annex - Alp
- ha · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Villains Strikers 17 vs Spartans Aphro
+ dite 18/17
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -928,17 +926,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs Spartans Aphrodite 18/17 · Annex -
-  Alpha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Villains Strikers 17 vs Spartans A
+ phrodite 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707765@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T120000
 DTEND;TZID=America/Edmonton:20270117T130000
-SUMMARY:⚽ Foothills Tides 2017 vs Blizzard United 17 Girls · Main - West
-  · Indoor shoes
+SUMMARY:Main West (👟 indoor) - Foothills Tides 2017 vs Blizzard United 
+ 17 Girls
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -948,17 +946,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs Blizzard United 17 Girls · Main - 
- West · Indoor shoes
+DESCRIPTION:Main West (👟 indoor) - Foothills Tides 2017 vs Blizzard Uni
+ ted 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707761@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
-SUMMARY:⚽ EMFC Spirit 17 vs OUSC United G16 · Indoor AT 7v7 · Indoor sho
- es
+SUMMARY:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs OUSC United G1
+ 6
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -968,17 +966,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs OUSC United G16 · Indoor AT 7v7 · Indoor
-  shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs OUSC Unite
+ d G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707764@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T130000
 DTEND;TZID=America/Edmonton:20270117T140000
-SUMMARY:⚽ Foothills Courage 2017 vs CUFC Queens 2017/18 · Annex - Alpha 
- · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Courage 2017 vs CUFC Queens 
+ 2017/18
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -988,17 +986,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs CUFC Queens 2017/18 · Annex - Al
- pha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Courage 2017 vs CUFC Que
+ ens 2017/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707762@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
-SUMMARY:⚽ CNEU 2017 Sting vs MUSC Mavericks 17 · Indoor AT 7v7 · Indoor 
- shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs MUSC Maverick
+ s 17
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1008,17 +1006,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs MUSC Mavericks 17 · Indoor AT 7v7 · Ind
- oor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs MUSC Mave
+ ricks 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707770@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T100000
 DTEND;TZID=America/Edmonton:20270124T110000
-SUMMARY:⚽ Blizzard United 17 Girls vs Spartans Aphrodite 18/17 · Field 4
-  7v7
+SUMMARY:Shane Homes Field 4 - Blizzard United 17 Girls vs Spartans Aphro
+ dite 18/17
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4045\nSchedule: https://
@@ -1027,17 +1025,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs Spartans Aphrodite 18/17 · Fie
- ld 4 7v7
+DESCRIPTION:Shane Homes Field 4 - Blizzard United 17 Girls vs Spartans A
+ phrodite 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707766@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
-SUMMARY:⚽ MUSC Mavericks 17 vs Foothills Tides 2017 · Main - West · Indo
- or shoes
+SUMMARY:Main West (👟 indoor) - MUSC Mavericks 17 vs Foothills Tides 201
+ 7
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1047,17 +1045,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs Foothills Tides 2017 · Main - West · 
- Indoor shoes
+DESCRIPTION:Main West (👟 indoor) - MUSC Mavericks 17 vs Foothills Tides
+  2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707767@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
-SUMMARY:⚽ OUSC United G16 vs Foothills Courage 2017 · Main - West · Indo
- or shoes
+SUMMARY:Main West (👟 indoor) - OUSC United G16 vs Foothills Courage 201
+ 7
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1067,16 +1065,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs Foothills Courage 2017 · Main - West · 
- Indoor shoes
+DESCRIPTION:Main West (👟 indoor) - OUSC United G16 vs Foothills Courage
+  2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707768@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T140000
 DTEND;TZID=America/Edmonton:20270124T150000
-SUMMARY:⚽ EMFC Spirit 17 vs CNEU 2017 Sting · Main - West · Indoor shoes
+SUMMARY:Main West (👟 indoor) - EMFC Spirit 17 vs CNEU 2017 Sting
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1086,17 +1084,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs CNEU 2017 Sting · Main - West · Indoor s
- hoes
+DESCRIPTION:Main West (👟 indoor) - EMFC Spirit 17 vs CNEU 2017 Sting
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707769@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T150000
 DTEND;TZID=America/Edmonton:20270124T160000
-SUMMARY:⚽ CUFC Queens 2017/18 vs Villains Strikers 17 · Main - West · In
- door shoes
+SUMMARY:Main West (👟 indoor) - CUFC Queens 2017/18 vs Villains Strikers
+  17
 LOCATION:MaxWell Soccer Centre Main - West Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1106,17 +1103,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs Villains Strikers 17 · Main - West 
- · Indoor shoes
+DESCRIPTION:Main West (👟 indoor) - CUFC Queens 2017/18 vs Villains Stri
+ kers 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707771@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T080000
 DTEND;TZID=America/Edmonton:20270207T090000
-SUMMARY:⚽ CNEU 2017 Sting vs OUSC United G16 · Annex - Charlie · Indoor 
- shoes
+SUMMARY:Annex Charlie (👟 indoor) - CNEU 2017 Sting vs OUSC United G16
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1126,17 +1122,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs OUSC United G16 · Annex - Charlie · Ind
- oor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - CNEU 2017 Sting vs OUSC United G
+ 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707772@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T090000
 DTEND;TZID=America/Edmonton:20270207T100000
-SUMMARY:⚽ CUFC Queens 2017/18 vs Blizzard United 17 Girls · Annex - Char
- lie · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - CUFC Queens 2017/18 vs Blizzard Unit
+ ed 17 Girls
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1146,17 +1142,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs Blizzard United 17 Girls · Annex - 
- Charlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - CUFC Queens 2017/18 vs Blizzard 
+ United 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707773@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T100000
 DTEND;TZID=America/Edmonton:20270207T110000
-SUMMARY:⚽ Villains Strikers 17 vs Foothills Courage 2017 · Annex - Charl
- ie · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Villains Strikers 17 vs Foothills Co
+ urage 2017
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1166,17 +1162,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs Foothills Courage 2017 · Annex - C
- harlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Villains Strikers 17 vs Foothill
+ s Courage 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707774@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T110000
 DTEND;TZID=America/Edmonton:20270207T120000
-SUMMARY:⚽ Foothills Tides 2017 vs EMFC Spirit 17 · Annex - Charlie · Ind
- oor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Foothills Tides 2017 vs EMFC Spirit 
+ 17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1186,17 +1182,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs EMFC Spirit 17 · Annex - Charlie ·
-  Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Foothills Tides 2017 vs EMFC Spi
+ rit 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707775@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs MUSC Mavericks 17 · Annex - Charli
- e · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Spartans Aphrodite 18/17 vs MUSC Mav
+ ericks 17
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1206,17 +1202,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs MUSC Mavericks 17 · Annex - Ch
- arlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Spartans Aphrodite 18/17 vs MUSC
+  Mavericks 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707779@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T111500
 DTEND;TZID=America/Edmonton:20270221T121500
-SUMMARY:⚽ Blizzard United 17 Girls vs Foothills Courage 2017 · Field 3 7
- v7
+SUMMARY:Shane Homes Field 3 - Blizzard United 17 Girls vs Foothills Cour
+ age 2017
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Girls U10 Dev Plus+ LARISEY · Game #4054\nSchedule: https://
@@ -1225,17 +1221,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard United 17 Girls vs Foothills Courage 2017 · Field
-  3 7v7
+DESCRIPTION:Shane Homes Field 3 - Blizzard United 17 Girls vs Foothills 
+ Courage 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707780@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T120000
 DTEND;TZID=America/Edmonton:20270221T130000
-SUMMARY:⚽ MUSC Mavericks 17 vs CUFC Queens 2017/18 · Field A (7v7) · Cle
- ats
+SUMMARY:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs CUFC Queens 
+ 2017/18
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1245,16 +1241,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ MUSC Mavericks 17 vs CUFC Queens 2017/18 · Field A (7v7) ·
-  Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - MUSC Mavericks 17 vs CUFC Que
+ ens 2017/18
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707776@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
-SUMMARY:⚽ OUSC United G16 vs Villains Strikers 17 · Blue · Cleats
+SUMMARY:10Fold Blue (👟 cleats) - OUSC United G16 vs Villains Strikers 1
+ 7
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1264,16 +1261,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United G16 vs Villains Strikers 17 · Blue · Cleats
+DESCRIPTION:10Fold Blue (👟 cleats) - OUSC United G16 vs Villains Strike
+ rs 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707777@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T150000
 DTEND;TZID=America/Edmonton:20270221T160000
-SUMMARY:⚽ EMFC Spirit 17 vs Spartans Aphrodite 18/17 · Indoor AT 7v7 · I
- ndoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs Spartans Aphro
+ dite 18/17
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1283,17 +1281,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Spirit 17 vs Spartans Aphrodite 18/17 · Indoor AT 7v7
-  · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - EMFC Spirit 17 vs Spartans A
+ phrodite 18/17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707778@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270221T160000
 DTEND;TZID=America/Edmonton:20270221T170000
-SUMMARY:⚽ CNEU 2017 Sting vs Foothills Tides 2017 · Indoor AT 7v7 · Indo
- or shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Foothills Tid
+ es 2017
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1303,17 +1301,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2017 Sting vs Foothills Tides 2017 · Indoor AT 7v7 · 
- Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2017 Sting vs Foothills
+  Tides 2017
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707783@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T110000
 DTEND;TZID=America/Edmonton:20270228T120000
-SUMMARY:⚽ Villains Strikers 17 vs Blizzard United 17 Girls · Annex - Del
- ta · Indoor shoes
+SUMMARY:Annex Delta (👟 indoor) - Villains Strikers 17 vs Blizzard Unite
+ d 17 Girls
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1323,17 +1321,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains Strikers 17 vs Blizzard United 17 Girls · Annex -
-  Delta · Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - Villains Strikers 17 vs Blizzard U
+ nited 17 Girls
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707784@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
-SUMMARY:⚽ Foothills Tides 2017 vs OUSC United G16 · Annex - Delta · Indo
- or shoes
+SUMMARY:Annex Delta (👟 indoor) - Foothills Tides 2017 vs OUSC United G1
+ 6
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1343,17 +1341,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Tides 2017 vs OUSC United G16 · Annex - Delta · 
- Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - Foothills Tides 2017 vs OUSC Unite
+ d G16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707785@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T130000
 DTEND;TZID=America/Edmonton:20270228T140000
-SUMMARY:⚽ Foothills Courage 2017 vs MUSC Mavericks 17 · Annex - Delta · 
- Indoor shoes
+SUMMARY:Annex Delta (👟 indoor) - Foothills Courage 2017 vs MUSC Maveric
+ ks 17
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1363,17 +1361,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Courage 2017 vs MUSC Mavericks 17 · Annex - Delt
- a · Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - Foothills Courage 2017 vs MUSC Mav
+ ericks 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707781@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T150000
 DTEND;TZID=America/Edmonton:20270228T160000
-SUMMARY:⚽ CUFC Queens 2017/18 vs EMFC Spirit 17 · Indoor AT 7v7 · Indoor
-  shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Queens 2017/18 vs EMFC Spir
+ it 17
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1383,17 +1381,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Queens 2017/18 vs EMFC Spirit 17 · Indoor AT 7v7 · In
- door shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Queens 2017/18 vs EMFC 
+ Spirit 17
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707782@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T160000
 DTEND;TZID=America/Edmonton:20270228T170000
-SUMMARY:⚽ Spartans Aphrodite 18/17 vs CNEU 2017 Sting · Indoor AT 7v7 · 
- Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs CNEU
+  2017 Sting
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1403,8 +1401,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Aphrodite 18/17 vs CNEU 2017 Sting · Indoor AT 7v
- 7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - Spartans Aphrodite 18/17 vs 
+ CNEU 2017 Sting
 END:VALARM
 END:VEVENT
 END:VCALENDAR

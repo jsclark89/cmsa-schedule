@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109089@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T204500
 DTEND;TZID=America/Edmonton:20261107T214500
-SUMMARY:⚽ Washed FC at Free Roam FC · MSC Dome SE · Cleats
+SUMMARY:Washed FC - Dome SE (👟 cleats) - Away at Free Roam FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at Free Roam FC · MSC Dome SE · Cleats
+DESCRIPTION:Washed FC - Dome SE (👟 cleats) - Away at Free Roam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109252@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T193000
 DTEND;TZID=America/Edmonton:20261121T203000
-SUMMARY:⚽ Washed FC vs Latam FC · MSC Dome SE · Cleats
+SUMMARY:Washed FC - Dome SE (👟 cleats) - Home vs Latam FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +57,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs Latam FC · MSC Dome SE · Cleats
+DESCRIPTION:Washed FC - Dome SE (👟 cleats) - Home vs Latam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109294@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T220000
 DTEND;TZID=America/Edmonton:20261125T230000
-SUMMARY:⚽ Washed FC at West Hills United · Encana NE · Cleats
+SUMMARY:Washed FC - Shouldice Encana NE (👟 cleats) - Away at West Hills
+  United
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,15 +76,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at West Hills United · Encana NE · Cleats
+DESCRIPTION:Washed FC - Shouldice Encana NE (👟 cleats) - Away at West H
+ ills United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109356@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261130T213000
 DTEND;TZID=America/Edmonton:20261130T223000
-SUMMARY:⚽ Washed FC vs Orion FC · Foothills · Cleats
+SUMMARY:Washed FC - Macron Foothills (👟 cleats) - Home vs Orion FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -93,15 +95,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs Orion FC · Foothills · Cleats
+DESCRIPTION:Washed FC - Macron Foothills (👟 cleats) - Home vs Orion FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109415@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T204500
 DTEND;TZID=America/Edmonton:20261205T214500
-SUMMARY:⚽ Washed FC at Worldwide FC Chargers · MSC Dome NE · Cleats
+SUMMARY:Washed FC - Dome NE (👟 cleats) - Away at Worldwide FC Chargers
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -111,15 +113,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at Worldwide FC Chargers · MSC Dome NE · Cleats
+DESCRIPTION:Washed FC - Dome NE (👟 cleats) - Away at Worldwide FC Charg
+ ers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109493@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
-SUMMARY:⚽ Washed FC at APPLEWOOD FC · MSC Dome SW · Cleats
+SUMMARY:Washed FC - Dome SW (👟 cleats) - Away at APPLEWOOD FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -129,15 +132,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at APPLEWOOD FC · MSC Dome SW · Cleats
+DESCRIPTION:Washed FC - Dome SW (👟 cleats) - Away at APPLEWOOD FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109513@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T214500
 DTEND;TZID=America/Edmonton:20261214T224500
-SUMMARY:⚽ Washed FC vs Worldwide FC Chargers · MSC Dome NE · Cleats
+SUMMARY:Washed FC - Dome NE (👟 cleats) - Home vs Worldwide FC Chargers
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -147,15 +150,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs Worldwide FC Chargers · MSC Dome NE · Cleats
+DESCRIPTION:Washed FC - Dome NE (👟 cleats) - Home vs Worldwide FC Charg
+ ers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108229@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T213000
 DTEND;TZID=America/Edmonton:20270110T223000
-SUMMARY:⚽ Washed FC at The Wolf FC · Foothills · Cleats
+SUMMARY:Washed FC - Macron Foothills (👟 cleats) - Away at The Wolf FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -165,15 +169,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at The Wolf FC · Foothills · Cleats
+DESCRIPTION:Washed FC - Macron Foothills (👟 cleats) - Away at The Wolf 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108296@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T204500
 DTEND;TZID=America/Edmonton:20270116T214500
-SUMMARY:⚽ Washed FC vs FC Union Ultras · MSC Dome SE · Cleats
+SUMMARY:Washed FC - Dome SE (👟 cleats) - Home vs FC Union Ultras
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -183,15 +188,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs FC Union Ultras · MSC Dome SE · Cleats
+DESCRIPTION:Washed FC - Dome SE (👟 cleats) - Home vs FC Union Ultras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108394@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270125T213000
 DTEND;TZID=America/Edmonton:20270125T223000
-SUMMARY:⚽ Washed FC at JAGUARS FC · Foothills · Cleats
+SUMMARY:Washed FC - Macron Foothills (👟 cleats) - Away at JAGUARS FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -201,15 +206,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at JAGUARS FC · Foothills · Cleats
+DESCRIPTION:Washed FC - Macron Foothills (👟 cleats) - Away at JAGUARS F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108471@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270201T214500
 DTEND;TZID=America/Edmonton:20270201T224500
-SUMMARY:⚽ Washed FC vs Free Roam FC · MSC Dome NE · Cleats
+SUMMARY:Washed FC - Dome NE (👟 cleats) - Home vs Free Roam FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -219,15 +225,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs Free Roam FC · MSC Dome NE · Cleats
+DESCRIPTION:Washed FC - Dome NE (👟 cleats) - Home vs Free Roam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108603@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270212T204500
 DTEND;TZID=America/Edmonton:20270212T214500
-SUMMARY:⚽ Washed FC at Latam FC · Field Safe · Cleats
+SUMMARY:Washed FC - Macron Field Safe (👟 cleats) - Away at Latam FC
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -237,15 +243,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at Latam FC · Field Safe · Cleats
+DESCRIPTION:Washed FC - Macron Field Safe (👟 cleats) - Away at Latam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108743@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T193000
 DTEND;TZID=America/Edmonton:20270227T203000
-SUMMARY:⚽ Washed FC vs West Hills United · MSC Dome SW · Cleats
+SUMMARY:Washed FC - Dome SW (👟 cleats) - Home vs West Hills United
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -255,15 +261,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs West Hills United · MSC Dome SW · Cleats
+DESCRIPTION:Washed FC - Dome SW (👟 cleats) - Home vs West Hills United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108820@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T203000
 DTEND;TZID=America/Edmonton:20270308T213000
-SUMMARY:⚽ Washed FC at Orion FC · MSC Dome NW · Cleats
+SUMMARY:Washed FC - Dome NW (👟 cleats) - Away at Orion FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -273,15 +279,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC at Orion FC · MSC Dome NW · Cleats
+DESCRIPTION:Washed FC - Dome NW (👟 cleats) - Away at Orion FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108877@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270312T213000
 DTEND;TZID=America/Edmonton:20270312T223000
-SUMMARY:⚽ Washed FC vs The Wolf FC · Foothills · Cleats
+SUMMARY:Washed FC - Macron Foothills (👟 cleats) - Home vs The Wolf FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -291,15 +297,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs The Wolf FC · Foothills · Cleats
+DESCRIPTION:Washed FC - Macron Foothills (👟 cleats) - Home vs The Wolf 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109030@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270329T183000
 DTEND;TZID=America/Edmonton:20270329T193000
-SUMMARY:⚽ Washed FC vs APPLEWOOD FC · MSC Dome NE · Cleats
+SUMMARY:Washed FC - Dome NE (👟 cleats) - Home vs APPLEWOOD FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -309,7 +316,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Washed FC vs APPLEWOOD FC · MSC Dome NE · Cleats
+DESCRIPTION:Washed FC - Dome NE (👟 cleats) - Home vs APPLEWOOD FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,11 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708082@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261018T111500
 DTEND;TZID=America/Edmonton:20261018T121500
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs CFC Crossfield FC Boys U11 · Fiel
- d 2 7v7
+SUMMARY:Shane Homes Field 2 - Blizzard Sporting 16 Boys vs CFC Crossfiel
+ d FC Boys U11
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #752\nSchedule: https://j
@@ -39,16 +39,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs CFC Crossfield FC Boys U11 · 
- Field 2 7v7
+DESCRIPTION:Shane Homes Field 2 - Blizzard Sporting 16 Boys vs CFC Cross
+ field FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708083@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261018T121500
 DTEND;TZID=America/Edmonton:20261018T131500
-SUMMARY:⚽ RANGERS FC16 RED vs Foothills Ultra 2016 · Field 2 7v7
+SUMMARY:Shane Homes Field 2 - RANGERS FC16 RED vs Foothills Ultra 2016
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #753\nSchedule: https://j
@@ -57,16 +57,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs Foothills Ultra 2016 · Field 2 7v7
+DESCRIPTION:Shane Homes Field 2 - RANGERS FC16 RED vs Foothills Ultra 20
+ 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708080@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261018T130000
 DTEND;TZID=America/Edmonton:20261018T140000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs OUSC United B15 Green · Indoor AT 7v7 · 
- Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs OUSC Unite
+ d B15 Green
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -76,17 +77,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs OUSC United B15 Green · Indoor AT 7v
- 7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs OUSC U
+ nited B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708081@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261018T140000
 DTEND;TZID=America/Edmonton:20261018T150000
-SUMMARY:⚽ CUFC Marauders 2016 vs RWFC Real 16 · Indoor AT 7v7 · Indoor s
- hoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs RWFC Real
+  16
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -96,17 +97,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs RWFC Real 16 · Indoor AT 7v7 · Indo
- or shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs RWFC 
+ Real 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708085@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
-SUMMARY:⚽ RWFC Real 16 vs CNEU 2016 PIRANHAS · Annex - Delta · Indoor sh
- oes
+SUMMARY:Annex Delta (👟 indoor) - RWFC Real 16 vs CNEU 2016 PIRANHAS
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -116,17 +116,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs CNEU 2016 PIRANHAS · Annex - Delta · Indoo
- r shoes
+DESCRIPTION:Annex Delta (👟 indoor) - RWFC Real 16 vs CNEU 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708087@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T120000
 DTEND;TZID=America/Edmonton:20261101T130000
-SUMMARY:⚽ Foothills Ultra 2016 vs Blizzard Sporting 16 Boys · Main - Eas
- t · Indoor shoes
+SUMMARY:Main East (👟 indoor) - Foothills Ultra 2016 vs Blizzard Sportin
+ g 16 Boys
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -136,17 +135,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs Blizzard Sporting 16 Boys · Main -
-  East · Indoor shoes
+DESCRIPTION:Main East (👟 indoor) - Foothills Ultra 2016 vs Blizzard Spo
+ rting 16 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708086@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T130000
 DTEND;TZID=America/Edmonton:20261101T140000
-SUMMARY:⚽ CUFC Marauders 2016 vs CFC Crossfield FC Boys U11 · Annex - De
- lta · Indoor shoes
+SUMMARY:Annex Delta (👟 indoor) - CUFC Marauders 2016 vs CFC Crossfield 
+ FC Boys U11
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -156,16 +155,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs CFC Crossfield FC Boys U11 · Annex 
- - Delta · Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - CUFC Marauders 2016 vs CFC Crossfi
+ eld FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708084@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261101T170000
 DTEND;TZID=America/Edmonton:20261101T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs RANGERS FC16 RED · Field 2 · Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs RA
+ NGERS FC16 RED
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -175,17 +175,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs RANGERS FC16 RED · Field 2 · Cleat
- s
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s RANGERS FC16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708091@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T121500
 DTEND;TZID=America/Edmonton:20261108T131500
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs OUSC United B15 Green · Field 2 7
- v7
+SUMMARY:Shane Homes Field 2 - Blizzard Sporting 16 Boys vs OUSC United B
+ 15 Green
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #761\nSchedule: https://j
@@ -194,17 +194,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs OUSC United B15 Green · Field
-  2 7v7
+DESCRIPTION:Shane Homes Field 2 - Blizzard Sporting 16 Boys vs OUSC Unit
+ ed B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708089@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs CUFC Marauders 2016 · Indoor AT 7v7 · In
- door shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs CUFC Marau
+ ders 2016
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -214,17 +214,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs CUFC Marauders 2016 · Indoor AT 7v7 
- · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs CUFC M
+ arauders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708090@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T130000
 DTEND;TZID=America/Edmonton:20261108T140000
-SUMMARY:⚽ RANGERS FC16 RED vs RWFC Real 16 · Annex - Alpha · Indoor shoe
- s
+SUMMARY:Annex Alpha (👟 indoor) - RANGERS FC16 RED vs RWFC Real 16
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -234,17 +233,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs RWFC Real 16 · Annex - Alpha · Indoor 
- shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - RANGERS FC16 RED vs RWFC Real 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708088@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T150000
 DTEND;TZID=America/Edmonton:20261108T160000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs Airdrie F.C. Fire 16 · Field 2 ·
-  Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys U11
+  vs Airdrie F.C. Fire 16
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -254,16 +252,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs Airdrie F.C. Fire 16 · Field
-  2 · Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys
+  U11 vs Airdrie F.C. Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708094@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T101500
 DTEND;TZID=America/Edmonton:20261115T111500
-SUMMARY:⚽ RANGERS FC16 RED vs CFC Crossfield FC Boys U11 · Field 4 7v7
+SUMMARY:Shane Homes Field 4 - RANGERS FC16 RED vs CFC Crossfield FC Boys
+  U11
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #764\nSchedule: https://j
@@ -272,17 +271,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs CFC Crossfield FC Boys U11 · Field 4 7
- v7
+DESCRIPTION:Shane Homes Field 4 - RANGERS FC16 RED vs CFC Crossfield FC 
+ Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708093@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T110000
 DTEND;TZID=America/Edmonton:20261115T120000
-SUMMARY:⚽ CUFC Marauders 2016 vs OUSC United B15 Green · Annex - Charlie
-  · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - CUFC Marauders 2016 vs OUSC United B
+ 15 Green
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -292,16 +291,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs OUSC United B15 Green · Annex - Cha
- rlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - CUFC Marauders 2016 vs OUSC Unit
+ ed B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708095@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T111500
 DTEND;TZID=America/Edmonton:20261115T121500
-SUMMARY:⚽ RWFC Real 16 vs Blizzard Sporting 16 Boys · Field 4 7v7
+SUMMARY:Shane Homes Field 4 - RWFC Real 16 vs Blizzard Sporting 16 Boys
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #765\nSchedule: https://j
@@ -310,16 +309,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs Blizzard Sporting 16 Boys · Field 4 7v7
+DESCRIPTION:Shane Homes Field 4 - RWFC Real 16 vs Blizzard Sporting 16 B
+ oys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708092@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261115T170000
 DTEND;TZID=America/Edmonton:20261115T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs Foothills Ultra 2016 · Field 2 · Cleat
- s
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs Fo
+ othills Ultra 2016
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -329,17 +329,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs Foothills Ultra 2016 · Field 2 · C
- leats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s Foothills Ultra 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708097@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261122T120000
 DTEND;TZID=America/Edmonton:20261122T130000
-SUMMARY:⚽ Foothills Ultra 2016 vs RWFC Real 16 · Annex - Alpha · Indoor 
- shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs RWFC Real 16
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -349,17 +348,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs RWFC Real 16 · Annex - Alpha · Ind
- oor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs RWFC Real 
+ 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708096@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261122T130000
 DTEND;TZID=America/Edmonton:20261122T140000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs RANGERS FC16 RED · Indoor AT 7v7 · Indoo
- r shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs RANGERS FC
+ 16 RED
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -369,17 +368,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs RANGERS FC16 RED · Indoor AT 7v7 · I
- ndoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs RANGER
+ S FC16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708098@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261122T130000
 DTEND;TZID=America/Edmonton:20261122T140000
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs CUFC Marauders 2016 · Annex - Alp
- ha · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Blizzard Sporting 16 Boys vs CUFC Mara
+ uders 2016
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -389,17 +388,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs CUFC Marauders 2016 · Annex -
-  Alpha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Blizzard Sporting 16 Boys vs CUFC 
+ Marauders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708099@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261122T160000
 DTEND;TZID=America/Edmonton:20261122T170000
-SUMMARY:⚽ OUSC United B15 Green vs Airdrie F.C. Fire 16 · Field A (7v7) 
- · Cleats
+SUMMARY:Villains Field A (👟 cleats) - OUSC United B15 Green vs Airdrie 
+ F.C. Fire 16
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -409,17 +408,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs Airdrie F.C. Fire 16 · Field A (7
- v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - OUSC United B15 Green vs Aird
+ rie F.C. Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708101@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
-SUMMARY:⚽ RWFC Real 16 vs Airdrie F.C. Fire 16 · Annex - Delta · Indoor 
- shoes
+SUMMARY:Annex Delta (👟 indoor) - RWFC Real 16 vs Airdrie F.C. Fire 16
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -429,17 +427,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs Airdrie F.C. Fire 16 · Annex - Delta · Ind
- oor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - RWFC Real 16 vs Airdrie F.C. Fire 
+ 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708102@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs CNEU 2016 PIRANHAS · Annex - Delt
- a · Indoor shoes
+SUMMARY:Annex Delta (👟 indoor) - Blizzard Sporting 16 Boys vs CNEU 2016
+  PIRANHAS
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -449,17 +447,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs CNEU 2016 PIRANHAS · Annex - 
- Delta · Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - Blizzard Sporting 16 Boys vs CNEU 
+ 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708103@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T100000
 DTEND;TZID=America/Edmonton:20261129T110000
-SUMMARY:⚽ RANGERS FC16 RED vs OUSC United B15 Green · Annex - Delta · In
- door shoes
+SUMMARY:Annex Delta (👟 indoor) - RANGERS FC16 RED vs OUSC United B15 Gr
+ een
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -469,17 +467,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs OUSC United B15 Green · Annex - Delta 
- · Indoor shoes
+DESCRIPTION:Annex Delta (👟 indoor) - RANGERS FC16 RED vs OUSC United B1
+ 5 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708100@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261129T160000
 DTEND;TZID=America/Edmonton:20261129T170000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs Foothills Ultra 2016 · Field 2 ·
-  Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys U11
+  vs Foothills Ultra 2016
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -489,17 +487,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs Foothills Ultra 2016 · Field
-  2 · Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys
+  U11 vs Foothills Ultra 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708106@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T100000
 DTEND;TZID=America/Edmonton:20261206T110000
-SUMMARY:⚽ RANGERS FC16 RED vs Blizzard Sporting 16 Boys · Annex - Charli
- e · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - RANGERS FC16 RED vs Blizzard Sportin
+ g 16 Boys
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -509,17 +507,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs Blizzard Sporting 16 Boys · Annex - Ch
- arlie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - RANGERS FC16 RED vs Blizzard Spo
+ rting 16 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708107@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T120000
 DTEND;TZID=America/Edmonton:20261206T130000
-SUMMARY:⚽ OUSC United B15 Green vs CFC Crossfield FC Boys U11 · Field A 
- (7v7) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - OUSC United B15 Green vs CFC Cros
+ sfield FC Boys U11
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -529,17 +527,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs CFC Crossfield FC Boys U11 · Fiel
- d A (7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - OUSC United B15 Green vs CFC 
+ Crossfield FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708105@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs Foothills Ultra 2016 · Indoor AT 7v7 · I
- ndoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs Foothills 
+ Ultra 2016
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -549,16 +547,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs Foothills Ultra 2016 · Indoor AT 7v7
-  · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs Foothi
+ lls Ultra 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708104@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261206T170000
 DTEND;TZID=America/Edmonton:20261206T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs CUFC Marauders 2016 · Field 2 · Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs CU
+ FC Marauders 2016
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -568,17 +567,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs CUFC Marauders 2016 · Field 2 · Cl
- eats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s CUFC Marauders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708111@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261213T120000
 DTEND;TZID=America/Edmonton:20261213T130000
-SUMMARY:⚽ Foothills Ultra 2016 vs OUSC United B15 Green · Annex - Alpha 
- · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs OUSC United B1
+ 5 Green
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -588,16 +587,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs OUSC United B15 Green · Annex - Al
- pha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs OUSC Unite
+ d B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708108@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261213T160000
 DTEND;TZID=America/Edmonton:20261213T170000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs CNEU 2016 PIRANHAS · Field 2 · Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs CN
+ EU 2016 PIRANHAS
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -607,17 +607,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs CNEU 2016 PIRANHAS · Field 2 · Cle
- ats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s CNEU 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708110@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261213T160000
 DTEND;TZID=America/Edmonton:20261213T170000
-SUMMARY:⚽ CUFC Marauders 2016 vs RANGERS FC16 RED · Indoor AT 7v7 · Indo
- or shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs RANGERS F
+ C16 RED
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -627,16 +627,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs RANGERS FC16 RED · Indoor AT 7v7 · 
- Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs RANGE
+ RS FC16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708109@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261213T170000
 DTEND;TZID=America/Edmonton:20261213T180000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs RWFC Real 16 · Field 2 · Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys U11
+  vs RWFC Real 16
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -646,17 +647,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs RWFC Real 16 · Field 2 · Cle
- ats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys
+  U11 vs RWFC Real 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708114@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T121500
 DTEND;TZID=America/Edmonton:20261220T131500
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs Airdrie F.C. Fire 16 · Field 4 7v
- 7
+SUMMARY:Shane Homes Field 4 - Blizzard Sporting 16 Boys vs Airdrie F.C. 
+ Fire 16
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #784\nSchedule: https://j
@@ -665,17 +666,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs Airdrie F.C. Fire 16 · Field 
- 4 7v7
+DESCRIPTION:Shane Homes Field 4 - Blizzard Sporting 16 Boys vs Airdrie F
+ .C. Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708112@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T130000
 DTEND;TZID=America/Edmonton:20261220T140000
-SUMMARY:⚽ CUFC Marauders 2016 vs Foothills Ultra 2016 · Indoor AT 7v7 · 
- Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs Foothills
+  Ultra 2016
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -685,16 +686,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs Foothills Ultra 2016 · Indoor AT 7v
- 7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs Footh
+ ills Ultra 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708115@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T131500
 DTEND;TZID=America/Edmonton:20261220T141500
-SUMMARY:⚽ RWFC Real 16 vs OUSC United B15 Green · Field 4 7v7
+SUMMARY:Shane Homes Field 4 - RWFC Real 16 vs OUSC United B15 Green
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #785\nSchedule: https://j
@@ -703,16 +704,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs OUSC United B15 Green · Field 4 7v7
+DESCRIPTION:Shane Homes Field 4 - RWFC Real 16 vs OUSC United B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708113@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261220T140000
 DTEND;TZID=America/Edmonton:20261220T150000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs CFC Crossfield FC Boys U11 · Indoor AT 7
- v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs CFC Crossf
+ ield FC Boys U11
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -722,17 +723,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs CFC Crossfield FC Boys U11 · Indoor 
- AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CNEU 2016 PIRANHAS vs CFC Cr
+ ossfield FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708116@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T110000
 DTEND;TZID=America/Edmonton:20270103T120000
-SUMMARY:⚽ Foothills Ultra 2016 vs RANGERS FC16 RED · Annex - Alpha · Ind
- oor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs RANGERS FC16 R
+ ED
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -742,17 +743,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs RANGERS FC16 RED · Annex - Alpha ·
-  Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs RANGERS FC
+ 16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708117@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T120000
 DTEND;TZID=America/Edmonton:20270103T130000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs Blizzard Sporting 16 Boys · Anne
- x - Alpha · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - CFC Crossfield FC Boys U11 vs Blizzard
+  Sporting 16 Boys
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -762,17 +763,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs Blizzard Sporting 16 Boys · 
- Annex - Alpha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - CFC Crossfield FC Boys U11 vs Bliz
+ zard Sporting 16 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708118@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T130000
 DTEND;TZID=America/Edmonton:20270103T140000
-SUMMARY:⚽ OUSC United B15 Green vs CNEU 2016 PIRANHAS · Annex - Alpha · 
- Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - OUSC United B15 Green vs CNEU 2016 PIR
+ ANHAS
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -782,17 +783,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs CNEU 2016 PIRANHAS · Annex - Alph
- a · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - OUSC United B15 Green vs CNEU 2016
+  PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708119@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270103T150000
 DTEND;TZID=America/Edmonton:20270103T160000
-SUMMARY:⚽ RWFC Real 16 vs CUFC Marauders 2016 · Annex - Delta · Indoor s
- hoes
+SUMMARY:Annex Delta (👟 indoor) - RWFC Real 16 vs CUFC Marauders 2016
 LOCATION:MaxWell Soccer Centre Annex - Delta Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -802,17 +802,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs CUFC Marauders 2016 · Annex - Delta · Indo
- or shoes
+DESCRIPTION:Annex Delta (👟 indoor) - RWFC Real 16 vs CUFC Marauders 201
+ 6
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708122@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T090000
 DTEND;TZID=America/Edmonton:20270110T100000
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs Foothills Ultra 2016 · Field A (7
- v7) · Cleats
+SUMMARY:Villains Field A (👟 cleats) - Blizzard Sporting 16 Boys vs Foot
+ hills Ultra 2016
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -822,17 +822,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs Foothills Ultra 2016 · Field 
- A (7v7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Blizzard Sporting 16 Boys vs 
+ Foothills Ultra 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708123@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T100000
 DTEND;TZID=America/Edmonton:20270110T110000
-SUMMARY:⚽ RANGERS FC16 RED vs Airdrie F.C. Fire 16 · Field A (7v7) · Cle
- ats
+SUMMARY:Villains Field A (👟 cleats) - RANGERS FC16 RED vs Airdrie F.C. 
+ Fire 16
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -842,17 +842,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs Airdrie F.C. Fire 16 · Field A (7v7) ·
-  Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - RANGERS FC16 RED vs Airdrie F
+ .C. Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708121@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T140000
 DTEND;TZID=America/Edmonton:20270110T150000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs RWFC Real 16 · Main - East · Indoor shoe
- s
+SUMMARY:Main East (👟 indoor) - CNEU 2016 PIRANHAS vs RWFC Real 16
 LOCATION:MaxWell Soccer Centre Main - East Field\, 7000 48 Street Southe
  ast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -862,17 +861,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs RWFC Real 16 · Main - East · Indoor 
- shoes
+DESCRIPTION:Main East (👟 indoor) - CNEU 2016 PIRANHAS vs RWFC Real 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708120@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T150000
 DTEND;TZID=America/Edmonton:20270110T160000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs CUFC Marauders 2016 · Field 2 · 
- Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys U11
+  vs CUFC Marauders 2016
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -882,17 +880,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs CUFC Marauders 2016 · Field 
- 2 · Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys
+  U11 vs CUFC Marauders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708125@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
-SUMMARY:⚽ CUFC Marauders 2016 vs CNEU 2016 PIRANHAS · Indoor AT 7v7 · In
- door shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs CNEU 2016
+  PIRANHAS
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -902,16 +900,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs CNEU 2016 PIRANHAS · Indoor AT 7v7 
- · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs CNEU 
+ 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708127@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T150000
 DTEND;TZID=America/Edmonton:20270117T160000
-SUMMARY:⚽ RWFC Real 16 vs RANGERS FC16 RED · MSC Dome SE 7v7 · Cleats
+SUMMARY:Dome SE (👟 cleats) - RWFC Real 16 vs RANGERS FC16 RED
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -921,17 +919,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs RANGERS FC16 RED · MSC Dome SE 7v7 · Cleat
- s
+DESCRIPTION:Dome SE (👟 cleats) - RWFC Real 16 vs RANGERS FC16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708126@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T160000
 DTEND;TZID=America/Edmonton:20270117T170000
-SUMMARY:⚽ OUSC United B15 Green vs Blizzard Sporting 16 Boys · Indoor AT
-  7v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - OUSC United B15 Green vs Blizzar
+ d Sporting 16 Boys
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -941,17 +938,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs Blizzard Sporting 16 Boys · Indoo
- r AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - OUSC United B15 Green vs Bli
+ zzard Sporting 16 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708124@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270117T170000
 DTEND;TZID=America/Edmonton:20270117T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs CFC Crossfield FC Boys U11 · Field 2 ·
-  Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs CF
+ C Crossfield FC Boys U11
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -961,17 +958,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs CFC Crossfield FC Boys U11 · Field
-  2 · Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s CFC Crossfield FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708130@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T110000
 DTEND;TZID=America/Edmonton:20270124T120000
-SUMMARY:⚽ Foothills Ultra 2016 vs Airdrie F.C. Fire 16 · Field A (7v7) ·
-  Cleats
+SUMMARY:Villains Field A (👟 cleats) - Foothills Ultra 2016 vs Airdrie F
+ .C. Fire 16
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -981,17 +978,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs Airdrie F.C. Fire 16 · Field A (7v
- 7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - Foothills Ultra 2016 vs Airdr
+ ie F.C. Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708131@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T120000
 DTEND;TZID=America/Edmonton:20270124T130000
-SUMMARY:⚽ OUSC United B15 Green vs CUFC Marauders 2016 · Field A (7v7) ·
-  Cleats
+SUMMARY:Villains Field A (👟 cleats) - OUSC United B15 Green vs CUFC Mar
+ auders 2016
 LOCATION:Villains Dome Field A (7v7)\, 830 59 Ave SE Calgary\, AB T2H 2G
  5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1001,16 +998,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs CUFC Marauders 2016 · Field A (7v
- 7) · Cleats
+DESCRIPTION:Villains Field A (👟 cleats) - OUSC United B15 Green vs CUFC
+  Marauders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708129@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T121500
 DTEND;TZID=America/Edmonton:20270124T131500
-SUMMARY:⚽ Blizzard Sporting 16 Boys vs RWFC Real 16 · Field 1 7v7
+SUMMARY:Shane Homes Field 1 - Blizzard Sporting 16 Boys vs RWFC Real 16
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #799\nSchedule: https://j
@@ -1019,16 +1016,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Sporting 16 Boys vs RWFC Real 16 · Field 1 7v7
+DESCRIPTION:Shane Homes Field 1 - Blizzard Sporting 16 Boys vs RWFC Real
+  16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708128@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270124T170000
 DTEND;TZID=America/Edmonton:20270124T180000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs RANGERS FC16 RED · Field 2 · Cle
- ats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys U11
+  vs RANGERS FC16 RED
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1038,16 +1036,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs RANGERS FC16 RED · Field 2 ·
-  Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - CFC Crossfield FC Boys
+  U11 vs RANGERS FC16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708135@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270131T081500
 DTEND;TZID=America/Edmonton:20270131T091500
-SUMMARY:⚽ RANGERS FC16 RED vs CNEU 2016 PIRANHAS · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - RANGERS FC16 RED vs CNEU 2016 PIRANHAS
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U11 Dev Plus+ FRANKLIN · Game #805\nSchedule: https://j
@@ -1056,16 +1054,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS FC16 RED vs CNEU 2016 PIRANHAS · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - RANGERS FC16 RED vs CNEU 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708134@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270131T120000
 DTEND;TZID=America/Edmonton:20270131T130000
-SUMMARY:⚽ RWFC Real 16 vs Foothills Ultra 2016 · Annex - Charlie · Indoo
- r shoes
+SUMMARY:Annex Charlie (👟 indoor) - RWFC Real 16 vs Foothills Ultra 2016
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1075,17 +1072,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RWFC Real 16 vs Foothills Ultra 2016 · Annex - Charlie · I
- ndoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - RWFC Real 16 vs Foothills Ultra 
+ 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708133@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270131T150000
 DTEND;TZID=America/Edmonton:20270131T160000
-SUMMARY:⚽ CUFC Marauders 2016 vs Blizzard Sporting 16 Boys · Indoor AT 7
- v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs Blizzard 
+ Sporting 16 Boys
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1095,17 +1092,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Marauders 2016 vs Blizzard Sporting 16 Boys · Indoor 
- AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CUFC Marauders 2016 vs Blizz
+ ard Sporting 16 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708132@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270131T170000
 DTEND;TZID=America/Edmonton:20270131T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs OUSC United B15 Green · Field 2 · Clea
- ts
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs OU
+ SC United B15 Green
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1115,16 +1112,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs OUSC United B15 Green · Field 2 · 
- Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s OUSC United B15 Green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708136@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T130000
 DTEND;TZID=America/Edmonton:20270207T140000
-SUMMARY:⚽ OUSC United B15 Green vs RANGERS FC16 RED · Red · Cleats
+SUMMARY:10Fold Red (👟 cleats) - OUSC United B15 Green vs RANGERS FC16 R
+ ED
 LOCATION:10Fold Regional Fieldhouse Red\, 125 Fieldhouse Drive Okotoks\,
   AB T1S 0C4
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1134,16 +1132,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs RANGERS FC16 RED · Red · Cleats
+DESCRIPTION:10Fold Red (👟 cleats) - OUSC United B15 Green vs RANGERS FC
+ 16 RED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708137@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T140000
 DTEND;TZID=America/Edmonton:20270207T150000
-SUMMARY:⚽ CNEU 2016 PIRANHAS vs Airdrie F.C. Fire 16 · Annex - Alpha · I
- ndoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - CNEU 2016 PIRANHAS vs Airdrie F.C. Fir
+ e 16
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1153,17 +1152,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2016 PIRANHAS vs Airdrie F.C. Fire 16 · Annex - Alpha
-  · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - CNEU 2016 PIRANHAS vs Airdrie F.C.
+  Fire 16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708138@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270207T150000
 DTEND;TZID=America/Edmonton:20270207T160000
-SUMMARY:⚽ Foothills Ultra 2016 vs CFC Crossfield FC Boys U11 · Annex - A
- lpha · Indoor shoes
+SUMMARY:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs CFC Crossfield
+  FC Boys U11
 LOCATION:MaxWell Soccer Centre Annex - Alpha Field\, 7000 48 Street Sout
  heast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1173,17 +1172,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs CFC Crossfield FC Boys U11 · Annex
-  - Alpha · Indoor shoes
+DESCRIPTION:Annex Alpha (👟 indoor) - Foothills Ultra 2016 vs CFC Crossf
+ ield FC Boys U11
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708142@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T080000
 DTEND;TZID=America/Edmonton:20270228T090000
-SUMMARY:⚽ Foothills Ultra 2016 vs CUFC Marauders 2016 · Annex - Charlie 
- · Indoor shoes
+SUMMARY:Annex Charlie (👟 indoor) - Foothills Ultra 2016 vs CUFC Maraude
+ rs 2016
 LOCATION:MaxWell Soccer Centre Annex - Charlie Field\, 7000 48 Street So
  utheast Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1193,17 +1192,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills Ultra 2016 vs CUFC Marauders 2016 · Annex - Char
- lie · Indoor shoes
+DESCRIPTION:Annex Charlie (👟 indoor) - Foothills Ultra 2016 vs CUFC Mar
+ auders 2016
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708141@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T130000
 DTEND;TZID=America/Edmonton:20270228T140000
-SUMMARY:⚽ CFC Crossfield FC Boys U11 vs CNEU 2016 PIRANHAS · Indoor AT 7
- v7 · Indoor shoes
+SUMMARY:Genesis Indoor AT (👟 indoor) - CFC Crossfield FC Boys U11 vs CN
+ EU 2016 PIRANHAS
 LOCATION:Genesis Centre Indoor AT 7v7\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -1213,16 +1212,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CFC Crossfield FC Boys U11 vs CNEU 2016 PIRANHAS · Indoor 
- AT 7v7 · Indoor shoes
+DESCRIPTION:Genesis Indoor AT (👟 indoor) - CFC Crossfield FC Boys U11 v
+ s CNEU 2016 PIRANHAS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708140@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T133000
 DTEND;TZID=America/Edmonton:20270228T143000
-SUMMARY:⚽ OUSC United B15 Green vs RWFC Real 16 · Blue · Cleats
+SUMMARY:10Fold Blue (👟 cleats) - OUSC United B15 Green vs RWFC Real 16
 LOCATION:10Fold Regional Fieldhouse Blue\, 125 Fieldhouse Drive Okotoks\
  , AB T1S 0C4
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1232,16 +1231,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ OUSC United B15 Green vs RWFC Real 16 · Blue · Cleats
+DESCRIPTION:10Fold Blue (👟 cleats) - OUSC United B15 Green vs RWFC Real
+  16
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708139@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T170000
 DTEND;TZID=America/Edmonton:20270228T180000
-SUMMARY:⚽ Airdrie F.C. Fire 16 vs Blizzard Sporting 16 Boys · Field 2 · 
- Cleats
+SUMMARY:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 vs Bl
+ izzard Sporting 16 Boys
 LOCATION:Airdrie Genesis Place Field 2\, 800 East Lake Blvd NE Airdrie\,
   AB T4A 2K9
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1251,8 +1251,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Fire 16 vs Blizzard Sporting 16 Boys · Field 
- 2 · Cleats
+DESCRIPTION:Airdrie Genesis Field 2 (👟 cleats) - Airdrie F.C. Fire 16 v
+ s Blizzard Sporting 16 Boys
 END:VALARM
 END:VEVENT
 END:VCALENDAR

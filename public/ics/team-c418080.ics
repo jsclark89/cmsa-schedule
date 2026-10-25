@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109033@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261102T213000
 DTEND;TZID=America/Edmonton:20261102T223000
-SUMMARY:⚽ FC United Juniors at Bordo Turks FC · Aspen Air · Cleats
+SUMMARY:FC United Juniors - Macron Aspen Air (👟 cleats) - Away at Bordo
+  Turks FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +40,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Bordo Turks FC · Aspen Air · Cleats
+DESCRIPTION:FC United Juniors - Macron Aspen Air (👟 cleats) - Away at B
+ ordo Turks FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109077@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T214500
 DTEND;TZID=America/Edmonton:20261106T224500
-SUMMARY:⚽ FC United Juniors vs Airdrie United 1 · MSC Dome SE · Cleats
+SUMMARY:FC United Juniors - Dome SE (👟 cleats) - Home vs Airdrie United
+  1
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,16 +60,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Airdrie United 1 · MSC Dome SE · Clea
- ts
+DESCRIPTION:FC United Juniors - Dome SE (👟 cleats) - Home vs Airdrie Un
+ ited 1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109295@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T203000
 DTEND;TZID=America/Edmonton:20261125T213000
-SUMMARY:⚽ FC United Juniors at Worldwide FC · MSC Dome SE · Cleats
+SUMMARY:FC United Juniors - Dome SE (👟 cleats) - Away at Worldwide FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -76,15 +79,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Worldwide FC · MSC Dome SE · Cleats
+DESCRIPTION:FC United Juniors - Dome SE (👟 cleats) - Away at Worldwide 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109407@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261204T203000
 DTEND;TZID=America/Edmonton:20261204T213000
-SUMMARY:⚽ FC United Juniors at Kingsmen FC · MSC Dome NE · Cleats
+SUMMARY:FC United Juniors - Dome NE (👟 cleats) - Away at Kingsmen FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -94,15 +98,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Kingsmen FC · MSC Dome NE · Cleats
+DESCRIPTION:FC United Juniors - Dome NE (👟 cleats) - Away at Kingsmen F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109441@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261208T221500
 DTEND;TZID=America/Edmonton:20261208T231500
-SUMMARY:⚽ FC United Juniors vs Avalanche FC1 · Encana SW · Cleats
+SUMMARY:FC United Juniors - Shouldice Encana SW (👟 cleats) - Home vs Av
+ alanche FC1
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -112,15 +118,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Avalanche FC1 · Encana SW · Cleats
+DESCRIPTION:FC United Juniors - Shouldice Encana SW (👟 cleats) - Home v
+ s Avalanche FC1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109567@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261218T201500
 DTEND;TZID=America/Edmonton:20261218T211500
-SUMMARY:⚽ FC United Juniors at C-Town FC · Foothills · Cleats
+SUMMARY:FC United Juniors - Macron Foothills (👟 cleats) - Away at C-Tow
+ n FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -130,16 +138,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at C-Town FC · Foothills · Cleats
+DESCRIPTION:FC United Juniors - Macron Foothills (👟 cleats) - Away at C
+ -Town FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108172@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270105T214500
 DTEND;TZID=America/Edmonton:20270105T224500
-SUMMARY:⚽ FC United Juniors vs Neighbourhoods United · MSC Dome NW · Cle
- ats
+SUMMARY:FC United Juniors - Dome NW (👟 cleats) - Home vs Neighbourhoods
+  United
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -149,17 +158,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Neighbourhoods United · MSC Dome NW ·
-  Cleats
+DESCRIPTION:FC United Juniors - Dome NW (👟 cleats) - Home vs Neighbourh
+ oods United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108282@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270115T220000
 DTEND;TZID=America/Edmonton:20270115T230000
-SUMMARY:⚽ FC United Juniors vs New West Manor F.C Reserves · Encana NE ·
-  Cleats
+SUMMARY:FC United Juniors - Shouldice Encana NE (👟 cleats) - Home vs Ne
+ w West Manor F.C Reserves
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -169,16 +178,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs New West Manor F.C Reserves · Encana 
- NE · Cleats
+DESCRIPTION:FC United Juniors - Shouldice Encana NE (👟 cleats) - Home v
+ s New West Manor F.C Reserves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108343@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270120T203000
 DTEND;TZID=America/Edmonton:20270120T213000
-SUMMARY:⚽ FC United Juniors at Airdrie United 1 · Field 1 · Cleats
+SUMMARY:FC United Juniors - Villains Field 1 (👟 cleats) - Away at Airdr
+ ie United 1
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -187,15 +197,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Airdrie United 1 · Field 1 · Cleats
+DESCRIPTION:FC United Juniors - Villains Field 1 (👟 cleats) - Away at A
+ irdrie United 1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108442@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270129T203000
 DTEND;TZID=America/Edmonton:20270129T213000
-SUMMARY:⚽ FC United Juniors vs Bordo Turks FC · MSC Dome NW · Cleats
+SUMMARY:FC United Juniors - Dome NW (👟 cleats) - Home vs Bordo Turks FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -205,15 +216,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Bordo Turks FC · MSC Dome NW · Cleats
+DESCRIPTION:FC United Juniors - Dome NW (👟 cleats) - Home vs Bordo Turk
+ s FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108617@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270216T213000
 DTEND;TZID=America/Edmonton:20270216T223000
-SUMMARY:⚽ FC United Juniors vs Worldwide FC · Field 3
+SUMMARY:FC United Juniors - Shane Homes Field 3 - Home vs Worldwide FC
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 3\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -222,15 +234,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Worldwide FC · Field 3
+DESCRIPTION:FC United Juniors - Shane Homes Field 3 - Home vs Worldwide 
+ FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108680@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270222T213000
 DTEND;TZID=America/Edmonton:20270222T223000
-SUMMARY:⚽ FC United Juniors vs Kingsmen FC · Aspen Air · Cleats
+SUMMARY:FC United Juniors - Macron Aspen Air (👟 cleats) - Home vs Kings
+ men FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -240,15 +254,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs Kingsmen FC · Aspen Air · Cleats
+DESCRIPTION:FC United Juniors - Macron Aspen Air (👟 cleats) - Home vs K
+ ingsmen FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108807@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270305T204500
 DTEND;TZID=America/Edmonton:20270305T214500
-SUMMARY:⚽ FC United Juniors at Avalanche FC1 · Field Safe · Cleats
+SUMMARY:FC United Juniors - Macron Field Safe (👟 cleats) - Away at Aval
+ anche FC1
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -258,15 +274,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Avalanche FC1 · Field Safe · Cleats
+DESCRIPTION:FC United Juniors - Macron Field Safe (👟 cleats) - Away at 
+ Avalanche FC1
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108881@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270312T221500
 DTEND;TZID=America/Edmonton:20270312T231500
-SUMMARY:⚽ FC United Juniors vs C-Town FC · Encana NE · Cleats
+SUMMARY:FC United Juniors - Shouldice Encana NE (👟 cleats) - Home vs C-
+ Town FC
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -276,15 +294,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors vs C-Town FC · Encana NE · Cleats
+DESCRIPTION:FC United Juniors - Shouldice Encana NE (👟 cleats) - Home v
+ s C-Town FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108936@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T203000
 DTEND;TZID=America/Edmonton:20270317T213000
-SUMMARY:⚽ FC United Juniors at Neighbourhoods United · Field 2 · Cleats
+SUMMARY:FC United Juniors - Villains Field 2 (👟 cleats) - Away at Neigh
+ bourhoods United
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 3\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -293,17 +313,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at Neighbourhoods United · Field 2 · Cle
- ats
+DESCRIPTION:FC United Juniors - Villains Field 2 (👟 cleats) - Away at N
+ eighbourhoods United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109020@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270326T204500
 DTEND;TZID=America/Edmonton:20270326T214500
-SUMMARY:⚽ FC United Juniors at New West Manor F.C Reserves · Boardwalk ·
-  Cleats
+SUMMARY:FC United Juniors - Macron Boardwalk (👟 cleats) - Away at New W
+ est Manor F.C Reserves
 LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -313,8 +333,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ FC United Juniors at New West Manor F.C Reserves · Boardwa
- lk · Cleats
+DESCRIPTION:FC United Juniors - Macron Boardwalk (👟 cleats) - Away at N
+ ew West Manor F.C Reserves
 END:VALARM
 END:VEVENT
 END:VCALENDAR

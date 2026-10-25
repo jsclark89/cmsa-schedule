@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109038@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261102T214500
 DTEND;TZID=America/Edmonton:20261102T224500
-SUMMARY:⚽ Rogues Masters at SD Serbia · MSC Dome NW · Cleats
+SUMMARY:Rogues Masters - Dome NW (👟 cleats) - Away at SD Serbia
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at SD Serbia · MSC Dome NW · Cleats
+DESCRIPTION:Rogues Masters - Dome NW (👟 cleats) - Away at SD Serbia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109179@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261114T204500
 DTEND;TZID=America/Edmonton:20261114T214500
-SUMMARY:⚽ Rogues Masters vs Callies Volts · MSC Dome NW · Cleats
+SUMMARY:Rogues Masters - Dome NW (👟 cleats) - Home vs Callies Volts
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +57,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Callies Volts · MSC Dome NW · Cleats
+DESCRIPTION:Rogues Masters - Dome NW (👟 cleats) - Home vs Callies Volts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109246@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261120T203000
 DTEND;TZID=America/Edmonton:20261120T213000
-SUMMARY:⚽ Rogues Masters vs Eldorado Kickers · MSC Dome SW · Cleats
+SUMMARY:Rogues Masters - Dome SW (👟 cleats) - Home vs Eldorado Kickers
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,15 +75,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Eldorado Kickers · MSC Dome SW · Cleats
+DESCRIPTION:Rogues Masters - Dome SW (👟 cleats) - Home vs Eldorado Kick
+ ers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109290@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261124T214500
 DTEND;TZID=America/Edmonton:20261124T224500
-SUMMARY:⚽ Rogues Masters vs Calgary Gunners O35 · Field 2 · Cleats
+SUMMARY:Rogues Masters - Villains Field 2 (👟 cleats) - Home vs Calgary 
+ Gunners O35
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -92,15 +94,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Calgary Gunners O35 · Field 2 · Cleats
+DESCRIPTION:Rogues Masters - Villains Field 2 (👟 cleats) - Home vs Calg
+ ary Gunners O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109374@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261201T214500
 DTEND;TZID=America/Edmonton:20261201T224500
-SUMMARY:⚽ Rogues Masters at Southside Rangers O35 · MSC Dome NW · Cleats
+SUMMARY:Rogues Masters - Dome NW (👟 cleats) - Away at Southside Rangers
+  O35
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -110,16 +114,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at Southside Rangers O35 · MSC Dome NW · Cl
- eats
+DESCRIPTION:Rogues Masters - Dome NW (👟 cleats) - Away at Southside Ran
+ gers O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109506@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T220000
 DTEND;TZID=America/Edmonton:20261212T230000
-SUMMARY:⚽ Rogues Masters at Lions - Ship and Anchor · Encana SE · Cleats
+SUMMARY:Rogues Masters - Shouldice Encana SE (👟 cleats) - Away at Lions
+  - Ship and Anchor
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -129,16 +134,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at Lions - Ship and Anchor · Encana SE · Cl
- eats
+DESCRIPTION:Rogues Masters - Shouldice Encana SE (👟 cleats) - Away at L
+ ions - Ship and Anchor
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109531@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T214500
 DTEND;TZID=America/Edmonton:20261215T224500
-SUMMARY:⚽ Rogues Masters at CFC Dynamos · MSC Dome SE · Cleats
+SUMMARY:Rogues Masters - Dome SE (👟 cleats) - Away at CFC Dynamos
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -148,15 +153,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at CFC Dynamos · MSC Dome SE · Cleats
+DESCRIPTION:Rogues Masters - Dome SE (👟 cleats) - Away at CFC Dynamos
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108185@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270105T203000
 DTEND;TZID=America/Edmonton:20270105T213000
-SUMMARY:⚽ Rogues Masters vs El Dorado FC · Field 2 · Cleats
+SUMMARY:Rogues Masters - Villains Field 2 (👟 cleats) - Home vs El Dorad
+ o FC
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -165,15 +171,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs El Dorado FC · Field 2 · Cleats
+DESCRIPTION:Rogues Masters - Villains Field 2 (👟 cleats) - Home vs El D
+ orado FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108306@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T181500
 DTEND;TZID=America/Edmonton:20270116T191500
-SUMMARY:⚽ Rogues Masters vs Neighbourhoods O35 · MSC Dome NE · Cleats
+SUMMARY:Rogues Masters - Dome NE (👟 cleats) - Home vs Neighbourhoods O3
+ 5
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -183,16 +191,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Neighbourhoods O35 · MSC Dome NE · Cleat
- s
+DESCRIPTION:Rogues Masters - Dome NE (👟 cleats) - Home vs Neighbourhood
+ s O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108352@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270120T213000
 DTEND;TZID=America/Edmonton:20270120T223000
-SUMMARY:⚽ Rogues Masters at Vipers DC O35 · Field 4
+SUMMARY:Rogues Masters - Shane Homes Field 4 - Away at Vipers DC O35
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Masters 3\nSchedule: https://jsclark89.github.io/cmsa-schedu
@@ -201,15 +209,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at Vipers DC O35 · Field 4
+DESCRIPTION:Rogues Masters - Shane Homes Field 4 - Away at Vipers DC O35
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108411@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T221500
 DTEND;TZID=America/Edmonton:20270126T231500
-SUMMARY:⚽ Rogues Masters at FC United · Encana NW · Cleats
+SUMMARY:Rogues Masters - Shouldice Encana NW (👟 cleats) - Away at FC Un
+ ited
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -219,15 +228,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at FC United · Encana NW · Cleats
+DESCRIPTION:Rogues Masters - Shouldice Encana NW (👟 cleats) - Away at F
+ C United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108545@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270206T181500
 DTEND;TZID=America/Edmonton:20270206T191500
-SUMMARY:⚽ Rogues Masters vs Redstar FC · MSC Dome SW · Cleats
+SUMMARY:Rogues Masters - Dome SW (👟 cleats) - Home vs Redstar FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -237,15 +247,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Redstar FC · MSC Dome SW · Cleats
+DESCRIPTION:Rogues Masters - Dome SW (👟 cleats) - Home vs Redstar FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108578@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270209T203000
 DTEND;TZID=America/Edmonton:20270209T213000
-SUMMARY:⚽ Rogues Masters vs Inter Furia FC · MSC Dome NW · Cleats
+SUMMARY:Rogues Masters - Dome NW (👟 cleats) - Home vs Inter Furia FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -255,15 +265,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Inter Furia FC · MSC Dome NW · Cleats
+DESCRIPTION:Rogues Masters - Dome NW (👟 cleats) - Home vs Inter Furia F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108671@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T193000
 DTEND;TZID=America/Edmonton:20270220T203000
-SUMMARY:⚽ Rogues Masters at El Dorado FC · MSC Dome NE · Cleats
+SUMMARY:Rogues Masters - Dome NE (👟 cleats) - Away at El Dorado FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -273,15 +284,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at El Dorado FC · MSC Dome NE · Cleats
+DESCRIPTION:Rogues Masters - Dome NE (👟 cleats) - Away at El Dorado FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108715@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270224T214500
 DTEND;TZID=America/Edmonton:20270224T224500
-SUMMARY:⚽ Rogues Masters at Callies Volts · Field 2 · Cleats
+SUMMARY:Rogues Masters - Villains Field 2 (👟 cleats) - Away at Callies 
+ Volts
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nMasters 3\nSchedule: https://jsclark89.github.io/cmsa-schedule
@@ -290,15 +302,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters at Callies Volts · Field 2 · Cleats
+DESCRIPTION:Rogues Masters - Villains Field 2 (👟 cleats) - Away at Call
+ ies Volts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108897@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270314T203000
 DTEND;TZID=America/Edmonton:20270314T213000
-SUMMARY:⚽ Rogues Masters vs Calgary Gunners O35 · MSC Dome NW · Cleats
+SUMMARY:Rogues Masters - Dome NW (👟 cleats) - Home vs Calgary Gunners O
+ 35
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -308,8 +322,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rogues Masters vs Calgary Gunners O35 · MSC Dome NW · Clea
- ts
+DESCRIPTION:Rogues Masters - Dome NW (👟 cleats) - Home vs Calgary Gunne
+ rs O35
 END:VALARM
 END:VEVENT
 END:VCALENDAR

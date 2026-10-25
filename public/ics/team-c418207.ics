@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109053@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261103T213000
 DTEND;TZID=America/Edmonton:20261103T223000
-SUMMARY:⚽ Renegade Hoods at Hoods United · Field 2
+SUMMARY:Renegade Hoods - Shane Homes Field 2 - Away at Hoods United
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45B\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -38,15 +38,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Hoods United · Field 2
+DESCRIPTION:Renegade Hoods - Shane Homes Field 2 - Away at Hoods United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109142@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261111T214500
 DTEND;TZID=America/Edmonton:20261111T224500
-SUMMARY:⚽ Renegade Hoods vs Neighbourhoods O45 · Field 2 · Cleats
+SUMMARY:Renegade Hoods - Villains Field 2 (👟 cleats) - Home vs Neighbou
+ rhoods O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -54,15 +55,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Neighbourhoods O45 · Field 2 · Cleats
+DESCRIPTION:Renegade Hoods - Villains Field 2 (👟 cleats) - Home vs Neig
+ hbourhoods O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109264@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T170000
 DTEND;TZID=America/Edmonton:20261121T180000
-SUMMARY:⚽ Renegade Hoods at Rangers Athletics O45 · MSC Dome SE · Cleats
+SUMMARY:Renegade Hoods - Dome SE (👟 cleats) - Away at Rangers Athletics
+  O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -71,16 +74,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Rangers Athletics O45 · MSC Dome SE · Cl
- eats
+DESCRIPTION:Renegade Hoods - Dome SE (👟 cleats) - Away at Rangers Athle
+ tics O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109312@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261126T220000
 DTEND;TZID=America/Edmonton:20261126T230000
-SUMMARY:⚽ Renegade Hoods at Stoked City FC · Encana NW · Cleats
+SUMMARY:Renegade Hoods - Shouldice Encana NW (👟 cleats) - Away at Stoke
+ d City FC
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -89,15 +93,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Stoked City FC · Encana NW · Cleats
+DESCRIPTION:Renegade Hoods - Shouldice Encana NW (👟 cleats) - Away at S
+ toked City FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109433@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261207T214500
 DTEND;TZID=America/Edmonton:20261207T224500
-SUMMARY:⚽ Renegade Hoods vs SD Serbia · MSC Dome NE · Cleats
+SUMMARY:Renegade Hoods - Dome NE (👟 cleats) - Home vs SD Serbia
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -106,15 +111,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs SD Serbia · MSC Dome NE · Cleats
+DESCRIPTION:Renegade Hoods - Dome NE (👟 cleats) - Home vs SD Serbia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109520@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T203000
 DTEND;TZID=America/Edmonton:20261214T213000
-SUMMARY:⚽ Renegade Hoods at Stars FC · MSC Dome NE · Cleats
+SUMMARY:Renegade Hoods - Dome NE (👟 cleats) - Away at Stars FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -123,15 +128,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Stars FC · MSC Dome NE · Cleats
+DESCRIPTION:Renegade Hoods - Dome NE (👟 cleats) - Away at Stars FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108167@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270104T214500
 DTEND;TZID=America/Edmonton:20270104T224500
-SUMMARY:⚽ Renegade Hoods vs Calsea United · MSC Dome NE · Cleats
+SUMMARY:Renegade Hoods - Dome NE (👟 cleats) - Home vs Calsea United
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -140,15 +145,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Calsea United · MSC Dome NE · Cleats
+DESCRIPTION:Renegade Hoods - Dome NE (👟 cleats) - Home vs Calsea United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108271@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270113T214500
 DTEND;TZID=America/Edmonton:20270113T224500
-SUMMARY:⚽ Renegade Hoods at Croatia Generals · Field 1 · Cleats
+SUMMARY:Renegade Hoods - Villains Field 1 (👟 cleats) - Away at Croatia 
+ Generals
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -156,15 +162,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Croatia Generals · Field 1 · Cleats
+DESCRIPTION:Renegade Hoods - Villains Field 1 (👟 cleats) - Away at Croa
+ tia Generals
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108341@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270119T214500
 DTEND;TZID=America/Edmonton:20270119T224500
-SUMMARY:⚽ Renegade Hoods vs Fusion FC O45 · Field 2 · Cleats
+SUMMARY:Renegade Hoods - Villains Field 2 (👟 cleats) - Home vs Fusion F
+ C O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -172,15 +180,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Fusion FC O45 · Field 2 · Cleats
+DESCRIPTION:Renegade Hoods - Villains Field 2 (👟 cleats) - Home vs Fusi
+ on FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108400@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270125T203000
 DTEND;TZID=America/Edmonton:20270125T213000
-SUMMARY:⚽ Renegade Hoods vs Hoods United · MSC Dome NW · Cleats
+SUMMARY:Renegade Hoods - Dome NW (👟 cleats) - Home vs Hoods United
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -189,15 +198,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Hoods United · MSC Dome NW · Cleats
+DESCRIPTION:Renegade Hoods - Dome NW (👟 cleats) - Home vs Hoods United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108538@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270206T204500
 DTEND;TZID=America/Edmonton:20270206T214500
-SUMMARY:⚽ Renegade Hoods at Neighbourhoods O45 · MSC Dome NW · Cleats
+SUMMARY:Renegade Hoods - Dome NW (👟 cleats) - Away at Neighbourhoods O4
+ 5
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -206,16 +216,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Neighbourhoods O45 · MSC Dome NW · Cleat
- s
+DESCRIPTION:Renegade Hoods - Dome NW (👟 cleats) - Away at Neighbourhood
+ s O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108627@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270216T214500
 DTEND;TZID=America/Edmonton:20270216T224500
-SUMMARY:⚽ Renegade Hoods vs Rangers Athletics O45 · Field 1 · Cleats
+SUMMARY:Renegade Hoods - Villains Field 1 (👟 cleats) - Home vs Rangers 
+ Athletics O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45B\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -223,15 +234,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Rangers Athletics O45 · Field 1 · Cleats
+DESCRIPTION:Renegade Hoods - Villains Field 1 (👟 cleats) - Home vs Rang
+ ers Athletics O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108687@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270222T203000
 DTEND;TZID=America/Edmonton:20270222T213000
-SUMMARY:⚽ Renegade Hoods vs Stoked City FC · MSC Dome SW · Cleats
+SUMMARY:Renegade Hoods - Dome SW (👟 cleats) - Home vs Stoked City FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -240,15 +252,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Stoked City FC · MSC Dome SW · Cleats
+DESCRIPTION:Renegade Hoods - Dome SW (👟 cleats) - Home vs Stoked City F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108759@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T220000
 DTEND;TZID=America/Edmonton:20270228T230000
-SUMMARY:⚽ Renegade Hoods at SD Serbia · Encana SW · Cleats
+SUMMARY:Renegade Hoods - Shouldice Encana SW (👟 cleats) - Away at SD Se
+ rbia
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -257,15 +271,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at SD Serbia · Encana SW · Cleats
+DESCRIPTION:Renegade Hoods - Shouldice Encana SW (👟 cleats) - Away at S
+ D Serbia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108866@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T201500
 DTEND;TZID=America/Edmonton:20270310T211500
-SUMMARY:⚽ Renegade Hoods vs Stars FC · MSC Dome NE · Cleats
+SUMMARY:Renegade Hoods - Dome NE (👟 cleats) - Home vs Stars FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -274,15 +289,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods vs Stars FC · MSC Dome NE · Cleats
+DESCRIPTION:Renegade Hoods - Dome NE (👟 cleats) - Home vs Stars FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108910@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270315T214500
 DTEND;TZID=America/Edmonton:20270315T224500
-SUMMARY:⚽ Renegade Hoods at Calsea United · MSC Dome NE · Cleats
+SUMMARY:Renegade Hoods - Dome NE (👟 cleats) - Away at Calsea United
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -291,7 +306,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Renegade Hoods at Calsea United · MSC Dome NE · Cleats
+DESCRIPTION:Renegade Hoods - Dome NE (👟 cleats) - Away at Calsea United
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109061@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T214500
 DTEND;TZID=America/Edmonton:20261104T224500
-SUMMARY:⚽ Blizzard SC5 at Al Salam FC · Field 2 · Cleats
+SUMMARY:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Al Salam F
+ C
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -38,15 +39,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at Al Salam FC · Field 2 · Cleats
+DESCRIPTION:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Al Sal
+ am FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109103@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261109T220000
 DTEND;TZID=America/Edmonton:20261109T230000
-SUMMARY:⚽ Blizzard SC5 vs SC Athletic City U23 · Encana SE · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs SC Athl
+ etic City U23
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -56,15 +59,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs SC Athletic City U23 · Encana SE · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs SC 
+ Athletic City U23
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109212@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261118T213000
 DTEND;TZID=America/Edmonton:20261118T223000
-SUMMARY:⚽ Blizzard SC5 vs CWFC Colts · Field 4
+SUMMARY:Blizzard SC5 - Shane Homes Field 4 - Home vs CWFC Colts
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -73,15 +77,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs CWFC Colts · Field 4
+DESCRIPTION:Blizzard SC5 - Shane Homes Field 4 - Home vs CWFC Colts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109365@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261201T213000
 DTEND;TZID=America/Edmonton:20261201T223000
-SUMMARY:⚽ Blizzard SC5 vs Calgary Villains FC · Field 2
+SUMMARY:Blizzard SC5 - Shane Homes Field 2 - Home vs Calgary Villains FC
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -90,15 +94,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs Calgary Villains FC · Field 2
+DESCRIPTION:Blizzard SC5 - Shane Homes Field 2 - Home vs Calgary Villain
+ s FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109458@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
-SUMMARY:⚽ Blizzard SC5 at FC Wizards · Field 3
+SUMMARY:Blizzard SC5 - Shane Homes Field 3 - Away at FC Wizards
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -107,15 +112,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at FC Wizards · Field 3
+DESCRIPTION:Blizzard SC5 - Shane Homes Field 3 - Away at FC Wizards
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109511@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T220000
 DTEND;TZID=America/Edmonton:20261214T230000
-SUMMARY:⚽ Blizzard SC5 vs Richmond's Pub FC · Encana SW · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana SW (👟 cleats) - Home vs Richmon
+ d's Pub FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -125,15 +131,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs Richmond's Pub FC · Encana SW · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana SW (👟 cleats) - Home vs Ric
+ hmond's Pub FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108171@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270105T214500
 DTEND;TZID=America/Edmonton:20270105T224500
-SUMMARY:⚽ Blizzard SC5 at Eldorado Kickers B · Field 2 · Cleats
+SUMMARY:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Eldorado K
+ ickers B
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -142,15 +150,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at Eldorado Kickers B · Field 2 · Cleats
+DESCRIPTION:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Eldora
+ do Kickers B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108261@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270113T213000
 DTEND;TZID=America/Edmonton:20270113T223000
-SUMMARY:⚽ Blizzard SC5 at Foothills Fire · Aspen Air · Cleats
+SUMMARY:Blizzard SC5 - Macron Aspen Air (👟 cleats) - Away at Foothills 
+ Fire
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -160,15 +170,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at Foothills Fire · Aspen Air · Cleats
+DESCRIPTION:Blizzard SC5 - Macron Aspen Air (👟 cleats) - Away at Foothi
+ lls Fire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108342@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270120T221500
 DTEND;TZID=America/Edmonton:20270120T231500
-SUMMARY:⚽ Blizzard SC5 vs Al Salam FC · Encana SW · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana SW (👟 cleats) - Home vs Al Sala
+ m FC
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -178,15 +190,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs Al Salam FC · Encana SW · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana SW (👟 cleats) - Home vs Al 
+ Salam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108421@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270127T213000
 DTEND;TZID=America/Edmonton:20270127T223000
-SUMMARY:⚽ Blizzard SC5 at SC Athletic City U23 · Foothills · Cleats
+SUMMARY:Blizzard SC5 - Macron Foothills (👟 cleats) - Away at SC Athleti
+ c City U23
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -196,15 +210,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at SC Athletic City U23 · Foothills · Cleats
+DESCRIPTION:Blizzard SC5 - Macron Foothills (👟 cleats) - Away at SC Ath
+ letic City U23
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108512@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270204T221500
 DTEND;TZID=America/Edmonton:20270204T231500
-SUMMARY:⚽ Blizzard SC5 at CWFC Colts · Encana NE · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana NE (👟 cleats) - Away at CWFC Co
+ lts
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -214,15 +230,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at CWFC Colts · Encana NE · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana NE (👟 cleats) - Away at CWF
+ C Colts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108598@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270211T220000
 DTEND;TZID=America/Edmonton:20270211T230000
-SUMMARY:⚽ Blizzard SC5 vs Eldorado Kickers B · Encana SE · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs Eldorad
+ o Kickers B
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -232,15 +250,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs Eldorado Kickers B · Encana SE · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs Eld
+ orado Kickers B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108812@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270306T214500
 DTEND;TZID=America/Edmonton:20270306T224500
-SUMMARY:⚽ Blizzard SC5 vs Foothills Fire · Encana SE · Cleats
+SUMMARY:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs Foothil
+ ls Fire
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -250,15 +270,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs Foothills Fire · Encana SE · Cleats
+DESCRIPTION:Blizzard SC5 - Shouldice Encana SE (👟 cleats) - Home vs Foo
+ thills Fire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108858@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T214500
 DTEND;TZID=America/Edmonton:20270310T224500
-SUMMARY:⚽ Blizzard SC5 at Calgary Villains FC · Field 2 · Cleats
+SUMMARY:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Calgary Vi
+ llains FC
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -267,15 +289,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at Calgary Villains FC · Field 2 · Cleats
+DESCRIPTION:Blizzard SC5 - Villains Field 2 (👟 cleats) - Away at Calgar
+ y Villains FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108913@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Blizzard SC5 vs FC Wizards · MSC Dome SW · Cleats
+SUMMARY:Blizzard SC5 - Dome SW (👟 cleats) - Home vs FC Wizards
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -285,15 +308,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 vs FC Wizards · MSC Dome SW · Cleats
+DESCRIPTION:Blizzard SC5 - Dome SW (👟 cleats) - Home vs FC Wizards
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108987@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T203000
 DTEND;TZID=America/Edmonton:20270323T213000
-SUMMARY:⚽ Blizzard SC5 at Richmond's Pub FC · MSC Dome SE · Cleats
+SUMMARY:Blizzard SC5 - Dome SE (👟 cleats) - Away at Richmond's Pub FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -303,7 +326,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard SC5 at Richmond's Pub FC · MSC Dome SE · Cleats
+DESCRIPTION:Blizzard SC5 - Dome SE (👟 cleats) - Away at Richmond's Pub 
+ FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

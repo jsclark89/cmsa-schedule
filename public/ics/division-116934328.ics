@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11710460@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T080000
 DTEND;TZID=America/Edmonton:20261017T090000
-SUMMARY:⚽ SWU SC 12B vs LSCA B Barcelona 2013 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - SWU SC 12B vs LSCA B Barcelona 2013
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs LSCA B Barcelona 2013 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - SWU SC 12B vs LSCA B Barcelona 
+ 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710461@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T091500
 DTEND;TZID=America/Edmonton:20261017T101500
-SUMMARY:⚽ CNEU 2012 HORNETS vs EMFC Boca 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - CNEU 2012 HORNETS vs EMFC Boca 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,16 +58,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs EMFC Boca 12 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - CNEU 2012 HORNETS vs EMFC Boca 
+ 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710463@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T114500
 DTEND;TZID=America/Edmonton:20261017T124500
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs CUFC Immortals 11/12 · Fie
- ld 1 7v7
+SUMMARY:Shane Homes Field 1 - New Frontier SC 2012 Boys (Shaw) vs CUFC I
+ mmortals 11/12
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2902\nSchedule: https://jsclark89.gi
@@ -75,16 +77,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs CUFC Immortals 11/12 ·
-  Field 1 7v7
+DESCRIPTION:Shane Homes Field 1 - New Frontier SC 2012 Boys (Shaw) vs CU
+ FC Immortals 11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710465@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T120000
 DTEND;TZID=America/Edmonton:20261017T130000
-SUMMARY:⚽ CalGlen Blaze 12 vs Villains United 12 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - CalGlen Blaze 12 vs Villains United 12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2904\nSchedule: https://jsclark89.gi
@@ -93,15 +95,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs Villains United 12 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - CalGlen Blaze 12 vs Villains United 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710464@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T130000
 DTEND;TZID=America/Edmonton:20261017T140000
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs SWU Premiers 12 B · Field 1 7v7
+SUMMARY:Shane Homes Field 1 - Blizzard Alliance 12 Boys vs SWU Premiers 
+ 12 B
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2903\nSchedule: https://jsclark89.gi
@@ -110,16 +113,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs SWU Premiers 12 B · Field 1 7
- v7
+DESCRIPTION:Shane Homes Field 1 - Blizzard Alliance 12 Boys vs SWU Premi
+ ers 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710466@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T131500
 DTEND;TZID=America/Edmonton:20261017T141500
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs Rockies Albion 12 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - RANGERS ATHLETICS 12 vs Rockies Albion 12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2905\nSchedule: https://jsclark89.gi
@@ -128,15 +131,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs Rockies Albion 12 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - RANGERS ATHLETICS 12 vs Rockies Albion
+  12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710462@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T141500
 DTEND;TZID=America/Edmonton:20261017T151500
-SUMMARY:⚽ Spartans Leonidas vs Airdrie F.C. Impact 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - Spartans Leonidas vs Airdrie F.C. I
+ mpact 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -146,16 +151,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs Airdrie F.C. Impact 12 · Field B · Cl
- eats
+DESCRIPTION:Macron Field B (👟 cleats) - Spartans Leonidas vs Airdrie F.
+ C. Impact 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710467@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261017T143000
 DTEND;TZID=America/Edmonton:20261017T153000
-SUMMARY:⚽ Rockies AFC 13 vs Foothills FH 2012 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Rockies AFC 13 vs Foothills FH 2012
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2906\nSchedule: https://jsclark89.gi
@@ -164,15 +169,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs Foothills FH 2012 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Rockies AFC 13 vs Foothills FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710468@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T111500
 DTEND;TZID=America/Edmonton:20261024T121500
-SUMMARY:⚽ EMFC Boca 12 vs SWU SC 12B · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - EMFC Boca 12 vs SWU SC 12B
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -182,15 +187,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs SWU SC 12B · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - EMFC Boca 12 vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710472@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T120000
 DTEND;TZID=America/Edmonton:20261024T130000
-SUMMARY:⚽ Rockies Albion 12 vs CNEU 2012 HORNETS · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Rockies Albion 12 vs CNEU 2012 HORNETS
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2911\nSchedule: https://jsclark89.gi
@@ -199,15 +204,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs CNEU 2012 HORNETS · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Rockies Albion 12 vs CNEU 2012 HORNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710469@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T123000
 DTEND;TZID=America/Edmonton:20261024T133000
-SUMMARY:⚽ CUFC Immortals 11/12 vs CalGlen Blaze 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - CUFC Immortals 11/12 vs CalGlen Bla
+ ze 12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -217,16 +223,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs CalGlen Blaze 12 · Field A · Cleat
- s
+DESCRIPTION:Macron Field A (👟 cleats) - CUFC Immortals 11/12 vs CalGlen
+  Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710473@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T131500
 DTEND;TZID=America/Edmonton:20261024T141500
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs Rockies AFC 13 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Airdrie F.C. Impact 12 vs Rockies AFC 13
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2912\nSchedule: https://jsclark89.gi
@@ -235,15 +241,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs Rockies AFC 13 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Airdrie F.C. Impact 12 vs Rockies AFC 
+ 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710470@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T134500
 DTEND;TZID=America/Edmonton:20261024T144500
-SUMMARY:⚽ Villains United 12 vs Spartans Leonidas · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Villains United 12 vs Spartans Leon
+ idas
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -253,15 +261,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs Spartans Leonidas · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Villains United 12 vs Spartans 
+ Leonidas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710474@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T143000
 DTEND;TZID=America/Edmonton:20261024T153000
-SUMMARY:⚽ Foothills FH 2012 vs RANGERS ATHLETICS 12 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Foothills FH 2012 vs RANGERS ATHLETICS 12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2913\nSchedule: https://jsclark89.gi
@@ -270,16 +279,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs RANGERS ATHLETICS 12 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Foothills FH 2012 vs RANGERS ATHLETICS
+  12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710471@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T150000
 DTEND;TZID=America/Edmonton:20261024T160000
-SUMMARY:⚽ SWU Premiers 12 B vs New Frontier SC 2012 Boys (Shaw) · Field 
- A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - SWU Premiers 12 B vs New Frontier S
+ C 2012 Boys (Shaw)
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -289,17 +299,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs New Frontier SC 2012 Boys (Shaw) · Fi
- eld A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - SWU Premiers 12 B vs New Fronti
+ er SC 2012 Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710475@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261024T154500
 DTEND;TZID=America/Edmonton:20261024T164500
-SUMMARY:⚽ LSCA B Barcelona 2013 vs Blizzard Alliance 12 Boys · Field 3 7
- v7
+SUMMARY:Shane Homes Field 3 - LSCA B Barcelona 2013 vs Blizzard Alliance
+  12 Boys
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2914\nSchedule: https://jsclark89.gi
@@ -308,16 +318,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs Blizzard Alliance 12 Boys · Field
-  3 7v7
+DESCRIPTION:Shane Homes Field 3 - LSCA B Barcelona 2013 vs Blizzard Alli
+ ance 12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710476@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T141500
 DTEND;TZID=America/Edmonton:20261031T151500
-SUMMARY:⚽ SWU SC 12B vs Rockies Albion 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - SWU SC 12B vs Rockies Albion 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -327,15 +337,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs Rockies Albion 12 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - SWU SC 12B vs Rockies Albion 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710481@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T143000
 DTEND;TZID=America/Edmonton:20261031T153000
-SUMMARY:⚽ CalGlen Blaze 12 vs SWU Premiers 12 B · Field C · Cleats
+SUMMARY:Macron Field C (👟 cleats) - CalGlen Blaze 12 vs SWU Premiers 12
+  B
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -345,15 +356,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs SWU Premiers 12 B · Field C · Cleats
+DESCRIPTION:Macron Field C (👟 cleats) - CalGlen Blaze 12 vs SWU Premier
+ s 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710478@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T153000
 DTEND;TZID=America/Edmonton:20261031T163000
-SUMMARY:⚽ Villains United 12 vs CUFC Immortals 11/12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - Villains United 12 vs CUFC Immortal
+ s 11/12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -363,16 +376,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs CUFC Immortals 11/12 · Field B · Cle
- ats
+DESCRIPTION:Macron Field B (👟 cleats) - Villains United 12 vs CUFC Immo
+ rtals 11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710482@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T154500
 DTEND;TZID=America/Edmonton:20261031T164500
-SUMMARY:⚽ Spartans Leonidas vs Rockies AFC 13 · Field C · Cleats
+SUMMARY:Macron Field C (👟 cleats) - Spartans Leonidas vs Rockies AFC 13
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -382,16 +395,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs Rockies AFC 13 · Field C · Cleats
+DESCRIPTION:Macron Field C (👟 cleats) - Spartans Leonidas vs Rockies AF
+ C 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710486@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T154500
 DTEND;TZID=America/Edmonton:20261031T164500
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs LSCA B Barcelona 2013 · Fi
- eld D · Cleats
+SUMMARY:Macron Field D (👟 cleats) - New Frontier SC 2012 Boys (Shaw) vs
+  LSCA B Barcelona 2013
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -401,16 +415,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs LSCA B Barcelona 2013 
- · Field D · Cleats
+DESCRIPTION:Macron Field D (👟 cleats) - New Frontier SC 2012 Boys (Shaw
+ ) vs LSCA B Barcelona 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710479@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T164500
 DTEND;TZID=America/Edmonton:20261031T174500
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs EMFC Boca 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - Blizzard Alliance 12 Boys vs EMFC B
+ oca 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -420,17 +435,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs EMFC Boca 12 · Field B · Clea
- ts
+DESCRIPTION:Macron Field B (👟 cleats) - Blizzard Alliance 12 Boys vs EM
+ FC Boca 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710483@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T170000
 DTEND;TZID=America/Edmonton:20261031T180000
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs Airdrie F.C. Impact 12 · Field C · Cle
- ats
+SUMMARY:Macron Field C (👟 cleats) - RANGERS ATHLETICS 12 vs Airdrie F.C
+ . Impact 12
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -440,16 +455,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs Airdrie F.C. Impact 12 · Field C ·
-  Cleats
+DESCRIPTION:Macron Field C (👟 cleats) - RANGERS ATHLETICS 12 vs Airdrie
+  F.C. Impact 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710487@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261031T170000
 DTEND;TZID=America/Edmonton:20261031T180000
-SUMMARY:⚽ CNEU 2012 HORNETS vs Foothills FH 2012 · Field D · Cleats
+SUMMARY:Macron Field D (👟 cleats) - CNEU 2012 HORNETS vs Foothills FH 2
+ 012
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -459,16 +475,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs Foothills FH 2012 · Field D · Cleats
+DESCRIPTION:Macron Field D (👟 cleats) - CNEU 2012 HORNETS vs Foothills 
+ FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710490@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T080000
 DTEND;TZID=America/Edmonton:20261107T090000
-SUMMARY:⚽ EMFC Boca 12 vs New Frontier SC 2012 Boys (Shaw) · MSC Dome SE
-  7v7 · Cleats
+SUMMARY:Dome SE (👟 cleats) - EMFC Boca 12 vs New Frontier SC 2012 Boys 
+ (Shaw)
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -478,17 +495,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs New Frontier SC 2012 Boys (Shaw) · MSC Dom
- e SE 7v7 · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - EMFC Boca 12 vs New Frontier SC 2012 B
+ oys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710492@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T091500
 DTEND;TZID=America/Edmonton:20261107T101500
-SUMMARY:⚽ SWU Premiers 12 B vs Villains United 12 · MSC Dome SE 7v7 · Cl
- eats
+SUMMARY:Dome SE (👟 cleats) - SWU Premiers 12 B vs Villains United 12
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -498,17 +514,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs Villains United 12 · MSC Dome SE 7v7 
- · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - SWU Premiers 12 B vs Villains United 1
+ 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710493@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T103000
 DTEND;TZID=America/Edmonton:20261107T113000
-SUMMARY:⚽ CUFC Immortals 11/12 vs Spartans Leonidas · MSC Dome SE 7v7 · 
- Cleats
+SUMMARY:Dome SE (👟 cleats) - CUFC Immortals 11/12 vs Spartans Leonidas
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -518,17 +533,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs Spartans Leonidas · MSC Dome SE 7v
- 7 · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - CUFC Immortals 11/12 vs Spartans Leoni
+ das
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710495@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T114500
 DTEND;TZID=America/Edmonton:20261107T124500
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs CNEU 2012 HORNETS · MSC Dome SE 7v7 
- · Cleats
+SUMMARY:Dome SE (👟 cleats) - Airdrie F.C. Impact 12 vs CNEU 2012 HORNET
+ S
 LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -538,16 +553,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs CNEU 2012 HORNETS · MSC Dome SE 
- 7v7 · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - Airdrie F.C. Impact 12 vs CNEU 2012 HO
+ RNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710503@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T120000
 DTEND;TZID=America/Edmonton:20261107T130000
-SUMMARY:⚽ LSCA B Barcelona 2013 vs CalGlen Blaze 12 · #04/NE · Cleats
+SUMMARY:Shouldice #04/NE (👟 cleats) - LSCA B Barcelona 2013 vs CalGlen 
+ Blaze 12
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -557,16 +573,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs CalGlen Blaze 12 · #04/NE · Cleat
- s
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - LSCA B Barcelona 2013 vs CalG
+ len Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710498@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T174500
 DTEND;TZID=America/Edmonton:20261107T184500
-SUMMARY:⚽ Rockies Albion 12 vs Blizzard Alliance 12 Boys · Field 2 7v7
+SUMMARY:Shane Homes Field 2 - Rockies Albion 12 vs Blizzard Alliance 12 
+ Boys
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2929\nSchedule: https://jsclark89.gi
@@ -575,16 +592,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs Blizzard Alliance 12 Boys · Field 2 7
- v7
+DESCRIPTION:Shane Homes Field 2 - Rockies Albion 12 vs Blizzard Alliance
+  12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710501@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T193000
 DTEND;TZID=America/Edmonton:20261107T203000
-SUMMARY:⚽ Rockies AFC 13 vs RANGERS ATHLETICS 12 · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - Rockies AFC 13 vs RANGERS ATHLETI
+ CS 12
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -594,15 +612,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs RANGERS ATHLETICS 12 · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Rockies AFC 13 vs RANGERS ATH
+ LETICS 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710499@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T193000
 DTEND;TZID=America/Edmonton:20261107T203000
-SUMMARY:⚽ Foothills FH 2012 vs SWU SC 12B · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Foothills FH 2012 vs SWU SC 12B
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2930\nSchedule: https://jsclark89.gi
@@ -611,15 +630,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs SWU SC 12B · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Foothills FH 2012 vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710506@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T080000
 DTEND;TZID=America/Edmonton:20261121T090000
-SUMMARY:⚽ SWU SC 12B vs Airdrie F.C. Impact 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - SWU SC 12B vs Airdrie F.C. Impact 1
+ 2
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -629,15 +649,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs Airdrie F.C. Impact 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - SWU SC 12B vs Airdrie F.C. Impa
+ ct 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710515@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T080000
 DTEND;TZID=America/Edmonton:20261121T090000
-SUMMARY:⚽ CalGlen Blaze 12 vs EMFC Boca 12 · MSC Dome NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - CalGlen Blaze 12 vs EMFC Boca 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -647,16 +668,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs EMFC Boca 12 · MSC Dome NE 7v7 · Cleat
- s
+DESCRIPTION:Dome NE (👟 cleats) - CalGlen Blaze 12 vs EMFC Boca 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710508@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T091500
 DTEND;TZID=America/Edmonton:20261121T101500
-SUMMARY:⚽ Villains United 12 vs LSCA B Barcelona 2013 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Villains United 12 vs LSCA B Barcel
+ ona 2013
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -666,17 +687,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs LSCA B Barcelona 2013 · Field A · Cl
- eats
+DESCRIPTION:Macron Field A (👟 cleats) - Villains United 12 vs LSCA B Ba
+ rcelona 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710517@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T091500
 DTEND;TZID=America/Edmonton:20261121T101500
-SUMMARY:⚽ Spartans Leonidas vs RANGERS ATHLETICS 12 · MSC Dome NE 7v7 · 
- Cleats
+SUMMARY:Dome NE (👟 cleats) - Spartans Leonidas vs RANGERS ATHLETICS 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -686,16 +706,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs RANGERS ATHLETICS 12 · MSC Dome NE 7v
- 7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Spartans Leonidas vs RANGERS ATHLETICS
+  12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710509@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T153000
 DTEND;TZID=America/Edmonton:20261121T163000
-SUMMARY:⚽ CUFC Immortals 11/12 vs SWU Premiers 12 B · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - CUFC Immortals 11/12 vs SWU Premier
+ s 12 B
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -705,16 +726,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs SWU Premiers 12 B · Field B · Clea
- ts
+DESCRIPTION:Macron Field B (👟 cleats) - CUFC Immortals 11/12 vs SWU Pre
+ miers 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710513@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T164500
 DTEND;TZID=America/Edmonton:20261121T174500
-SUMMARY:⚽ CNEU 2012 HORNETS vs Rockies AFC 13 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - CNEU 2012 HORNETS vs Rockies AFC 13
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -724,16 +745,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs Rockies AFC 13 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - CNEU 2012 HORNETS vs Rockies AF
+ C 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710521@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T193000
 DTEND;TZID=America/Edmonton:20261121T203000
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs Rockies Albion 12 · Field 
- 1 7v7
+SUMMARY:Shane Homes Field 1 - New Frontier SC 2012 Boys (Shaw) vs Rockie
+ s Albion 12
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2937\nSchedule: https://jsclark89.gi
@@ -742,16 +764,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs Rockies Albion 12 · Fi
- eld 1 7v7
+DESCRIPTION:Shane Homes Field 1 - New Frontier SC 2012 Boys (Shaw) vs Ro
+ ckies Albion 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710523@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T204500
 DTEND;TZID=America/Edmonton:20261121T214500
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs Foothills FH 2012 · Field 1 7v7
+SUMMARY:Shane Homes Field 1 - Blizzard Alliance 12 Boys vs Foothills FH 
+ 2012
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2938\nSchedule: https://jsclark89.gi
@@ -760,17 +783,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs Foothills FH 2012 · Field 1 7
- v7
+DESCRIPTION:Shane Homes Field 1 - Blizzard Alliance 12 Boys vs Foothills
+  FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710526@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T120000
 DTEND;TZID=America/Edmonton:20261128T130000
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs Blizzard Alliance 12 Boys · #03/SE ·
-  Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - Airdrie F.C. Impact 12 vs Blizzar
+ d Alliance 12 Boys
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -780,17 +803,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs Blizzard Alliance 12 Boys · #03/
- SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Airdrie F.C. Impact 12 vs Bli
+ zzard Alliance 12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710528@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T131500
 DTEND;TZID=America/Edmonton:20261128T141500
-SUMMARY:⚽ Foothills FH 2012 vs New Frontier SC 2012 Boys (Shaw) · #03/SE
-  · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - Foothills FH 2012 vs New Frontier
+  SC 2012 Boys (Shaw)
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -800,17 +823,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs New Frontier SC 2012 Boys (Shaw) · #0
- 3/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Foothills FH 2012 vs New Fron
+ tier SC 2012 Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710544@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T131500
 DTEND;TZID=America/Edmonton:20261128T141500
-SUMMARY:⚽ LSCA B Barcelona 2013 vs CUFC Immortals 11/12 · #04/NE · Cleat
- s
+SUMMARY:Shouldice #04/NE (👟 cleats) - LSCA B Barcelona 2013 vs CUFC Imm
+ ortals 11/12
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -820,16 +843,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs CUFC Immortals 11/12 · #04/NE · C
- leats
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - LSCA B Barcelona 2013 vs CUFC
+  Immortals 11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710532@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T143000
 DTEND;TZID=America/Edmonton:20261128T153000
-SUMMARY:⚽ SWU Premiers 12 B vs Spartans Leonidas · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - SWU Premiers 12 B vs Spartans Leo
+ nidas
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -839,15 +863,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs Spartans Leonidas · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - SWU Premiers 12 B vs Spartans
+  Leonidas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710545@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T143000
 DTEND;TZID=America/Edmonton:20261128T153000
-SUMMARY:⚽ Rockies Albion 12 vs CalGlen Blaze 12 · #04/NE · Cleats
+SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Albion 12 vs CalGlen Blaz
+ e 12
 LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -857,15 +883,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs CalGlen Blaze 12 · #04/NE · Cleats
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Rockies Albion 12 vs CalGlen 
+ Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710534@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T181500
 DTEND;TZID=America/Edmonton:20261128T191500
-SUMMARY:⚽ EMFC Boca 12 vs Villains United 12 · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - EMFC Boca 12 vs Villains United 1
+ 2
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -875,15 +903,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs Villains United 12 · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - EMFC Boca 12 vs Villains Unit
+ ed 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710537@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T193000
 DTEND;TZID=America/Edmonton:20261128T203000
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs CNEU 2012 HORNETS · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - RANGERS ATHLETICS 12 vs CNEU 2012
+  HORNETS
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -893,16 +923,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs CNEU 2012 HORNETS · #03/SE · Cleat
- s
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - RANGERS ATHLETICS 12 vs CNEU 
+ 2012 HORNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710541@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T204500
 DTEND;TZID=America/Edmonton:20261128T214500
-SUMMARY:⚽ Rockies AFC 13 vs SWU SC 12B · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - Rockies AFC 13 vs SWU SC 12B
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -912,15 +942,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs SWU SC 12B · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Rockies AFC 13 vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710549@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T130000
 DTEND;TZID=America/Edmonton:20261205T140000
-SUMMARY:⚽ CUFC Immortals 11/12 vs EMFC Boca 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - CUFC Immortals 11/12 vs EMFC Boca 1
+ 2
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -930,15 +961,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs EMFC Boca 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - CUFC Immortals 11/12 vs EMFC Bo
+ ca 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710558@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T130000
 DTEND;TZID=America/Edmonton:20261205T140000
-SUMMARY:⚽ SWU SC 12B vs RANGERS ATHLETICS 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - SWU SC 12B vs RANGERS ATHLETICS 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -948,15 +980,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs RANGERS ATHLETICS 12 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - SWU SC 12B vs RANGERS ATHLETICS
+  12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710551@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T141500
 DTEND;TZID=America/Edmonton:20261205T151500
-SUMMARY:⚽ Villains United 12 vs Rockies Albion 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Villains United 12 vs Rockies Albio
+ n 12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -966,15 +1000,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs Rockies Albion 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Villains United 12 vs Rockies A
+ lbion 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710560@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T141500
 DTEND;TZID=America/Edmonton:20261205T151500
-SUMMARY:⚽ SWU Premiers 12 B vs LSCA B Barcelona 2013 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - SWU Premiers 12 B vs LSCA B Barcelo
+ na 2013
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -984,16 +1020,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs LSCA B Barcelona 2013 · Field B · Cle
- ats
+DESCRIPTION:Macron Field B (👟 cleats) - SWU Premiers 12 B vs LSCA B Bar
+ celona 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710568@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T143000
 DTEND;TZID=America/Edmonton:20261205T153000
-SUMMARY:⚽ CalGlen Blaze 12 vs Foothills FH 2012 · #02/SW · Cleats
+SUMMARY:Shouldice #02/SW (👟 cleats) - CalGlen Blaze 12 vs Foothills FH 
+ 2012
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1003,16 +1040,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs Foothills FH 2012 · #02/SW · Cleats
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - CalGlen Blaze 12 vs Foothills
+  FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710563@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T153000
 DTEND;TZID=America/Edmonton:20261205T163000
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs Airdrie F.C. Impact 12 · F
- ield B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - New Frontier SC 2012 Boys (Shaw) vs
+  Airdrie F.C. Impact 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1022,16 +1060,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs Airdrie F.C. Impact 12
-  · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - New Frontier SC 2012 Boys (Shaw
+ ) vs Airdrie F.C. Impact 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710556@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T153000
 DTEND;TZID=America/Edmonton:20261205T163000
-SUMMARY:⚽ Spartans Leonidas vs CNEU 2012 HORNETS · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Spartans Leonidas vs CNEU 2012 HORN
+ ETS
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1041,15 +1080,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs CNEU 2012 HORNETS · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Spartans Leonidas vs CNEU 2012 
+ HORNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710569@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T210000
 DTEND;TZID=America/Edmonton:20261205T220000
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs Rockies AFC 13 · #02/SW · Cleats
+SUMMARY:Shouldice #02/SW (👟 cleats) - Blizzard Alliance 12 Boys vs Rock
+ ies AFC 13
 LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1059,17 +1100,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs Rockies AFC 13 · #02/SW · Cle
- ats
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Blizzard Alliance 12 Boys vs 
+ Rockies AFC 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710572@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T120000
 DTEND;TZID=America/Edmonton:20261212T130000
-SUMMARY:⚽ Foothills FH 2012 vs Villains United 12 · MSC Dome NE 7v7 · Cl
- eats
+SUMMARY:Dome NE (👟 cleats) - Foothills FH 2012 vs Villains United 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1079,16 +1119,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs Villains United 12 · MSC Dome NE 7v7 
- · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Foothills FH 2012 vs Villains United 1
+ 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710577@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T131500
 DTEND;TZID=America/Edmonton:20261212T141500
-SUMMARY:⚽ EMFC Boca 12 vs SWU Premiers 12 B · MSC Dome NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - EMFC Boca 12 vs SWU Premiers 12 B
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1098,16 +1138,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs SWU Premiers 12 B · MSC Dome NE 7v7 · Clea
- ts
+DESCRIPTION:Dome NE (👟 cleats) - EMFC Boca 12 vs SWU Premiers 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710580@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T143000
 DTEND;TZID=America/Edmonton:20261212T153000
-SUMMARY:⚽ CNEU 2012 HORNETS vs SWU SC 12B · MSC Dome NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - CNEU 2012 HORNETS vs SWU SC 12B
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1117,16 +1156,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs SWU SC 12B · MSC Dome NE 7v7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - CNEU 2012 HORNETS vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710590@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T143000
 DTEND;TZID=America/Edmonton:20261212T153000
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs Blizzard Alliance 12 Boys · #01/NW · C
- leats
+SUMMARY:Shouldice #01/NW (👟 cleats) - RANGERS ATHLETICS 12 vs Blizzard 
+ Alliance 12 Boys
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1136,17 +1175,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs Blizzard Alliance 12 Boys · #01/NW
-  · Cleats
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - RANGERS ATHLETICS 12 vs Blizz
+ ard Alliance 12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710582@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T154500
 DTEND;TZID=America/Edmonton:20261212T164500
-SUMMARY:⚽ LSCA B Barcelona 2013 vs Spartans Leonidas · MSC Dome NE 7v7 ·
-  Cleats
+SUMMARY:Dome NE (👟 cleats) - LSCA B Barcelona 2013 vs Spartans Leonidas
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1156,16 +1194,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs Spartans Leonidas · MSC Dome NE 7
- v7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - LSCA B Barcelona 2013 vs Spartans Leon
+ idas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710586@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T163000
 DTEND;TZID=America/Edmonton:20261212T173000
-SUMMARY:⚽ Rockies Albion 12 vs CUFC Immortals 11/12 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Rockies Albion 12 vs CUFC Immortals 11/12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2961\nSchedule: https://jsclark89.gi
@@ -1174,16 +1212,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs CUFC Immortals 11/12 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Rockies Albion 12 vs CUFC Immortals 11
+ /12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710587@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T174500
 DTEND;TZID=America/Edmonton:20261212T184500
-SUMMARY:⚽ Rockies AFC 13 vs New Frontier SC 2012 Boys (Shaw) · Field 3 7
- v7
+SUMMARY:Shane Homes Field 3 - Rockies AFC 13 vs New Frontier SC 2012 Boy
+ s (Shaw)
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2962\nSchedule: https://jsclark89.gi
@@ -1192,16 +1231,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs New Frontier SC 2012 Boys (Shaw) · Field
-  3 7v7
+DESCRIPTION:Shane Homes Field 3 - Rockies AFC 13 vs New Frontier SC 2012
+  Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710595@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T204500
 DTEND;TZID=America/Edmonton:20261212T214500
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs CalGlen Blaze 12 · #01/NW · Cleats
+SUMMARY:Shouldice #01/NW (👟 cleats) - Airdrie F.C. Impact 12 vs CalGlen
+  Blaze 12
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1211,17 +1251,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs CalGlen Blaze 12 · #01/NW · Clea
- ts
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - Airdrie F.C. Impact 12 vs Cal
+ Glen Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710596@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T081500
 DTEND;TZID=America/Edmonton:20261219T091500
-SUMMARY:⚽ SWU Premiers 12 B vs Rockies Albion 12 · MSC Dome NW 7v7 · Cle
- ats
+SUMMARY:Dome NW (👟 cleats) - SWU Premiers 12 B vs Rockies Albion 12
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1231,17 +1270,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs Rockies Albion 12 · MSC Dome NW 7v7 ·
-  Cleats
+DESCRIPTION:Dome NW (👟 cleats) - SWU Premiers 12 B vs Rockies Albion 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710600@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T093000
 DTEND;TZID=America/Edmonton:20261219T103000
-SUMMARY:⚽ Villains United 12 vs Airdrie F.C. Impact 12 · MSC Dome NW 7v7
-  · Cleats
+SUMMARY:Dome NW (👟 cleats) - Villains United 12 vs Airdrie F.C. Impact 
+ 12
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1251,17 +1289,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs Airdrie F.C. Impact 12 · MSC Dome NW
-  7v7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Villains United 12 vs Airdrie F.C. Imp
+ act 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710605@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T104500
 DTEND;TZID=America/Edmonton:20261219T114500
-SUMMARY:⚽ CUFC Immortals 11/12 vs Foothills FH 2012 · MSC Dome NW 7v7 · 
- Cleats
+SUMMARY:Dome NW (👟 cleats) - CUFC Immortals 11/12 vs Foothills FH 2012
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1271,16 +1308,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs Foothills FH 2012 · MSC Dome NW 7v
- 7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - CUFC Immortals 11/12 vs Foothills FH 2
+ 012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710616@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T120000
 DTEND;TZID=America/Edmonton:20261219T130000
-SUMMARY:⚽ CalGlen Blaze 12 vs Rockies AFC 13 · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - CalGlen Blaze 12 vs Rockies AFC 1
+ 3
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1290,15 +1328,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs Rockies AFC 13 · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - CalGlen Blaze 12 vs Rockies A
+ FC 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710614@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T143000
 DTEND;TZID=America/Edmonton:20261219T153000
-SUMMARY:⚽ LSCA B Barcelona 2013 vs EMFC Boca 12 · #01/NW · Cleats
+SUMMARY:Shouldice #01/NW (👟 cleats) - LSCA B Barcelona 2013 vs EMFC Boc
+ a 12
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1308,15 +1348,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs EMFC Boca 12 · #01/NW · Cleats
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - LSCA B Barcelona 2013 vs EMFC
+  Boca 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710606@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T193000
 DTEND;TZID=America/Edmonton:20261219T203000
-SUMMARY:⚽ Spartans Leonidas vs SWU SC 12B · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Spartans Leonidas vs SWU SC 12B
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2969\nSchedule: https://jsclark89.gi
@@ -1325,16 +1366,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs SWU SC 12B · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Spartans Leonidas vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710611@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T204500
 DTEND;TZID=America/Edmonton:20261219T214500
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs RANGERS ATHLETICS 12 · Fie
- ld 3 7v7
+SUMMARY:Shane Homes Field 3 - New Frontier SC 2012 Boys (Shaw) vs RANGER
+ S ATHLETICS 12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2970\nSchedule: https://jsclark89.gi
@@ -1343,17 +1384,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs RANGERS ATHLETICS 12 ·
-  Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - New Frontier SC 2012 Boys (Shaw) vs RA
+ NGERS ATHLETICS 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710620@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T210000
 DTEND;TZID=America/Edmonton:20261219T220000
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs CNEU 2012 HORNETS · #03/SE · Clea
- ts
+SUMMARY:Shouldice #03/SE (👟 cleats) - Blizzard Alliance 12 Boys vs CNEU
+  2012 HORNETS
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1363,17 +1404,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs CNEU 2012 HORNETS · #03/SE · 
- Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Blizzard Alliance 12 Boys vs 
+ CNEU 2012 HORNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710644@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T080000
 DTEND;TZID=America/Edmonton:20270109T090000
-SUMMARY:⚽ Rockies Albion 12 vs LSCA B Barcelona 2013 · MSC Dome NE 7v7 ·
-  Cleats
+SUMMARY:Dome NE (👟 cleats) - Rockies Albion 12 vs LSCA B Barcelona 2013
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1383,16 +1423,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs LSCA B Barcelona 2013 · MSC Dome NE 7
- v7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Rockies Albion 12 vs LSCA B Barcelona 
+ 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710625@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T091500
 DTEND;TZID=America/Edmonton:20270109T101500
-SUMMARY:⚽ Foothills FH 2012 vs SWU Premiers 12 B · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Foothills FH 2012 vs SWU Premiers 1
+ 2 B
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1402,16 +1443,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs SWU Premiers 12 B · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Foothills FH 2012 vs SWU Premie
+ rs 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710649@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T091500
 DTEND;TZID=America/Edmonton:20270109T101500
-SUMMARY:⚽ Rockies AFC 13 vs Villains United 12 · MSC Dome NE 7v7 · Cleat
- s
+SUMMARY:Dome NE (👟 cleats) - Rockies AFC 13 vs Villains United 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1421,17 +1462,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs Villains United 12 · MSC Dome NE 7v7 · C
- leats
+DESCRIPTION:Dome NE (👟 cleats) - Rockies AFC 13 vs Villains United 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710630@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T103000
 DTEND;TZID=America/Edmonton:20270109T113000
-SUMMARY:⚽ CNEU 2012 HORNETS vs New Frontier SC 2012 Boys (Shaw) · Field 
- A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - CNEU 2012 HORNETS vs New Frontier S
+ C 2012 Boys (Shaw)
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1441,17 +1481,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs New Frontier SC 2012 Boys (Shaw) · Fi
- eld A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - CNEU 2012 HORNETS vs New Fronti
+ er SC 2012 Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710651@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T103000
 DTEND;TZID=America/Edmonton:20270109T113000
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs CalGlen Blaze 12 · MSC Dome NE 7v7 · C
- leats
+SUMMARY:Dome NE (👟 cleats) - RANGERS ATHLETICS 12 vs CalGlen Blaze 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1461,17 +1500,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs CalGlen Blaze 12 · MSC Dome NE 7v7
-  · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - RANGERS ATHLETICS 12 vs CalGlen Blaze 
+ 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710634@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T114500
 DTEND;TZID=America/Edmonton:20270109T124500
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs CUFC Immortals 11/12 · Field A · Cle
- ats
+SUMMARY:Macron Field A (👟 cleats) - Airdrie F.C. Impact 12 vs CUFC Immo
+ rtals 11/12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1481,16 +1520,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs CUFC Immortals 11/12 · Field A ·
-  Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Airdrie F.C. Impact 12 vs CUFC 
+ Immortals 11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710636@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T130000
 DTEND;TZID=America/Edmonton:20270109T140000
-SUMMARY:⚽ SWU SC 12B vs Blizzard Alliance 12 Boys · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - SWU SC 12B vs Blizzard Alliance 12 
+ Boys
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1500,15 +1540,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs Blizzard Alliance 12 Boys · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - SWU SC 12B vs Blizzard Alliance
+  12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710640@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T141500
 DTEND;TZID=America/Edmonton:20270109T151500
-SUMMARY:⚽ EMFC Boca 12 vs Spartans Leonidas · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - EMFC Boca 12 vs Spartans Leonidas
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1518,15 +1559,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs Spartans Leonidas · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - EMFC Boca 12 vs Spartans Leonid
+ as
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710655@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T103000
 DTEND;TZID=America/Edmonton:20270116T113000
-SUMMARY:⚽ EMFC Boca 12 vs Rockies Albion 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - EMFC Boca 12 vs Rockies Albion 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1536,16 +1578,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs Rockies Albion 12 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - EMFC Boca 12 vs Rockies Albion 
+ 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710659@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T114500
 DTEND;TZID=America/Edmonton:20270116T124500
-SUMMARY:⚽ Spartans Leonidas vs Blizzard Alliance 12 Boys · Field B · Cle
- ats
+SUMMARY:Macron Field B (👟 cleats) - Spartans Leonidas vs Blizzard Allia
+ nce 12 Boys
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1555,16 +1598,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs Blizzard Alliance 12 Boys · Field B ·
-  Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - Spartans Leonidas vs Blizzard A
+ lliance 12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710666@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T130000
 DTEND;TZID=America/Edmonton:20270116T140000
-SUMMARY:⚽ Villains United 12 vs RANGERS ATHLETICS 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - Villains United 12 vs RANGERS ATHLE
+ TICS 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1574,16 +1618,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs RANGERS ATHLETICS 12 · Field B · Cle
- ats
+DESCRIPTION:Macron Field B (👟 cleats) - Villains United 12 vs RANGERS A
+ THLETICS 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710669@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T141500
 DTEND;TZID=America/Edmonton:20270116T151500
-SUMMARY:⚽ CUFC Immortals 11/12 vs Rockies AFC 13 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - CUFC Immortals 11/12 vs Rockies AFC
+  13
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1593,15 +1638,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs Rockies AFC 13 · Field B · Cleats
+DESCRIPTION:Macron Field B (👟 cleats) - CUFC Immortals 11/12 vs Rockies
+  AFC 13
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710673@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T153000
 DTEND;TZID=America/Edmonton:20270116T163000
-SUMMARY:⚽ LSCA B Barcelona 2013 vs Foothills FH 2012 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - LSCA B Barcelona 2013 vs Foothills 
+ FH 2012
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1611,16 +1658,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs Foothills FH 2012 · Field B · Cle
- ats
+DESCRIPTION:Macron Field B (👟 cleats) - LSCA B Barcelona 2013 vs Foothi
+ lls FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710677@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T164500
 DTEND;TZID=America/Edmonton:20270116T174500
-SUMMARY:⚽ SWU Premiers 12 B vs Airdrie F.C. Impact 12 · Field B · Cleats
+SUMMARY:Macron Field B (👟 cleats) - SWU Premiers 12 B vs Airdrie F.C. I
+ mpact 12
 LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1630,16 +1678,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs Airdrie F.C. Impact 12 · Field B · Cl
- eats
+DESCRIPTION:Macron Field B (👟 cleats) - SWU Premiers 12 B vs Airdrie F.
+ C. Impact 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710679@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T183000
 DTEND;TZID=America/Edmonton:20270116T193000
-SUMMARY:⚽ CalGlen Blaze 12 vs CNEU 2012 HORNETS · #01/NW · Cleats
+SUMMARY:Shouldice #01/NW (👟 cleats) - CalGlen Blaze 12 vs CNEU 2012 HOR
+ NETS
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1649,16 +1698,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs CNEU 2012 HORNETS · #01/NW · Cleats
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - CalGlen Blaze 12 vs CNEU 2012
+  HORNETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710685@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T194500
 DTEND;TZID=America/Edmonton:20270116T204500
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs SWU SC 12B · #01/NW · Clea
- ts
+SUMMARY:Shouldice #01/NW (👟 cleats) - New Frontier SC 2012 Boys (Shaw) 
+ vs SWU SC 12B
 LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1668,16 +1718,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs SWU SC 12B · #01/NW · 
- Cleats
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - New Frontier SC 2012 Boys (Sh
+ aw) vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710690@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T141500
 DTEND;TZID=America/Edmonton:20270123T151500
-SUMMARY:⚽ CNEU 2012 HORNETS vs Villains United 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - CNEU 2012 HORNETS vs Villains Unite
+ d 12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1687,15 +1738,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs Villains United 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - CNEU 2012 HORNETS vs Villains U
+ nited 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710693@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T153000
 DTEND;TZID=America/Edmonton:20270123T163000
-SUMMARY:⚽ SWU SC 12B vs CalGlen Blaze 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - SWU SC 12B vs CalGlen Blaze 12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1705,16 +1757,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs CalGlen Blaze 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - SWU SC 12B vs CalGlen Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710703@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T163000
 DTEND;TZID=America/Edmonton:20270123T173000
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs New Frontier SC 2012 Boys (Shaw) 
- · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - Blizzard Alliance 12 Boys vs New Frontier 
+ SC 2012 Boys (Shaw)
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2991\nSchedule: https://jsclark89.gi
@@ -1723,16 +1775,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs New Frontier SC 2012 Boys (Sh
- aw) · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - Blizzard Alliance 12 Boys vs New Front
+ ier SC 2012 Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710714@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T163000
 DTEND;TZID=America/Edmonton:20270123T173000
-SUMMARY:⚽ Rockies Albion 12 vs Spartans Leonidas · Field 4 7v7
+SUMMARY:Shane Homes Field 4 - Rockies Albion 12 vs Spartans Leonidas
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2993\nSchedule: https://jsclark89.gi
@@ -1741,15 +1793,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs Spartans Leonidas · Field 4 7v7
+DESCRIPTION:Shane Homes Field 4 - Rockies Albion 12 vs Spartans Leonidas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710696@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T164500
 DTEND;TZID=America/Edmonton:20270123T174500
-SUMMARY:⚽ Foothills FH 2012 vs EMFC Boca 12 · Field A · Cleats
+SUMMARY:Macron Field A (👟 cleats) - Foothills FH 2012 vs EMFC Boca 12
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1759,15 +1811,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs EMFC Boca 12 · Field A · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Foothills FH 2012 vs EMFC Boca 
+ 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710710@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T174500
 DTEND;TZID=America/Edmonton:20270123T184500
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs CUFC Immortals 11/12 · Field 3 7v7
+SUMMARY:Shane Homes Field 3 - RANGERS ATHLETICS 12 vs CUFC Immortals 11/
+ 12
 LOCATION:Shane Homes West Soccer Dome Field 3 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2992\nSchedule: https://jsclark89.gi
@@ -1776,15 +1830,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs CUFC Immortals 11/12 · Field 3 7v7
+DESCRIPTION:Shane Homes Field 3 - RANGERS ATHLETICS 12 vs CUFC Immortals
+  11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710716@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T174500
 DTEND;TZID=America/Edmonton:20270123T184500
-SUMMARY:⚽ Rockies AFC 13 vs SWU Premiers 12 B · Field 4 7v7
+SUMMARY:Shane Homes Field 4 - Rockies AFC 13 vs SWU Premiers 12 B
 LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #2994\nSchedule: https://jsclark89.gi
@@ -1793,16 +1848,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs SWU Premiers 12 B · Field 4 7v7
+DESCRIPTION:Shane Homes Field 4 - Rockies AFC 13 vs SWU Premiers 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710699@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T180000
 DTEND;TZID=America/Edmonton:20270123T190000
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs LSCA B Barcelona 2013 · Field A · Cl
- eats
+SUMMARY:Macron Field A (👟 cleats) - Airdrie F.C. Impact 12 vs LSCA B Ba
+ rcelona 2013
 LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1812,17 +1867,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs LSCA B Barcelona 2013 · Field A 
- · Cleats
+DESCRIPTION:Macron Field A (👟 cleats) - Airdrie F.C. Impact 12 vs LSCA 
+ B Barcelona 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710735@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T080000
 DTEND;TZID=America/Edmonton:20270130T090000
-SUMMARY:⚽ CUFC Immortals 11/12 vs CNEU 2012 HORNETS · MSC Dome NW 7v7 · 
- Cleats
+SUMMARY:Dome NW (👟 cleats) - CUFC Immortals 11/12 vs CNEU 2012 HORNETS
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1832,17 +1886,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CUFC Immortals 11/12 vs CNEU 2012 HORNETS · MSC Dome NW 7v
- 7 · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - CUFC Immortals 11/12 vs CNEU 2012 HORN
+ ETS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710739@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T091500
 DTEND;TZID=America/Edmonton:20270130T101500
-SUMMARY:⚽ LSCA B Barcelona 2013 vs Rockies AFC 13 · MSC Dome NW 7v7 · Cl
- eats
+SUMMARY:Dome NW (👟 cleats) - LSCA B Barcelona 2013 vs Rockies AFC 13
 LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1852,17 +1905,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ LSCA B Barcelona 2013 vs Rockies AFC 13 · MSC Dome NW 7v7 
- · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - LSCA B Barcelona 2013 vs Rockies AFC 1
+ 3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710722@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T120000
 DTEND;TZID=America/Edmonton:20270130T130000
-SUMMARY:⚽ Spartans Leonidas vs New Frontier SC 2012 Boys (Shaw) · MSC Do
- me NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - Spartans Leonidas vs New Frontier SC 2012 
+ Boys (Shaw)
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1872,17 +1925,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Spartans Leonidas vs New Frontier SC 2012 Boys (Shaw) · MS
- C Dome NE 7v7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Spartans Leonidas vs New Frontier SC 2
+ 012 Boys (Shaw)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710724@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T131500
 DTEND;TZID=America/Edmonton:20270130T141500
-SUMMARY:⚽ SWU Premiers 12 B vs RANGERS ATHLETICS 12 · MSC Dome NE 7v7 · 
- Cleats
+SUMMARY:Dome NE (👟 cleats) - SWU Premiers 12 B vs RANGERS ATHLETICS 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1892,16 +1944,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU Premiers 12 B vs RANGERS ATHLETICS 12 · MSC Dome NE 7v
- 7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - SWU Premiers 12 B vs RANGERS ATHLETICS
+  12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710730@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T143000
 DTEND;TZID=America/Edmonton:20270130T153000
-SUMMARY:⚽ Villains United 12 vs SWU SC 12B · MSC Dome NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - Villains United 12 vs SWU SC 12B
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1911,17 +1963,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Villains United 12 vs SWU SC 12B · MSC Dome NE 7v7 · Cleat
- s
+DESCRIPTION:Dome NE (👟 cleats) - Villains United 12 vs SWU SC 12B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710731@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T154500
 DTEND;TZID=America/Edmonton:20270130T164500
-SUMMARY:⚽ EMFC Boca 12 vs Airdrie F.C. Impact 12 · MSC Dome NE 7v7 · Cle
- ats
+SUMMARY:Dome NE (👟 cleats) - EMFC Boca 12 vs Airdrie F.C. Impact 12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1931,17 +1981,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ EMFC Boca 12 vs Airdrie F.C. Impact 12 · MSC Dome NE 7v7 ·
-  Cleats
+DESCRIPTION:Dome NE (👟 cleats) - EMFC Boca 12 vs Airdrie F.C. Impact 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710744@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T193000
 DTEND;TZID=America/Edmonton:20270130T203000
-SUMMARY:⚽ CalGlen Blaze 12 vs Blizzard Alliance 12 Boys · #03/SE · Cleat
- s
+SUMMARY:Shouldice #03/SE (👟 cleats) - CalGlen Blaze 12 vs Blizzard Alli
+ ance 12 Boys
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1951,16 +2000,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CalGlen Blaze 12 vs Blizzard Alliance 12 Boys · #03/SE · C
- leats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - CalGlen Blaze 12 vs Blizzard 
+ Alliance 12 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710749@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T204500
 DTEND;TZID=America/Edmonton:20270130T214500
-SUMMARY:⚽ Rockies Albion 12 vs Foothills FH 2012 · #03/SE · Cleats
+SUMMARY:Shouldice #03/SE (👟 cleats) - Rockies Albion 12 vs Foothills FH
+  2012
 LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
  , AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1970,16 +2020,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies Albion 12 vs Foothills FH 2012 · #03/SE · Cleats
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Rockies Albion 12 vs Foothill
+ s FH 2012
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710754@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T120000
 DTEND;TZID=America/Edmonton:20270220T130000
-SUMMARY:⚽ Foothills FH 2012 vs Spartans Leonidas · MSC Dome NE 7v7 · Cle
- ats
+SUMMARY:Dome NE (👟 cleats) - Foothills FH 2012 vs Spartans Leonidas
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1989,17 +2039,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Foothills FH 2012 vs Spartans Leonidas · MSC Dome NE 7v7 ·
-  Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Foothills FH 2012 vs Spartans Leonidas
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710757@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T131500
 DTEND;TZID=America/Edmonton:20270220T141500
-SUMMARY:⚽ CNEU 2012 HORNETS vs SWU Premiers 12 B · MSC Dome NE 7v7 · Cle
- ats
+SUMMARY:Dome NE (👟 cleats) - CNEU 2012 HORNETS vs SWU Premiers 12 B
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -2009,16 +2057,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ CNEU 2012 HORNETS vs SWU Premiers 12 B · MSC Dome NE 7v7 ·
-  Cleats
+DESCRIPTION:Dome NE (👟 cleats) - CNEU 2012 HORNETS vs SWU Premiers 12 B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710762@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T143000
 DTEND;TZID=America/Edmonton:20270220T153000
-SUMMARY:⚽ SWU SC 12B vs CUFC Immortals 11/12 · MSC Dome NE 7v7 · Cleats
+SUMMARY:Dome NE (👟 cleats) - SWU SC 12B vs CUFC Immortals 11/12
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -2028,17 +2075,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ SWU SC 12B vs CUFC Immortals 11/12 · MSC Dome NE 7v7 · Cle
- ats
+DESCRIPTION:Dome NE (👟 cleats) - SWU SC 12B vs CUFC Immortals 11/12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710764@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T154500
 DTEND;TZID=America/Edmonton:20270220T164500
-SUMMARY:⚽ Airdrie F.C. Impact 12 vs Rockies Albion 12 · MSC Dome NE 7v7 
- · Cleats
+SUMMARY:Dome NE (👟 cleats) - Airdrie F.C. Impact 12 vs Rockies Albion 1
+ 2
 LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
  t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -2048,16 +2094,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Airdrie F.C. Impact 12 vs Rockies Albion 12 · MSC Dome NE 
- 7v7 · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Airdrie F.C. Impact 12 vs Rockies Albi
+ on 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710770@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T163000
 DTEND;TZID=America/Edmonton:20270220T173000
-SUMMARY:⚽ RANGERS ATHLETICS 12 vs LSCA B Barcelona 2013 · Field 1 7v7
+SUMMARY:Shane Homes Field 1 - RANGERS ATHLETICS 12 vs LSCA B Barcelona 2
+ 013
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #3007\nSchedule: https://jsclark89.gi
@@ -2066,17 +2113,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ RANGERS ATHLETICS 12 vs LSCA B Barcelona 2013 · Field 1 7v
- 7
+DESCRIPTION:Shane Homes Field 1 - RANGERS ATHLETICS 12 vs LSCA B Barcelo
+ na 2013
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710775@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T163000
 DTEND;TZID=America/Edmonton:20270220T173000
-SUMMARY:⚽ New Frontier SC 2012 Boys (Shaw) vs CalGlen Blaze 12 · Field 2
-  7v7
+SUMMARY:Shane Homes Field 2 - New Frontier SC 2012 Boys (Shaw) vs CalGle
+ n Blaze 12
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #3009\nSchedule: https://jsclark89.gi
@@ -2085,16 +2132,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ New Frontier SC 2012 Boys (Shaw) vs CalGlen Blaze 12 · Fie
- ld 2 7v7
+DESCRIPTION:Shane Homes Field 2 - New Frontier SC 2012 Boys (Shaw) vs Ca
+ lGlen Blaze 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710771@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T174500
 DTEND;TZID=America/Edmonton:20270220T184500
-SUMMARY:⚽ Rockies AFC 13 vs EMFC Boca 12 · Field 1 7v7
+SUMMARY:Shane Homes Field 1 - Rockies AFC 13 vs EMFC Boca 12
 LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #3008\nSchedule: https://jsclark89.gi
@@ -2103,15 +2150,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rockies AFC 13 vs EMFC Boca 12 · Field 1 7v7
+DESCRIPTION:Shane Homes Field 1 - Rockies AFC 13 vs EMFC Boca 12
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11710780@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T174500
 DTEND;TZID=America/Edmonton:20270220T184500
-SUMMARY:⚽ Blizzard Alliance 12 Boys vs Villains United 12 · Field 2 7v7
+SUMMARY:Shane Homes Field 2 - Blizzard Alliance 12 Boys vs Villains Unit
+ ed 12
 LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
  oad Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Boys U15 Tier 2 · Game #3010\nSchedule: https://jsclark89.gi
@@ -2120,8 +2168,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blizzard Alliance 12 Boys vs Villains United 12 · Field 2 
- 7v7
+DESCRIPTION:Shane Homes Field 2 - Blizzard Alliance 12 Boys vs Villains 
+ United 12
 END:VALARM
 END:VEVENT
 END:VCALENDAR

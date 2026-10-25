@@ -26,11 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109066@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T203000
 DTEND;TZID=America/Edmonton:20261104T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Argentina Social Club O45 · Field 1 · Clea
- ts
+SUMMARY:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Argentina Soc
+ ial Club O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -38,16 +38,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Argentina Social Club O45 · Field 1 · 
- Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Argentina
+  Social Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109068@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T203000
 DTEND;TZID=America/Edmonton:20261104T213000
-SUMMARY:⚽ Andinos O45 vs Golden Falcons · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Andinos O45 vs Golden Falcons
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -55,15 +55,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Golden Falcons · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Andinos O45 vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109063@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
-SUMMARY:⚽ Napoli D10S vs Storm Dacia O45 · Field 1
+SUMMARY:Shane Homes Field 1 - Napoli D10S vs Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -72,15 +72,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Storm Dacia O45 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Napoli D10S vs Storm Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109064@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
-SUMMARY:⚽ Blue Steele vs Bohemians · Field 2
+SUMMARY:Shane Homes Field 2 - Blue Steele vs Bohemians
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -89,15 +89,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Bohemians · Field 2
+DESCRIPTION:Shane Homes Field 2 - Blue Steele vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109129@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
-SUMMARY:⚽ Argentina Social Club O45 vs Blue Steele · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs Blue
+  Steele
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -105,16 +106,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Blue Steele · Field 1 · Cleat
- s
+DESCRIPTION:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs 
+ Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109131@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
-SUMMARY:⚽ Bohemians vs Andinos O45 · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Bohemians vs Andinos O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -122,15 +123,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Andinos O45 · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Bohemians vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109128@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
-SUMMARY:⚽ Storm Dacia O45 vs Chinooks FC 1974 · Field 1
+SUMMARY:Shane Homes Field 1 - Storm Dacia O45 vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -139,15 +140,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Chinooks FC 1974 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Storm Dacia O45 vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109130@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T214500
 DTEND;TZID=America/Edmonton:20261110T224500
-SUMMARY:⚽ Golden Falcons vs Rangers FC O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Golden Falcons vs Rangers FC O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -155,15 +156,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Rangers FC O45 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Golden Falcons vs Rangers FC 
+ O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109201@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T203000
 DTEND;TZID=America/Edmonton:20261117T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Golden Falcons · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Chinooks FC 1974 vs Golden Falcons
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -172,15 +174,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Golden Falcons · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Chinooks FC 1974 vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109206@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
-SUMMARY:⚽ Blue Steele vs Rangers FC O45 · Field 1
+SUMMARY:Shane Homes Field 1 - Blue Steele vs Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -189,15 +191,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Rangers FC O45 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Blue Steele vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109207@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
-SUMMARY:⚽ Napoli D10S vs Bohemians · Field 2
+SUMMARY:Shane Homes Field 2 - Napoli D10S vs Bohemians
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -206,15 +208,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Bohemians · Field 2
+DESCRIPTION:Shane Homes Field 2 - Napoli D10S vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109208@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
-SUMMARY:⚽ Storm Dacia O45 vs Argentina Social Club O45 · Field 3
+SUMMARY:Shane Homes Field 3 - Storm Dacia O45 vs Argentina Social Club O
+ 45
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -223,16 +226,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Argentina Social Club O45 · Field 3
+DESCRIPTION:Shane Homes Field 3 - Storm Dacia O45 vs Argentina Social Cl
+ ub O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109331@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261127T214500
 DTEND;TZID=America/Edmonton:20261127T224500
-SUMMARY:⚽ Argentina Social Club O45 vs Napoli D10S · MSC Dome SW · Cleat
- s
+SUMMARY:Dome SW (👟 cleats) - Argentina Social Club O45 vs Napoli D10S
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -241,16 +244,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Napoli D10S · MSC Dome SW · C
- leats
+DESCRIPTION:Dome SW (👟 cleats) - Argentina Social Club O45 vs Napoli D1
+ 0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109332@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261127T220000
 DTEND;TZID=America/Edmonton:20261127T230000
-SUMMARY:⚽ Rangers FC O45 vs Andinos O45 · Encana SW · Cleats
+SUMMARY:Shouldice Encana SW (👟 cleats) - Rangers FC O45 vs Andinos O45
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -259,15 +262,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Andinos O45 · Encana SW · Cleats
+DESCRIPTION:Shouldice Encana SW (👟 cleats) - Rangers FC O45 vs Andinos 
+ O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109343@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T181500
 DTEND;TZID=America/Edmonton:20261128T191500
-SUMMARY:⚽ Bohemians vs Chinooks FC 1974 · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Bohemians vs Chinooks FC 1974
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -276,15 +280,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Chinooks FC 1974 · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Bohemians vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109344@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T193000
 DTEND;TZID=America/Edmonton:20261128T203000
-SUMMARY:⚽ Golden Falcons vs Blue Steele · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Golden Falcons vs Blue Steele
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -293,15 +297,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Blue Steele · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Golden Falcons vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109392@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Andinos O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Andinos O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -309,15 +313,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Andinos O45 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Andinos O
+ 45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109393@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T203000
 DTEND;TZID=America/Edmonton:20261202T213000
-SUMMARY:⚽ Argentina Social Club O45 vs Bohemians · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Argentina Social Club O45 vs Bohe
+ mians
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -325,15 +331,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Bohemians · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Argentina Social Club O45 vs 
+ Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109390@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
-SUMMARY:⚽ Napoli D10S vs Rangers FC O45 · Field 1
+SUMMARY:Shane Homes Field 1 - Napoli D10S vs Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -342,15 +349,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Rangers FC O45 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Napoli D10S vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109391@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
-SUMMARY:⚽ Storm Dacia O45 vs Golden Falcons · Field 2
+SUMMARY:Shane Homes Field 2 - Storm Dacia O45 vs Golden Falcons
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -359,15 +366,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Golden Falcons · Field 2
+DESCRIPTION:Shane Homes Field 2 - Storm Dacia O45 vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109466@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T203000
 DTEND;TZID=America/Edmonton:20261209T213000
-SUMMARY:⚽ Bohemians vs Storm Dacia O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Bohemians vs Storm Dacia O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -375,15 +382,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Storm Dacia O45 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Bohemians vs Storm Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109468@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T203000
 DTEND;TZID=America/Edmonton:20261209T213000
-SUMMARY:⚽ Andinos O45 vs Blue Steele · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Andinos O45 vs Blue Steele
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -391,15 +398,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Blue Steele · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Andinos O45 vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109465@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T213000
 DTEND;TZID=America/Edmonton:20261209T223000
-SUMMARY:⚽ Rangers FC O45 vs Chinooks FC 1974 · Field 4
+SUMMARY:Shane Homes Field 4 - Rangers FC O45 vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -408,15 +415,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Chinooks FC 1974 · Field 4
+DESCRIPTION:Shane Homes Field 4 - Rangers FC O45 vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109467@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T214500
 DTEND;TZID=America/Edmonton:20261209T224500
-SUMMARY:⚽ Golden Falcons vs Napoli D10S · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Golden Falcons vs Napoli D10S
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -424,16 +431,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Napoli D10S · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Golden Falcons vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109527@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T203000
 DTEND;TZID=America/Edmonton:20261215T213000
-SUMMARY:⚽ Argentina Social Club O45 vs Rangers FC O45 · MSC Dome NE · Cl
- eats
+SUMMARY:Dome NE (👟 cleats) - Argentina Social Club O45 vs Rangers FC O4
+ 5
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -442,16 +449,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Rangers FC O45 · MSC Dome NE 
- · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Argentina Social Club O45 vs Rangers F
+ C O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109529@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T203000
 DTEND;TZID=America/Edmonton:20261215T213000
-SUMMARY:⚽ Bohemians vs Golden Falcons · MSC Dome NW · Cleats
+SUMMARY:Dome NW (👟 cleats) - Bohemians vs Golden Falcons
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -460,15 +467,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Golden Falcons · MSC Dome NW · Cleats
+DESCRIPTION:Dome NW (👟 cleats) - Bohemians vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109539@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T213000
 DTEND;TZID=America/Edmonton:20261215T223000
-SUMMARY:⚽ Napoli D10S vs Blue Steele · Field 4
+SUMMARY:Shane Homes Field 4 - Napoli D10S vs Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -477,15 +484,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Blue Steele · Field 4
+DESCRIPTION:Shane Homes Field 4 - Napoli D10S vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109551@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261216T213000
 DTEND;TZID=America/Edmonton:20261216T223000
-SUMMARY:⚽ Storm Dacia O45 vs Andinos O45 · Field 2
+SUMMARY:Shane Homes Field 2 - Storm Dacia O45 vs Andinos O45
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -494,15 +501,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Andinos O45 · Field 2
+DESCRIPTION:Shane Homes Field 2 - Storm Dacia O45 vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108192@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T203000
 DTEND;TZID=America/Edmonton:20270106T213000
-SUMMARY:⚽ Golden Falcons vs Argentina Social Club O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Golden Falcons vs Argentina Socia
+ l Club O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -510,16 +518,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Argentina Social Club O45 · Field 1 · Cl
- eats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Golden Falcons vs Argentina S
+ ocial Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108194@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T203000
 DTEND;TZID=America/Edmonton:20270106T213000
-SUMMARY:⚽ Andinos O45 vs Napoli D10S · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Andinos O45 vs Napoli D10S
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -527,15 +535,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Napoli D10S · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Andinos O45 vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108188@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
-SUMMARY:⚽ Rangers FC O45 vs Storm Dacia O45 · Field 1
+SUMMARY:Shane Homes Field 1 - Rangers FC O45 vs Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -544,15 +552,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Storm Dacia O45 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Rangers FC O45 vs Storm Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108189@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
-SUMMARY:⚽ Blue Steele vs Chinooks FC 1974 · Field 2
+SUMMARY:Shane Homes Field 2 - Blue Steele vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -561,16 +569,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Chinooks FC 1974 · Field 2
+DESCRIPTION:Shane Homes Field 2 - Blue Steele vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108291@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270115T214500
 DTEND;TZID=America/Edmonton:20270115T224500
-SUMMARY:⚽ Andinos O45 vs Argentina Social Club O45 · MSC Dome SE · Cleat
- s
+SUMMARY:Dome SE (👟 cleats) - Andinos O45 vs Argentina Social Club O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -579,16 +586,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Argentina Social Club O45 · MSC Dome SE · C
- leats
+DESCRIPTION:Dome SE (👟 cleats) - Andinos O45 vs Argentina Social Club O
+ 45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108305@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T170000
 DTEND;TZID=America/Edmonton:20270116T180000
-SUMMARY:⚽ Chinooks FC 1974 vs Napoli D10S · MSC Dome NE · Cleats
+SUMMARY:Dome NE (👟 cleats) - Chinooks FC 1974 vs Napoli D10S
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -597,15 +604,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Napoli D10S · MSC Dome NE · Cleats
+DESCRIPTION:Dome NE (👟 cleats) - Chinooks FC 1974 vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108309@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T211500
 DTEND;TZID=America/Edmonton:20270116T221500
-SUMMARY:⚽ Rangers FC O45 vs Bohemians · Encana SE · Cleats
+SUMMARY:Shouldice Encana SE (👟 cleats) - Rangers FC O45 vs Bohemians
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -614,15 +621,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Bohemians · Encana SE · Cleats
+DESCRIPTION:Shouldice Encana SE (👟 cleats) - Rangers FC O45 vs Bohemian
+ s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108310@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T211500
 DTEND;TZID=America/Edmonton:20270116T221500
-SUMMARY:⚽ Blue Steele vs Storm Dacia O45 · Encana NE · Cleats
+SUMMARY:Shouldice Encana NE (👟 cleats) - Blue Steele vs Storm Dacia O45
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -631,15 +639,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Storm Dacia O45 · Encana NE · Cleats
+DESCRIPTION:Shouldice Encana NE (👟 cleats) - Blue Steele vs Storm Dacia
+  O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108417@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
-SUMMARY:⚽ Golden Falcons vs Andinos O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Golden Falcons vs Andinos O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -647,16 +656,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Andinos O45 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Golden Falcons vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108419@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T203000
 DTEND;TZID=America/Edmonton:20270126T213000
-SUMMARY:⚽ Argentina Social Club O45 vs Chinooks FC 1974 · Field 2 · Clea
- ts
+SUMMARY:Villains Field 2 (👟 cleats) - Argentina Social Club O45 vs Chin
+ ooks FC 1974
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -664,16 +673,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Chinooks FC 1974 · Field 2 · 
- Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Argentina Social Club O45 vs 
+ Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108413@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T213000
 DTEND;TZID=America/Edmonton:20270126T223000
-SUMMARY:⚽ Storm Dacia O45 vs Napoli D10S · Field 1
+SUMMARY:Shane Homes Field 1 - Storm Dacia O45 vs Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -682,15 +691,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Napoli D10S · Field 1
+DESCRIPTION:Shane Homes Field 1 - Storm Dacia O45 vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108418@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
-SUMMARY:⚽ Bohemians vs Blue Steele · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Bohemians vs Blue Steele
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -698,15 +707,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Blue Steele · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Bohemians vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108531@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T203000
 DTEND;TZID=America/Edmonton:20270205T213000
-SUMMARY:⚽ Rangers FC O45 vs Golden Falcons · MSC Dome SW · Cleats
+SUMMARY:Dome SW (👟 cleats) - Rangers FC O45 vs Golden Falcons
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -715,15 +724,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Golden Falcons · MSC Dome SW · Cleats
+DESCRIPTION:Dome SW (👟 cleats) - Rangers FC O45 vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108524@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T204500
 DTEND;TZID=America/Edmonton:20270205T214500
-SUMMARY:⚽ Chinooks FC 1974 vs Storm Dacia O45 · Field Safe · Cleats
+SUMMARY:Macron Field Safe (👟 cleats) - Chinooks FC 1974 vs Storm Dacia 
+ O45
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -732,16 +742,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Storm Dacia O45 · Field Safe · Cleats
+DESCRIPTION:Macron Field Safe (👟 cleats) - Chinooks FC 1974 vs Storm Da
+ cia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108529@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T214500
 DTEND;TZID=America/Edmonton:20270205T224500
-SUMMARY:⚽ Blue Steele vs Argentina Social Club O45 · MSC Dome SE · Cleat
- s
+SUMMARY:Dome SE (👟 cleats) - Blue Steele vs Argentina Social Club O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -750,16 +760,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Argentina Social Club O45 · MSC Dome SE · C
- leats
+DESCRIPTION:Dome SE (👟 cleats) - Blue Steele vs Argentina Social Club O
+ 45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108525@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T220000
 DTEND;TZID=America/Edmonton:20270205T230000
-SUMMARY:⚽ Andinos O45 vs Bohemians · Field Safe · Cleats
+SUMMARY:Macron Field Safe (👟 cleats) - Andinos O45 vs Bohemians
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -768,15 +778,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Bohemians · Field Safe · Cleats
+DESCRIPTION:Macron Field Safe (👟 cleats) - Andinos O45 vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108594@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T203000
 DTEND;TZID=America/Edmonton:20270210T213000
-SUMMARY:⚽ Golden Falcons vs Chinooks FC 1974 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Golden Falcons vs Chinooks FC 197
+ 4
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -784,15 +795,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Chinooks FC 1974 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Golden Falcons vs Chinooks FC
+  1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108596@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T203000
 DTEND;TZID=America/Edmonton:20270210T213000
-SUMMARY:⚽ Bohemians vs Napoli D10S · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Bohemians vs Napoli D10S
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -800,15 +812,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Napoli D10S · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Bohemians vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108593@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
-SUMMARY:⚽ Rangers FC O45 vs Blue Steele · Field 1
+SUMMARY:Shane Homes Field 1 - Rangers FC O45 vs Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -817,16 +829,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Blue Steele · Field 1
+DESCRIPTION:Shane Homes Field 1 - Rangers FC O45 vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108595@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T214500
 DTEND;TZID=America/Edmonton:20270210T224500
-SUMMARY:⚽ Argentina Social Club O45 vs Storm Dacia O45 · Field 1 · Cleat
- s
+SUMMARY:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs Stor
+ m Dacia O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -834,16 +846,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Storm Dacia O45 · Field 1 · C
- leats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs 
+ Storm Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108637@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Bohemians · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Bohemians
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -851,15 +863,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Bohemians · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108639@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270217T203000
 DTEND;TZID=America/Edmonton:20270217T213000
-SUMMARY:⚽ Andinos O45 vs Rangers FC O45 · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Andinos O45 vs Rangers FC O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -867,15 +879,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Rangers FC O45 · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Andinos O45 vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108635@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
-SUMMARY:⚽ Blue Steele vs Golden Falcons · Field 3
+SUMMARY:Shane Homes Field 3 - Blue Steele vs Golden Falcons
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -884,15 +896,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Golden Falcons · Field 3
+DESCRIPTION:Shane Homes Field 3 - Blue Steele vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108636@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
-SUMMARY:⚽ Napoli D10S vs Argentina Social Club O45 · Field 4
+SUMMARY:Shane Homes Field 4 - Napoli D10S vs Argentina Social Club O45
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -901,15 +913,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Argentina Social Club O45 · Field 4
+DESCRIPTION:Shane Homes Field 4 - Napoli D10S vs Argentina Social Club O
+ 45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108749@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T170000
 DTEND;TZID=America/Edmonton:20270227T180000
-SUMMARY:⚽ Andinos O45 vs Chinooks FC 1974 · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - Andinos O45 vs Chinooks FC 1974
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -918,15 +931,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Chinooks FC 1974 · MSC Dome SE · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - Andinos O45 vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108750@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T193000
 DTEND;TZID=America/Edmonton:20270227T203000
-SUMMARY:⚽ Bohemians vs Argentina Social Club O45 · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - Bohemians vs Argentina Social Club O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -935,16 +948,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Argentina Social Club O45 · MSC Dome SE · Cle
- ats
+DESCRIPTION:Dome SE (👟 cleats) - Bohemians vs Argentina Social Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108753@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T220000
 DTEND;TZID=America/Edmonton:20270227T230000
-SUMMARY:⚽ Rangers FC O45 vs Napoli D10S · Encana SE · Cleats
+SUMMARY:Shouldice Encana SE (👟 cleats) - Rangers FC O45 vs Napoli D10S
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -953,15 +965,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Napoli D10S · Encana SE · Cleats
+DESCRIPTION:Shouldice Encana SE (👟 cleats) - Rangers FC O45 vs Napoli D
+ 10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108756@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T210000
 DTEND;TZID=America/Edmonton:20270228T220000
-SUMMARY:⚽ Golden Falcons vs Storm Dacia O45 · Aspen Air · Cleats
+SUMMARY:Macron Aspen Air (👟 cleats) - Golden Falcons vs Storm Dacia O45
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -970,15 +983,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Storm Dacia O45 · Aspen Air · Cleats
+DESCRIPTION:Macron Aspen Air (👟 cleats) - Golden Falcons vs Storm Dacia
+  O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108800@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T203000
 DTEND;TZID=America/Edmonton:20270303T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Rangers FC O45 · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Rangers FC O4
+ 5
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -986,15 +1001,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Rangers FC O45 · Field 1 · Cleats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Chinooks FC 1974 vs Rangers F
+ C O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108797@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Storm Dacia O45 vs Bohemians · Field 1
+SUMMARY:Shane Homes Field 1 - Storm Dacia O45 vs Bohemians
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1003,15 +1019,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Bohemians · Field 1
+DESCRIPTION:Shane Homes Field 1 - Storm Dacia O45 vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108798@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Napoli D10S vs Golden Falcons · Field 2
+SUMMARY:Shane Homes Field 2 - Napoli D10S vs Golden Falcons
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1020,15 +1036,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Golden Falcons · Field 2
+DESCRIPTION:Shane Homes Field 2 - Napoli D10S vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108799@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Blue Steele vs Andinos O45 · Field 3
+SUMMARY:Shane Homes Field 3 - Blue Steele vs Andinos O45
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1037,15 +1053,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Andinos O45 · Field 3
+DESCRIPTION:Shane Homes Field 3 - Blue Steele vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108829@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T191500
 DTEND;TZID=America/Edmonton:20270308T201500
-SUMMARY:⚽ Golden Falcons vs Bohemians · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - Golden Falcons vs Bohemians
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1054,15 +1070,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Golden Falcons vs Bohemians · MSC Dome SE · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - Golden Falcons vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108830@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T203000
 DTEND;TZID=America/Edmonton:20270308T213000
-SUMMARY:⚽ Andinos O45 vs Storm Dacia O45 · MSC Dome SE · Cleats
+SUMMARY:Dome SE (👟 cleats) - Andinos O45 vs Storm Dacia O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1071,15 +1087,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Andinos O45 vs Storm Dacia O45 · MSC Dome SE · Cleats
+DESCRIPTION:Dome SE (👟 cleats) - Andinos O45 vs Storm Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108831@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
-SUMMARY:⚽ Blue Steele vs Napoli D10S · Encana NW · Cleats
+SUMMARY:Shouldice Encana NW (👟 cleats) - Blue Steele vs Napoli D10S
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1088,16 +1104,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Napoli D10S · Encana NW · Cleats
+DESCRIPTION:Shouldice Encana NW (👟 cleats) - Blue Steele vs Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108832@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
-SUMMARY:⚽ Rangers FC O45 vs Argentina Social Club O45 · Encana NE · Clea
- ts
+SUMMARY:Shouldice Encana NE (👟 cleats) - Rangers FC O45 vs Argentina So
+ cial Club O45
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1106,16 +1122,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Rangers FC O45 vs Argentina Social Club O45 · Encana NE · 
- Cleats
+DESCRIPTION:Shouldice Encana NE (👟 cleats) - Rangers FC O45 vs Argentin
+ a Social Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108927@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Argentina Social Club O45 vs Golden Falcons · Field 1 · Cleats
+SUMMARY:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs Gold
+ en Falcons
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -1123,16 +1140,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Golden Falcons · Field 1 · Cl
- eats
+DESCRIPTION:Villains Field 1 (👟 cleats) - Argentina Social Club O45 vs 
+ Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108929@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Chinooks FC 1974 vs Blue Steele · Field 2 · Cleats
+SUMMARY:Villains Field 2 (👟 cleats) - Chinooks FC 1974 vs Blue Steele
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -1140,15 +1157,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Chinooks FC 1974 vs Blue Steele · Field 2 · Cleats
+DESCRIPTION:Villains Field 2 (👟 cleats) - Chinooks FC 1974 vs Blue Stee
+ le
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108923@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
-SUMMARY:⚽ Storm Dacia O45 vs Rangers FC O45 · Field 1
+SUMMARY:Shane Homes Field 1 - Storm Dacia O45 vs Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1157,15 +1175,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Rangers FC O45 · Field 1
+DESCRIPTION:Shane Homes Field 1 - Storm Dacia O45 vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108924@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T213000
 DTEND;TZID=America/Edmonton:20270316T223000
-SUMMARY:⚽ Napoli D10S vs Andinos O45 · Field 2
+SUMMARY:Shane Homes Field 2 - Napoli D10S vs Andinos O45
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1174,15 +1192,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Andinos O45 · Field 2
+DESCRIPTION:Shane Homes Field 2 - Napoli D10S vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109006@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270324T190000
 DTEND;TZID=America/Edmonton:20270324T200000
-SUMMARY:⚽ Bohemians vs Rangers FC O45 · MSC Dome SW · Cleats
+SUMMARY:Dome SW (👟 cleats) - Bohemians vs Rangers FC O45
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1191,16 +1209,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Bohemians vs Rangers FC O45 · MSC Dome SW · Cleats
+DESCRIPTION:Dome SW (👟 cleats) - Bohemians vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109007@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270324T201500
 DTEND;TZID=America/Edmonton:20270324T211500
-SUMMARY:⚽ Argentina Social Club O45 vs Andinos O45 · MSC Dome SW · Cleat
- s
+SUMMARY:Dome SW (👟 cleats) - Argentina Social Club O45 vs Andinos O45
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -1209,16 +1226,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Argentina Social Club O45 vs Andinos O45 · MSC Dome SW · C
- leats
+DESCRIPTION:Dome SW (👟 cleats) - Argentina Social Club O45 vs Andinos O
+ 45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109008@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
-SUMMARY:⚽ Storm Dacia O45 vs Blue Steele · Field 1
+SUMMARY:Shane Homes Field 1 - Storm Dacia O45 vs Blue Steele
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1227,15 +1244,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Storm Dacia O45 vs Blue Steele · Field 1
+DESCRIPTION:Shane Homes Field 1 - Storm Dacia O45 vs Blue Steele
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109009@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
-SUMMARY:⚽ Napoli D10S vs Chinooks FC 1974 · Field 2
+SUMMARY:Shane Homes Field 2 - Napoli D10S vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -1244,7 +1261,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Napoli D10S vs Chinooks FC 1974 · Field 2
+DESCRIPTION:Shane Homes Field 2 - Napoli D10S vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 END:VCALENDAR

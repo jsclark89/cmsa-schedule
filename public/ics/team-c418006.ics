@@ -26,26 +26,26 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107926@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261112T190000
 DTEND;TZID=America/Edmonton:20261112T200000
-SUMMARY:⚽ Impero FC Atletico vs Impero WFC
+SUMMARY:Impero FC Atletico - Seven Chiefs - Home vs Impero WFC
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs Impero WFC
+DESCRIPTION:Impero FC Atletico - Seven Chiefs - Home vs Impero WFC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107934@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T220000
 DTEND;TZID=America/Edmonton:20261117T230000
-SUMMARY:⚽ Impero FC Atletico vs Calgary Blizzard WSC · Field House 2 · I
- ndoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Home vs
+  Calgary Blizzard WSC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -55,16 +55,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs Calgary Blizzard WSC · Field House 2
-  · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Hom
+ e vs Calgary Blizzard WSC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107957@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261208T210000
 DTEND;TZID=America/Edmonton:20261208T220000
-SUMMARY:⚽ Impero FC Atletico vs CJSC · Field House 2 · Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Home vs
+  CJSC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -74,16 +75,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs CJSC · Field House 2 · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Hom
+ e vs CJSC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107836@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270105T220000
 DTEND;TZID=America/Edmonton:20270105T230000
-SUMMARY:⚽ Impero FC Atletico at CJSC Old Lady Trojans · Field House 2 · 
- Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Away at
+  CJSC Old Lady Trojans
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -93,16 +95,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at CJSC Old Lady Trojans · Field House 
- 2 · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Awa
+ y at CJSC Old Lady Trojans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107843@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270112T210000
 DTEND;TZID=America/Edmonton:20270112T220000
-SUMMARY:⚽ Impero FC Atletico at EMFC SWAT · Field House 2 · Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Away at
+  EMFC SWAT
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -112,32 +115,32 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at EMFC SWAT · Field House 2 · Indoor s
- hoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Awa
+ y at EMFC SWAT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107856@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270121T220000
 DTEND;TZID=America/Edmonton:20270121T230000
-SUMMARY:⚽ Impero FC Atletico at Reign FC
+SUMMARY:Impero FC Atletico - Seven Chiefs - Away at Reign FC
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Womens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at Reign FC
+DESCRIPTION:Impero FC Atletico - Seven Chiefs - Away at Reign FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107862@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T220000
 DTEND;TZID=America/Edmonton:20270126T230000
-SUMMARY:⚽ Impero FC Atletico vs CJSC Old Lady Trojans · Field House 2 · 
- Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Home vs
+  CJSC Old Lady Trojans
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -147,17 +150,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs CJSC Old Lady Trojans · Field House 
- 2 · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Hom
+ e vs CJSC Old Lady Trojans
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107867@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270202T200000
 DTEND;TZID=America/Edmonton:20270202T210000
-SUMMARY:⚽ Impero FC Atletico at Impero WFC · Field House 2 · Indoor shoe
- s
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Away at
+  Impero WFC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -167,17 +170,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at Impero WFC · Field House 2 · Indoor 
- shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Awa
+ y at Impero WFC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107876@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270209T220000
 DTEND;TZID=America/Edmonton:20270209T230000
-SUMMARY:⚽ Impero FC Atletico at Calgary Blizzard WSC · Field House 2 · I
- ndoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Away at
+  Calgary Blizzard WSC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -187,16 +190,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at Calgary Blizzard WSC · Field House 2
-  · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Awa
+ y at Calgary Blizzard WSC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107893@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270223T210000
 DTEND;TZID=America/Edmonton:20270223T220000
-SUMMARY:⚽ Impero FC Atletico vs CJSC · Field House 2 · Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Home vs
+  CJSC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -206,15 +210,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs CJSC · Field House 2 · Indoor shoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Hom
+ e vs CJSC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107902@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270302T200000
 DTEND;TZID=America/Edmonton:20270302T210000
-SUMMARY:⚽ Impero FC Atletico vs Reign FC · Field House 2 · Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Home vs
+  Reign FC
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -224,16 +230,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico vs Reign FC · Field House 2 · Indoor sh
- oes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Hom
+ e vs Reign FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107909@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270309T210000
 DTEND;TZID=America/Edmonton:20270309T220000
-SUMMARY:⚽ Impero FC Atletico at EMFC SWAT · Field House 2 · Indoor shoes
+SUMMARY:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Away at
+  EMFC SWAT
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -243,8 +250,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Impero FC Atletico at EMFC SWAT · Field House 2 · Indoor s
- hoes
+DESCRIPTION:Impero FC Atletico - Genesis Field House 2 (👟 indoor) - Awa
+ y at EMFC SWAT
 END:VALARM
 END:VEVENT
 END:VCALENDAR

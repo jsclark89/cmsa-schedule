@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109088@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261107T204500
 DTEND;TZID=America/Edmonton:20261107T214500
-SUMMARY:⚽ Leones F.C vs Uhuru Centaurs FC 2 · MSC Dome SW · Cleats
+SUMMARY:Leones F.C - Dome SW (👟 cleats) - Home vs Uhuru Centaurs FC 2
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Uhuru Centaurs FC 2 · MSC Dome SW · Cleats
+DESCRIPTION:Leones F.C - Dome SW (👟 cleats) - Home vs Uhuru Centaurs FC
+  2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109168@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261114T204500
 DTEND;TZID=America/Edmonton:20261114T214500
-SUMMARY:⚽ Leones F.C at DULARI FA · MSC Dome SE · Cleats
+SUMMARY:Leones F.C - Dome SE (👟 cleats) - Away at DULARI FA
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +58,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at DULARI FA · MSC Dome SE · Cleats
+DESCRIPTION:Leones F.C - Dome SE (👟 cleats) - Away at DULARI FA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109250@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T220000
 DTEND;TZID=America/Edmonton:20261121T230000
-SUMMARY:⚽ Leones F.C vs Inter Cairo FC · Encana NW · Cleats
+SUMMARY:Leones F.C - Shouldice Encana NW (👟 cleats) - Home vs Inter Cai
+ ro FC
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,15 +77,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Inter Cairo FC · Encana NW · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana NW (👟 cleats) - Home vs Inter
+  Cairo FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109291@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261125T213000
 DTEND;TZID=America/Edmonton:20261125T223000
-SUMMARY:⚽ Leones F.C at YYC UNITED · Field 4
+SUMMARY:Leones F.C - Shane Homes Field 4 - Away at YYC UNITED
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -92,15 +95,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at YYC UNITED · Field 4
+DESCRIPTION:Leones F.C - Shane Homes Field 4 - Away at YYC UNITED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109385@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T213000
 DTEND;TZID=America/Edmonton:20261202T223000
-SUMMARY:⚽ Leones F.C vs Maggum fc · Field 4
+SUMMARY:Leones F.C - Shane Homes Field 4 - Home vs Maggum fc
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -109,15 +112,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Maggum fc · Field 4
+DESCRIPTION:Leones F.C - Shane Homes Field 4 - Home vs Maggum fc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109512@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T220000
 DTEND;TZID=America/Edmonton:20261214T230000
-SUMMARY:⚽ Leones F.C vs Shambles FC · Encana NE · Cleats
+SUMMARY:Leones F.C - Shouldice Encana NE (👟 cleats) - Home vs Shambles 
+ FC
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -127,15 +131,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Shambles FC · Encana NE · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana NE (👟 cleats) - Home vs Shamb
+ les FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108214@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270109T204500
 DTEND;TZID=America/Edmonton:20270109T214500
-SUMMARY:⚽ Leones F.C at Rivals FC Calgary · MSC Dome SW · Cleats
+SUMMARY:Leones F.C - Dome SW (👟 cleats) - Away at Rivals FC Calgary
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -145,15 +150,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Rivals FC Calgary · MSC Dome SW · Cleats
+DESCRIPTION:Leones F.C - Dome SW (👟 cleats) - Away at Rivals FC Calgary
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108314@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270118T220000
 DTEND;TZID=America/Edmonton:20270118T230000
-SUMMARY:⚽ Leones F.C at Shambles FC · Encana SE · Cleats
+SUMMARY:Leones F.C - Shouldice Encana SE (👟 cleats) - Away at Shambles 
+ FC
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -163,15 +169,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Shambles FC · Encana SE · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana SE (👟 cleats) - Away at Shamb
+ les FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108361@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270122T221500
 DTEND;TZID=America/Edmonton:20270122T231500
-SUMMARY:⚽ Leones F.C at Frauds FC · Encana SE · Cleats
+SUMMARY:Leones F.C - Shouldice Encana SE (👟 cleats) - Away at Frauds FC
 LOCATION:Shouldice Athletic Park Encana SE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -181,15 +188,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Frauds FC · Encana SE · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana SE (👟 cleats) - Away at Fraud
+ s FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108422@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270127T213000
 DTEND;TZID=America/Edmonton:20270127T223000
-SUMMARY:⚽ Leones F.C vs Bolby Cird FC · Field 3
+SUMMARY:Leones F.C - Shane Homes Field 3 - Home vs Bolby Cird FC
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -198,15 +206,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Bolby Cird FC · Field 3
+DESCRIPTION:Leones F.C - Shane Homes Field 3 - Home vs Bolby Cird FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108504@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270203T203000
 DTEND;TZID=America/Edmonton:20270203T213000
-SUMMARY:⚽ Leones F.C at Uhuru Centaurs FC 2 · Field 2 · Cleats
+SUMMARY:Leones F.C - Villains Field 2 (👟 cleats) - Away at Uhuru Centau
+ rs FC 2
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -215,15 +224,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Uhuru Centaurs FC 2 · Field 2 · Cleats
+DESCRIPTION:Leones F.C - Villains Field 2 (👟 cleats) - Away at Uhuru Ce
+ ntaurs FC 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108588@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
-SUMMARY:⚽ Leones F.C vs DULARI FA · Field 2
+SUMMARY:Leones F.C - Shane Homes Field 2 - Home vs DULARI FA
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -232,15 +242,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs DULARI FA · Field 2
+DESCRIPTION:Leones F.C - Shane Homes Field 2 - Home vs DULARI FA
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108662@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270220T204500
 DTEND;TZID=America/Edmonton:20270220T214500
-SUMMARY:⚽ Leones F.C at Inter Cairo FC · MSC Dome SW · Cleats
+SUMMARY:Leones F.C - Dome SW (👟 cleats) - Away at Inter Cairo FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -250,15 +260,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Inter Cairo FC · MSC Dome SW · Cleats
+DESCRIPTION:Leones F.C - Dome SW (👟 cleats) - Away at Inter Cairo FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108755@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270228T213000
 DTEND;TZID=America/Edmonton:20270228T223000
-SUMMARY:⚽ Leones F.C vs YYC UNITED · Encana NE · Cleats
+SUMMARY:Leones F.C - Shouldice Encana NE (👟 cleats) - Home vs YYC UNITE
+ D
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -268,15 +279,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs YYC UNITED · Encana NE · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana NE (👟 cleats) - Home vs YYC U
+ NITED
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108886@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270313T211500
 DTEND;TZID=America/Edmonton:20270313T221500
-SUMMARY:⚽ Leones F.C at Maggum fc · Encana NE · Cleats
+SUMMARY:Leones F.C - Shouldice Encana NE (👟 cleats) - Away at Maggum fc
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -286,15 +298,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C at Maggum fc · Encana NE · Cleats
+DESCRIPTION:Leones F.C - Shouldice Encana NE (👟 cleats) - Away at Maggu
+ m fc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108990@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T213000
 DTEND;TZID=America/Edmonton:20270323T223000
-SUMMARY:⚽ Leones F.C vs Villains Alumni 2 · Field 4
+SUMMARY:Leones F.C - Shane Homes Field 4 - Home vs Villains Alumni 2
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -303,7 +316,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Leones F.C vs Villains Alumni 2 · Field 4
+DESCRIPTION:Leones F.C - Shane Homes Field 4 - Home vs Villains Alumni 2
 END:VALARM
 END:VEVENT
 END:VCALENDAR

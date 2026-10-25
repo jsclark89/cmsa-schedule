@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109064@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261104T213000
 DTEND;TZID=America/Edmonton:20261104T223000
-SUMMARY:⚽ Blue Steele vs Bohemians · Field 2
+SUMMARY:Blue Steele - Shane Homes Field 2 - Home vs Bohemians
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -38,15 +38,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Bohemians · Field 2
+DESCRIPTION:Blue Steele - Shane Homes Field 2 - Home vs Bohemians
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109129@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T203000
 DTEND;TZID=America/Edmonton:20261110T213000
-SUMMARY:⚽ Blue Steele at Argentina Social Club O45 · Field 1 · Cleats
+SUMMARY:Blue Steele - Villains Field 1 (👟 cleats) - Away at Argentina S
+ ocial Club O45
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -54,16 +55,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Argentina Social Club O45 · Field 1 · Cleat
- s
+DESCRIPTION:Blue Steele - Villains Field 1 (👟 cleats) - Away at Argenti
+ na Social Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109206@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261117T213000
 DTEND;TZID=America/Edmonton:20261117T223000
-SUMMARY:⚽ Blue Steele vs Rangers FC O45 · Field 1
+SUMMARY:Blue Steele - Shane Homes Field 1 - Home vs Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -72,15 +73,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Rangers FC O45 · Field 1
+DESCRIPTION:Blue Steele - Shane Homes Field 1 - Home vs Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109344@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T193000
 DTEND;TZID=America/Edmonton:20261128T203000
-SUMMARY:⚽ Blue Steele at Golden Falcons · MSC Dome NE · Cleats
+SUMMARY:Blue Steele - Dome NE (👟 cleats) - Away at Golden Falcons
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -89,15 +90,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Golden Falcons · MSC Dome NE · Cleats
+DESCRIPTION:Blue Steele - Dome NE (👟 cleats) - Away at Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109468@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261209T203000
 DTEND;TZID=America/Edmonton:20261209T213000
-SUMMARY:⚽ Blue Steele at Andinos O45 · Field 2 · Cleats
+SUMMARY:Blue Steele - Villains Field 2 (👟 cleats) - Away at Andinos O45
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -105,15 +106,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Andinos O45 · Field 2 · Cleats
+DESCRIPTION:Blue Steele - Villains Field 2 (👟 cleats) - Away at Andinos
+  O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109539@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261215T213000
 DTEND;TZID=America/Edmonton:20261215T223000
-SUMMARY:⚽ Blue Steele at Napoli D10S · Field 4
+SUMMARY:Blue Steele - Shane Homes Field 4 - Away at Napoli D10S
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -122,15 +124,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Napoli D10S · Field 4
+DESCRIPTION:Blue Steele - Shane Homes Field 4 - Away at Napoli D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108189@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270106T213000
 DTEND;TZID=America/Edmonton:20270106T223000
-SUMMARY:⚽ Blue Steele vs Chinooks FC 1974 · Field 2
+SUMMARY:Blue Steele - Shane Homes Field 2 - Home vs Chinooks FC 1974
 LOCATION:Shane Homes West Soccer Dome Field 2\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -139,15 +141,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Chinooks FC 1974 · Field 2
+DESCRIPTION:Blue Steele - Shane Homes Field 2 - Home vs Chinooks FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108310@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T211500
 DTEND;TZID=America/Edmonton:20270116T221500
-SUMMARY:⚽ Blue Steele vs Storm Dacia O45 · Encana NE · Cleats
+SUMMARY:Blue Steele - Shouldice Encana NE (👟 cleats) - Home vs Storm Da
+ cia O45
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -156,15 +159,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Storm Dacia O45 · Encana NE · Cleats
+DESCRIPTION:Blue Steele - Shouldice Encana NE (👟 cleats) - Home vs Stor
+ m Dacia O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108418@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
-SUMMARY:⚽ Blue Steele at Bohemians · Field 1 · Cleats
+SUMMARY:Blue Steele - Villains Field 1 (👟 cleats) - Away at Bohemians
 LOCATION:Villains Dome Field 1\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -172,16 +176,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Bohemians · Field 1 · Cleats
+DESCRIPTION:Blue Steele - Villains Field 1 (👟 cleats) - Away at Bohemia
+ ns
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108529@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270205T214500
 DTEND;TZID=America/Edmonton:20270205T224500
-SUMMARY:⚽ Blue Steele vs Argentina Social Club O45 · MSC Dome SE · Cleat
- s
+SUMMARY:Blue Steele - Dome SE (👟 cleats) - Home vs Argentina Social Clu
+ b O45
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -190,16 +195,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Argentina Social Club O45 · MSC Dome SE · C
- leats
+DESCRIPTION:Blue Steele - Dome SE (👟 cleats) - Home vs Argentina Social
+  Club O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108593@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270210T213000
 DTEND;TZID=America/Edmonton:20270210T223000
-SUMMARY:⚽ Blue Steele at Rangers FC O45 · Field 1
+SUMMARY:Blue Steele - Shane Homes Field 1 - Away at Rangers FC O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -208,15 +213,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Rangers FC O45 · Field 1
+DESCRIPTION:Blue Steele - Shane Homes Field 1 - Away at Rangers FC O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108635@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270217T213000
 DTEND;TZID=America/Edmonton:20270217T223000
-SUMMARY:⚽ Blue Steele vs Golden Falcons · Field 3
+SUMMARY:Blue Steele - Shane Homes Field 3 - Home vs Golden Falcons
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -225,15 +230,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Golden Falcons · Field 3
+DESCRIPTION:Blue Steele - Shane Homes Field 3 - Home vs Golden Falcons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108799@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Blue Steele vs Andinos O45 · Field 3
+SUMMARY:Blue Steele - Shane Homes Field 3 - Home vs Andinos O45
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -242,15 +247,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Andinos O45 · Field 3
+DESCRIPTION:Blue Steele - Shane Homes Field 3 - Home vs Andinos O45
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108831@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T214500
 DTEND;TZID=America/Edmonton:20270308T224500
-SUMMARY:⚽ Blue Steele vs Napoli D10S · Encana NW · Cleats
+SUMMARY:Blue Steele - Shouldice Encana NW (👟 cleats) - Home vs Napoli D
+ 10S
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -259,15 +265,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele vs Napoli D10S · Encana NW · Cleats
+DESCRIPTION:Blue Steele - Shouldice Encana NW (👟 cleats) - Home vs Napo
+ li D10S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108929@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270316T203000
 DTEND;TZID=America/Edmonton:20270316T213000
-SUMMARY:⚽ Blue Steele at Chinooks FC 1974 · Field 2 · Cleats
+SUMMARY:Blue Steele - Villains Field 2 (👟 cleats) - Away at Chinooks FC
+  1974
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nOver 45A\nSchedule: https://jsclark89.github.io/cmsa-schedule/
@@ -275,15 +283,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Chinooks FC 1974 · Field 2 · Cleats
+DESCRIPTION:Blue Steele - Villains Field 2 (👟 cleats) - Away at Chinook
+ s FC 1974
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109008@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270324T213000
 DTEND;TZID=America/Edmonton:20270324T223000
-SUMMARY:⚽ Blue Steele at Storm Dacia O45 · Field 1
+SUMMARY:Blue Steele - Shane Homes Field 1 - Away at Storm Dacia O45
 LOCATION:Shane Homes West Soccer Dome Field 1\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Over 45A\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -292,7 +301,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Blue Steele at Storm Dacia O45 · Field 1
+DESCRIPTION:Blue Steele - Shane Homes Field 1 - Away at Storm Dacia O45
 END:VALARM
 END:VEVENT
 END:VCALENDAR

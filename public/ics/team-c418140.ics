@@ -26,10 +26,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109014@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20260325T183000
 DTEND;TZID=America/Edmonton:20260325T193000
-SUMMARY:⚽ Worldwide FC Inferno at Galsen fc · MSC Dome SE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Galsen fc
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +39,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Galsen fc · MSC Dome SE · Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Galsen 
+ fc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109172@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261114T170000
 DTEND;TZID=America/Edmonton:20261114T180000
-SUMMARY:⚽ Worldwide FC Inferno at Bondo FC · MSC Dome SW · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at Bondo FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +58,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Bondo FC · MSC Dome SW · Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at Bondo F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109256@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261121T193000
 DTEND;TZID=America/Edmonton:20261121T203000
-SUMMARY:⚽ Worldwide FC Inferno vs Blizzard SC3 · MSC Dome SW · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Blizzard SC
+ 3
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,16 +78,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Blizzard SC3 · MSC Dome SW · Cleat
- s
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Blizzar
+ d SC3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109339@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261128T170000
 DTEND;TZID=America/Edmonton:20261128T180000
-SUMMARY:⚽ Worldwide FC Inferno at ES Atletico · MSC Dome SW · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at ES Atletico
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -94,15 +97,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at ES Atletico · MSC Dome SW · Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at ES Atle
+ tico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109388@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261202T214500
 DTEND;TZID=America/Edmonton:20261202T224500
-SUMMARY:⚽ Worldwide FC Inferno vs Kingsmen FC II · Field 2 · Cleats
+SUMMARY:Worldwide FC Inferno - Villains Field 2 (👟 cleats) - Home vs Ki
+ ngsmen FC II
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 5\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -111,16 +116,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Kingsmen FC II · Field 2 · Cleats
+DESCRIPTION:Worldwide FC Inferno - Villains Field 2 (👟 cleats) - Home v
+ s Kingsmen FC II
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109429@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261207T214500
 DTEND;TZID=America/Edmonton:20261207T224500
-SUMMARY:⚽ Worldwide FC Inferno at Villains FC Madrid · MSC Dome SE · Cle
- ats
+SUMMARY:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Villains FC
+  Madrid
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -130,16 +136,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Villains FC Madrid · MSC Dome SE ·
-  Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Villain
+ s FC Madrid
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109583@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261219T193000
 DTEND;TZID=America/Edmonton:20261219T203000
-SUMMARY:⚽ Worldwide FC Inferno at Swamp Donkeys · MSC Dome SE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Swamp Donke
+ ys
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -149,16 +156,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Swamp Donkeys · MSC Dome SE · Clea
- ts
+DESCRIPTION:Worldwide FC Inferno - Dome SE (👟 cleats) - Away at Swamp D
+ onkeys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108237@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270111T214500
 DTEND;TZID=America/Edmonton:20270111T224500
-SUMMARY:⚽ Worldwide FC Inferno vs Galsen fc · MSC Dome SE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SE (👟 cleats) - Home vs Galsen fc
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -168,15 +175,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Galsen fc · MSC Dome SE · Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SE (👟 cleats) - Home vs Galsen 
+ fc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108317@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270118T203000
 DTEND;TZID=America/Edmonton:20270118T213000
-SUMMARY:⚽ Worldwide FC Inferno at Unathletico FC · MSC Dome SW · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at Unathletico
+  FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -186,16 +195,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Unathletico FC · MSC Dome SW · Cle
- ats
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Away at Unathle
+ tico FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108378@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270123T181500
 DTEND;TZID=America/Edmonton:20270123T191500
-SUMMARY:⚽ Worldwide FC Inferno vs Leones F.C B · MSC Dome SE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SE (👟 cleats) - Home vs Leones F.C 
+ B
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -205,16 +215,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Leones F.C B · MSC Dome SE · Cleat
- s
+DESCRIPTION:Worldwide FC Inferno - Dome SE (👟 cleats) - Home vs Leones 
+ F.C B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108451@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270130T170000
 DTEND;TZID=America/Edmonton:20270130T180000
-SUMMARY:⚽ Worldwide FC Inferno vs Swamp Donkeys · MSC Dome SW · Cleats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Swamp Donke
+ ys
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -224,16 +235,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Swamp Donkeys · MSC Dome SW · Clea
- ts
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Swamp D
+ onkeys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108507@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270203T213000
 DTEND;TZID=America/Edmonton:20270203T223000
-SUMMARY:⚽ Worldwide FC Inferno vs Bondo FC · Field 4
+SUMMARY:Worldwide FC Inferno - Shane Homes Field 4 - Home vs Bondo FC
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -242,15 +253,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Bondo FC · Field 4
+DESCRIPTION:Worldwide FC Inferno - Shane Homes Field 4 - Home vs Bondo F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108571@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270209T213000
 DTEND;TZID=America/Edmonton:20270209T223000
-SUMMARY:⚽ Worldwide FC Inferno at Blizzard SC3 · Field 3
+SUMMARY:Worldwide FC Inferno - Shane Homes Field 3 - Away at Blizzard SC
+ 3
 LOCATION:Shane Homes West Soccer Dome Field 3\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 5\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -259,15 +272,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Blizzard SC3 · Field 3
+DESCRIPTION:Worldwide FC Inferno - Shane Homes Field 3 - Away at Blizzar
+ d SC3
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108762@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270301T214500
 DTEND;TZID=America/Edmonton:20270301T224500
-SUMMARY:⚽ Worldwide FC Inferno vs ES Atletico · MSC Dome NE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome NE (👟 cleats) - Home vs ES Atletico
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -277,15 +291,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs ES Atletico · MSC Dome NE · Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome NE (👟 cleats) - Home vs ES Atle
+ tico
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108862@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
-SUMMARY:⚽ Worldwide FC Inferno at Kingsmen FC II · MSC Dome NE · Cleats
+SUMMARY:Worldwide FC Inferno - Dome NE (👟 cleats) - Away at Kingsmen FC
+  II
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -295,17 +311,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno at Kingsmen FC II · MSC Dome NE · Cle
- ats
+DESCRIPTION:Worldwide FC Inferno - Dome NE (👟 cleats) - Away at Kingsme
+ n FC II
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108903@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270315T203000
 DTEND;TZID=America/Edmonton:20270315T213000
-SUMMARY:⚽ Worldwide FC Inferno vs Villains FC Madrid · MSC Dome SW · Cle
- ats
+SUMMARY:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Villains FC
+  Madrid
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -315,8 +331,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Worldwide FC Inferno vs Villains FC Madrid · MSC Dome SW ·
-  Cleats
+DESCRIPTION:Worldwide FC Inferno - Dome SW (👟 cleats) - Home vs Villain
+ s FC Madrid
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -26,41 +26,43 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107917@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261105T190000
 DTEND;TZID=America/Edmonton:20261105T200000
-SUMMARY:⚽ Calgary Rangers FC vs Elevate Soccer Academy
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Home vs Elevate Soccer Acade
+ my
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs Elevate Soccer Academy
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Home vs Elevate Soccer A
+ cademy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107929@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261112T220000
 DTEND;TZID=America/Edmonton:20261112T230000
-SUMMARY:⚽ Calgary Rangers FC at Impero FC PRIMO
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Away at Impero FC PRIMO
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC at Impero FC PRIMO
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Away at Impero FC PRIMO
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107935@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261119T203000
 DTEND;TZID=America/Edmonton:20261119T213000
-SUMMARY:⚽ Calgary Rangers FC vs Impero FC Dinamo · Field House 2 · Indoo
- r shoes
+SUMMARY:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Home vs
+  Impero FC Dinamo
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -70,17 +72,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs Impero FC Dinamo · Field House 2 · I
- ndoor shoes
+DESCRIPTION:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Hom
+ e vs Impero FC Dinamo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107945@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261126T203000
 DTEND;TZID=America/Edmonton:20261126T213000
-SUMMARY:⚽ Calgary Rangers FC at Callies Futsal · Field House 2 · Indoor 
- shoes
+SUMMARY:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Away at
+  Callies Futsal
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -90,32 +92,32 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC at Callies Futsal · Field House 2 · Ind
- oor shoes
+DESCRIPTION:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Awa
+ y at Callies Futsal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107953@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261203T220000
 DTEND;TZID=America/Edmonton:20261203T230000
-SUMMARY:⚽ Calgary Rangers FC vs FC Tryzub
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Home vs FC Tryzub
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs FC Tryzub
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Home vs FC Tryzub
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107960@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261210T213000
 DTEND;TZID=America/Edmonton:20261210T223000
-SUMMARY:⚽ Calgary Rangers FC at 1UP United · Field House 2 · Indoor shoe
- s
+SUMMARY:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Away at
+  1UP United
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -125,32 +127,32 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC at 1UP United · Field House 2 · Indoor 
- shoes
+DESCRIPTION:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Awa
+ y at 1UP United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107968@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261217T220000
 DTEND;TZID=America/Edmonton:20261217T230000
-SUMMARY:⚽ Calgary Rangers FC vs AU Lions
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Home vs AU Lions
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs AU Lions
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Home vs AU Lions
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107841@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T210000
 DTEND;TZID=America/Edmonton:20270110T220000
-SUMMARY:⚽ Calgary Rangers FC at CUFC Futsal · Field House 2 · Indoor sho
- es
+SUMMARY:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Away at
+  CUFC Futsal
 LOCATION:Genesis Centre Field House 2\, 7555 Falconridge Blvd NE 10 Calg
  ary\, AB T3J 0C9
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -160,53 +162,55 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC at CUFC Futsal · Field House 2 · Indoor
-  shoes
+DESCRIPTION:Calgary Rangers FC - Genesis Field House 2 (👟 indoor) - Awa
+ y at CUFC Futsal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107845@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270114T190000
 DTEND;TZID=America/Edmonton:20270114T200000
-SUMMARY:⚽ Calgary Rangers FC vs Elite Football Academy
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Home vs Elite Football Acade
+ my
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs Elite Football Academy
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Home vs Elite Football A
+ cademy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107854@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270121T200000
 DTEND;TZID=America/Edmonton:20270121T210000
-SUMMARY:⚽ Calgary Rangers FC at Union Futsal
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Away at Union Futsal
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC at Union Futsal
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Away at Union Futsal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107864@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270128T200000
 DTEND;TZID=America/Edmonton:20270128T210000
-SUMMARY:⚽ Calgary Rangers FC vs Vanguard FC
+SUMMARY:Calgary Rangers FC - Seven Chiefs - Home vs Vanguard FC
 LOCATION:Seven Chiefs Sportsplex
 DESCRIPTION:Mens\nSchedule: https://jsclark89.github.io/cmsa-schedule/
 URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Calgary Rangers FC vs Vanguard FC
+DESCRIPTION:Calgary Rangers FC - Seven Chiefs - Home vs Vanguard FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

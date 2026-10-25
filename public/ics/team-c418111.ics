@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109101@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261108T213000
 DTEND;TZID=America/Edmonton:20261108T223000
-SUMMARY:⚽ APPLEWOOD FC vs Worldwide FC Chargers · Foothills · Cleats
+SUMMARY:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs Worldwide 
+ FC Chargers
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,15 +40,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs Worldwide FC Chargers · Foothills · Cleats
+DESCRIPTION:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs Worldw
+ ide FC Chargers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109185@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261116T214500
 DTEND;TZID=America/Edmonton:20261116T224500
-SUMMARY:⚽ APPLEWOOD FC at FC Union Ultras · MSC Dome SE · Cleats
+SUMMARY:APPLEWOOD FC - Dome SE (👟 cleats) - Away at FC Union Ultras
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -57,15 +59,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at FC Union Ultras · MSC Dome SE · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SE (👟 cleats) - Away at FC Union Ultras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109265@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261123T203000
 DTEND;TZID=America/Edmonton:20261123T213000
-SUMMARY:⚽ APPLEWOOD FC vs Free Roam FC · MSC Dome SE · Cleats
+SUMMARY:APPLEWOOD FC - Dome SE (👟 cleats) - Home vs Free Roam FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,15 +77,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs Free Roam FC · MSC Dome SE · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SE (👟 cleats) - Home vs Free Roam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109358@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261130T221500
 DTEND;TZID=America/Edmonton:20261130T231500
-SUMMARY:⚽ APPLEWOOD FC at West Hills United · Encana NW · Cleats
+SUMMARY:APPLEWOOD FC - Shouldice Encana NW (👟 cleats) - Away at West Hi
+ lls United
 LOCATION:Shouldice Athletic Park Encana NW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -93,15 +96,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at West Hills United · Encana NW · Cleats
+DESCRIPTION:APPLEWOOD FC - Shouldice Encana NW (👟 cleats) - Away at Wes
+ t Hills United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109419@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261205T204500
 DTEND;TZID=America/Edmonton:20261205T214500
-SUMMARY:⚽ APPLEWOOD FC at The Wolf FC · MSC Dome SE · Cleats
+SUMMARY:APPLEWOOD FC - Dome SE (👟 cleats) - Away at The Wolf FC
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -111,15 +115,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at The Wolf FC · MSC Dome SE · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SE (👟 cleats) - Away at The Wolf FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109493@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261212T181500
 DTEND;TZID=America/Edmonton:20261212T191500
-SUMMARY:⚽ APPLEWOOD FC vs Washed FC · MSC Dome SW · Cleats
+SUMMARY:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs Washed FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -129,15 +133,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs Washed FC · MSC Dome SW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs Washed FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109516@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T203000
 DTEND;TZID=America/Edmonton:20261214T213000
-SUMMARY:⚽ APPLEWOOD FC vs The Wolf FC · MSC Dome SW · Cleats
+SUMMARY:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs The Wolf FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -147,15 +151,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs The Wolf FC · MSC Dome SW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs The Wolf FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108228@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270110T210000
 DTEND;TZID=America/Edmonton:20270110T220000
-SUMMARY:⚽ APPLEWOOD FC at JAGUARS FC · Aspen Air · Cleats
+SUMMARY:APPLEWOOD FC - Macron Aspen Air (👟 cleats) - Away at JAGUARS FC
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -165,15 +169,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at JAGUARS FC · Aspen Air · Cleats
+DESCRIPTION:APPLEWOOD FC - Macron Aspen Air (👟 cleats) - Away at JAGUAR
+ S FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108299@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270116T193000
 DTEND;TZID=America/Edmonton:20270116T203000
-SUMMARY:⚽ APPLEWOOD FC vs Latam FC · MSC Dome SW · Cleats
+SUMMARY:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs Latam FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -183,15 +188,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs Latam FC · MSC Dome SW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SW (👟 cleats) - Home vs Latam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108396@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270125T203000
 DTEND;TZID=America/Edmonton:20270125T213000
-SUMMARY:⚽ APPLEWOOD FC at Orion FC · MSC Dome SW · Cleats
+SUMMARY:APPLEWOOD FC - Dome SW (👟 cleats) - Away at Orion FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -201,15 +206,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at Orion FC · MSC Dome SW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SW (👟 cleats) - Away at Orion FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108472@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270201T203000
 DTEND;TZID=America/Edmonton:20270201T213000
-SUMMARY:⚽ APPLEWOOD FC at Worldwide FC Chargers · MSC Dome NW · Cleats
+SUMMARY:APPLEWOOD FC - Dome NW (👟 cleats) - Away at Worldwide FC Charge
+ rs
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -219,16 +225,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at Worldwide FC Chargers · MSC Dome NW · Clea
- ts
+DESCRIPTION:APPLEWOOD FC - Dome NW (👟 cleats) - Away at Worldwide FC Ch
+ argers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108606@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270212T213000
 DTEND;TZID=America/Edmonton:20270212T223000
-SUMMARY:⚽ APPLEWOOD FC vs FC Union Ultras · Foothills · Cleats
+SUMMARY:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs FC Union U
+ ltras
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -238,15 +245,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs FC Union Ultras · Foothills · Cleats
+DESCRIPTION:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs FC Uni
+ on Ultras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108744@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T204500
 DTEND;TZID=America/Edmonton:20270227T214500
-SUMMARY:⚽ APPLEWOOD FC at Free Roam FC · MSC Dome SW · Cleats
+SUMMARY:APPLEWOOD FC - Dome SW (👟 cleats) - Away at Free Roam FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -256,15 +264,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at Free Roam FC · MSC Dome SW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome SW (👟 cleats) - Away at Free Roam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108819@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270308T191500
 DTEND;TZID=America/Edmonton:20270308T201500
-SUMMARY:⚽ APPLEWOOD FC vs West Hills United · MSC Dome NW · Cleats
+SUMMARY:APPLEWOOD FC - Dome NW (👟 cleats) - Home vs West Hills United
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -274,15 +282,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs West Hills United · MSC Dome NW · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome NW (👟 cleats) - Home vs West Hills Unit
+ ed
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108888@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270314T213000
 DTEND;TZID=America/Edmonton:20270314T223000
-SUMMARY:⚽ APPLEWOOD FC vs JAGUARS FC · Foothills · Cleats
+SUMMARY:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs JAGUARS FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -292,15 +301,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC vs JAGUARS FC · Foothills · Cleats
+DESCRIPTION:APPLEWOOD FC - Macron Foothills (👟 cleats) - Home vs JAGUAR
+ S FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109030@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270329T183000
 DTEND;TZID=America/Edmonton:20270329T193000
-SUMMARY:⚽ APPLEWOOD FC at Washed FC · MSC Dome NE · Cleats
+SUMMARY:APPLEWOOD FC - Dome NE (👟 cleats) - Away at Washed FC
 LOCATION:MaxWell Soccer Centre MSC Dome NE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -310,7 +320,7 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ APPLEWOOD FC at Washed FC · MSC Dome NE · Cleats
+DESCRIPTION:APPLEWOOD FC - Dome NE (👟 cleats) - Away at Washed FC
 END:VALARM
 END:VEVENT
 END:VCALENDAR

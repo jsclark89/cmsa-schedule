@@ -26,10 +26,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109070@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261106T213000
 DTEND;TZID=America/Edmonton:20261106T223000
-SUMMARY:⚽ Richmond's Pub FC vs Calgary Villains FC · Foothills · Cleats
+SUMMARY:Richmond's Pub FC - Macron Foothills (👟 cleats) - Home vs Calga
+ ry Villains FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -39,16 +40,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs Calgary Villains FC · Foothills · Cle
- ats
+DESCRIPTION:Richmond's Pub FC - Macron Foothills (👟 cleats) - Home vs C
+ algary Villains FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109118@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261110T213000
 DTEND;TZID=America/Edmonton:20261110T223000
-SUMMARY:⚽ Richmond's Pub FC at FC Wizards · Field 4
+SUMMARY:Richmond's Pub FC - Shane Homes Field 4 - Away at FC Wizards
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -57,15 +58,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at FC Wizards · Field 4
+DESCRIPTION:Richmond's Pub FC - Shane Homes Field 4 - Away at FC Wizards
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109317@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261127T220000
 DTEND;TZID=America/Edmonton:20261127T230000
-SUMMARY:⚽ Richmond's Pub FC at Eldorado Kickers B · Field Safe · Cleats
+SUMMARY:Richmond's Pub FC - Macron Field Safe (👟 cleats) - Away at Eldo
+ rado Kickers B
 LOCATION:Foothills Macron Centre - Field Safe\, 111 Exploration Ave S.E 
  Calgary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -75,17 +77,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at Eldorado Kickers B · Field Safe · Cle
- ats
+DESCRIPTION:Richmond's Pub FC - Macron Field Safe (👟 cleats) - Away at 
+ Eldorado Kickers B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109351@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261130T203000
 DTEND;TZID=America/Edmonton:20261130T213000
-SUMMARY:⚽ Richmond's Pub FC at SC Athletic City U23 · MSC Dome SE · Clea
- ts
+SUMMARY:Richmond's Pub FC - Dome SE (👟 cleats) - Away at SC Athletic Ci
+ ty U23
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -95,16 +97,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at SC Athletic City U23 · MSC Dome SE · 
- Cleats
+DESCRIPTION:Richmond's Pub FC - Dome SE (👟 cleats) - Away at SC Athleti
+ c City U23
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109476@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261211T214500
 DTEND;TZID=America/Edmonton:20261211T224500
-SUMMARY:⚽ Richmond's Pub FC vs Foothills Fire · MSC Dome SW · Cleats
+SUMMARY:Richmond's Pub FC - Dome SW (👟 cleats) - Home vs Foothills Fire
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -114,15 +116,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs Foothills Fire · MSC Dome SW · Cleats
+DESCRIPTION:Richmond's Pub FC - Dome SW (👟 cleats) - Home vs Foothills 
+ Fire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109511@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20261214T220000
 DTEND;TZID=America/Edmonton:20261214T230000
-SUMMARY:⚽ Richmond's Pub FC at Blizzard SC5 · Encana SW · Cleats
+SUMMARY:Richmond's Pub FC - Shouldice Encana SW (👟 cleats) - Away at Bl
+ izzard SC5
 LOCATION:Shouldice Athletic Park Encana SW Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -132,15 +136,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at Blizzard SC5 · Encana SW · Cleats
+DESCRIPTION:Richmond's Pub FC - Shouldice Encana SW (👟 cleats) - Away a
+ t Blizzard SC5
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108196@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270108T213000
 DTEND;TZID=America/Edmonton:20270108T223000
-SUMMARY:⚽ Richmond's Pub FC vs Al Salam FC · Foothills · Cleats
+SUMMARY:Richmond's Pub FC - Macron Foothills (👟 cleats) - Home vs Al Sa
+ lam FC
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -150,15 +156,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs Al Salam FC · Foothills · Cleats
+DESCRIPTION:Richmond's Pub FC - Macron Foothills (👟 cleats) - Home vs A
+ l Salam FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108233@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270111T214500
 DTEND;TZID=America/Edmonton:20270111T224500
-SUMMARY:⚽ Richmond's Pub FC vs CWFC Colts · MSC Dome NW · Cleats
+SUMMARY:Richmond's Pub FC - Dome NW (👟 cleats) - Home vs CWFC Colts
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -168,16 +175,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs CWFC Colts · MSC Dome NW · Cleats
+DESCRIPTION:Richmond's Pub FC - Dome NW (👟 cleats) - Home vs CWFC Colts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108358@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270122T203000
 DTEND;TZID=America/Edmonton:20270122T213000
-SUMMARY:⚽ Richmond's Pub FC at Calgary Villains FC · MSC Dome SW · Cleat
- s
+SUMMARY:Richmond's Pub FC - Dome SW (👟 cleats) - Away at Calgary Villai
+ ns FC
 LOCATION:MaxWell Soccer Centre MSC Dome SW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -187,16 +194,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at Calgary Villains FC · MSC Dome SW · C
- leats
+DESCRIPTION:Richmond's Pub FC - Dome SW (👟 cleats) - Away at Calgary Vi
+ llains FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108404@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270126T214500
 DTEND;TZID=America/Edmonton:20270126T224500
-SUMMARY:⚽ Richmond's Pub FC vs FC Wizards · MSC Dome SE · Cleats
+SUMMARY:Richmond's Pub FC - Dome SE (👟 cleats) - Home vs FC Wizards
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -206,15 +213,15 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs FC Wizards · MSC Dome SE · Cleats
+DESCRIPTION:Richmond's Pub FC - Dome SE (👟 cleats) - Home vs FC Wizards
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108555@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270208T214500
 DTEND;TZID=America/Edmonton:20270208T224500
-SUMMARY:⚽ Richmond's Pub FC at Al Salam FC · MSC Dome NW · Cleats
+SUMMARY:Richmond's Pub FC - Dome NW (👟 cleats) - Away at Al Salam FC
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -224,15 +231,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at Al Salam FC · MSC Dome NW · Cleats
+DESCRIPTION:Richmond's Pub FC - Dome NW (👟 cleats) - Away at Al Salam F
+ C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108739@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270227T204500
 DTEND;TZID=America/Edmonton:20270227T214500
-SUMMARY:⚽ Richmond's Pub FC vs Eldorado Kickers B · MSC Dome NW · Cleats
+SUMMARY:Richmond's Pub FC - Dome NW (👟 cleats) - Home vs Eldorado Kicke
+ rs B
 LOCATION:MaxWell Soccer Centre MSC Dome NW\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -242,16 +251,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs Eldorado Kickers B · MSC Dome NW · Cl
- eats
+DESCRIPTION:Richmond's Pub FC - Dome NW (👟 cleats) - Home vs Eldorado K
+ ickers B
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108791@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270303T213000
 DTEND;TZID=America/Edmonton:20270303T223000
-SUMMARY:⚽ Richmond's Pub FC at CWFC Colts · Field 4
+SUMMARY:Richmond's Pub FC - Shane Homes Field 4 - Away at CWFC Colts
 LOCATION:Shane Homes West Soccer Dome Field 4\, 11014 Bearspaw Dam Road 
  Northwest Calgary\, Alberta T3L 0C3
 DESCRIPTION:Division 4\nSchedule: https://jsclark89.github.io/cmsa-sched
@@ -260,15 +269,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at CWFC Colts · Field 4
+DESCRIPTION:Richmond's Pub FC - Shane Homes Field 4 - Away at CWFC Colts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108857@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270310T213000
 DTEND;TZID=America/Edmonton:20270310T223000
-SUMMARY:⚽ Richmond's Pub FC vs SC Athletic City U23 · Aspen Air · Cleats
+SUMMARY:Richmond's Pub FC - Macron Aspen Air (👟 cleats) - Home vs SC At
+ hletic City U23
 LOCATION:Foothills Macron Centre - Aspen Air\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -278,16 +288,17 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs SC Athletic City U23 · Aspen Air · Cl
- eats
+DESCRIPTION:Richmond's Pub FC - Macron Aspen Air (👟 cleats) - Home vs S
+ C Athletic City U23
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108932@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270317T213000
 DTEND;TZID=America/Edmonton:20270317T223000
-SUMMARY:⚽ Richmond's Pub FC at Foothills Fire · Foothills · Cleats
+SUMMARY:Richmond's Pub FC - Macron Foothills (👟 cleats) - Away at Footh
+ ills Fire
 LOCATION:Foothills Macron Centre - Foothills\, 111 Exploration Ave S.E C
  algary\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -297,15 +308,16 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC at Foothills Fire · Foothills · Cleats
+DESCRIPTION:Richmond's Pub FC - Macron Foothills (👟 cleats) - Away at F
+ oothills Fire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108987@cmsa-schedule
-DTSTAMP:20261025T205211Z
+DTSTAMP:20261025T210727Z
 DTSTART;TZID=America/Edmonton:20270323T203000
 DTEND;TZID=America/Edmonton:20270323T213000
-SUMMARY:⚽ Richmond's Pub FC vs Blizzard SC5 · MSC Dome SE · Cleats
+SUMMARY:Richmond's Pub FC - Dome SE (👟 cleats) - Home vs Blizzard SC5
 LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
  lgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -315,7 +327,8 @@ URL:https://jsclark89.github.io/cmsa-schedule/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:⚽ Richmond's Pub FC vs Blizzard SC5 · MSC Dome SE · Cleats
+DESCRIPTION:Richmond's Pub FC - Dome SE (👟 cleats) - Home vs Blizzard S
+ C5
 END:VALARM
 END:VEVENT
 END:VCALENDAR
