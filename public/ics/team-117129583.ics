@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709599@cmsa-schedule
-DTSTAMP:20261026T044839Z
+DTSTAMP:20261026T130404Z
 DTSTART;TZID=America/Edmonton:20261018T154500
 DTEND;TZID=America/Edmonton:20261018T164500
 SUMMARY:U13 MUSC Inter - Shane Homes Field 4 - Home vs OUSC United B14 G
@@ -41,6 +41,24 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U13 MUSC Inter - Shane Homes Field 4 - Home vs OUSC United B
  14 Green
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709607@cmsa-schedule
+DTSTAMP:20261026T130404Z
+DTSTART;TZID=America/Edmonton:20261025T141500
+DTEND;TZID=America/Edmonton:20261025T151500
+SUMMARY:U13 MUSC Inter - Shane Homes Field 1 - Away at CNEU 2014 Storm
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 3 · Game #2046\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129583
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129583
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 MUSC Inter - Shane Homes Field 1 - Away at CNEU 2014 Sto
+ rm
 END:VALARM
 END:VEVENT
 END:VCALENDAR
