@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2107974@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261101T191500
 DTEND;TZID=America/Edmonton:20261101T201500
 SUMMARY:Brewventus - Annex Alpha (👟 indoor) - Away at Claymores FC
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2107993@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261105T211500
 DTEND;TZID=America/Edmonton:20261105T221500
 SUMMARY:Brewventus - Main East (👟 indoor) - Home vs Lager Legends
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108011@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261112T201500
 DTEND;TZID=America/Edmonton:20261112T211500
 SUMMARY:Brewventus - Main South (👟 indoor) - Away at Saddleridge FC
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108032@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261117T201500
 DTEND;TZID=America/Edmonton:20261117T211500
 SUMMARY:Brewventus - Main South (👟 indoor) - Away at Renegades
@@ -98,10 +98,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108055@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261123T211500
 DTEND;TZID=America/Edmonton:20261123T221500
-SUMMARY:Brewventus - Main South (👟 indoor) - Home vs Qa'Pla
+SUMMARY:Brewventus - Main South (👟 indoor) - Home vs QaPla
 LOCATION:MaxWell Soccer Centre Main - South\, 7000 48 Street Southeast C
  algary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Indoor shoes (flat-sole court shoes; runners are fine
@@ -111,12 +111,12 @@ URL:https://jsclark89.github.io/cmsa-schedule/#/team/c417954
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:Brewventus - Main South (👟 indoor) - Home vs Qa'Pla
+DESCRIPTION:Brewventus - Main South (👟 indoor) - Home vs QaPla
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108098@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261202T211500
 DTEND;TZID=America/Edmonton:20261202T221500
 SUMMARY:Brewventus - Main North (👟 indoor) - Away at The Call Me Maybes
@@ -135,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108128@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261213T171500
 DTEND;TZID=America/Edmonton:20261213T181500
 SUMMARY:Brewventus - Annex Bravo (👟 indoor) - Home vs CSC United
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108148@cmsa-schedule
-DTSTAMP:20261102T155343Z
+DTSTAMP:20261103T005922Z
 DTSTART;TZID=America/Edmonton:20261216T191500
 DTEND;TZID=America/Edmonton:20261216T201500
 SUMMARY:Brewventus - Main South (👟 indoor) - Home vs Trojans FC
