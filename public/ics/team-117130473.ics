@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11707109@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261025T140000
 DTEND;TZID=America/Edmonton:20261025T150000
 SUMMARY:U10 Foothills Barcelona - Main East (👟 indoor) - Home vs CWFC B
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707114@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261101T160000
 DTEND;TZID=America/Edmonton:20261101T170000
 SUMMARY:U10 Foothills Barcelona - Main East (👟 indoor) - Away at SWU In
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707119@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261108T140000
 DTEND;TZID=America/Edmonton:20261108T150000
 SUMMARY:U10 Foothills Barcelona - Annex Alpha (👟 indoor) - Home vs New 
@@ -86,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707128@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:U10 Foothills Barcelona - Shane Homes Field 1 - Away at S4 Athle
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707134@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261122T110000
 DTEND;TZID=America/Edmonton:20261122T120000
 SUMMARY:U10 Foothills Barcelona - Annex Delta (👟 indoor) - Away at RANG
@@ -125,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707143@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261206T120000
 DTEND;TZID=America/Edmonton:20261206T130000
 SUMMARY:U10 Foothills Barcelona - Annex Charlie (👟 indoor) - Home vs Vi
@@ -145,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707149@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261213T090000
 DTEND;TZID=America/Edmonton:20261213T100000
 SUMMARY:U10 Foothills Barcelona - Main East (👟 indoor) - Away at Foothi
@@ -165,7 +165,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707155@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20261220T090000
 DTEND;TZID=America/Edmonton:20261220T100000
 SUMMARY:U10 Foothills Barcelona - Dome NW (👟 cleats) - Home vs Blizzard
@@ -184,27 +184,8 @@ DESCRIPTION:U10 Foothills Barcelona - Dome NW (👟 cleats) - Home vs Bliz
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11707170@cmsa-schedule
-DTSTAMP:20261106T064654Z
-DTSTART;TZID=America/Edmonton:20270110T111500
-DTEND;TZID=America/Edmonton:20270110T121500
-SUMMARY:U10 Foothills Barcelona - Shane Homes Field 1 - Away at Chinooks
-  FC United 2017
-LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
- oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Boys U10 Dev Plus+ UGBO · Game #533\nSchedule: https://jscla
- rk89.github.io/cmsa-schedule/#/team/117130473
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130473
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U10 Foothills Barcelona - Shane Homes Field 1 - Away at Chin
- ooks FC United 2017
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-11707177@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20270117T140000
 DTEND;TZID=America/Edmonton:20270117T150000
 SUMMARY:U10 Foothills Barcelona - Main East (👟 indoor) - Away at CWFC B
@@ -224,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707181@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20270124T130000
 DTEND;TZID=America/Edmonton:20270124T140000
 SUMMARY:U10 Foothills Barcelona - Villains Field A (👟 cleats) - Home vs
@@ -243,8 +224,28 @@ DESCRIPTION:U10 Foothills Barcelona - Villains Field A (👟 cleats) - Hom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11707170@cmsa-schedule
+DTSTAMP:20261106T192556Z
+DTSTART;TZID=America/Edmonton:20270204T180000
+DTEND;TZID=America/Edmonton:20270204T190000
+SUMMARY:U10 Foothills Barcelona - Dome SE (👟 cleats) - Away at Chinooks
+  FC United 2017
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U10 Dev Plus+ UGBO · Game #533\nSchedule: https://jsclark
+ 89.github.io/cmsa-schedule/#/team/117130473
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130473
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U10 Foothills Barcelona - Dome SE (👟 cleats) - Away at Chin
+ ooks FC United 2017
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11707185@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20270207T120000
 DTEND;TZID=America/Edmonton:20270207T130000
 SUMMARY:U10 Foothills Barcelona - Villains Field A (👟 cleats) - Home vs
@@ -264,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707190@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20270221T130000
 DTEND;TZID=America/Edmonton:20270221T140000
 SUMMARY:U10 Foothills Barcelona - Genesis Indoor AT (👟 indoor) - Away a
@@ -284,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11707196@cmsa-schedule
-DTSTAMP:20261106T064654Z
+DTSTAMP:20261106T192556Z
 DTSTART;TZID=America/Edmonton:20270228T120000
 DTEND;TZID=America/Edmonton:20270228T130000
 SUMMARY:U10 Foothills Barcelona - Annex Bravo (👟 indoor) - Home vs Vill
