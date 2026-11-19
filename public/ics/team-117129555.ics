@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cmsa-schedule//Game Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCFC 14 Malaga (CMSA)
+X-WR-TIMEZONE:America/Edmonton
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Edmonton
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11709833@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261017T141500
+DTEND;TZID=America/Edmonton:20261017T151500
+SUMMARY:U13 NCFC 14 Malaga - Dome NE (👟 cleats) - Home vs Airdrie F.C. 
+ Valour 14
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2168\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Dome NE (👟 cleats) - Home vs Airdrie F
+ .C. Valour 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709852@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261024T153000
+DTEND;TZID=America/Edmonton:20261024T163000
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at Blizzard Albi
+ on 14 Boys
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2179\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at Blizzard 
+ Albion 14 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709856@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261031T080000
+DTEND;TZID=America/Edmonton:20261031T090000
+SUMMARY:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Home vs WHU We
+ st Hills Cannons 14
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2183\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Home vs WH
+ U West Hills Cannons 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709863@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261107T104500
+DTEND;TZID=America/Edmonton:20261107T114500
+SUMMARY:U13 NCFC 14 Malaga - Shouldice #03/SE (👟 cleats) - Away at WHU 
+ West Hills Cannons 14
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2190\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shouldice #03/SE (👟 cleats) - Away at 
+ WHU West Hills Cannons 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709870@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261114T091500
+DTEND;TZID=America/Edmonton:20261114T101500
+SUMMARY:U13 NCFC 14 Malaga - Dome NW (👟 cleats) - Away at MUSC Rapids 1
+ 4
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2197\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Dome NW (👟 cleats) - Away at MUSC Rapi
+ ds 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709884@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261121T201500
+DTEND;TZID=America/Edmonton:20261121T211500
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at CWFC B2014 Wh
+ ite
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2211\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at CWFC B201
+ 4 White
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709890@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261128T190000
+DTEND;TZID=America/Edmonton:20261128T200000
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 2 - Home vs LSCA B PSG 20
+ 14
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2218\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 2 - Home vs LSCA B PS
+ G 2014
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709906@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261212T174500
+DTEND;TZID=America/Edmonton:20261212T184500
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 1 - Home vs Foothills 201
+ 4 United Boys
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2233\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 1 - Home vs Foothills
+  2014 United Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709917@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261219T164500
+DTEND;TZID=America/Edmonton:20261219T174500
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at Chinooks FC R
+ ed 2014
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2242\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 4 - Away at Chinooks 
+ FC Red 2014
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709927@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20270109T174500
+DTEND;TZID=America/Edmonton:20270109T184500
+SUMMARY:U13 NCFC 14 Malaga - Shane Homes Field 2 - Home vs RWFC Royal We
+ st FC Shakhtar 14
+LOCATION:Shane Homes West Soccer Dome Field 2 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2250\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shane Homes Field 2 - Home vs RWFC Roya
+ l West FC Shakhtar 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709937@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20270123T150000
+DTEND;TZID=America/Edmonton:20270123T160000
+SUMMARY:U13 NCFC 14 Malaga - Shouldice #02/SW (👟 cleats) - Away at Rock
+ ies River Plate 14
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2257\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shouldice #02/SW (👟 cleats) - Away at 
+ Rockies River Plate 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709951@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20270130T160000
+DTEND;TZID=America/Edmonton:20270130T170000
+SUMMARY:U13 NCFC 14 Malaga - Shouldice #01/NW (👟 cleats) - Home vs Vill
+ ains Eagles 14
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2267\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Shouldice #01/NW (👟 cleats) - Home vs 
+ Villains Eagles 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709952@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20270206T114500
+DTEND;TZID=America/Edmonton:20270206T124500
+SUMMARY:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Away at CNS U1
+ 3B Hawks 14
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2268\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Away at CN
+ S U13B Hawks 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709966@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20270227T164500
+DTEND;TZID=America/Edmonton:20270227T174500
+SUMMARY:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Away at OUSC A
+ lliance B14
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 4 · Game #2278\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129555
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129555
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 NCFC 14 Malaga - Macron Field B (👟 cleats) - Away at OU
+ SC Alliance B14
+END:VALARM
+END:VEVENT
+END:VCALENDAR

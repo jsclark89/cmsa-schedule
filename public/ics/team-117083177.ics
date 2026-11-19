@@ -25,48 +25,28 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:game-11708536@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20261018T090000
-DTEND;TZID=America/Edmonton:20261018T100000
-SUMMARY:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs Rockie
- s AFC 15
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+UID:game-11708549@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261107T113000
+DTEND;TZID=America/Edmonton:20261107T123000
+SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Home vs Airdri
+ e F.C. Cavalry 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 2 · Game #1283\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1184\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117083177
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117083177
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs Ro
- ckies AFC 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708558@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20261025T134500
-DTEND;TZID=America/Edmonton:20261025T144500
-SUMMARY:U12 CNEU 2015 Wild - Macron Field B (👟 cleats) - Home vs Sparta
- ns Stars 15
-LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 2 · Game #1293\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117083177
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117083177
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 CNEU 2015 Wild - Macron Field B (👟 cleats) - Home vs Sp
- artans Stars 15
+DESCRIPTION:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Home vs Ai
+ rdrie F.C. Cavalry 15
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708574@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261108T090000
 DTEND;TZID=America/Edmonton:20261108T100000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Away at Foothi
@@ -85,8 +65,28 @@ DESCRIPTION:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Away at Fo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11708570@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261114T180000
+DTEND;TZID=America/Edmonton:20261114T190000
+SUMMARY:U12 CNEU 2015 Wild - Shouldice #04/NE (👟 cleats) - Home vs Chin
+ ooks FC United 2015
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1194\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117083177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117083177
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CNEU 2015 Wild - Shouldice #04/NE (👟 cleats) - Home vs 
+ Chinooks FC United 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11708590@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs MUSC V
@@ -105,8 +105,28 @@ DESCRIPTION:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs MU
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11708594@cmsa-schedule
+DTSTAMP:20261119T203810Z
+DTSTART;TZID=America/Edmonton:20261128T113000
+DTEND;TZID=America/Edmonton:20261128T123000
+SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at MUSC P
+ remier 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 1 · Game #1206\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117083177
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117083177
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at MU
+ SC Premier 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11708615@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261129T090000
 DTEND;TZID=America/Edmonton:20261129T100000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at CalGle
@@ -126,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708639@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
 SUMMARY:U12 CNEU 2015 Wild - Dome SE (👟 cleats) - Home vs CUFC Wolfpack
@@ -146,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708651@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261213T130000
 DTEND;TZID=America/Edmonton:20261213T140000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at NCFC 1
@@ -166,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708660@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261220T080000
 DTEND;TZID=America/Edmonton:20261220T090000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs Foothi
@@ -186,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708684@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270109T123000
 DTEND;TZID=America/Edmonton:20270109T133000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at CWFC B
@@ -206,7 +226,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708698@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270123T103000
 DTEND;TZID=America/Edmonton:20270123T113000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Home vs Blizza
@@ -226,7 +246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708724@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270130T140000
 DTEND;TZID=America/Edmonton:20270130T150000
 SUMMARY:U12 CNEU 2015 Wild - Dome NW (👟 cleats) - Away at Airdrie F.C. 
@@ -246,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708742@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270206T103000
 DTEND;TZID=America/Edmonton:20270206T113000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field C (👟 cleats) - Home vs New Fr
@@ -266,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708753@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270220T133000
 DTEND;TZID=America/Edmonton:20270220T143000
 SUMMARY:U12 CNEU 2015 Wild - Macron Field D (👟 cleats) - Away at New Fr
@@ -286,7 +306,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708758@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20270227T120000
 DTEND;TZID=America/Edmonton:20270227T130000
 SUMMARY:U12 CNEU 2015 Wild - Dome NW (👟 cleats) - Away at SWU Velez 15B

@@ -25,28 +25,8 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:game-11708776@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20261025T090000
-DTEND;TZID=America/Edmonton:20261025T100000
-SUMMARY:U12 Foothills United - Macron Field D (👟 cleats) - Home vs RANG
- ERS ROYALS 15
-LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1538\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field D (👟 cleats) - Home vs 
- RANGERS ROYALS 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-11708788@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261101T130000
 DTEND;TZID=America/Edmonton:20261101T140000
 SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Away at SWU 
@@ -66,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708805@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261115T110000
 DTEND;TZID=America/Edmonton:20261115T120000
 SUMMARY:U12 Foothills United - Macron Field D (👟 cleats) - Home vs Bliz
@@ -86,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708810@cmsa-schedule
-DTSTAMP:20261119T072650Z
+DTSTAMP:20261119T203810Z
 DTSTART;TZID=America/Edmonton:20261129T080000
 DTEND;TZID=America/Edmonton:20261129T090000
 SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Away at New 
@@ -102,206 +82,6 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Away at 
  New Frontier SC 2015 Boys (Sakaguchi)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708826@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20261206T100000
-DTEND;TZID=America/Edmonton:20261206T110000
-SUMMARY:U12 Foothills United - Macron Field D (👟 cleats) - Away at Vill
- ains Falcons 15
-LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1564\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field D (👟 cleats) - Away at 
- Villains Falcons 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708841@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20261220T120000
-DTEND;TZID=America/Edmonton:20261220T130000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Home vs SWU 
- Banfield 15B
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1570\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Home vs 
- SWU Banfield 15B
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708870@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270102T143000
-DTEND;TZID=America/Edmonton:20270102T153000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Away at Spar
- tans Stratos 15
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1580\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Away at 
- Spartans Stratos 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708893@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270109T131500
-DTEND;TZID=America/Edmonton:20270109T141500
-SUMMARY:U12 Foothills United - Shouldice #01/NW (👟 cleats) - Away at NC
- FC 15 Fury
-LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1588\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Shouldice #01/NW (👟 cleats) - Away a
- t NCFC 15 Fury
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708903@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270116T093000
-DTEND;TZID=America/Edmonton:20270116T103000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Home vs SSA 
- Spurs 15
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1591\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Home vs 
- SSA Spurs 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708932@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270123T143000
-DTEND;TZID=America/Edmonton:20270123T153000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Home vs New 
- Frontier SC 2015 Boys (Sakaguchi)
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1598\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Home vs 
- New Frontier SC 2015 Boys (Sakaguchi)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708960@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270130T190000
-DTEND;TZID=America/Edmonton:20270130T200000
-SUMMARY:U12 Foothills United - Macron Field A (👟 cleats) - Away at CCFC
-  Calgary City FC Palmeiras 2015
-LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1605\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field A (👟 cleats) - Away at 
- CCFC Calgary City FC Palmeiras 2015
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708995@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270206T163000
-DTEND;TZID=America/Edmonton:20270206T173000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Home vs WHU 
- West Hills Blaze 15
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1614\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Home vs 
- WHU West Hills Blaze 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11709024@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270220T173000
-DTEND;TZID=America/Edmonton:20270220T183000
-SUMMARY:U12 Foothills United - Macron Field C (👟 cleats) - Home vs MUSC
-  Titans 15
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1621\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Macron Field C (👟 cleats) - Home vs 
- MUSC Titans 15
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11709065@cmsa-schedule
-DTSTAMP:20261119T072650Z
-DTSTART;TZID=America/Edmonton:20270227T124500
-DTEND;TZID=America/Edmonton:20270227T134500
-SUMMARY:U12 Foothills United - Shouldice #04/NE (👟 cleats) - Away at Ro
- ckies Albion 15
-LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 4 · Game #1631\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130855
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130855
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 Foothills United - Shouldice #04/NE (👟 cleats) - Away a
- t Rockies Albion 15
 END:VALARM
 END:VEVENT
 END:VCALENDAR
