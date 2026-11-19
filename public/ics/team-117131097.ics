@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709833@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261017T141500
 DTEND;TZID=America/Edmonton:20261017T151500
 SUMMARY:U13 RANGERS ROYALS - Dome NE (👟 cleats) - Home vs Airdrie F.C. 
@@ -45,8 +45,26 @@ DESCRIPTION:U13 RANGERS ROYALS - Dome NE (👟 cleats) - Home vs Airdrie F
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709597@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20261018T131500
+DTEND;TZID=America/Edmonton:20261018T141500
+SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at S4 Phoenix 14
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 3 · Game #2036\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at S4 Phoeni
+ x 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709852@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261024T153000
 DTEND;TZID=America/Edmonton:20261024T163000
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at Blizzard Albi
@@ -64,8 +82,27 @@ DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at Blizzard
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709606@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20261025T130000
+DTEND;TZID=America/Edmonton:20261025T140000
+SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs Canmore FC U1
+ 3
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 3 · Game #2045\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs Canmore F
+ C U13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709856@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261031T080000
 DTEND;TZID=America/Edmonton:20261031T090000
 SUMMARY:U13 RANGERS ROYALS - Macron Field B (👟 cleats) - Home vs WHU We
@@ -85,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709865@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261107T131500
 DTEND;TZID=America/Edmonton:20261107T141500
 SUMMARY:U13 RANGERS ROYALS - Shouldice #03/SE (👟 cleats) - Home vs SWU 
@@ -105,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709870@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261114T091500
 DTEND;TZID=America/Edmonton:20261114T101500
 SUMMARY:U13 RANGERS ROYALS - Dome NW (👟 cleats) - Away at MUSC Rapids 1
@@ -125,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709884@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261121T201500
 DTEND;TZID=America/Edmonton:20261121T211500
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at CWFC B2014 Wh
@@ -144,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709890@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261128T190000
 DTEND;TZID=America/Edmonton:20261128T200000
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 2 - Home vs LSCA B PSG 20
@@ -163,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709906@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261212T174500
 DTEND;TZID=America/Edmonton:20261212T184500
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs Foothills 201
@@ -181,8 +218,28 @@ DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs Foothills
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709647@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20261213T091500
+DTEND;TZID=America/Edmonton:20261213T101500
+SUMMARY:U13 RANGERS ROYALS - Macron Field D (👟 cleats) - Away at S4 Ath
+ letic 14
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2086\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Macron Field D (👟 cleats) - Away at S4
+  Athletic 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709917@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20261219T164500
 DTEND;TZID=America/Edmonton:20261219T174500
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at Chinooks FC R
@@ -200,8 +257,48 @@ DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 4 - Away at Chinooks
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709656@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20261220T124500
+DTEND;TZID=America/Edmonton:20261220T134500
+SUMMARY:U13 RANGERS ROYALS - Dome SE (👟 cleats) - Home vs Airdrie F.C. 
+ Earthquakes 14
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2095\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Dome SE (👟 cleats) - Home vs Airdrie F
+ .C. Earthquakes 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709664@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270103T110000
+DTEND;TZID=America/Edmonton:20270103T120000
+SUMMARY:U13 RANGERS ROYALS - Macron Field A (👟 cleats) - Home vs MUSC I
+ nter 14
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2103\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Macron Field A (👟 cleats) - Home vs MU
+ SC Inter 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709927@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20270109T174500
 DTEND;TZID=America/Edmonton:20270109T184500
 SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 2 - Home vs RWFC Royal We
@@ -219,8 +316,47 @@ DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 2 - Home vs RWFC Roya
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709678@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270110T131500
+DTEND;TZID=America/Edmonton:20270110T141500
+SUMMARY:U13 RANGERS ROYALS - Dome NW (👟 cleats) - Away at SWU Real 14B
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2114\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Dome NW (👟 cleats) - Away at SWU Real 
+ 14B
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709693@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270117T133000
+DTEND;TZID=America/Edmonton:20270117T143000
+SUMMARY:U13 RANGERS ROYALS - Macron Field A (👟 cleats) - Away at CNEU 2
+ 014 Storm
+LOCATION:Foothills Macron Centre Field A\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2122\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Macron Field A (👟 cleats) - Away at CN
+ EU 2014 Storm
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709937@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20270123T150000
 DTEND;TZID=America/Edmonton:20270123T160000
 SUMMARY:U13 RANGERS ROYALS - Shouldice #02/SW (👟 cleats) - Away at Rock
@@ -239,8 +375,27 @@ DESCRIPTION:U13 RANGERS ROYALS - Shouldice #02/SW (👟 cleats) - Away at
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709722@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270124T131500
+DTEND;TZID=America/Edmonton:20270124T141500
+SUMMARY:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs New Frontier 
+ SC 2014 Boys (Petros)
+LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 3 · Game #2135\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Shane Homes Field 1 - Home vs New Front
+ ier SC 2014 Boys (Petros)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709951@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20270130T160000
 DTEND;TZID=America/Edmonton:20270130T170000
 SUMMARY:U13 RANGERS ROYALS - Shouldice #01/NW (👟 cleats) - Home vs Vill
@@ -259,8 +414,28 @@ DESCRIPTION:U13 RANGERS ROYALS - Shouldice #01/NW (👟 cleats) - Home vs
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11709740@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270131T114500
+DTEND;TZID=America/Edmonton:20270131T124500
+SUMMARY:U13 RANGERS ROYALS - Dome NE (👟 cleats) - Away at SWU Girona 14
+ B
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2138\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Dome NE (👟 cleats) - Away at SWU Giron
+ a 14B
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11709952@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20270206T114500
 DTEND;TZID=America/Edmonton:20270206T124500
 SUMMARY:U13 RANGERS ROYALS - Macron Field B (👟 cleats) - Away at CNS U1
@@ -280,7 +455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11709966@cmsa-schedule
-DTSTAMP:20261118T203216Z
+DTSTAMP:20261119T072650Z
 DTSTART;TZID=America/Edmonton:20270227T164500
 DTEND;TZID=America/Edmonton:20270227T174500
 SUMMARY:U13 RANGERS ROYALS - Macron Field B (👟 cleats) - Away at OUSC A
@@ -296,6 +471,26 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U13 RANGERS ROYALS - Macron Field B (👟 cleats) - Away at OU
  SC Alliance B14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709830@cmsa-schedule
+DTSTAMP:20261119T072650Z
+DTSTART;TZID=America/Edmonton:20270228T100000
+DTEND;TZID=America/Edmonton:20270228T110000
+SUMMARY:U13 RANGERS ROYALS - Shouldice #04/NE (👟 cleats) - Home vs Rock
+ ies Racing 14
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2163\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117131097
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117131097
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 RANGERS ROYALS - Shouldice #04/NE (👟 cleats) - Home vs 
+ Rockies Racing 14
 END:VALARM
 END:VEVENT
 END:VCALENDAR
