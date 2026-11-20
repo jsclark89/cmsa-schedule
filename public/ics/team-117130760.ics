@@ -25,28 +25,8 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:game-11708524@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20261017T093000
-DTEND;TZID=America/Edmonton:20261017T103000
-SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs Foot
- hills FC Green 2015
-LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1166\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130760
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs 
- Foothills FC Green 2015
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-11708536@cmsa-schedule
-DTSTAMP:20261119T203810Z
+DTSTAMP:20261120T030647Z
 DTSTART;TZID=America/Edmonton:20261018T090000
 DTEND;TZID=America/Edmonton:20261018T100000
 SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs Rock
@@ -65,28 +45,8 @@ DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708533@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20261024T113000
-DTEND;TZID=America/Edmonton:20261024T123000
-SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at LSCA
-  B United 2015
-LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
- ry\, AB T3S 0B6
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1175\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130760
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at 
- LSCA B United 2015
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-11708558@cmsa-schedule
-DTSTAMP:20261119T203810Z
+DTSTAMP:20261120T030647Z
 DTSTART;TZID=America/Edmonton:20261025T134500
 DTEND;TZID=America/Edmonton:20261025T144500
 SUMMARY:U12 CWFC B2015 Black - Macron Field B (👟 cleats) - Home vs Spar
@@ -105,183 +65,183 @@ DESCRIPTION:U12 CWFC B2015 Black - Macron Field B (👟 cleats) - Home vs
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708616@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20261205T091500
-DTEND;TZID=America/Edmonton:20261205T101500
-SUMMARY:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Home vs LS
- CA B Roma 2015
-LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708639@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20261206T140000
+DTEND;TZID=America/Edmonton:20261206T150000
+SUMMARY:U12 CWFC B2015 Black - Dome SE (👟 cleats) - Home vs CUFC Wolfpa
+ ck 15
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1218\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1331\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Home v
- s LSCA B Roma 2015
+DESCRIPTION:U12 CWFC B2015 Black - Dome SE (👟 cleats) - Home vs CUFC Wo
+ lfpack 15
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708625@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20261212T123000
-DTEND;TZID=America/Edmonton:20261212T133000
-SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at SWU 
- Sporting 15B
+UID:game-11708651@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20261213T130000
+DTEND;TZID=America/Edmonton:20261213T140000
+SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at NCFC
+  15 Wanderers
 LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1222\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1339\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at 
- SWU Sporting 15B
+ NCFC 15 Wanderers
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708645@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20261219T111500
-DTEND;TZID=America/Edmonton:20261219T121500
-SUMMARY:U12 CWFC B2015 Black - Shouldice #04/NE (👟 cleats) - Home vs Fo
- othills FC White 2015
-LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1233\nSchedule: https://jscl
- ark89.github.io/cmsa-schedule/#/team/117130760
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #04/NE (👟 cleats) - Home v
- s Foothills FC White 2015
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:game-11708665@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270103T120000
-DTEND;TZID=America/Edmonton:20270103T130000
-SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Away at SWU 
- Newells 15
+UID:game-11708660@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20261220T080000
+DTEND;TZID=America/Edmonton:20261220T090000
+SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs Foot
+ hills FH 2015
 LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
  ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1240\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1345\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Away at 
- SWU Newells 15
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs 
+ Foothills FH 2015
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708683@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270110T121500
-DTEND;TZID=America/Edmonton:20270110T131500
-SUMMARY:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Away at CC
- FC Calgary City FC CR7 2015
-LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708684@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270109T123000
+DTEND;TZID=America/Edmonton:20270109T133000
+SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at S4 A
+ thletic City 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1249\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1358\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Away a
- t CCFC Calgary City FC CR7 2015
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at 
+ S4 Athletic City 15
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708700@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270124T144500
-DTEND;TZID=America/Edmonton:20270124T154500
-SUMMARY:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Home vs Ne
- w Frontier SC 2015 Boys (Fernandes)
-LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708698@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270123T103000
+DTEND;TZID=America/Edmonton:20270123T113000
+SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Home vs Bliz
+ zard Alliance 15 Boys
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1258\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1365\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Home v
- s New Frontier SC 2015 Boys (Fernandes)
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Home vs 
+ Blizzard Alliance 15 Boys
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708710@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270131T094500
-DTEND;TZID=America/Edmonton:20270131T104500
-SUMMARY:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Away at Ch
- inooks FC Premiers 2015
-LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708724@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270130T140000
+DTEND;TZID=America/Edmonton:20270130T150000
+SUMMARY:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at Airdrie F.C
+ . City 15
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1263\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1377\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Away a
- t Chinooks FC Premiers 2015
+DESCRIPTION:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at Airdrie
+  F.C. City 15
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708729@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270221T133000
-DTEND;TZID=America/Edmonton:20270221T143000
-SUMMARY:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Home vs Bl
- izzard SC 15 Boys
-LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708742@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270206T103000
+DTEND;TZID=America/Edmonton:20270206T113000
+SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs New 
+ Frontier SC 2015 Boys (Valstar)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1274\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1385\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #02/SW (👟 cleats) - Home v
- s Blizzard SC 15 Boys
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs 
+ New Frontier SC 2015 Boys (Valstar)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-11708739@cmsa-schedule
-DTSTAMP:20261119T203810Z
-DTSTART;TZID=America/Edmonton:20270228T090000
-DTEND;TZID=America/Edmonton:20270228T100000
-SUMMARY:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Away at Ne
- w Frontier SC 2015 Boys (Reyes)
-LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
- , AB T3B 0V8
+UID:game-11708753@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270220T133000
+DTEND;TZID=America/Edmonton:20270220T143000
+SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at New 
+ Frontier SC 2015 Boys (Kim)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nBoys U12 City Wide Tier 1 · Game #1279\nSchedule: https://jscl
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1395\nSchedule: https://jscl
  ark89.github.io/cmsa-schedule/#/team/117130760
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U12 CWFC B2015 Black - Shouldice #01/NW (👟 cleats) - Away a
- t New Frontier SC 2015 Boys (Reyes)
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at 
+ New Frontier SC 2015 Boys (Kim)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708758@cmsa-schedule
+DTSTAMP:20261120T030647Z
+DTSTART;TZID=America/Edmonton:20270227T120000
+DTEND;TZID=America/Edmonton:20270227T130000
+SUMMARY:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at SWU Velez 1
+ 5B
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1400\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117130760
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at SWU Vel
+ ez 15B
 END:VALARM
 END:VEVENT
 END:VCALENDAR
