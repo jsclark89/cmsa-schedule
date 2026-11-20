@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11708536@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20261018T090000
 DTEND;TZID=America/Edmonton:20261018T100000
 SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs Rock
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708558@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20261025T134500
 DTEND;TZID=America/Edmonton:20261025T144500
 SUMMARY:U12 CWFC B2015 Black - Macron Field B (👟 cleats) - Home vs Spar
@@ -65,8 +65,68 @@ DESCRIPTION:U12 CWFC B2015 Black - Macron Field B (👟 cleats) - Home vs
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-11708574@cmsa-schedule
+DTSTAMP:20261120T202035Z
+DTSTART;TZID=America/Edmonton:20261108T090000
+DTEND;TZID=America/Edmonton:20261108T100000
+SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Away at Foot
+ hills Prospects 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1301\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117130760
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Away at 
+ Foothills Prospects 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708590@cmsa-schedule
+DTSTAMP:20261120T202035Z
+DTSTART;TZID=America/Edmonton:20261115T080000
+DTEND;TZID=America/Edmonton:20261115T090000
+SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs MUSC
+  Valencia 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1309\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117130760
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs 
+ MUSC Valencia 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708615@cmsa-schedule
+DTSTAMP:20261120T202035Z
+DTSTART;TZID=America/Edmonton:20261129T090000
+DTEND;TZID=America/Edmonton:20261129T100000
+SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at CalG
+ len Tornado 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 2 · Game #1321\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/team/117130760
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117130760
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at 
+ CalGlen Tornado 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-11708639@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20261206T140000
 DTEND;TZID=America/Edmonton:20261206T150000
 SUMMARY:U12 CWFC B2015 Black - Dome SE (👟 cleats) - Home vs CUFC Wolfpa
@@ -86,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708651@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20261213T130000
 DTEND;TZID=America/Edmonton:20261213T140000
 SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at NCFC
@@ -106,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708660@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20261220T080000
 DTEND;TZID=America/Edmonton:20261220T090000
 SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs Foot
@@ -126,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708684@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270109T123000
 DTEND;TZID=America/Edmonton:20270109T133000
 SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at S4 A
@@ -146,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708698@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270123T103000
 DTEND;TZID=America/Edmonton:20270123T113000
 SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Home vs Bliz
@@ -166,7 +226,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708724@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270130T140000
 DTEND;TZID=America/Edmonton:20270130T150000
 SUMMARY:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at Airdrie F.C
@@ -186,7 +246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708742@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270206T103000
 DTEND;TZID=America/Edmonton:20270206T113000
 SUMMARY:U12 CWFC B2015 Black - Macron Field C (👟 cleats) - Home vs New 
@@ -206,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708753@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270220T133000
 DTEND;TZID=America/Edmonton:20270220T143000
 SUMMARY:U12 CWFC B2015 Black - Macron Field D (👟 cleats) - Away at New 
@@ -226,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-11708758@cmsa-schedule
-DTSTAMP:20261120T071646Z
+DTSTAMP:20261120T202035Z
 DTSTART;TZID=America/Edmonton:20270227T120000
 DTEND;TZID=America/Edmonton:20270227T130000
 SUMMARY:U12 CWFC B2015 Black - Dome NW (👟 cleats) - Away at SWU Velez 1
