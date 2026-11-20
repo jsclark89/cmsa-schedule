@@ -13,12 +13,16 @@ export default function App() {
   const [season, setSeason] = useState(null)
   const [error, setError] = useState(null)
   const [favs, setFavs] = useState(favourites.get)
+  const [offered, setOffered] = useState(favourites.offered)
 
   useEffect(() => {
     loadSeason().then(setSeason, (e) => setError(e.message))
   }, [])
   useEffect(() => {
-    const on = () => setFavs(favourites.get())
+    const on = () => {
+      setFavs(favourites.get())
+      setOffered(favourites.offered())
+    }
     window.addEventListener('cmsa:favs', on)
     return () => window.removeEventListener('cmsa:favs', on)
   }, [])
@@ -86,7 +90,10 @@ export default function App() {
           </>
         )}
       </header>
-      <main className="page">{body}</main>
+      <main className="page">
+        {season ? <LinkTeams season={season} ids={offered} /> : null}
+        {body}
+      </main>
       <nav className="bottomnav" aria-label="Main">
         <a href={href()} className={route.page === 'home' ? 'on' : ''}>
           <span aria-hidden="true">★</span>My teams
@@ -104,6 +111,24 @@ export default function App() {
           Unofficial. Read from calgaryminorsoccer.com and cusa.ab.ca at {fmtStamp(season.generatedAt)}. Confirm anything odd with your coach or manager.
         </footer>
       ) : null}
+    </div>
+  )
+}
+
+/** A link that arrived carrying someone's starred teams: ask before keeping them. */
+function LinkTeams({ season, ids }) {
+  const teams = ids.map((id) => season.teams[id]).filter(Boolean)
+  if (!teams.length) return null
+  return (
+    <div className="card soft">
+      <p>
+        <b>This link came with {teams.length === 1 ? 'a starred team' : 'starred teams'}:</b> {teams.map((t) => t.name).join(', ')}.
+      </p>
+      <p className="muted">Keep {teams.length === 1 ? 'it' : 'them'} only if {teams.length === 1 ? 'it is' : 'they are'} yours too.</p>
+      <div className="actions">
+        <button className="btn primary" onClick={() => favourites.acceptOffer()}>★ Keep {teams.length === 1 ? 'this team' : 'these teams'}</button>
+        <button className="btn" onClick={() => favourites.declineOffer()}>Not mine</button>
+      </div>
     </div>
   )
 }
