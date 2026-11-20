@@ -118,9 +118,21 @@ function Hero({ g, team, season }) {
   )
 }
 
+function phoneKind() {
+  const ua = navigator.userAgent || ''
+  if (/iPhone|iPad|iPod/.test(ua)) return 'ios'
+  if (/Android/.test(ua)) return 'android'
+  return 'desktop'
+}
+
 export function CalendarPanel({ kind, id, name }) {
   const https = icsUrl(kind, id)
   const webcal = webcalUrl(kind, id)
+  // Google's own "add this calendar?" prompt. The Google Calendar app has no
+  // way to subscribe by URL, so this goes to the website, which asks once and
+  // then the calendar syncs to the phone like any other.
+  const google = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcal)}`
+  const os = phoneKind()
   const [copied, setCopied] = useState(false)
   async function copy() {
     try {
@@ -131,15 +143,27 @@ export function CalendarPanel({ kind, id, name }) {
       prompt('Copy this calendar address', https)
     }
   }
+  const appleBtn = <a key="apple" className={`btn ${os === 'ios' ? 'primary' : ''}`} href={webcal}>{os === 'ios' ? 'Add to iPhone calendar' : 'Open in calendar app'}</a>
+  const googleBtn = <a key="google" className={`btn ${os !== 'ios' ? 'primary' : ''}`} href={google} target="_blank" rel="noopener">Add to Google Calendar</a>
   return (
     <div className="card soft">
-      <p><b>Subscribe to {name}</b> and every game, move and cancellation lands in your phone calendar on its own. Updates every six hours.</p>
+      <p><b>Subscribe to {name}</b> and every game, move and cancellation lands in your phone calendar on its own.</p>
       <div className="actions">
-        <a className="btn primary" href={webcal}>Open in calendar app</a>
+        {os === 'ios' ? [appleBtn, googleBtn] : os === 'android' ? [googleBtn] : [googleBtn, appleBtn]}
         <button className="btn" onClick={copy}>{copied ? 'Copied' : 'Copy address'}</button>
       </div>
+      {os === 'android' ? (
+        <ol className="muted small steps">
+          <li>Tap <b>Add to Google Calendar</b>, then <b>Add</b>. If it opens the Calendar app or says it cannot add it, open the link in Chrome and switch on <b>Desktop site</b> in the ⋮ menu.</li>
+          <li>Once only: in the Google Calendar app, open <b>Settings</b>, tap this calendar under your account and turn on <b>Sync</b>.</li>
+        </ol>
+      ) : os === 'ios' ? (
+        <p className="muted small">Tap <b>Add to iPhone calendar</b>, then <b>Subscribe</b>. Updates on its own.</p>
+      ) : (
+        <p className="muted small">Google Calendar: tap <b>Add to Google Calendar</b>, then <b>Add</b>, and it appears on your phone too. Apple Calendar or Outlook: use the other button, or paste the copied address.</p>
+      )}
       <p className="muted small">
-        iPhone: tap the first button, then Subscribe. Google Calendar: tap Copy address, then in Google Calendar go to Settings, Add calendar, From URL, and paste it.
+        Google checks for changes about once a day, so a game moved today can take a while to show; this site always has the latest.
         {window.location.hostname === 'localhost' ? ' (Subscriptions only work once the site is published, not from localhost.)' : ''}
       </p>
     </div>

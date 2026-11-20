@@ -54,12 +54,17 @@ function indexSeason(s) {
 //   2. The page address (?my=id,id), kept in step on every change. A bookmark or
 //      home screen icon saved from any page carries the teams, and a visit with
 //      an empty localStorage restores them from it.
-// Shared links (the Share button, calendar links) never carry ?my=, so one
-// person's stars do not appear on another person's phone.
+// The Share button and calendar links never carry ?my=, but the address bar does,
+// so a link copied from the browser brings the sender's teams along. They are
+// therefore only taken silently when the site runs as a home screen app, which
+// is always the owner's own icon. In an ordinary browser tab they are stripped
+// from the address and held as an offer the visitor has to accept, so one
+// person's stars never land on another person's phone unasked.
 
 const MY_PARAM = 'my'
 const ID_RE = /^c?\d{3,12}$/
 let current = null
+let offered = []
 
 function readStored() {
   try {
@@ -76,6 +81,14 @@ function readUrl() {
     return v ? [...new Set(v.split(',').filter((id) => ID_RE.test(id)))].slice(0, 20) : []
   } catch {
     return []
+  }
+}
+
+function isHomeScreenApp() {
+  try {
+    return window.navigator.standalone === true || !!window.matchMedia?.('(display-mode: standalone)').matches
+  } catch {
+    return false
   }
 }
 
@@ -107,10 +120,25 @@ function load() {
   if (current) return current
   const stored = readStored()
   const fromUrl = readUrl()
-  current = stored.length ? stored : fromUrl
-  if (!stored.length && fromUrl.length) store(fromUrl)
+  if (stored.length) current = stored
+  else if (fromUrl.length && isHomeScreenApp()) {
+    current = fromUrl
+    store(fromUrl)
+  } else {
+    current = []
+    offered = fromUrl
+  }
   writeUrl(current)
   return current
+}
+
+function commit(next) {
+  current = next
+  offered = []
+  store(next)
+  writeUrl(next)
+  window.dispatchEvent(new Event('cmsa:favs'))
+  return next
 }
 
 export const favourites = {
@@ -118,13 +146,12 @@ export const favourites = {
   has: (id) => load().includes(id),
   toggle(id) {
     const cur = load()
-    const next = cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id]
-    current = next
-    store(next)
-    writeUrl(next)
-    window.dispatchEvent(new Event('cmsa:favs'))
-    return next
+    return commit(cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id])
   },
+  /** Teams that arrived in the link and are waiting for a yes or no. */
+  offered: () => (load(), offered),
+  acceptOffer: () => commit(offered),
+  declineOffer: () => commit(load()),
   /** Re-apply ?my= after a navigation that rebuilt the address. */
   sync: () => writeUrl(load()),
 }
