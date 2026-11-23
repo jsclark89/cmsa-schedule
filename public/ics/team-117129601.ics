@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709861@cmsa-schedule
-DTSTAMP:20261122T194059Z
+DTSTAMP:20261123T073947Z
 DTSTART;TZID=America/Edmonton:20261107T081500
 DTEND;TZID=America/Edmonton:20261107T091500
 SUMMARY:U13 Blizzard Albion 14 Boys - Shouldice #03/SE (👟 cleats) - Hom
@@ -42,6 +42,25 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U13 Blizzard Albion 14 Boys - Shouldice #03/SE (👟 cleats) -
   Home vs Airdrie F.C. Valour 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709883@cmsa-schedule
+DTSTAMP:20261123T073947Z
+DTSTART;TZID=America/Edmonton:20261121T190000
+DTEND;TZID=America/Edmonton:20261121T200000
+SUMMARY:U13 Blizzard Albion 14 Boys - Shane Homes Field 4 - Away at WHU 
+ West Hills Cannons 14
+LOCATION:Shane Homes West Soccer Dome Field 4 7v7\, 11014 Bearspaw Dam R
+ oad Northwest Calgary\, Alberta T3L 0C3
+DESCRIPTION:Boys U13 Tier 4 · Game #2210\nSchedule: https://jsclark89.gi
+ thub.io/cmsa-schedule/#/team/117129601
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129601
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 Blizzard Albion 14 Boys - Shane Homes Field 4 - Away at 
+ WHU West Hills Cannons 14
 END:VALARM
 END:VEVENT
 END:VCALENDAR
