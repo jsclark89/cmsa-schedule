@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-c2109167@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261114T193000
 DTEND;TZID=America/Edmonton:20261114T203000
 SUMMARY:Southside Rangers - Ex Patriots - Dome NE (👟 cleats) - Away at 
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109229@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261120T220000
 DTEND;TZID=America/Edmonton:20261120T230000
 SUMMARY:Southside Rangers - Ex Patriots - Macron Boardwalk (👟 cleats) -
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109336@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261128T181500
 DTEND;TZID=America/Edmonton:20261128T191500
 SUMMARY:Southside Rangers - Ex Patriots - Dome SE (👟 cleats) - Home vs 
@@ -86,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109414@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261205T181500
 DTEND;TZID=America/Edmonton:20261205T191500
 SUMMARY:Southside Rangers - Ex Patriots - Dome NE (👟 cleats) - Away at 
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109437@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261208T214500
 DTEND;TZID=America/Edmonton:20261208T224500
 SUMMARY:Southside Rangers - Ex Patriots - Villains Field 1 (👟 cleats) -
@@ -125,11 +125,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2109544@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261216T214500
 DTEND;TZID=America/Edmonton:20261216T224500
 SUMMARY:Southside Rangers - Ex Patriots - Villains Field 2 (👟 cleats) -
-  Away at Foothills FC 3
+  Away at All Stars FC
 LOCATION:Villains Dome Field 2\, 830 59 Ave SE Calgary\, AB T2H 2G5
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
  e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
@@ -139,12 +139,12 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:Southside Rangers - Ex Patriots - Villains Field 2 (👟 cleat
- s) - Away at Foothills FC 3
+ s) - Away at All Stars FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108161@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270104T203000
 DTEND;TZID=America/Edmonton:20270104T213000
 SUMMARY:Southside Rangers - Ex Patriots - Dome SW (👟 cleats) - Home vs 
@@ -164,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108230@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270111T213000
 DTEND;TZID=America/Edmonton:20270111T223000
 SUMMARY:Southside Rangers - Ex Patriots - Macron Aspen Air (👟 cleats) -
@@ -183,8 +183,28 @@ DESCRIPTION:Southside Rangers - Ex Patriots - Macron Aspen Air (👟 cleat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:game-c2108357@cmsa-schedule
+DTSTAMP:20261123T235446Z
+DTSTART;TZID=America/Edmonton:20270122T204500
+DTEND;TZID=America/Edmonton:20270122T214500
+SUMMARY:Southside Rangers - Ex Patriots - Macron Boardwalk (👟 cleats) -
+  Home vs All Stars FC
+LOCATION:Foothills Macron Centre - Boardwalk\, 111 Exploration Ave S.E C
+ algary\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
+ e/#/team/c418109
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418109
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Southside Rangers - Ex Patriots - Macron Boardwalk (👟 cleat
+ s) - Home vs All Stars FC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:game-c2108436@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270129T214500
 DTEND;TZID=America/Edmonton:20270129T224500
 SUMMARY:Southside Rangers - Ex Patriots - Dome SW (👟 cleats) - Home vs 
@@ -204,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108482@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270202T214500
 DTEND;TZID=America/Edmonton:20270202T224500
 SUMMARY:Southside Rangers - Ex Patriots - Villains Field 2 (👟 cleats) -
@@ -222,28 +242,8 @@ DESCRIPTION:Southside Rangers - Ex Patriots - Villains Field 2 (👟 cleat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:game-c2108567@cmsa-schedule
-DTSTAMP:20261123T073947Z
-DTSTART;TZID=America/Edmonton:20270209T203000
-DTEND;TZID=America/Edmonton:20270209T213000
-SUMMARY:Southside Rangers - Ex Patriots - Dome SE (👟 cleats) - Away at 
- Foothills Hornets
-LOCATION:MaxWell Soccer Centre MSC Dome SE\, 7000 48 Street Southeast Ca
- lgary\, Alberta T2C 4E1
-DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
- e: Turf\nDivision 4\nSchedule: https://jsclark89.github.io/cmsa-schedul
- e/#/team/c418109
-URL:https://jsclark89.github.io/cmsa-schedule/#/team/c418109
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT60M
-DESCRIPTION:Southside Rangers - Ex Patriots - Dome SE (👟 cleats) - Away
-  at Foothills Hornets
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:game-c2108611@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270216T214500
 DTEND;TZID=America/Edmonton:20270216T224500
 SUMMARY:Southside Rangers - Ex Patriots - Dome NE (👟 cleats) - Away at 
@@ -263,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108720@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270226T220000
 DTEND;TZID=America/Edmonton:20270226T230000
 SUMMARY:Southside Rangers - Ex Patriots - Macron Field Safe (👟 cleats) 
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108834@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270309T213000
 DTEND;TZID=America/Edmonton:20270309T223000
 SUMMARY:Southside Rangers - Ex Patriots - Shouldice Encana SE (👟 cleats
@@ -303,11 +303,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108952@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270319T203000
 DTEND;TZID=America/Edmonton:20270319T213000
 SUMMARY:Southside Rangers - Ex Patriots - Shouldice Encana NE (👟 cleats
- ) - Home vs Foothills FC 3
+ ) - Home vs All Stars FC
 LOCATION:Shouldice Athletic Park Encana NE Field\, 1515 Home Rd NW Calga
  ry\, AB T3B 0V8
 DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
@@ -318,12 +318,12 @@ BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:Southside Rangers - Ex Patriots - Shouldice Encana NE (👟 cl
- eats) - Home vs Foothills FC 3
+ eats) - Home vs All Stars FC
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:game-c2108985@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20270323T214500
 DTEND;TZID=America/Edmonton:20270323T224500
 SUMMARY:Southside Rangers - Ex Patriots - Villains Field 1 (👟 cleats) -

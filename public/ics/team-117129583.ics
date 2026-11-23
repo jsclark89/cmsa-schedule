@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:game-11709622@cmsa-schedule
-DTSTAMP:20261123T073947Z
+DTSTAMP:20261123T235446Z
 DTSTART;TZID=America/Edmonton:20261115T080000
 DTEND;TZID=America/Edmonton:20261115T090000
 SUMMARY:U13 MUSC Inter - Shouldice #04/NE (👟 cleats) - Home vs Villains
@@ -42,6 +42,25 @@ ACTION:DISPLAY
 TRIGGER:-PT60M
 DESCRIPTION:U13 MUSC Inter - Shouldice #04/NE (👟 cleats) - Home vs Vill
  ains Riptides 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709632@cmsa-schedule
+DTSTAMP:20261123T235446Z
+DTSTART;TZID=America/Edmonton:20261122T080000
+DTEND;TZID=America/Edmonton:20261122T090000
+SUMMARY:U13 MUSC Inter - Dome SE (👟 cleats) - Home vs CalGlen Rovers 14
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2071\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129583
+URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129583
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:U13 MUSC Inter - Dome SE (👟 cleats) - Home vs CalGlen Rover
+ s 14
 END:VALARM
 END:VEVENT
 END:VCALENDAR
