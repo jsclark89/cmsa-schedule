@@ -25,22 +25,23 @@ TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:game-11709607@cmsa-schedule
-DTSTAMP:20261105T064655Z
-DTSTART;TZID=America/Edmonton:20261025T141500
-DTEND;TZID=America/Edmonton:20261025T151500
-SUMMARY:U13 CNEU 2014 Storm - Shane Homes Field 1 - Home vs MUSC Inter 1
- 4
-LOCATION:Shane Homes West Soccer Dome Field 1 7v7\, 11014 Bearspaw Dam R
- oad Northwest Calgary\, Alberta T3L 0C3
-DESCRIPTION:Boys U13 Tier 3 · Game #2046\nSchedule: https://jsclark89.gi
- thub.io/cmsa-schedule/#/team/117129540
+UID:game-11709629@cmsa-schedule
+DTSTAMP:20261125T214231Z
+DTSTART;TZID=America/Edmonton:20261122T114500
+DTEND;TZID=America/Edmonton:20261122T124500
+SUMMARY:U13 CNEU 2014 Storm - Macron Field D (👟 cleats) - Home vs Chino
+ oks FC Selects 2014
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U13 Tier 3 · Game #2068\nSchedule: https://jsclark89.gith
+ ub.io/cmsa-schedule/#/team/117129540
 URL:https://jsclark89.github.io/cmsa-schedule/#/team/117129540
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
-DESCRIPTION:U13 CNEU 2014 Storm - Shane Homes Field 1 - Home vs MUSC Int
- er 14
+DESCRIPTION:U13 CNEU 2014 Storm - Macron Field D (👟 cleats) - Home vs C
+ hinooks FC Selects 2014
 END:VALARM
 END:VEVENT
 END:VCALENDAR
