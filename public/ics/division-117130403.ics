@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//cmsa-schedule//Game Finder//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Division 117130403 (CMSA)
+X-WR-CALNAME:Boys U12 City Wide Tier 6 (CMSA)
 X-WR-TIMEZONE:America/Edmonton
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -24,4 +24,1540 @@ TZOFFSETTO:-0600
 TZNAME:MDT
 END:DAYLIGHT
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:game-11708911@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261018T120000
+DTEND;TZID=America/Edmonton:20261018T130000
+SUMMARY:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs CNEU 2015 Tw
+ isters
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1716\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs CNEU 201
+ 5 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708915@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261018T130000
+DTEND;TZID=America/Edmonton:20261018T140000
+SUMMARY:Macron Field D (👟 cleats) - Foothills Palace 2015 vs RANGERS SP
+ ORTIF 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1717\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Foothills Palace 2015 vs RANGER
+ S SPORTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708919@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261018T130000
+DTEND;TZID=America/Edmonton:20261018T140000
+SUMMARY:Dome NE (👟 cleats) - Blizzard Sporting 15 Boys vs Rockies Wolfs
+ burg15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1718\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Blizzard Sporting 15 Boys vs Rockies W
+ olfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708925@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261018T140000
+DTEND;TZID=America/Edmonton:20261018T150000
+SUMMARY:Dome NE (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) vs Fo
+ othills Burnley 2015
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1719\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) v
+ s Foothills Burnley 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708933@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261018T150000
+DTEND;TZID=America/Edmonton:20261018T160000
+SUMMARY:Dome NE (👟 cleats) - Rockies Werder Bremen 15 vs Chinooks FC Wh
+ ite 2015
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1720\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Rockies Werder Bremen 15 vs Chinooks F
+ C White 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708935@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261025T100000
+DTEND;TZID=America/Edmonton:20261025T110000
+SUMMARY:Macron Field D (👟 cleats) - RANGERS SPORTIF 15 vs Blizzard Spor
+ ting 15 Boys
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1721\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - RANGERS SPORTIF 15 vs Blizzard 
+ Sporting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708940@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261025T110000
+DTEND;TZID=America/Edmonton:20261025T120000
+SUMMARY:Macron Field D (👟 cleats) - Chinooks FC White 2015 vs Villains 
+ Jets 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1722\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Chinooks FC White 2015 vs Villa
+ ins Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708943@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261025T120000
+DTEND;TZID=America/Edmonton:20261025T130000
+SUMMARY:Macron Field D (👟 cleats) - Foothills Burnley 2015 vs Rockies W
+ erder Bremen 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1723\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Foothills Burnley 2015 vs Rocki
+ es Werder Bremen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708947@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261025T130000
+DTEND;TZID=America/Edmonton:20261025T140000
+SUMMARY:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs Rockies Wolfs
+ burg15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1724\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs Rockies W
+ olfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708951@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261025T140000
+DTEND;TZID=America/Edmonton:20261025T150000
+SUMMARY:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs Foothills Pa
+ lace 2015
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1725\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs Foothill
+ s Palace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708959@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261108T113000
+DTEND;TZID=America/Edmonton:20261108T123000
+SUMMARY:Shouldice #01/NW (👟 cleats) - Rockies Wolfsburg15 vs RANGERS SP
+ ORTIF 15
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1727\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - Rockies Wolfsburg15 vs RANGER
+ S SPORTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708965@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261108T113000
+DTEND;TZID=America/Edmonton:20261108T123000
+SUMMARY:Shouldice #04/NE (👟 cleats) - Chinooks FC White 2015 vs CNEU 20
+ 15 Twisters
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1728\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Chinooks FC White 2015 vs CNE
+ U 2015 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708966@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261108T123000
+DTEND;TZID=America/Edmonton:20261108T133000
+SUMMARY:Shouldice #04/NE (👟 cleats) - Blizzard Sporting 15 Boys vs Rock
+ ies Stuttgart15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1729\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Blizzard Sporting 15 Boys vs 
+ Rockies Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708970@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261108T133000
+DTEND;TZID=America/Edmonton:20261108T143000
+SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Werder Bremen 15 vs New F
+ rontier SC 2015 Boys (Shimeles)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1730\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Rockies Werder Bremen 15 vs N
+ ew Frontier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708956@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261108T140000
+DTEND;TZID=America/Edmonton:20261108T150000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Villains J
+ ets 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1726\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Villai
+ ns Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708977@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261115T130000
+DTEND;TZID=America/Edmonton:20261115T140000
+SUMMARY:Macron Field D (👟 cleats) - Foothills Palace 2015 vs Rockies We
+ rder Bremen 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1731\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Foothills Palace 2015 vs Rockie
+ s Werder Bremen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708984@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261115T130000
+DTEND;TZID=America/Edmonton:20261115T140000
+SUMMARY:Dome NE (👟 cleats) - RANGERS SPORTIF 15 vs Chinooks FC White 20
+ 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1733\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - RANGERS SPORTIF 15 vs Chinooks FC Whit
+ e 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708979@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261115T140000
+DTEND;TZID=America/Edmonton:20261115T150000
+SUMMARY:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs New Frontier 
+ SC 2015 Boys (Shimeles)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1732\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs New Front
+ ier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708986@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261115T140000
+DTEND;TZID=America/Edmonton:20261115T150000
+SUMMARY:Dome NE (👟 cleats) - Rockies Stuttgart15 vs Foothills Burnley 2
+ 015
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1734\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Rockies Stuttgart15 vs Foothills Burnl
+ ey 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708993@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261115T150000
+DTEND;TZID=America/Edmonton:20261115T160000
+SUMMARY:Dome NE (👟 cleats) - Villains Jets 15 vs Rockies Wolfsburg15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1735\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Villains Jets 15 vs Rockies Wolfsburg1
+ 5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11708994@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261122T130000
+DTEND;TZID=America/Edmonton:20261122T140000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Foothills
+  Palace 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1736\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Footh
+ ills Palace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709002@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261122T130000
+DTEND;TZID=America/Edmonton:20261122T140000
+SUMMARY:Dome SE (👟 cleats) - Rockies Werder Bremen 15 vs Blizzard Sport
+ ing 15 Boys
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1738\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome SE (👟 cleats) - Rockies Werder Bremen 15 vs Blizzard S
+ porting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709001@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261122T140000
+DTEND;TZID=America/Edmonton:20261122T150000
+SUMMARY:Macron Field C (👟 cleats) - Villains Jets 15 vs RANGERS SPORTIF
+  15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1737\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Villains Jets 15 vs RANGERS SPO
+ RTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709007@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261122T140000
+DTEND;TZID=America/Edmonton:20261122T150000
+SUMMARY:Dome SE (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) vs Ro
+ ckies Stuttgart15
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1739\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome SE (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) v
+ s Rockies Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709012@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261122T150000
+DTEND;TZID=America/Edmonton:20261122T160000
+SUMMARY:Dome SE (👟 cleats) - Rockies Wolfsburg15 vs Chinooks FC White 2
+ 015
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1740\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome SE (👟 cleats) - Rockies Wolfsburg15 vs Chinooks FC Whi
+ te 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709015@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261129T110000
+DTEND;TZID=America/Edmonton:20261129T120000
+SUMMARY:Macron Field B (👟 cleats) - Foothills Palace 2015 vs CNEU 2015 
+ Twisters
+LOCATION:Foothills Macron Centre Field B\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1741\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field B (👟 cleats) - Foothills Palace 2015 vs CNEU 2
+ 015 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709019@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261129T130000
+DTEND;TZID=America/Edmonton:20261129T140000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Rockies Werder Bremen 15 vs RANGE
+ RS SPORTIF 15
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1742\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Rockies Werder Bremen 15 vs R
+ ANGERS SPORTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709028@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261129T130000
+DTEND;TZID=America/Edmonton:20261129T140000
+SUMMARY:Shouldice #03/SE (👟 cleats) - New Frontier SC 2015 Boys (Shimel
+ es) vs Rockies Wolfsburg15
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1744\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - New Frontier SC 2015 Boys (Sh
+ imeles) vs Rockies Wolfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709022@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Chinooks FC White 2015 vs Foothil
+ ls Burnley 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1743\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Chinooks FC White 2015 vs Foo
+ thills Burnley 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709032@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261129T140000
+DTEND;TZID=America/Edmonton:20261129T150000
+SUMMARY:Shouldice #03/SE (👟 cleats) - Rockies Stuttgart15 vs Villains J
+ ets 15
+LOCATION:Shouldice Athletic Park #03/SE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1745\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #03/SE (👟 cleats) - Rockies Stuttgart15 vs Villai
+ ns Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709047@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261206T080000
+DTEND;TZID=America/Edmonton:20261206T090000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Rockies Wolfsburg15 vs Rockies St
+ uttgart15
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1749\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Rockies Wolfsburg15 vs Rockie
+ s Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709052@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261206T090000
+DTEND;TZID=America/Edmonton:20261206T100000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Chinooks FC White 2015 vs Foothil
+ ls Palace 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1750\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Chinooks FC White 2015 vs Foo
+ thills Palace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709037@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261206T110000
+DTEND;TZID=America/Edmonton:20261206T120000
+SUMMARY:Macron Field D (👟 cleats) - Villains Jets 15 vs New Frontier SC
+  2015 Boys (Shimeles)
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1746\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Villains Jets 15 vs New Frontie
+ r SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709038@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261206T130000
+DTEND;TZID=America/Edmonton:20261206T140000
+SUMMARY:Dome NE (👟 cleats) - CNEU 2015 Twisters vs Rockies Werder Breme
+ n 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1747\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - CNEU 2015 Twisters vs Rockies Werder B
+ remen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709042@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261206T140000
+DTEND;TZID=America/Edmonton:20261206T150000
+SUMMARY:Dome NE (👟 cleats) - Foothills Burnley 2015 vs Blizzard Sportin
+ g 15 Boys
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1748\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Foothills Burnley 2015 vs Blizzard Spo
+ rting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709054@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261213T140000
+DTEND;TZID=America/Edmonton:20261213T150000
+SUMMARY:Dome SE (👟 cleats) - Villains Jets 15 vs CNEU 2015 Twisters
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1751\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome SE (👟 cleats) - Villains Jets 15 vs CNEU 2015 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709064@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261213T140000
+DTEND;TZID=America/Edmonton:20261213T150000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Blizzard Sporting 15 Boys vs Chin
+ ooks FC White 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1753\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Blizzard Sporting 15 Boys vs 
+ Chinooks FC White 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709059@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261213T150000
+DTEND;TZID=America/Edmonton:20261213T160000
+SUMMARY:Dome SE (👟 cleats) - RANGERS SPORTIF 15 vs Foothills Burnley 20
+ 15
+LOCATION:MaxWell Soccer Centre MSC Dome SE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1752\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome SE (👟 cleats) - RANGERS SPORTIF 15 vs Foothills Burnle
+ y 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709067@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261213T150000
+DTEND;TZID=America/Edmonton:20261213T160000
+SUMMARY:Shouldice #02/SW (👟 cleats) - New Frontier SC 2015 Boys (Shimel
+ es) vs Foothills Palace 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1754\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - New Frontier SC 2015 Boys (Sh
+ imeles) vs Foothills Palace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709070@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20261213T160000
+DTEND;TZID=America/Edmonton:20261213T170000
+SUMMARY:Shouldice #02/SW (👟 cleats) - Rockies Wolfsburg15 vs Rockies We
+ rder Bremen 15
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1755\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Rockies Wolfsburg15 vs Rockie
+ s Werder Bremen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709073@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270102T133000
+DTEND;TZID=America/Edmonton:20270102T143000
+SUMMARY:Macron Field D (👟 cleats) - Foothills Burnley 2015 vs Rockies W
+ olfsburg15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1756\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Foothills Burnley 2015 vs Rocki
+ es Wolfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709077@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270102T143000
+DTEND;TZID=America/Edmonton:20270102T153000
+SUMMARY:Macron Field D (👟 cleats) - Rockies Werder Bremen 15 vs Villain
+ s Jets 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1757\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Rockies Werder Bremen 15 vs Vil
+ lains Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709079@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270102T153000
+DTEND;TZID=America/Edmonton:20270102T163000
+SUMMARY:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs RANGERS SPOR
+ TIF 15
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1758\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - Rockies Stuttgart15 vs RANGERS 
+ SPORTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709083@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270102T163000
+DTEND;TZID=America/Edmonton:20270102T173000
+SUMMARY:Macron Field D (👟 cleats) - New Frontier SC 2015 Boys (Shimeles
+ ) vs Chinooks FC White 2015
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1759\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - New Frontier SC 2015 Boys (Shim
+ eles) vs Chinooks FC White 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709086@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270102T173000
+DTEND;TZID=America/Edmonton:20270102T183000
+SUMMARY:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs Blizzard Spor
+ ting 15 Boys
+LOCATION:Foothills Macron Centre Field D\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1760\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field D (👟 cleats) - CNEU 2015 Twisters vs Blizzard 
+ Sporting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709089@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270109T083000
+DTEND;TZID=America/Edmonton:20270109T093000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Villains 
+ Jets 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1761\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Villa
+ ins Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709091@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270109T093000
+DTEND;TZID=America/Edmonton:20270109T103000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Rockies Wo
+ lfsburg15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1762\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Rockie
+ s Wolfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709093@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270109T103000
+DTEND;TZID=America/Edmonton:20270109T113000
+SUMMARY:Macron Field C (👟 cleats) - Chinooks FC White 2015 vs Rockies S
+ tuttgart15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1763\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Chinooks FC White 2015 vs Rocki
+ es Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709097@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270109T141500
+DTEND;TZID=America/Edmonton:20270109T151500
+SUMMARY:Shouldice #02/SW (👟 cleats) - RANGERS SPORTIF 15 vs CNEU 2015 T
+ wisters
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1764\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - RANGERS SPORTIF 15 vs CNEU 20
+ 15 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709099@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270109T151500
+DTEND;TZID=America/Edmonton:20270109T161500
+SUMMARY:Shouldice #02/SW (👟 cleats) - Blizzard Sporting 15 Boys vs New 
+ Frontier SC 2015 Boys (Shimeles)
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1765\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Blizzard Sporting 15 Boys vs 
+ New Frontier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709103@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270116T123000
+DTEND;TZID=America/Edmonton:20270116T133000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Rockies St
+ uttgart15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1766\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Rockie
+ s Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709105@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270116T133000
+DTEND;TZID=America/Edmonton:20270116T143000
+SUMMARY:Macron Field C (👟 cleats) - Rockies Wolfsburg15 vs CNEU 2015 Tw
+ isters
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1767\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Rockies Wolfsburg15 vs CNEU 201
+ 5 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709116@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270116T134500
+DTEND;TZID=America/Edmonton:20270116T144500
+SUMMARY:Shouldice #02/SW (👟 cleats) - Rockies Werder Bremen 15 vs Footh
+ ills Burnley 2015
+LOCATION:Shouldice Athletic Park #02/SW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1770\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #02/SW (👟 cleats) - Rockies Werder Bremen 15 vs F
+ oothills Burnley 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709110@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270116T143000
+DTEND;TZID=America/Edmonton:20270116T153000
+SUMMARY:Macron Field C (👟 cleats) - Villains Jets 15 vs Chinooks FC Whi
+ te 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1768\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Villains Jets 15 vs Chinooks FC
+  White 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709112@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270116T153000
+DTEND;TZID=America/Edmonton:20270116T163000
+SUMMARY:Macron Field C (👟 cleats) - Blizzard Sporting 15 Boys vs RANGER
+ S SPORTIF 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1769\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Blizzard Sporting 15 Boys vs RA
+ NGERS SPORTIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709117@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270123T083000
+DTEND;TZID=America/Edmonton:20270123T093000
+SUMMARY:Macron Field C (👟 cleats) - CNEU 2015 Twisters vs Chinooks FC W
+ hite 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1771\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - CNEU 2015 Twisters vs Chinooks 
+ FC White 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709119@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270123T093000
+DTEND;TZID=America/Edmonton:20270123T103000
+SUMMARY:Macron Field C (👟 cleats) - Villains Jets 15 vs Foothills Palac
+ e 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1772\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Villains Jets 15 vs Foothills P
+ alace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709122@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270123T103000
+DTEND;TZID=America/Edmonton:20270123T113000
+SUMMARY:Macron Field C (👟 cleats) - New Frontier SC 2015 Boys (Shimeles
+ ) vs Rockies Werder Bremen 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1773\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - New Frontier SC 2015 Boys (Shim
+ eles) vs Rockies Werder Bremen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709124@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270123T113000
+DTEND;TZID=America/Edmonton:20270123T123000
+SUMMARY:Macron Field C (👟 cleats) - Rockies Stuttgart15 vs Blizzard Spo
+ rting 15 Boys
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1774\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Rockies Stuttgart15 vs Blizzard
+  Sporting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709126@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270123T123000
+DTEND;TZID=America/Edmonton:20270123T133000
+SUMMARY:Macron Field C (👟 cleats) - RANGERS SPORTIF 15 vs Rockies Wolfs
+ burg15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1775\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - RANGERS SPORTIF 15 vs Rockies W
+ olfsburg15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709133@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270130T134500
+DTEND;TZID=America/Edmonton:20270130T144500
+SUMMARY:Shouldice #04/NE (👟 cleats) - RANGERS SPORTIF 15 vs New Frontie
+ r SC 2015 Boys (Shimeles)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1779\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - RANGERS SPORTIF 15 vs New Fro
+ ntier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709136@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270130T144500
+DTEND;TZID=America/Edmonton:20270130T154500
+SUMMARY:Shouldice #04/NE (👟 cleats) - Rockies Stuttgart15 vs Rockies We
+ rder Bremen 15
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1780\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Rockies Stuttgart15 vs Rockie
+ s Werder Bremen 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709128@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270130T163000
+DTEND;TZID=America/Edmonton:20270130T173000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Blizzard S
+ porting 15 Boys
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1776\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Palace 2015 vs Blizza
+ rd Sporting 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709129@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270130T173000
+DTEND;TZID=America/Edmonton:20270130T183000
+SUMMARY:Macron Field C (👟 cleats) - Rockies Wolfsburg15 vs Villains Jet
+ s 15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1777\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Rockies Wolfsburg15 vs Villains
+  Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709131@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270130T183000
+DTEND;TZID=America/Edmonton:20270130T193000
+SUMMARY:Macron Field C (👟 cleats) - CNEU 2015 Twisters vs Foothills Bur
+ nley 2015
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1778\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - CNEU 2015 Twisters vs Foothills
+  Burnley 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709142@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270206T141500
+DTEND;TZID=America/Edmonton:20270206T151500
+SUMMARY:Shouldice #01/NW (👟 cleats) - Blizzard Sporting 15 Boys vs Vill
+ ains Jets 15
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1784\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - Blizzard Sporting 15 Boys vs 
+ Villains Jets 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709140@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270206T150000
+DTEND;TZID=America/Edmonton:20270206T160000
+SUMMARY:Dome NW (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) vs CN
+ EU 2015 Twisters
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1782\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NW (👟 cleats) - New Frontier SC 2015 Boys (Shimeles) v
+ s CNEU 2015 Twisters
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709143@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270206T151500
+DTEND;TZID=America/Edmonton:20270206T161500
+SUMMARY:Shouldice #01/NW (👟 cleats) - Rockies Werder Bremen 15 vs Footh
+ ills Palace 2015
+LOCATION:Shouldice Athletic Park #01/NW Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1785\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #01/NW (👟 cleats) - Rockies Werder Bremen 15 vs F
+ oothills Palace 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709141@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270206T160000
+DTEND;TZID=America/Edmonton:20270206T170000
+SUMMARY:Dome NW (👟 cleats) - Chinooks FC White 2015 vs RANGERS SPORTIF 
+ 15
+LOCATION:MaxWell Soccer Centre MSC Dome NW 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1783\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NW (👟 cleats) - Chinooks FC White 2015 vs RANGERS SPOR
+ TIF 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709137@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270206T183000
+DTEND;TZID=America/Edmonton:20270206T193000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Rockies S
+ tuttgart15
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1781\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs Rocki
+ es Stuttgart15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709145@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270220T080000
+DTEND;TZID=America/Edmonton:20270220T090000
+SUMMARY:Dome NE (👟 cleats) - Villains Jets 15 vs Rockies Werder Bremen 
+ 15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1787\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Villains Jets 15 vs Rockies Werder Bre
+ men 15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709146@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270220T090000
+DTEND;TZID=America/Edmonton:20270220T100000
+SUMMARY:Dome NE (👟 cleats) - RANGERS SPORTIF 15 vs Foothills Palace 201
+ 5
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1788\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - RANGERS SPORTIF 15 vs Foothills Palace
+  2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709147@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270220T100000
+DTEND;TZID=America/Edmonton:20270220T110000
+SUMMARY:Dome NE (👟 cleats) - Rockies Wolfsburg15 vs Blizzard Sporting 1
+ 5 Boys
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1789\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - Rockies Wolfsburg15 vs Blizzard Sporti
+ ng 15 Boys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709148@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270220T110000
+DTEND;TZID=America/Edmonton:20270220T120000
+SUMMARY:Dome NE (👟 cleats) - CNEU 2015 Twisters vs Rockies Stuttgart15
+LOCATION:MaxWell Soccer Centre MSC Dome NE 7v7\, 7000 48 Street Southeas
+ t Calgary\, Alberta T2C 4E1
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1790\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Dome NE (👟 cleats) - CNEU 2015 Twisters vs Rockies Stuttgar
+ t15
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709144@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270220T153000
+DTEND;TZID=America/Edmonton:20270220T163000
+SUMMARY:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs New Front
+ ier SC 2015 Boys (Shimeles)
+LOCATION:Foothills Macron Centre Field C\, 111 Exploration Ave S.E Calga
+ ry\, AB T3S 0B6
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1786\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Macron Field C (👟 cleats) - Foothills Burnley 2015 vs New F
+ rontier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709149@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270227T134500
+DTEND;TZID=America/Edmonton:20270227T144500
+SUMMARY:Shouldice #04/NE (👟 cleats) - Blizzard Sporting 15 Boys vs Foot
+ hills Burnley 2015
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1791\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Blizzard Sporting 15 Boys vs 
+ Foothills Burnley 2015
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:game-11709150@cmsa-schedule
+DTSTAMP:20261127T211825Z
+DTSTART;TZID=America/Edmonton:20270227T144500
+DTEND;TZID=America/Edmonton:20270227T154500
+SUMMARY:Shouldice #04/NE (👟 cleats) - Chinooks FC White 2015 vs New Fro
+ ntier SC 2015 Boys (Shimeles)
+LOCATION:Shouldice Athletic Park #04/NE Field\, 1515 Home Rd NW Calgary\
+ , AB T3B 0V8
+DESCRIPTION:Bring: Cleats (regular cleats; turf shoes also work)\nSurfac
+ e: Turf\nBoys U12 City Wide Tier 6 · Game #1792\nSchedule: https://jscl
+ ark89.github.io/cmsa-schedule/#/division/117130403
+URL:https://jsclark89.github.io/cmsa-schedule/#/division/117130403
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT60M
+DESCRIPTION:Shouldice #04/NE (👟 cleats) - Chinooks FC White 2015 vs New
+  Frontier SC 2015 Boys (Shimeles)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
